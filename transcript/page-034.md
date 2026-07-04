@@ -1,0 +1,59 @@
+---
+page: 34
+typed_page: 33
+book: 1
+image: pages/originals/page-034.jpg
+has_pencil: false
+has_table: false
+illegible_spots: 0
+needs_review: false
+---
+
+                                                                    33
+Submitted by:
+
+Mrs Alice Reynolds Russell
+Mt.  Hawley Road
+Edelstein, Illinois
+
+she was.  However, Uncle Will was aware of the fact and made up his
+mind he would protect her from any advances made by the admiring mas-⟦hyphen⟧
+culine customers.
+     "Getting tired, Parepa?" he asked as he walked past her.
+     "Not a bit, Uncle Will, this is fun", she said giving him one of
+her sweetest smiles without knowing it.  Uncle Will knew it though and
+the danger that smile might lead to if not carefully guarded.
+     "We will have to change our lunch hours a litte, girls," he said
+addressing Carry and Mattie.  "I think I'll give Carry from eleven to
+twelve, Parepa and I will go from twelve to one and Mattie can take
+her turn beginning at one.
+     "Aunt Kate put up a lunch for me, Uncle Will," said Parepa, "she
+thought best for me not to go to a restaurant alone."
+     "You won't have to, you'll go with me.  Tell Aunt Kate I'll look
+after your welfare from eight to five." he said rather curtly and at
+twelve o'clock he brought Parepa's tam o'shanter to her saying:  "Come
+on, dearie, out to lunch with your old Uncle."  He appraised her luscious
+beauty and eyed her appreciativeness.
+     After they had gone out the two older girls stared at each other in
+blank amazement.  "I see where out noses are broken", said Mattie, "but
+isn't she innocence personified?  I see where those dimples and dancing
+eyes will bring the world to her feet, and 'great will be the fall'".
+     "Yes," returned Carry,"and Mr. Slay will find his hands full if he
+tries to ward off the multitude."  They both laughed and joked about
+their new accessory until Mr. Slay and Parepa came in.
+     Uncle Will had chosen a table in a secluded part of the room in
+which to eat and took this opportunity to warn Parepa of the dangers of
+
+## Transcriber notes
+
+- Typed page number "33" at top right; physical page 34. Continues
+  mid-sentence from page 33 ("...how very attractive / she was.").
+- The submission block has a blank line between "Submitted by:" and the
+  name on this page, and extra space in "Mt.  Hawley Road" — as typed.
+- "a litte, girls" (for "little"), the missing closing quotation mark
+  after "her turn beginning at one.", "eyed her appreciativeness"
+  (apparently for "appreciatively"; a letter near the end prints
+  overstruck), "I see where out noses are broken" ("out" for "our"),
+  and the crowded 'Carry,"and' are all as typed.
+- Uncle Will is here called "Mr. Slay" — the same surname given to the
+  boy Frances on physical page 25 ("Mr. Slay") and page 26 ("Mr. Saly").
