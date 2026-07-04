@@ -55,5 +55,8 @@ which to eat and took this opportunity to warn Parepa of the dangers of
   (apparently for "appreciatively"; a letter near the end prints
   overstruck), "I see where out noses are broken" ("out" for "our"),
   and the crowded 'Carry,"and' are all as typed.
-- Uncle Will is here called "Mr. Slay" — the same surname given to the
-  boy Frances on physical page 25 ("Mr. Slay") and page 26 ("Mr. Saly").
+- "Mr. Slay" here refers to Uncle Will. The same surname is used by
+  Frances when addressing Uncle George on physical pages 25 ("Mr. Slay")
+  and 26 ("Mr. Saly"), and physical page 38 has "Mr. and Mrs. Slay" for
+  Uncle George and Aunt Kate — Slay is evidently the family surname of
+  both uncles.

@@ -3,9 +3,9 @@ page: 274
 typed_page: 110
 book: 2
 image: pages/originals/page-274.jpg
-has_pencil: false
+has_pencil: true
 has_table: false
-illegible_spots: 0
+illegible_spots: 1
 needs_review: true
 ---
 
@@ -28,7 +28,7 @@ let me put them on you just as I had planned to do - then?"
 cuddled closely together on her finger first.  When she offered her left
 hand for this he said, "No that is your heart hand.  That belongs to
 your husband alone.  It is your blood hand.  My rings cannot grace those
-fingers now.  I will put them on your friendship finger."  As she⟦strikeover: first letter overtyped on another character⟧ slipped
+fingers now.  I will put them on your friendship finger."  As ⟦pencil-insert: s⟧he slipped
 the guard ring, encircled with small diamonds on next⟦strikeover: "x" overtyped on another character⟧ to the first,
 he said, "This one represents the care and protection I intended to give
 you."  He slipped the bracelet over her hand saying, "To protect your
@@ -42,7 +42,7 @@ and kissed her.
      "I haven't the least idea," she confessed⟦strikeover: second "e" overtyped on another character⟧.
 
      Taking his place at the table again he said, "Because there was
-room for more of our good times together on it.  Each diamond ⟦strikeover: single struck-out capital letter⟧ represents
+room for more of our good times together on it.  Each diamond ⟦illegible⟧⟦pencil-delete⟧ represents
 a memory of things that made us dear to each other.  "Here," he said
 drawing a small beautifull/bound booklet from his pocket, "is the history
 of our gems.  I give it to you.  It has been a great comfort to me
