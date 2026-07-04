@@ -31,8 +31,8 @@ annotation conventions used in the verbatim transcripts.
 
 ## Status
 
-- [ ] Phase 0 — Photos uploaded and normalized
-- [ ] Phase 1 — Verbatim transcription (0/289 pages)
+- [ ] Phase 0 — Photos uploaded and normalized (pilot: 2/289)
+- [ ] Phase 1 — Verbatim transcription (pilot: 2/289 pages)
 - [ ] Phase 2 — Verification pass
 - [ ] Phase 3 — Edited reading text
 - [ ] Phase 4 — Typesetting and print PDF

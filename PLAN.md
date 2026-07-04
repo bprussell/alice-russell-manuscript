@@ -40,6 +40,11 @@ batches.
   page order alphabetically, rename them yourself or note the correct order.
 - **Resolution:** don't over-compress. Typewriter text transcribes well at
   ~2000–3000 px on the long edge. Straight-off-the-phone photos are fine.
+- **Format:** upload JPEGs (the camera's native output), not PNG exports —
+  the pilot PNGs came in at ~12 MB each, which would put 289 pages over 3 GB;
+  the same photos as JPEGs are ~2 MB.
+- **Orientation:** sideways/rotated photos are fine — orientation is
+  normalized automatically during ingest.
 - **Size:** if the full set exceeds ~1.5 GB, downscale first (e.g. with
   ImageMagick: `mogrify -resize 3000x3000\> -quality 85 *.jpg`). GitHub
   tolerates repos of this size but stays snappy under ~1 GB.

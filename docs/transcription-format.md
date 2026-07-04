@@ -59,6 +59,15 @@ Typed underline (rendered as italics in the printed book):
 It was the <u>Mauretania</u> that brought them across
 ```
 
+## Transcriber notes
+
+Each page file may end with an optional `## Transcriber notes` section: a
+bullet list recording anything a future reader of the transcript needs in
+order to trust it — confirmation that odd spellings are as typed, physical
+quirks of the page (crowded lines, tears near text), uncertainties to check
+against the physical manuscript, and layout notes (page numbers, headers).
+Notes are commentary *about* the page; they are never part of the text layer.
+
 ## Tables
 
 Pages with tabular structure are transcribed as Markdown tables, preserving
