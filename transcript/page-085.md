@@ -1,0 +1,52 @@
+---
+page: 85
+typed_page: 83
+book: 1
+image: pages/originals/page-085.jpg
+has_pencil: true
+has_table: false
+illegible_spots: 0
+needs_review: true
+---
+
+                                                                    83
+
+Submitted by:
+Mrs Alice Reynolds Russell
+Mt. Hawley Road
+Edelstein, Illinois
+
+     As they entered the store Frances came toward them smiling.
+     "Uncle Will, meet my friend, Frances Emmerson," and Parepa blushed
+a tell tale pink which always made her irrresistible.
+     "Glad to meet you", they said in unison.
+     "Fine day", said Uncle Will.
+     "Dandy," said Frances,  Just stopped in t⟦unclear: o⟧ see if Parepa would
+like to try a steed this evening.  She's been telling me what a whiz
+she is in the saddle."
+     "She's great!" said Uncle Will.  "But promise me the s⟦pencil-insert: teed⟧ is a
+safe one.  You know she is a precious thing to all of us."
+     "And to me too - I promise", he said and when arrangements were
+completed he left.
+     "Isn't he great, Uncle Will?" asked Parepa her eyes still sparkling.
+     "I guess so, but be careful my girlie.  All is not gold that
+glitters."  And he went into his office .
+     "Poor Uncle Will" thought Parepa, "he means all right."
+     That evening proved to be one never to be forgotten by either
+Parepa or Frances.
+
+## Transcriber notes
+
+- Typed page number "83" at top right.
+- HANDWRITTEN COMPLETION: in "But promise me the steed is a", only the
+  typed "s" was struck; the letters "teed" are completed by hand in cursive
+  directly on the line. Recorded as a pencil-insert, but the strokes look
+  dark (possibly ink rather than pencil) — verify medium against the
+  physical page.
+- "irrresistible" (triple r) and "tell tale" (two words) are as typed.
+- "said Frances,  Just stopped in t) see..." — no opening quotation mark
+  before "Just", and the "o" of "to" mis-struck (prints like a parenthesis);
+  flagged unclear on that character only.
+- "his office ." (space before the period) is as typed.
+- Short page: text ends about two-fifths down the sheet (end of Chapter
+  XVII scene); rest blank. Tiny chip at bottom right corner, far from text.
