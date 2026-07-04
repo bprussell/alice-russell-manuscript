@@ -13,8 +13,9 @@ Mt. Hawley Road
 Edelstein, Illinois
                                                         100,000 words
 
-⟦illegible⟧
-⟦illegible⟧
+⟦illegible — erased title line⟧
+⟦unclear: OF⟧
+⟦unclear: (word(s)?) SECRETS⟧
 
                               Chaper I
 
@@ -45,10 +46,12 @@ hear of such foolishness again.
 
 ## Transcriber notes
 
-- Between the header and the chapter heading there are two faint, centered
-  lines of erased or ghost-impression text — almost certainly the book's
-  title — which I cannot read from this photo. Marked `⟦illegible⟧` above.
-  **Worth a close-up photo or a look at the physical page in raking light.**
+- Between the header and the chapter heading sits the book's **erased
+  title**: a centered three-line stack. Contrast enhancement of both photos
+  recovers the middle line as "OF" and the last line as ending in "SECRETS";
+  the first line is unreadable in the available photos. See
+  docs/manuscript-notes.md for recovery options (raking-light photo of the
+  spot, or of the back of the page).
 - The two `-` marks in the left margin before the "Down in the pasture" and
   "What do you mean" paragraphs are transcribed as typed dashes, but they may
   be pencil paragraph marks. Verify against the physical page.

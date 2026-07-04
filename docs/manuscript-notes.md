@@ -20,10 +20,35 @@ words/page, which is consistent with the page density observed so far.)
 
 ## The title
 
-Page 1 has two faint, centered lines of erased or ghosted text where a title
-would sit — currently unreadable in the photos. **Open question for the
-family:** is the book's title known? A raking-light photo of that spot on the
-physical page might recover it.
+Page 1 carries the book's title, erased but partially recoverable. Contrast
+enhancement of the two available photos of page 1 shows a centered
+three-line stack between the submission header and "Chaper I":
+
+```
+[first line — unreadable in current photos]
+                 OF
+        [word(s)?] SECRETS
+```
+
+The middle line reads **"OF"** with high confidence; the last line ends in
+**"SECRETS"** with high confidence (matching the family's partial memory of
+"… or … secret" — the "or" was evidently "OF"). So the title has the shape
+"_____ OF _____ SECRETS" or "_____ / OF / SECRETS". The first line resists
+both photos at maximum enhancement.
+
+**Recovery options for the physical page:**
+
+1. **Raking light photo.** In a dark room, hold a flashlight nearly flat
+   against the page surface, shining across the erased area from the side,
+   and photograph straight down, close up. Typewriter keys dent the paper;
+   erasing removes ink but not the dents, and shallow side-light throws them
+   into shadow. Try light from two or three directions.
+2. **The back of the page.** The same dents emboss through; a raking-light
+   photo of the verso (which will read mirror-image) sometimes shows erased
+   lines more clearly than the front.
+3. **Look for the title elsewhere.** Boxes of submitted manuscripts often
+   held a separate title page or cover letter, and authors sometimes typed
+   the title on the last page or on the box lid.
 
 ## The story (as of pages 1–2)
 
