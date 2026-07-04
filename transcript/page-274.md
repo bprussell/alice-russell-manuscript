@@ -58,11 +58,21 @@ How wonderful!  I shall be so glad to have them for the sentiment they
 - ""Next, he took the broach" — the stray opening quote before "Next" is
   as typed; "cozy next" (for "nest"), "pined" (for "pinned"), "broach",
   and "most thirty years" (for "almost") are all as typed.
-- "beautifull/bound" — a slash-like strike sits between "beautifull" and
-  "bound"; it appears to be typed (possibly a failed attempt at "y" or a
-  stray strike), not pencil. Verify against the physical page.
+- PENCIL (verified at high magnification; graphite gray, distinct from
+  the black typed ink):
+  1. "As ⟦pencil-insert: s⟧he slipped" — a penciled "s" is squeezed in
+     before typed "he" to make "she". The typed line lacks the "s".
+  2. "Each diamond ⟦illegible⟧⟦pencil-delete⟧ represents" — one stray
+     typed character after "diamond" is blotted out with heavy pencil;
+     the character underneath cannot be read (counted as the page's
+     illegible spot).
+  Both interpretations should be checked against the physical page.
+- "beautifull/bound" — a typed "y" at the end of "beautifully" is
+  overstruck with a typed slash (black ink, not pencil); transcribed as
+  the visible "beautifull/bound".
 - "Francex" — the final letter reads as "x", an apparent typo for
   "Frances"; as typed.
-- Several typewriter strikeovers (marked inline); no pencil marks found.
+- Other strikeovers on the page ("next", "confessed") are typewriter
+  overstrikes in black ink.
 - Page begins mid-scene, continuing directly from page 273 (the jewels
   conversation).
