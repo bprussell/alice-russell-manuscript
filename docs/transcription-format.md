@@ -10,6 +10,8 @@ damage, uncertainty) is layered on top with explicit markers.
 ```markdown
 ---
 page: 17
+typed_page: 15        # page number typed on the sheet; null if unnumbered
+book: 1               # 1 = Book I (physical 1-164), 2 = Book II (165-288)
 image: pages/originals/page-017.jpg
 has_pencil: true
 has_table: false

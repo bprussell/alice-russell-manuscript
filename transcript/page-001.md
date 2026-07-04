@@ -1,5 +1,7 @@
 ---
 page: 1
+typed_page: null
+book: 1
 image: pages/originals/page-001.jpg
 has_pencil: false
 has_table: false
