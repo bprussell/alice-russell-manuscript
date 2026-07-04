@@ -17,7 +17,8 @@ print-ready edition to be given as a gift.
 ## Repository layout
 
 ```
-pages/originals/   Photos of the manuscript pages (page-001.jpg … page-289.jpg)
+pages/originals/   Photos of the manuscript pages (page-001.jpg … page-288.jpg)
+pages/box-photo.jpg  Keepsake photo of the manuscript in its box
 transcript/        Verbatim per-page transcriptions (archival layer)
 book/              Edited, continuous text organized by chapter (reading layer)
 book/edits.md      Log of every correction made between the two layers
@@ -31,8 +32,10 @@ annotation conventions used in the verbatim transcripts.
 
 ## Status
 
-- [ ] Phase 0 — Photos uploaded and normalized (pilot: 2/289)
-- [ ] Phase 1 — Verbatim transcription (pilot: 2/289 pages)
+- [x] Phase 0 — Photos uploaded and normalized (288 pages + box photo,
+      imported from a shared Google Photos album; all pages
+      orientation-verified page-by-page)
+- [ ] Phase 1 — Verbatim transcription (2/288 pages)
 - [ ] Phase 2 — Verification pass
 - [ ] Phase 3 — Edited reading text
 - [ ] Phase 4 — Typesetting and print PDF
