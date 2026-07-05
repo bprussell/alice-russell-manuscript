@@ -47,9 +47,8 @@ a long strand of the cheapest glass beads one could imagine.
 ## Transcriber notes
 
 - Typed page number "9" at top right corner.
-- Continues Chapter II from typed page 8 (physical sheet 7): "...promise me
-  something.  Will you?" / "Now what are you up to?" — confirms the 7/8
-  sheet transposition noted on those pages.
+- Continues Chapter II from page 8: "...promise me something.  Will you?"
+  / "Now what are you up to?"
 - "happines" (for "happiness"), "sometime" (one word), "boke" (for
   "broke"), and "any way" (two words) are as typed.
 - Before "you'll let me" a single typed character is heavily blacked out
