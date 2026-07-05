@@ -1,0 +1,80 @@
+---
+page: 20
+typed_page: 19
+book: 1
+image: pages/originals/page-020.jpg
+has_pencil: true
+has_table: false
+illegible_spots: 0
+needs_review: true
+---
+
+                                                                    19
+Submitted by:
+Mrs Alice Reynolds Russell
+Mt. Hawley Road
+Edelstein, Illinois
+
+     "I expect she'll be beating us all!"⟦strikeover: exclamation point and closing quote appear struck one on top of the other⟧  said Uncle George.  After
+he left Uncle George couldn't help teasing Parepa a little so he said,
+"Pretty nice little fellow, eh, Parepa?"
+
+     "Suppose so", said Parepa and gave a big gap signifying that she
+was sleepy.
+
+     "Kate, better put our little girl to bed, she's had a hard day of
+it."
+
+     "Come along then", said Aunt Kate but Uncle George held his hand
+out and caught Parepa as she was going to the stairs.  "Have to kiss
+your old Uncle good night my girl" he said as he gave her a rousing
+smack.
+
+     Parepa was so mortified she blushed all over but managed to mount
+the steps by Aunt Kate's side.
+
+     "We'll undress in the bath room where you can coo⟦pencil: blue mark obscures a letter, most likely "l"⟧your face
+with a wash cloth wet in the lavatory.  Put on your nightie and come
+into this bed room" said Aunt Kate pointing to such a clean and pretty
+room.  "I'll turn the covers down for you."
+
+     Aunt Kate watched the beautiful young girl approach in her long
+nightie which had  been made by bleaching and piecing flour sacks to-⟦hyphen⟧
+gether as were all the night gowns in the Wesley family.
+
+     Parepa kneeled down beside her bed and reverently whispered her
+prayers.  Aunt Kate wished Uncle George could see this pretty picture.
+It remained clear in her mind to the last day of her life.
+
+     When Parepa arose she kissed Aunt Kate and told her how nice she
+was.  "I'm tired as can be," she confided, "but it's been such a big
+big day."
+
+## Transcriber notes
+
+- Typed page number "19" at top right corner. Physical page 20 carrying a
+  typed "19" continues the one-behind offset (typed_page = physical page -
+  1) that begins around the missing typed page 7 earlier in the book, and
+  that is also visible on physical page 19 (typed "18") and physical page
+  21 (typed "20"). Consistent, not a new irregularity — flagged in the
+  ANOMALIES section of the task return for visibility.
+- The mark after "us all" (before "said Uncle George") is dense enough to
+  read as an exclamation point and a closing quotation mark struck in the
+  same carriage position (no space between them), rather than two distinct,
+  cleanly separated characters. Recommend checking the physical page under
+  raking light to confirm both characters are present.
+- On the line "you can cool your face", the letter that would complete
+  "cool" (between "coo" and "your", typed with no space between the words)
+  is covered by an opaque blue mark — clearly a different medium from the
+  black typewriter ink used throughout the rest of the page. It is dense
+  and solid rather than the "faint gray" typically expected of a pencil
+  correction, so it is flagged here as an ambiguous pencil/ink mark rather
+  than confidently classified. Context ("cool your face" with a wet wash
+  cloth) strongly supports the missing letter being "l"; the word is typed
+  with no space before "your" either way. Needs verification against the
+  physical page for ink/pencil color analysis.
+- "nightie which had  been made" has a double space between "had" and
+  "been", as typed.
+- No pencil or other marks were found in the left/right margins of this
+  page (checked closely); the only hand-applied mark found is the blue spot
+  described above, which sits within the text line itself.
