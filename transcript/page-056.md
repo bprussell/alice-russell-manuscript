@@ -66,3 +66,10 @@ little girl that was mighty nice of you."
   typewriter overstriking (a "?" is visible at its end); counted as the
   page's one illegible spot.
 - No pencil marks found on this page.
+- Verified: 2026-07-05 — transcript confirmed accurate against photo, no
+  text changes needed. The overstruck second digit of the typed page
+  number was re-examined at high zoom; it remains genuinely ambiguous
+  between "4" and "5" with no way to resolve it more confidently from the
+  photo, so the inferred "54" (per the established offset pattern) is
+  kept but needs_review stays true. The illegible blotted word after
+  "during my absence," is confirmed illegible at any zoom available.

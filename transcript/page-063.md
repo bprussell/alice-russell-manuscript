@@ -48,7 +48,7 @@ Edelstein, Illinois
 choir practice.  It was a busy happy girl that hurried from on duty to
 another always finding time to smile and brighten those about her with
 her ready wit which was fast manifesting itself as she became better
-acquainted.
+acqua⟦strikeover: letter overtyped⟧ inted.
      "It's worth the price of the lessons just to have her around," Mrs
 Breen confided to Mrs. Slay when she had called to inquire about her
 progress.
@@ -67,3 +67,12 @@ progress.
 - "Mrs Breen" (no period) and "Mrs. Slay" (with period) as typed.
 - Text ends about two-thirds down the sheet; remainder blank.
 - No pencil marks found on this page.
+- CORRECTION: "acquainted." was mistranscribed as a single unbroken word;
+  the photo clearly shows a typed space splitting it after the fifth
+  letter, with that letter (the second "a") struck over heavily —
+  "acqua[overtyped letter] inted." Corrected to match the page.
+- Verified: 2026-07-05 — found and fixed one transcription error: "acquainted."
+  should be "acqua⟦strikeover: letter overtyped⟧ inted." (typed with a stray
+  space and an overtyped letter, per the photo). Table/schedule block on
+  this page checked cell-by-cell against page-062's continuation; alignment
+  and values all confirmed accurate, no changes needed there.

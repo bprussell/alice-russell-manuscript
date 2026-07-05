@@ -38,3 +38,6 @@ to disclose a very witty and jovial temperment.
   typewriter.
 - "repaid". and' (period before "and"), "everyway" (one word), and
   "temperment" (for "temperament") are as typed.
+- Verified: 2026-07-05 — transcript confirmed accurate against photo, no
+  changes needed. Checked the blank lower portion of the sheet closely
+  for faint pencil marks; found none.

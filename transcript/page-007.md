@@ -19,7 +19,7 @@ Edelstein, Illinois
 with the hospitable Jacksons.
      Mrs Jackson came out to the wagon for some coffee which she
 declared⟦strikeover: "la" overtyped on other letters⟧ they were out of and on seeing Parepa sitting on the seat
-said, "Well, where did you get the girl?  Did someone trade her in
+said, "Well, where⟦strikeover: letters overtyped mid-word⟧ did you get the girl?  Did someone trade her in
 on coffee and spices?"
      "No, that's my girl", bid Uncle George.
      Parepa didn't correct him for she had begun to imagine herself
@@ -59,3 +59,13 @@ seat and were off on their last stretch homeward.
   typist; also no comma after "said".
 - "big brother use to say" is as typed.
 - No pencil marks found on this page.
+- "where" in '"Well, where did you get the girl?"' has a typewriter
+  strikeover (letters overtyped mid-word, same pattern as "declared"
+  above); the intended word is clearly "where" and the transcript text is
+  unaffected — the strikeover marker was missing and has been added.
+- Verified: 2026-07-05 — found and fixed one missed transcription detail:
+  a typewriter strikeover on "where" (paragraph 2) was not marked in the
+  original transcription; added the ⟦strikeover⟧ marker to match the
+  photo. No change to the reading text or to has_pencil/has_table/
+  illegible_spots. Otherwise the transcript matches the photo exactly,
+  including the page-7/page-8 reordering, which held correctly.

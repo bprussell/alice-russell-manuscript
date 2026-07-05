@@ -6,11 +6,11 @@ image: pages/originals/page-064.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     62
-Submitted b⟦unclear: y⟧:
+Submitted by:
 Mrs Alice Reynolds Russell
 Mt. Hawley Road
 Edelstein, Illinois
@@ -38,8 +38,9 @@ in having her lot cast in this home of Peace and Quiet and Growth.
 ## Transcriber notes
 
 - Typed page number "62" at top right. "CHAPTER XI" heading centered.
-- In the header the "y" of "Submitted by:" barely printed ("Submitted b :"
-  appearance) — marked unclear.
+- In the header the "y" of "Submitted by:" barely printed (faint,
+  partial strike), but at high zoom it is confirmed present and legible
+  as "y" — resolved to plain "Submitted by:" (previously flagged unclear).
 - "amoung" (for "among"), "she use to" (for "used to"), "long and living
   talk" (likely intended "loving"), and the capitalized "Peace and Quiet
   and Growth" are all as typed.
@@ -50,3 +51,8 @@ in having her lot cast in this home of Peace and Quiet and Growth.
 - Short page: text ends just below the middle of the sheet; the remainder
   is blank. Chapter XI opens here.
 - No pencil marks found on this page.
+- Verified: 2026-07-05 — resolved needs_review: the faint "y" in
+  "Submitted by:" was confirmed legible at high zoom and the ⟦unclear⟧
+  marker removed. Rest of the page (including the "Young Peoples"
+  overtype and the "friend-" hyphenation) checked against the photo and
+  confirmed accurate; no other changes needed.

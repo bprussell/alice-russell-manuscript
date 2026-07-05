@@ -57,3 +57,7 @@ was no doubt of her love for them.
 - "Week days:" is the last line typed on the page; the schedule detail
   follows on the next sheet.
 - No pencil marks found on this page.
+- Verified: 2026-07-05 — transcript confirmed accurate against photo, no
+  changes needed. Checked the "spoke"/"following" overtype spots and the
+  Sunday/Week-days schedule fragment's indentation against the photo;
+  all consistent with the transcript.

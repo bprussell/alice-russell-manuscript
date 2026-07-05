@@ -58,3 +58,5 @@ as she eyed the stack of cards with plainly written Mrs John Bradford on
   speech in the previous paragraph never receives a closing quotation mark,
   as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-05 — transcript confirmed accurate against photo, no
+  changes needed.

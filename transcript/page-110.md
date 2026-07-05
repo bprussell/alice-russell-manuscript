@@ -55,3 +55,5 @@ Parepa.
 - The "n" of "Uncle" in "said U cle George" failed to print; marked
   unclear.
 - No pencil marks found on this page.
+- Verified: 2026-07-05 — transcript confirmed accurate against photo, no
+  changes needed.

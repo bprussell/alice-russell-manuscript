@@ -64,3 +64,6 @@ promise me something.  Will you?"
   "spitoon" are as typed.
 - No pencil marks found on this page. Small tear at top edge near the
   page number; no text lost.
+- Verified: 2026-07-05 — transcript confirmed accurate against photo, no
+  changes needed. The page-7/page-8 reordering fix held correctly; this
+  sheet reads cleanly as the opening of Chapter II.

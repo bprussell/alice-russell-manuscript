@@ -47,3 +47,5 @@ their long ride.
 - Large piece torn from the lower right of the sheet and a tear at the
   top edge; no text affected.
 - No pencil marks found on this page.
+- Verified: 2026-07-05 — transcript confirmed accurate against photo, no
+  changes needed.

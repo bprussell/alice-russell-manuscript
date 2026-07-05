@@ -32,7 +32,7 @@ being, and not as a permanent name.  You see the real Parepa-Roza was a
 great Prima Donna and most beautiful singer.  As she was crossing the
 ocean in a large ship it sank.  She sang to the frantic drowning crew
 and voyagers until she herself sank to a watery grave.  This little
-baby here, " and he reached over and patted Parepa's head, "cried so
+baby here, " and he reached over and patted Parepa's head, "cried⟦strikeover: letters overtyped mid-word⟧ so
 hard  and all the time that her father  said she had lun⟦unclear: g⟧s that would
 make her a singer like the famous Parepa-Roza.  It was decided to name
 her Parepa-Roza.  That was about sixteen years ago."  He gave Parepa
@@ -57,3 +57,10 @@ in that  old covered tea wagon.
 - This page is Uncle George's dinner-table speech; the quotation opened on
   this page is not closed here (continues to the next page).
 - No pencil marks found on this page.
+- "cried" (in '"cried so hard...') has a typewriter strikeover — letters
+  overtyped mid-word, the same pattern as "Seemed" below — legible as
+  "cried"; the strikeover marker was missing and has been added.
+- Verified: 2026-07-05 — found and fixed one missed transcription detail:
+  a typewriter strikeover on "cried" was not marked in the original
+  transcription; added the ⟦strikeover⟧ marker to match the photo. No
+  change to the reading text or to has_pencil/has_table/illegible_spots.

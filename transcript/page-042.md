@@ -59,3 +59,9 @@ pleased at the way Parepa handled the situation.
   audience  or given" are as typed.
 - "missed" in "he missed none of it" is typed heavily over itself
   (darkened/corrected in ribbon, not pencil).
+- Verified: 2026-07-05 — transcript confirmed accurate against photo, no
+  text changes needed. Both "threwgh" and "Thatid" were re-examined at
+  high zoom; both remain genuinely ambiguous overtyped/garbled
+  characters with no confident alternate reading available from this
+  photo, so needs_review is left true and the existing ⟦unclear⟧ text is
+  unchanged.

@@ -60,3 +60,5 @@ for her patient.
   "too." followed by "pleaded Johnie" (instead of a comma), and
   "resperation" (for "respiration") are as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-05 — transcript confirmed accurate against photo, no
+  changes needed.

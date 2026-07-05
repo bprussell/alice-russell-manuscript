@@ -58,3 +58,5 @@ out a great plan by which we can be most helpful in the world." he
 - The line "grandmother's guardian..." starts left of the normal margin
   (typed wider than the rest of the block).
 - No pencil marks found on this page.
+- Verified: 2026-07-05 — transcript confirmed accurate against photo, no
+  changes needed.

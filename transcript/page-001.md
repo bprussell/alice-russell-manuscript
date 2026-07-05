@@ -63,3 +63,13 @@ hear of such foolishness again.
   are all as typed on the page.
 - Typos left verbatim per the archival convention; see
   docs/transcription-format.md.
+- Verified: 2026-07-05 — transcript confirmed accurate against photo, no
+  text changes needed. Closely examined the two left-margin "-" marks: at
+  high zoom they show the same crisp, uniform typewriter strike as the
+  surrounding body text (no graphite texture), confirming they are typed
+  dashes, not pencil marks; the note above questioning this can be
+  considered resolved in favor of "typed." The erased title block was
+  re-examined at high contrast/zoom; the third (top) line remains
+  completely unrecoverable and "OF" / "...SECRETS" on the other two lines
+  are the most that can be made out — needs_review left true since the
+  title is still not fully legible.

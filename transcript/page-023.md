@@ -62,3 +62,12 @@ hardly wait to see her "dressed up" in her new things.
 - "this girls lovely wavy" (no apostrophe) and the missing opening
   quotation mark before "Now we'll order the things..." are as typed;
   that speech's closing punctuation '." she said.' is also as typed.
+- Verified: 2026-07-05 — transcript confirmed accurate against photo, no
+  text changes needed. At high zoom the "dwiss"/"swiss" overtype is
+  confined to the first letter only (the "w" that follows is simply a
+  naturally bold strike, not a second overtype) — consistent with the
+  note already on file. The pencil scribble after "col" remains
+  genuinely illegible at any zoom available here; it does end in a
+  flourish that could be a capital "R" as previously noted, but no more
+  confident reading is possible from this photo. needs_review left true
+  for that spot.
