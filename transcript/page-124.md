@@ -42,12 +42,10 @@ this, my new born son in my arms."
 
 ## Transcriber notes
 
-- Typed page number "122" appears at the top right, but the "Submitted
-  by:" header block on this sheet is laid out differently from other
-  pages: "Submitted by:" sits alone on its own line with a blank line
-  before the address block, and the page number "122" is set on its own
-  line after the address rather than above "Submitted by:". Reproduced
-  as laid out on the physical page.
+- Typed page number "122" at top right, as usual. The header block has
+  one extra blank line between "Submitted by:" and the address (a minor
+  layout variation from the other pages in this range), reproduced as
+  laid out on the physical page.
 - PENCIL: "I hoped the letter" — the typed word "hoped" is struck through
   and the cursive pencil word "opened" is written above it, correcting
   to "I opened the letter and read its message". This is the clearest
