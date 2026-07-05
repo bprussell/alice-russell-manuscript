@@ -73,3 +73,9 @@ son.  She wrote to me and talked of me to her intimates (who were few)
 - Sentence "...talked of me to her intimates (who were few)" runs on to
   the top of the next page without a closing parenthesis on this sheet;
   confirmed against page-160 which continues "planning for her son...".
+- Verified: 2026-07-05 — transcript confirmed accurate against photo, no
+  text changes needed. The dense typewriter strike after "She knew the"
+  was re-examined at high zoom and remains genuinely illegible (multiple
+  overtyped x-strokes with no recoverable letterforms); the pencil
+  "shame" above it is the best available reading, as already recorded.
+  needs_review left true for that spot.

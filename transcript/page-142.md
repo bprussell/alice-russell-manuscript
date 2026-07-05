@@ -57,3 +57,6 @@ combination at the age of fourteen years when it became theirs.
   to his"), "great,great" (no space after comma), "Emmerson crest", and
   "laying on the table" are all as typed.
 - Right edge of the sheet has small chips/tears; no text affected.
+- Verified: 2026-07-05 — transcript confirmed accurate against photo, no
+  changes needed. Both pencil corrections ("five"->"four" and the
+  deleted "great,") checked at high zoom and match what's recorded.

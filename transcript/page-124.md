@@ -6,7 +6,7 @@ image: pages/originals/page-124.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   122
@@ -33,7 +33,7 @@ twenty years ago a beautiful baby - my baby - was brought to me and placed
 in my arms.  The letter which was to be given me with it lay on its
 blanket.
      'Shall I leave you alone?' the nurse asked.
-     'Yes,' I answered.  Oh, the miserable joy I felt in the warmth of
+     'Yes,' Ianswered.  Oh, the miserable joy I felt in the warmth of
 that little human.  I ⟦strikeover: hoped⟧⟦pencil: opened⟧ the letter and read its message for I know
 the mother's life had fled even though no one told me.  I can never repeat
 what I read as I scanned the most astounding request ever made by a
@@ -59,3 +59,11 @@ this, my new born son in my arms."
 - The single-quote dialogue tags ('Shall I leave you alone?' / 'Yes,')
   are as typed, distinct from the double-quote dialogue elsewhere on the
   page.
+- CORRECTION: "'Yes,' I answered." was mistranscribed with a space; the
+  photo clearly shows "Ianswered." typed with no space, the same kind of
+  missing-space typo seen elsewhere in this manuscript (e.g. "give u p"
+  a few lines above). Corrected to match the page.
+- Verified: 2026-07-05 — found and fixed one transcription error
+  ("I answered" -> "Ianswered", missing space, as typed). The pencil
+  "opened"/"hoped" correction and both underlined phrases were checked
+  against the photo and confirmed accurate as previously transcribed.

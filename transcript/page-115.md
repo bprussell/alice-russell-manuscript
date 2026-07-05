@@ -6,7 +6,7 @@ image: pages/originals/page-115.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   113
@@ -65,3 +65,10 @@ hear how she's feeling.
 - Missing opening quote before "Really I think the child..." and missing
   closing quote after "hear how she's feeling." — as typed.
 - Double-spaced typescript; one transcript line per typed line.
+- Verified: 2026-07-05 — resolved needs_review. At high zoom, the "me"
+  written above the struck "ness" is a distinctly lighter, softer grey
+  cursive stroke, clearly a different medium than the crisp black
+  typewriter strike-through beneath it — confirming pencil, as already
+  recorded. The duplicated "hoped" strike is a dark typewriter x-out with
+  a lighter loop drawn around it; the loop doesn't change the text
+  encoding already on file. No text changes needed.

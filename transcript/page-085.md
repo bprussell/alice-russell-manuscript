@@ -50,3 +50,11 @@ Parepa or Frances.
 - "his office ." (space before the period) is as typed.
 - Short page: text ends about two-fifths down the sheet (end of Chapter
   XVII scene); rest blank. Tiny chip at bottom right corner, far from text.
+- Verified: 2026-07-05 — transcript confirmed accurate against photo, no
+  text changes needed. At high zoom the handwritten "teed" is a thin,
+  dark, high-contrast stroke that looks more consistent with ink than
+  pencil (unlike the clearly soft/grey pencil seen on other pages in this
+  batch, e.g. page 115's "me") — the medium is still not certain enough
+  to firmly reclassify, so needs_review and the pencil-insert marker are
+  left as-is pending a physical check. The "t) see" mis-struck "o" was
+  also re-checked and remains as previously described.

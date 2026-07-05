@@ -6,7 +6,7 @@ image: pages/originals/page-163.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                               161
@@ -52,3 +52,10 @@ expression on her face.  "No, not Joseph.  It must be someone who knows
   flagged for verification since its purpose (emphasis vs. correction) is
   not certain from the photo alone.
 - Small tear at the top right corner; no text lost.
+- Verified: 2026-07-05 — resolved needs_review. At high zoom the retrace
+  over the "t" in "granted" is a distinctly lighter grey stroke than the
+  crisp black typed letters around it, confirming it is a separate pencil
+  mark; the word itself reads unambiguously as "granted" either way, so
+  the remaining question (why the author retraced it) doesn't affect the
+  transcription. No text changes needed; rest of the page checked against
+  the photo and confirmed accurate.
