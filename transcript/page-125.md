@@ -24,7 +24,7 @@ nothing but my baby.  The Doctors sailed on the first ship for America.
 It was an ill fated ship and sank - both Doctors were drowned.  This
 sealed the news of the birth of a living child and its identity was lost.
      I forgot to tell you that only those of our party knew its
-personel or the purpose of this voyage.  The general opinion of the
+personel or the purpose. of this voyage.  The general opinion of the
 passengers on the ship was that Anna Bell and I were husband and wife.
 Our party kept its own counsel and made no new acquaintances.  The six
 of us stayed close to our reservation on the ship.  Our meals were

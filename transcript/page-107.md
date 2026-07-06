@@ -59,3 +59,11 @@ funny, though?"
   and the missing opening quote before "Don't that sound funny" are all as
   typed.
 - "No indeed" has no comma before the closing quote, as typed.
+- Verified: 2026-07-06 — checked "she may" (image confirms tightly-kerned
+  "m"+"a"+"y", not "my"), the "y" gap in "Submitted b :" and the "n" gap in
+  "fortu ate", all matching current transcript. The left-margin dash before
+  "Frances said no more" was examined at high zoom; its color sampled from
+  the photo is not blue-shifted (darkest sampled pixel ~RGB(100,88,74),
+  consistent with the sepia photo tone, not blue pencil/ink), but it remains
+  ambiguous whether it is a typed mark or a hand mark, so needs_review is
+  left true per caution policy. No changes made to the transcript text.

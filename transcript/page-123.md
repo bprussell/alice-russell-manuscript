@@ -51,6 +51,21 @@ though conditions were mightly against her.
   most closely resembles an overtyped/smudged comma (possibly the comma
   key struck imprecisely against the "t"); read as ⟦unclear: ,⟧ pending
   verification against the physical page.
+- Verified: 2026-07-06 — re-examined the "locket" mark at high zoom. It
+  is larger and more complex than a normal comma on this page (compare
+  the clean comma after "requests," two lines above): it shows a small
+  flag/hook near the top plus a rounded blob at the base, consistent
+  with a doubled or offset typewriter strike rather than a single clean
+  keystroke. A pixel-level check rules out blue pencil (no meaningful
+  blue shift versus this page's black-ink baseline — differences are
+  within JPEG noise). No confident alternative reading presents itself
+  (it isn't a letter shape, and a comma still makes the most grammatical
+  sense before "take it to a jeweler"), so the ⟦unclear: ,⟧ reading
+  stands and needs_review remains true — genuinely ambiguous. All other
+  text, line breaks, and noted typed oddities ("her's", "physician .",
+  "mightly", the inconsistent Annabell/Anna Bell/Annabel spellings, and
+  the stray period before the inscription's opening quote) were checked
+  against the photo and confirmed accurate; no other changes needed.
 - "her's" (for "hers"), "physician ." (stray space before the period),
   and "mightly" (for "mightily") are as typed.
 - The child's mother's name is spelled inconsistently across the

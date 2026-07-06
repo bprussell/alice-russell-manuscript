@@ -48,7 +48,6 @@ in each others ears until time to start home.
 
 - Typed page number "109" at top right; physical page 111 (typed numbering
   runs two behind the physical count in this stretch).
-- Page is double-spaced typescript; transcribed one line per typed line.
 - "fune" (for "fun"), "o'lock" (for "o'clock"), "doned" (for "donned"),
   "approval of disapproval" (second "of" where "or" is meant), "bicylists",
   "wore cycling suit" (missing "a"), "tandam", and "each others ears" are
@@ -59,3 +58,11 @@ in each others ears until time to start home.
   "s" ("costumes" corrected to "costume,"); flagged for verification.
 - No pencil marks found on this page.
 - Page ends mid-quotation; sentence continues on the next page.
+- Verified: 2026-07-06 — removed an inaccurate note claiming the page is
+  double-spaced typescript; measured line spacing in the photo matches the
+  normal single-spaced typing seen throughout the manuscript, with no extra
+  gap between lines. Re-checked "sprint" (clearly typed, not a misreading),
+  "traded" (a faint but present "d" stroke after "trade" confirms it),
+  the "set up2" strikeover, and the "costume," overstrike — all confirmed
+  as already transcribed. needs_review left true; the overstrike after
+  "costume" remains genuinely ambiguous from the photo alone.

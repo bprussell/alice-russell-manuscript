@@ -19,7 +19,7 @@ Edelstein, Illinois
      Parepa slept peacefully all night.  Aunt Kate made a bed on the
 floor beside her and got some rest.
      Frances didn't sleep or even try to.  He wished he could sail out
-of her life forever.  How did he ever allow himself to become so attached
+of her life forever.  How did 'he ever allow himself to become so attached
 to any girl.  In all his life he had managed to side step the advances of
 the many fair maidens of his own class as well as the well directed
 management of the mothers.  He was termed as "a little odd" but desirable
@@ -59,3 +59,15 @@ must stop - and it would stop.  There would be no  more
   sheet — transcribed with its approximate indent.
 - Double-spaced typescript; one transcript line per typed line.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — corrected "How did he ever" to "How did 'he ever":
+  a stray typed apostrophe sits between "did" and "he" on the page,
+  matching the shape/weight of genuine apostrophes elsewhere on this page
+  (e.g. "didn't"), so it is a typed character, not an artifact, and is
+  preserved as typed. Checked several faint marks near "bed .on", "life
+  .forever", "management of, the", and "wish,. too." against a
+  same-page ink baseline: these are all fainter/lighter or off-baseline
+  compared to genuine typed periods/apostrophes (or, in the "wish, too"
+  case, a brownish foxing speck) and were left untranscribed as paper
+  defects/specks, not typed marks. Re-checked "in his case unborn babies"
+  at full resolution — no period there (the compressed page view had
+  suggested one); text confirmed as "his case" with a normal space.

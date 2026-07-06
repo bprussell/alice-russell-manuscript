@@ -6,7 +6,7 @@ image: pages/originals/page-114.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   112
@@ -26,7 +26,7 @@ hill.  These two lovers were alone.  It was heavenly to be together;
 neither could ask more.  They dreamed silently as if words were frail
 instruments of expression.  Why bother with them?  Just to sit with hands
 clasped, heads together, hearts beating as one.  Why couldn't it always
-be this?  The shadows were falling now, and the darkness seemed to beckon
+be this?  The shadows were falling now, and the.darkness seemed to beckon
 confidence.
      "Parepa, dar, won't you listen to my story now?  I <u>must</u> tell you
 for your sake and my sake.  Come, darling, won't you listen?"  His voice
@@ -66,3 +66,14 @@ what is the matter.
   ink speck, not a typed period.
 - Double spaces inside "oblivious  of" and "like  that" are as typed.
 - No other pencil marks found.
+- Verified: 2026-07-06 — corrected "the darkness" to "the.darkness" (a
+  typed period with no space between "the" and "darkness"); missed in the
+  earlier transcription pass. Confirmed the pencil-delete strike over "in
+  a long lingering kiss" is a genuine hand-drawn wavy pencil line (not
+  typewriter x-strikeover) by pixel-level color comparison: the strike
+  pixels are warm gray (R>G>B, same ratio as the surrounding aged paper
+  and typed ink), showing no blue shift, so this is not one of the
+  misclassified blue-pencil cases seen elsewhere in the manuscript.
+  Underlines under "must" and the second "so sick" confirmed present.
+  The "this?" overtype and the ink speck before "Just" are as previously
+  described. Resolved needs_review to false.

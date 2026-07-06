@@ -53,3 +53,7 @@ his own.  "Where did you come from?  Out of heaven I should judge."
 - Sentence fragments "Joked about Mr. Wheeler and Mrs Breen.  Wished
   they'd hitch up together." are as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed. Checked the address block spacing (no blank line here,
+  unlike page 108), quote placement around "Morning, my beautiful ladies,"
+  and the faint specks near "Frances." (paper texture, not a mark).

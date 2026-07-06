@@ -31,7 +31,7 @@ some real living these next two years.  We have enough saved up so we
 can afford a V⟦strikeover: overtyped on another letter⟧acation while I get my health back," and Mr. Slay lit a
 cigar in preparation of taking his morning walk.
      "But Parepa must go on with her studies and that expensive business.
-Doctor bills and music lessons soon empiy a well filled pocket ', she
+Doctor bills and music lessons soon empt⟦strikeover: "t" overtyped on another letter⟧y a well filled pocket ', she
 answered.
      "Now you are worrying, my dear, and that always makes me feel
 terrible - to see you worried.  Promise me you won't do it anymore,"
@@ -55,9 +55,16 @@ our time.  Just now I am anxious to see Frances finish his education," and
   (two characters struck on top of each other, similar to the "z"
   overtype on page 1) but resolves clearly to a capital "V"; recorded
   with a strikeover marker.
-- "empiy" (for "empty") is as typed; the quotation mark after "pocket" is
-  a single quote placed before the comma, with a space before it
-  ("pocket ',") as typed.
 - "errant" (for "errand") is as typed.
 - Page begins mid-sentence, continuing from page 120/typed 118 ("...as I
   was at / twenty.").
+- The quotation mark after "pocket" is a single quote placed before the
+  comma, with a space before it ("pocket ',") as typed.
+- Verified: 2026-07-06 — corrected "empiy" to "empty": the fourth letter
+  shows a doubled/overtyped crossbar (two impressions of the same "t"
+  struck at slightly different heights, same phenomenon as the "V" on
+  this page and the "z" overtype on page 1), not a plain "i". Recorded
+  with a strikeover marker; resolves to "empty a well filled pocket",
+  which fits context, whereas "empiy" is not a word. The "Vacation"
+  overtype note above was independently re-checked against the photo and
+  confirmed accurate; no change needed there.

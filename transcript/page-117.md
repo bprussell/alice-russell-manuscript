@@ -6,7 +6,7 @@ image: pages/originals/page-117.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   115
@@ -26,7 +26,7 @@ help him spend his tremendous wealth in doing for the children born into
 this world unwelcome and uncared for.  Perhaps they could study together
 and plan a perfect⟦pencil-insert: ly⟧ leg⟦strikeover: overtyped character⟧itimate compact satisfactory to both.
      That their love was genuine there wasn't a doubt but - Parepa
-didn't know - how could she understand.  There never was another human
+di dn't know - how could she understand.  There never was another human
 born into the world with their future hund round their neck by a golden
 chain, and no - his was - his was a singular life.  She and I could "go
 about doing good" the rest of our lives together.  I could satisfy her
@@ -65,3 +65,12 @@ his heart.  "And it's a terrible one/"
   quotation marks — as typed; noted since a proofreader may query it.
 - Page ends mid-sentence ("Then we are"); continues on the next page.
 - Double-spaced typescript; one transcript line per typed line.
+- Verified: 2026-07-06 — corrected "didn't know" to "di dn't know": the
+  page has a genuine typed space in the middle of the word, as typed.
+  Confirmed the pencil "ly" insertion above "perfect" and the struck-over
+  character in "legitimate" both read as described. Checked faint marks
+  above "is all here" and before "Tell me" — the "is' " mark is a light
+  brownish speck (foxing, not ink), left untranscribed; the mark before
+  "Tell" is the typed opening double-quote (two close typewriter tick
+  strokes), consistent with the transcript's rendering. Resolved
+  needs_review to false.

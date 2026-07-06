@@ -6,7 +6,7 @@ image: pages/originals/page-101.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                    99
@@ -30,7 +30,7 @@ hoped she could work out and earn some money to study on.  Young as she
 was she had a business head on her as old as her Uncle beside her.  She
 knew it took money to make dreams come true and she was willing to
 earn it.  We all know the success she has won.  "Now, Mrs Slay tell
-them what you thought of her when you found I had brought her bag and
+⟦strikeover: them⟧ what you thought of her when you found I had brought her bag and
 baggage home to you."
      Mrs Slay laughed as she said:  "Iwas ⟦unclear: so, typed above the line with caret⟧ happy I could have taken the
 child in my arms and rocked her to sleep.  I know it was the happiest
@@ -50,14 +50,24 @@ The next course was being served now, and a jolly group were visiting
 - The first two lines of text are single-spaced; the rest of the page is
   double-spaced (typist evidently reset the line spacing).
 - "Iwas so happy": "Iwas" lacks a space as typed; "so" is typed ABOVE the
-  line over a caret between "Iwas" and "happy". The insertion appears to be
-  typewriter ink, but the caret should be checked against the physical page
-  in case it is pencil (hence needs_review).
-- "them" at the start of "them what you thought" is struck heavily /
-  overtyped but legible; it may be an intended deletion — verify.
+  line over a caret between "Iwas" and "happy". Confirmed on close
+  inspection: the "so" and the caret match the typewriter's black ink and
+  letterforms exactly (not blue or graphite), so this is a typewritten
+  interlinear insertion, not a pencil mark.
+- "them" at the start of "them what you thought" is heavily overtyped by
+  the typewriter (blacked out but still legible) — marked as
+  ⟦strikeover: them⟧ per format convention; previously left unmarked.
 - "surprize", "road along" (for "rode"), and the mismatched quotation marks
   around Uncle George's reported dialogue ('...always', "Oh, Uncle George
   ... keep me?') are all as typed.
 - "Mrs Slay" — Aunt Kate's surname appears here for the first time in this
   range.
-- No clear pencil marks found on this page.
+- The small brown speck after "I" in "I had not looked" (line "Would you
+  really keep me?'  I had not looked...") is a paper stain/foxing mark, not
+  punctuation or pencil; correctly omitted from the text.
+- No pencil marks found on this page.
+- Verified: 2026-07-06 — corrected a missing marker: "them" (in "tell them
+  what you thought") is typewriter-overstruck and is now marked
+  ⟦strikeover: them⟧. Resolved the needs_review flag: close inspection
+  confirms the "so"/caret insertion above "Iwas...happy" is typewriter ink,
+  not pencil.

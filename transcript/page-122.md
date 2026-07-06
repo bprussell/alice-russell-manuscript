@@ -6,7 +6,7 @@ image: pages/originals/page-122.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   120
@@ -55,8 +55,18 @@ To this woman Annabel Emmerson confided her every thought.  They were
   parenthesis marks around "and mother, until her death," are lighter,
   curved, and gray rather than the typist's straight black parentheses
   seen earlier on this page; they read as pencil-added punctuation
-  bracketing typed text. Recorded as ⟦pencil-insert⟧ for each mark;
-  verify medium against the physical page.
+  bracketing typed text. Recorded as ⟦pencil-insert⟧ for each mark.
+- Verified: 2026-07-06 — re-examined the pencil parentheses at high
+  zoom. Both marks are distinctly hand-drawn curves (rounded, soft-edged
+  strokes) next to crisp black typewriter characters, and a pixel check
+  shows neutral gray (R≈G≈B, no blue shift) — ordinary graphite pencil,
+  not blue pencil, and not a smudge (it brackets a coherent editorial
+  insertion clarifying that both parents, not just the father, guarded
+  the child). Reading and ⟦pencil-insert⟧ markup confirmed accurate;
+  needs_review cleared. No other changes needed on this page — the
+  "that(child though he seems)" parenthesis is confirmed typed (crisp,
+  same black ink, no companion pencil marks), and "fathers" (no
+  apostrophe) and "diver.after" are confirmed as typed.
 - "diver.after" (stray period, no space) and "mother guardian" (missing
   possessive "'s") are as typed.
 - "fore-mothers" is a typed compound with a hyphen, not a line-break

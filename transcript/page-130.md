@@ -19,7 +19,7 @@ Edelstein, Illinois
 after arm full of beautiful flowers and giving them to anyone who loved
 them.  I didn't care to have anything that I couldn't share with others.
 My pretty house was always full of folks."
-        Wasn't that a queer way to be Frances?"  I don't believe any
+        Wasn't that a queer way to. be Frances?"  I don't believe any
 other youngster ever had dreams like mine.  My sisters always dreamed
 too, but they always had lovers and husbands and babies - lots of them."
         Frances and Parepa both fell into silence each were deep in their
@@ -29,12 +29,12 @@ darling, you can have every one of those dreams come true if you want
 too."
         "Oh, go on - there is always a man in the real live dreams and
 he always has a stomach," she laughed,  "That means cooking."
-        The whistle blew telling them their hour was up for the boat.
+        The whistle blew telling them thei r hour was up for the boat.
         Frances rowed to the edge and they left the lake.
         "Oh, let's sit in the rose arbor," and Parepa led the way to a
 seat overlooking the lake from a distant hill.  "Its always so pretty here,"
 she said.  "I love roses, don'tyou?"
-        "They are my favorite flower," he said, "and these that bloom all
+        "They are my favorite flower," he said, 'and these that bloom all
 summer are a great improvement over the old fashioned ones," he said.
 "But let's talk about something else.  Parepa could you be happy all your
 life if you could have things just as those childish dreams portrayed?  I

@@ -16,7 +16,7 @@ Mt. Hawley Road
 Edelstein, Illinois
 
 and telling jokes on each other.
-     Uncle Will spoke for he and Aunt Minnie.  "You can imagine my
+     Uncle Will spoke for he and Aunt 'Minnie.  "You can imagine my
 surprize when brother George came to me and told me that Parepa (as we
 all like to call her) wanted a job.  We both laughed about it and
 decided to give her a try out at the candy store.  I didn't think she
@@ -29,7 +29,7 @@ truimph on her face when she showed it to me.  I appreciated her love
 for color and realized in her a wonderful asset to our business.  She
 has never disappointed me.  We congratulate you, Parepa, and wish you
 many, many more happy birthdays.
-     After the meat course was cleared, Mrs Breen told of the surprizes
+     After the meat course was cleared, "Mrs Breen told of the surprizes
 she had received while teaching Parepa.  "I might say she taught me
 nothing was too hard for her to undertake.  Her sweet disposition always
 made me feel as if I had associated with ethereal beings.  Congratulations
@@ -53,3 +53,14 @@ I once saw.  The next time I saw her was on the stage at the Opera House.
   after "many more happy birthdays." are all as typed.
 - "her-/self" is hyphenated across the line break in the original.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — found two previously untranscribed stray typed
+  marks (same black ink as the body text, confirmed by close pixel
+  inspection, not paper foxing): a single quote before "Minnie" ("Aunt
+  'Minnie") and a double quote before "Mrs Breen told" ("cleared,
+  "Mrs Breen"), the latter matching the same stray-opening-quote-before-
+  narration pattern already documented on page 104 ("Mr. Wheeler escorted
+  Mrs Breen home..."). Both added to the transcript verbatim. Also
+  checked and ruled out as ink: the faint marks near "tell you" (in "asked
+  me to tell you") and the small speck below "cleared," are light brown
+  foxing/paper discoloration (confirmed by pixel color), not type, and
+  remain untranscribed.

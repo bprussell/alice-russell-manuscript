@@ -11,6 +11,7 @@ needs_review: false
 
                                                                   106
 Submitted by:
+
 Mrs Alice Reynolds Russell
 Mt. Hawley Road
 Edelstein, Illinois
@@ -60,3 +61,10 @@ George feels like it let's go the t⟦unclear: h⟧e park this afternoon.  We'll
   (apparently "the the park"); middle letter marked unclear.
 - The "n" of "Uncle" in "How's U cle George?" failed to print; marked
   unclear.
+- Verified: 2026-07-06 — corrected a missed line break: the photo shows a
+  blank line between "Submitted by:" and "Mrs Alice Reynolds Russell" (this
+  page's header has extra spacing there, unlike other pages' submission
+  blocks), which the transcript had collapsed; added the blank line.
+  Re-checked the Nevada/New Mexico pencil correction, the "y" in "Submitted
+  by:", the "U cle" gap, and the "t e" overtype against the photo — all
+  confirmed as already transcribed. No other changes needed.

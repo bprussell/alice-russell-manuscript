@@ -6,7 +6,7 @@ image: pages/originals/page-128.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   126
@@ -60,10 +60,10 @@ t help it.  I got more than ⟦strikeover: a⟧⟦pencil: my⟧ share of dishwas
 - LINE BREAK: "I hate it and I can'" is followed by a line beginning
   "t help it." — the word "can't" is split across the line break
   without a hyphen (not a hyphenated-word case, so no ⟦hyphen⟧ marker is
-  used). The "t" that begins the second line shows a fainter, slightly
-  raised duplicate impression of the same letter just above it,
-  apparently a mechanical double-strike rather than a pencil mark;
-  transcribed as the single legible "t".
+  used). The "t" that begins the second line shows a duplicate impression
+  of the same letter struck slightly lower and left of it (below the
+  baseline, not above), apparently a mechanical double-strike rather than
+  a pencil mark; transcribed as the single legible "t".
 - "scrubing" (for "scrubbing"), "coily" (for "coyly"), "c atted" (for
   "chatted", missing "h" with a stray space), "loveing" (for "loving"),
   and "mischieveously" (for "mischievously") are as typed.
@@ -72,3 +72,13 @@ t help it.  I got more than ⟦strikeover: a⟧⟦pencil: my⟧ share of dishwas
   typed.
 - Page ends mid-sentence ("share of dishwashing"); this is the last page
   in the assigned range.
+- Verified: 2026-07-06 — checked both pencil marks at high zoom against
+  the photo. The pencil-insert "can" (cursive, above the line after
+  "that") reads clearly and fits context ("a man that can afford").
+  The struck typed "a" before "share" with pencil "my" above it is also
+  confirmed; the dense dark blob on "a" is consistent with the typewriter
+  strikeover pattern already used on page 115 for this author's edits,
+  so the existing ⟦strikeover: a⟧⟦pencil: my⟧ encoding is kept. Also
+  corrected a directional error in the existing note about the duplicate
+  "t" impression (it sits below the line, not above). Resolved
+  needs_review to false; no text changes needed.

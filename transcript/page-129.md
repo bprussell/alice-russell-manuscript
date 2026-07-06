@@ -58,3 +58,15 @@ as I had plenty to give with.
 - The first two text lines are single-spaced; the rest of the page is
   double-spaced.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — checked full page against photo, no text or
+  layout discrepancies found. Re-examined ⟦unclear: podding⟧ at high
+  zoom: the letter after "pod" is a thin stroke without the round bowl
+  seen on the preceding "d", which could suggest "l" rather than a second
+  "d" ("podling" vs "podding"), but the strike is faint and the shape is
+  genuinely ambiguous, and "podding peas" (shelling peas) is the sensible
+  reading in context while "podling" is not a real word — so the existing
+  "podding" reading and ⟦unclear⟧ marker are kept as-is. needs_review left
+  true; this word still warrants a physical-page check. Also confirmed
+  "he asked" (referring to Frances) is typed exactly that way, matching
+  the photo — an authorial pronoun inconsistency, not a transcription
+  error, so left as typed.

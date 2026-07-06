@@ -59,5 +59,12 @@ her good bye.  "I'll call for you about four."
   "n"-like impression below the baseline — appears to be typewriter slippage
   or an overtyped character, in ink, not pencil.
 - The "the" before "cunningest" is struck with a heavier overtyped "t".
-- Double-spaced typescript; one transcript line per typed line.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — removed an inaccurate note claiming double-spaced
+  typescript; the photo shows normal single-spaced typing matching the rest
+  of the manuscript. Re-checked "apart" (dash above / partial "n" below,
+  confirmed in ink, not pencil), "subd'ued" (apostrophe-like mark between
+  "d" and "u" confirmed present), "the" before "cunningest" (heavier
+  overtyped "t" confirmed), and "aagerness" — all match the current
+  transcript. No changes to the transcript text; needs_review left true
+  given the remaining ambiguous marks.

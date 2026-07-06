@@ -26,3 +26,6 @@ house.
   completes the scene from physical page 112; the rest of the sheet is
   blank. This is legitimate — the next page begins a new scene/section.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed. Confirmed the rest of the sheet is genuinely blank (only
+  paper flecks/specks, no pencil or typing).
