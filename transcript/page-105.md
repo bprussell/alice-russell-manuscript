@@ -55,3 +55,7 @@ I will not be near you to show you the good times a youngster of your
   you tell" (apparently for "Why didn't"), "loveingly", and "how old your
   are, Frances, You are" are all as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed. Double-checked "he answered." (looked like "answerdd" at
+  first glance due to a small overtype mark on the "e"); close zoom
+  confirms it reads "answered" as transcribed.
