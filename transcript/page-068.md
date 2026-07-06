@@ -3,7 +3,7 @@ page: 68
 typed_page: 66
 book: 1
 image: pages/originals/page-068.jpg
-has_pencil: true
+has_pencil: false
 has_table: false
 illegible_spots: 0
 needs_review: false
@@ -17,7 +17,7 @@ Edelstein, Illinois
 
                               CHAPTER XIII
 
-     ⟦pencil-note: short diagonal mark in left margin, likely a paragraph indicator⟧In these two years letters came from and went to Frances at
+     In these two years letters came from and went to Frances at
 regular intervals.  Parepa always read them and deposited them in her
 "keep sake drawer" as she called it, never once offering them to Aunt
 Kate to read.  Mrs Slay was amused by this little trick in her neice,
@@ -57,12 +57,17 @@ George.
 - ""candy shop"." (double punctuation) as typed.
 - Page ends mid-sentence ("...his money to educate").
 - Verified: 2026-07-06 — two items resolved on close photo inspection.
-  (1) The mark previously transcribed as a typed dash before "In these two
-  years..." is, under magnification, a soft-edged, variable-width diagonal
-  stroke unlike any crisp typewriter-struck character on the page; it sits
-  in the margin left of the normal indent. Reclassified as a pencil mark
-  (⟦pencil-note⟧, likely a paragraph indicator) rather than typed text;
-  has_pencil set to true, needs_review set to false.
+  (1) A small diagonal mark sits in the left margin next to "In these two
+  years..." well outside the normal paragraph indent. On first pass this
+  was reclassified from "typed dash" to a pencil paragraph-indicator mark,
+  but on reconsideration (2026-07-06, second look) that reading doesn't
+  hold up: the paragraph is already unambiguously marked as new by the
+  chapter heading directly above it and by the standard indent, so there's
+  no editorial purpose such a mark would serve here. It's most likely a
+  stray pencil fleck, paper fiber, or smudge — present on the page, but
+  not an authorial marking. Reverted to plain text (mark left
+  untranscribed, matching the convention of not transcribing incidental
+  page damage/debris); has_pencil reset to false.
   (2) "said Uncle George" — the faint gap ("U cle") is a very lightly
   inked but present "n" (a thin trace is visible under magnification, in
   black typewriter ink, not pencil); reading firmed up to "Uncle" and the

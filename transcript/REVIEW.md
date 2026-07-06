@@ -98,8 +98,3 @@ struck-through is pencil.
 - **page 66** — a stray typed character after "Submitted by:" was read as
   a doubled-struck "2" from a heavily zoomed, blurry crop; worth
   confirming on the physical page.
-- **page 68** — a left-margin mark was reclassified from a typed dash to
-  a pencil paragraph-indicator mark — the most consequential single edit
-  in this batch (flips `has_pencil` to true) — recommend a raking-light
-  check to confirm it's actually graphite and not a very light typewriter
-  strike.
