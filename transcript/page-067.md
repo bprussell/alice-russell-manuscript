@@ -28,3 +28,4 @@ in every step of Parepa's progress.
 - Sheet is creased at the left edge and has small chips at the bottom edge;
   no text affected.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed.

@@ -3,10 +3,10 @@ page: 44
 typed_page: 42
 book: 1
 image: pages/originals/page-044.jpg
-has_pencil: false
+has_pencil: true
 has_table: false
-illegible_spots: 0
-needs_review: false
+illegible_spots: 1
+needs_review: true
 ---
 
                                                                     42
@@ -18,7 +18,7 @@ Edelstein, Illinois
                               CHAPTER VII
 
      They were all ready now and at promptly five-thirty a carriage
-from the best livery⟦strikeover: stray character x-ed out⟧ in town drove up in front of the house.  Frances
+from the best livery⟦illegible⟧⟦pencil-delete⟧ in town drove up in front of the house.  Frances
 stepped out and ran up the steps to meet them.  The driver stepped
 down from his high seat and helped the four of them in.  Frances and
 Parepa sat facing Uncle George and Aunt Kate.  They joked and laughed
@@ -49,7 +49,27 @@ would fade away and she would find herself back home eating home cured
 
 - Typed page number "42" at top right.
 - Chapter heading "CHAPTER VII" centered below the header block.
-- A stray character typed after "livery" is struck over by the typewriter.
+- The mark after "livery" was originally classified in Phase 1 as a stray
+  typed character x-ed out by the typewriter. Re-examination shows the mark
+  is a solid, saturated blue blob with no typewriter-font letter structure
+  at all, and pixel-color sampling confirms it is strongly blue-shifted
+  (blue channel well above red) compared to the neutral/warm-black ink of
+  the surrounding typed "livery" and "in" — consistent with the blue-pencil
+  pattern found elsewhere in the manuscript (pages 9, 16, 20, 41, 210).
+  Reclassified as a pencil deletion over an illegible typed character;
+  has_pencil set to true and illegible_spots set to 1. needs_review left
+  true pending a physical-page check of the ink color and, if possible, the
+  obscured character.
+- Also examined the doubled/bold "let" in "will let you if" (line with
+  "your guarantee or what ever you call him"): under magnification this
+  shows overlapping typewriter-font letter shapes (serifs consistent with
+  "e"/"t") rather than a hand-drawn mark, and its blue-channel bias is only
+  mildly elevated versus neighboring plain-typed letters on the same line
+  (a much smaller effect than the "livery" blob). Judged most likely a
+  typewriter correction/double-strike rather than pencil, so left
+  transcribed as plain "let" per Phase 1, but flagging for a physical check
+  alongside the "livery" mark since the color signal was not as clear-cut
+  as elsewhere.
 - "your guarantee or what ever you call him" (for "guardian"; "what ever"
   two words), "correct Aunt Kate" (for "corrected"), and "must of cost"
   (for "must have cost") are as typed.
@@ -57,4 +77,7 @@ would fade away and she would find herself back home eating home cured
   slightly below the baseline at the right margin.
 - Small tear at the bottom edge of the sheet below the last line; no text
   lost.
-- No pencil marks found on this page.
+- Verified: 2026-07-06 — reclassified the "livery" strikeover mark as a
+  blue pencil deletion over an illegible character (see notes above); all
+  other text, line breaks, and spacing confirmed accurate against the
+  photo.

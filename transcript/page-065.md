@@ -55,3 +55,4 @@ lessons at old Central Park on 'Ladies day".  Aunt Kate made her suit
   as typed.
 - Page ends mid-sentence ("Aunt Kate made her suit").
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed. Checked the two strikeover marks closely (in "arms as⟦strikeover⟧ they" and "freeze⟦strikeover⟧"): both are black/brownish ink consistent with typewriter over-strike, not blue pencil, so no reclassification needed.

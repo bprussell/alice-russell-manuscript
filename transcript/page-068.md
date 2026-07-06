@@ -3,10 +3,10 @@ page: 68
 typed_page: 66
 book: 1
 image: pages/originals/page-068.jpg
-has_pencil: false
+has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     66
@@ -17,7 +17,7 @@ Edelstein, Illinois
 
                               CHAPTER XIII
 
--    In these two years letters came from and went to Frances at
+     ⟦pencil-note: short diagonal mark in left margin, likely a paragraph indicator⟧In these two years letters came from and went to Frances at
 regular intervals.  Parepa always read them and deposited them in her
 "keep sake drawer" as she called it, never once offering them to Aunt
 Kate to read.  Mrs Slay was amused by this little trick in her neice,
@@ -41,7 +41,7 @@ I'm sure in tennis, can swim, a splendid dancer, is beautiful in the
 saddle, and can enjoy all the auto rides he's able to furnish.  Won't
 he be surprized to find her soloist in the church he attended the last
 Sunday he was here and giving whole evening dramatic entertainments?
-Also to find her still working in the "candy shop"." said ⟦unclear: Uncle⟧
+Also to find her still working in the "candy shop"." said Uncle
 George.
      "We should show him we did not need any of his money to educate
 

@@ -52,3 +52,12 @@ arranging the cheap candies to suit her own taste.  They thought it
 - In "thanks you very much" the word "you" is typed over itself /
   double-struck (prints bold and smudged), transcribed with a strikeover
   marker.
+- A faint thin diagonal mark appears in the whitespace right after "who"
+  in "now matter who comes up in your life" (line 6 of the paragraph).
+  It does not form a legible character and its ink color matches the
+  surrounding typed text rather than showing a blue tint, so it reads as
+  a stray typewriter/paper mark rather than a pencil correction; no text
+  change made.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed (see note above on a minor unexplained stray mark near
+  "who" that does not affect the text).

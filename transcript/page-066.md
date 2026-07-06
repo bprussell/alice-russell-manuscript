@@ -6,11 +6,11 @@ image: pages/originals/page-066.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     64
-Submitted by:⟦unclear: stray typed "2" after colon⟧
+Submitted by:2
 Mrs Alice Reynolds Russell
 Mt. Hawley Road
 Edelstein, Illinois
@@ -48,8 +48,10 @@ wise Aunt Kate.  How kind she was, how stimulating, how interested in
 
 - Typed page number "64" at top right, partially cropped at the photo edge
   but legible.
-- A stray character (looks like "2") is typed immediately after the colon
-  of "Submitted by:" — marked unclear; verify against the physical page.
+- A stray character is typed immediately after the colon of "Submitted by:".
+  Close zoom inspection confirms it is black typewriter ink (not pencil) and
+  its shape (rounded top, heavy flat base) is consistent with a numeral "2"
+  struck with extra/double impact; transcribed literally as "2".
 - Continues directly from page 65 ("Aunt Kate made her suit / of blue
   serge.").
 - "thnn" (for "than"), "intimaties" (for "intimacies"), "Some times" (two
@@ -58,3 +60,8 @@ wise Aunt Kate.  How kind she was, how stimulating, how interested in
   gap; reading is certain.
 - Page ends mid-sentence ("how interested in").
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — resolved the previously-flagged stray character after
+  "Submitted by:" (confirmed black typewriter ink, read as "2"; needs_review
+  set to false). Confirmed the "older⟦strikeover⟧" mark is black typewriter
+  overtype, not pencil. Rest of page checked line-by-line against photo, no
+  other changes needed.

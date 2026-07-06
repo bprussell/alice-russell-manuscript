@@ -39,3 +39,16 @@ removed from the farm.
 - "straightended" was typed with an extra "d"; the extra letter is struck
   over by the typewriter, transcribed with a strikeover marker.
 - No pencil marks found on this page.
+- Checked the struck "d" against the blue-pencil pattern found elsewhere in
+  the manuscript (pages 9, 16, 20, 41, 210): the strike strokes here
+  match the typewriter font's stroke width/style (unlike the noticeably
+  thicker, hand-drawn-looking blue mark found on page 41), and pixel-color
+  sampling shows no consistent color shift relative to neighboring typed
+  letters on this page. Kept as a typewriter strikeover, not reclassified.
+- The apparent gap between "d" and "inner" in "dinner" is just normal
+  inter-letter spacing after the narrow "d" glyph, not a typed space;
+  measured column gap (~11px) is far smaller than actual word-space gaps
+  (~35px) elsewhere on the same line, confirming "dinner" is typed as one
+  word.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed.

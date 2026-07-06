@@ -56,3 +56,5 @@ he said.
   Parepa's household; "Uncle George mailed it") are as typed.
 - Text continues from physical page 36 by scene (evening planning after
   the shop day); no mid-sentence break.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed; no pencil marks found on this page.

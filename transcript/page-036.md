@@ -3,7 +3,7 @@ page: 36
 typed_page: 34
 book: 1
 image: pages/originals/page-036.jpg
-has_pencil: false
+has_pencil: true
 has_table: false
 illegible_spots: 0
 needs_review: true
@@ -22,7 +22,7 @@ bottom which slanted slightly toward the front.  She did her work
 deliberately and seemed to be so completely wrapped up in it that she
 didn't notice the others eyeing her  enviously.  When it was done she
 stood off some distance and gazed at it.  Clapping her hands, her
-face radiant as she grabed Uncle Will by the hand and let⟦strikeover: slash-like character struck after "let"⟧ him up to
+face radiant as she grabed Uncle Will by the hand and let⟦pencil: blue diagonal mark drawn through the "t", most likely correcting "let" to "led"⟧ him up to
 see it.
      "It's beautiful, Parepa.  How Did you ever think to make it like
 That?" he asked.
@@ -52,9 +52,22 @@ some other shop will be trying to take my designer away from me."
   ("They thought it / would result in a panic of color..."), so a page
   was misnumbered, not duplicated. Flagged for the verification pass.
 - "surprize" and "grabed" (for "grabbed") are as typed.
-- "and let him up to see it" — after "let" a slash-like character is
-  struck (possibly correcting "led"); "led" is the likely intended word.
 - Mid-sentence capitals in "How Did you ever think to make it like /
   That?" are as typed.
-- "such fune!" — a stray "e" (or overstruck character) follows "fun";
-  recorded as strikeover.
+- "such fune!" — a stray, heavily overstruck character follows "fun";
+  pixel-level color check shows it matches the brown-black typewriter
+  ink (no excess blue), so it is correctly recorded as a typewriter
+  strikeover, not a pencil mark.
+- Verified: 2026-07-06 — corrected mischaracterized mark: "and let[mark]
+  him up to see it" was previously described as a typewriter
+  strikeover, but pixel-level color inspection shows the mark drawn
+  through the "t" is distinctly blue-toned (matching the blue-pencil
+  pattern found on pages 9, 16, 20, 210), not typewriter ink. Reclassified
+  as a ⟦pencil: ...⟧ marker with a "led" guess (matches context — "led
+  him up to see it" reads correctly where "let him up" does not) and set
+  has_pencil: true. needs_review remains true pending physical-page
+  confirmation of the exact pencil reading, in addition to the existing
+  duplicate-page-number flag noted below. No other pencil marks found on
+  this page; the "He" in "He really didn't" has slightly heavier/bolder
+  ink on the "e" but this is ordinary typewriter ink variation, not a
+  separate mark.

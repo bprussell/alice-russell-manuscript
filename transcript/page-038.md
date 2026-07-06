@@ -52,3 +52,13 @@ tell Frances all evening.
   "Mr. Slay"/"Mr. Saly" on earlier pages refers to the uncles, not to
   Frances.
 - Small chips along the bottom edge of the sheet, away from the text.
+- Small reddish-brown foxing-type specks near "said Aunt Kate." and in
+  the header area — paper aging spots, not ink/pencil marks; no text
+  affected.
+- The "l" in "chuckled" (for "chucked") prints noticeably bolder/heavier
+  than surrounding letters; pixel-level color check shows no consistent
+  excess blue relative to the local ink baseline, so this is ordinary
+  heavy typewriter inking rather than a pencil mark or strikeover — no
+  marker added.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed.

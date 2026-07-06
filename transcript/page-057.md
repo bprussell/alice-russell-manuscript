@@ -3,10 +3,10 @@ page: 57
 typed_page: 55
 book: 1
 image: pages/originals/page-057.jpg
-has_pencil: false
+has_pencil: true
 has_table: false
-illegible_spots: 0
-needs_review: true
+illegible_spots: 1
+needs_review: false
 ---
 
                                                                     55
@@ -18,7 +18,7 @@ Edelstein, Illinois
      Frances pulled her down beside him on the lowest step while Uncle
 George, Aunt  Kate, and their guest returned to comfortable seats in the
 living room.  The children kept up a round of frank chummy talk.  So
-likewise were⟦strikeover: word overtyped; "were" struck over another word, possibly "there"⟧ the older folks with their backs to the stairway.  Mr.
+likewise ⟦illegible⟧⟦pencil: were⟧ the older folks with their backs to the stairway.  Mr.
 Wheeler overcome by the charming hospitality of this fine couple, be-⟦hyphen⟧
 came confidential, that is, much more confidential than this sedate,
 reserved, closed-mouth gentleman had ever allowed himself to be.
@@ -38,7 +38,7 @@ when you get up on the bluff.  Wish I had a few days here."
      "Impossible, but I think we'll plan more time here when we come
 back in two years.
      Laughter and unrestrained chatter drifted from the stairway.
-     ⟦unclear: "⟧Well, we must go now.  Tomorrow will be a hard day on Frances."
+     Well, we must go now.  Tomorrow will be a hard day on Frances."
      Goodbyes were said and they left quickly.  Parepa, without a word,
 turned and went up the steps to bed.
      "I wonder if she will discover she has on her gown when she gets
@@ -49,11 +49,21 @@ turned and went up the steps to bed.
   two behind physical numbering here).
 - "Glascow" (for "Glasgow"), "Mr.Slay" (no space after the period), "Aunt  Kate"
   (double space), and "beautiful City" (capital C) are all as typed.
-- The word after "likewise" is a typewriter strikeover: "were" appears struck
-  over another word (possibly "there"); flagged for verification.
 - The paragraph "Impossible, but I think we'll plan more time here when we come
   back in two years." lacks a closing quotation mark — as typed.
-- The opening quotation mark before "Well, we must go now." is faint/uncertain
-  on the photo; marked unclear.
 - Page ends mid-sentence ("...she has on her gown when she gets").
-- No pencil marks found on this page.
+- Verified: 2026-07-06 — reclassified the mark after "likewise": color analysis
+  (channel comparison against surrounding black typewriter ink, corrected for
+  a page-wide lighting gradient, then confirmed visually with saturation
+  boosted) shows the mark is blue-tinted, not black typewriter ink — it is a
+  blue pencil correction, not a typewriter strikeover as Phase 1 recorded.
+  The legible top layer reads "were" (needed for the sentence's grammar,
+  matching Phase 1's reading), written in blue pencil over the original typed
+  word, which is fully obscured and illegible. Transcribed as
+  ⟦illegible⟧⟦pencil: were⟧; has_pencil set to true and illegible_spots set
+  to 1. Also confirmed on close inspection that the quotation mark before
+  "Well, we must go now." is not faint but genuinely absent — consistent
+  with this page's and page 55's established pattern of the typist sometimes
+  omitting an opening quote — so the ⟦unclear⟧ marker was removed and the
+  line transcribed as typed (no opening quote). Both items resolved with
+  confidence; needs_review set to false.

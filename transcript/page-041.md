@@ -3,10 +3,10 @@ page: 41
 typed_page: 39
 book: 1
 image: pages/originals/page-041.jpg
-has_pencil: false
+has_pencil: true
 has_table: false
-illegible_spots: 0
-needs_review: false
+illegible_spots: 1
+needs_review: true
 ---
 
                                                                     39
@@ -22,7 +22,7 @@ girls and boys.  She told her of some of the pit falls she must watch
 for.
      Aunt Kate realized better than this young girl ever would that her
 modest charms, physical and intellectual, made a peculiar appeal to
-the opposite sex⟦strikeover: "x" overtyped on another letter⟧ as well as being the envy of her own gender.
+the opposite se⟦illegible⟧⟦pencil-delete⟧ as well as being the envy of her own gender.
      Since her stay with them Aunt Kate was often surprized and pleased at
 the super-intelligence unfolding in her.  She knew from the quick and
 precise way she mastered her music lessons there was no doubt that any
@@ -52,6 +52,18 @@ fell directly upon Uncle George.
   break without a hyphen, the sentence beginning "Said Aunt Kate giving..."
   after the closing quote, and the space before the closing quote in
   "for anything. "" are all as typed.
-- "sex" has its final letter typed heavily over another character
-  (strikeover), transcribed with a strikeover marker.
-- No pencil marks found on this page.
+- The mark after "se" (in "the opposite se[x]") was originally classified in
+  Phase 1 as a typewriter strikeover ("x" overtyped on another letter).
+  Close inspection (including pixel-color sampling against the surrounding
+  typed "s"/"e", which are neutral gray-black) shows this mark is distinctly
+  blue-tinted, matching the blue-pencil pattern found elsewhere in the
+  manuscript (pages 9, 16, 20, 210) rather than black typewriter ink.
+  Reclassified as a pencil deletion over an illegible typed character;
+  has_pencil set to true and illegible_spots set to 1. The underlying typed
+  letter cannot be made out beneath the pencil mark, so needs_review is left
+  true pending a physical-page check to confirm the ink color and, if
+  possible, recover the obscured letter.
+- Verified: 2026-07-06 — reclassified the "sex" strikeover mark as a blue
+  pencil deletion over an illegible character (see note above); all other
+  text, line breaks, and spacing confirmed accurate against the photo, no
+  other changes needed.

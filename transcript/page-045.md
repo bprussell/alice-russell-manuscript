@@ -57,4 +57,21 @@ all these wonderful things before she pondered, never knew there was
 - "whose got the button" (for "who's"), "horses feet" (no apostrophe), and
   the unquoted interior monologue "How does it come I never knew..." are as
   typed. "was" is underlined in the original (typed underscore).
-- No pencil marks found on this page.
+- No pencil marks found on this page. Checked the "pork" strikeover, the
+  "prettjer" mark, and the second "clap" mark against the blue-pencil
+  pattern found elsewhere in the manuscript (pages 9, 16, 20, 41, 44, 210):
+  pixel-color sampling shows all three are neutral-to-warm black, consistent
+  with the surrounding typed ink, with no meaningful blue shift. All three
+  remain classified as typewriter marks (strikeover/unclear), not pencil.
+- The apparent wide gap between "m" and "tched" in "matched" (paragraph
+  beginning "he laughed...") is due to a very faint/lightly-struck "a", not
+  a missing letter or an inserted space; column-gap measurement shows the
+  internal spacing is consistent with normal letter kerning, not a word
+  space. Transcribed as "matched" per Phase 1, no change needed.
+- Small tear at the bottom edge of the sheet below the last line (right of
+  center); no text lost.
+- Verified: 2026-07-06 — confirmed the "pork", "prettjer", and "clap" marks
+  are typewriter ink (not pencil); confirmed "matched" is typed correctly
+  despite a faint "a"; no text changes made. needs_review left true — the
+  identity of the struck letters in "prett[j]er" and "cl[d]p" remains
+  genuinely unclear from the photo.
