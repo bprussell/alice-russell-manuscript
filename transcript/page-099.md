@@ -47,15 +47,30 @@ adorned with garlands of roses told each guest their place.
 ## Transcriber notes
 
 - Typed page number "97" at top right.
-- Chapter heading: the numeral reads "CHAPTER XXI", but the final letter
-  is smudged and could also be read as an "L" ("XXL"); it follows Chapter
-  XX (page 93), so XXI is the intended chapter. Verify against the
-  physical page (hence needs_review).
+- Chapter heading: the numeral reads "CHAPTER XXI"; under magnification the
+  final letter has a clear top serif matching the "I"s elsewhere on the
+  page (a capital "L" would have no top serif), and it follows Chapter XX
+  (page 93), so "XXI" is confirmed, not "XXL". (Resolved; was previously
+  flagged needs_review for this.)
 - "MrsBreen" (no space), "Maracco" (for "Morocco"), "wedge wood" (for
   "Wedgwood"), "The card red:" (for "read"), "Professer", "cateress",
   "perect" (for "perfect"), and "shown" (for "shone") are all as typed.
 - "safty bicycle": the vowel is unclear (could be "softy"); "safety
-  bicycle" is presumably meant. The word after "bicycle" is x-ed out by
-  the typewriter; it appears to be "special".
-- "steed" before "white candles" is struck out by the typewriter.
-- No pencil marks found on this page.
+  bicycle" is presumably meant, both for sense and because it was a
+  standard period term.
+- "steed" before "white candles" is struck out by the typewriter (plain
+  black horizontal line, color-checked and consistent with ordinary ink —
+  not pencil).
+- Verified: 2026-07-06 — the mark after "bicycle" (previously transcribed
+  as a typewriter strikeover of "special") was re-examined under
+  magnification and is clearly blue/gray-blue by eye against the
+  surrounding black ink and the black period right next to it — not a
+  shadow or JPEG artifact (confirmed via pixel sampling: this mark's dark-
+  pixel color is blue-shifted far beyond this page's normal ink and beyond
+  the "steed" strikeover above, and matches the direction/magnitude of a
+  confirmed blue-pencil reference mark on page 44). Reclassified as a
+  pencil deletion; the underlying word is still a best guess ("special")
+  since the pencil obscures it. has_pencil set to true; needs_review
+  resolved to false now that both open questions on this page (chapter
+  numeral and this mark's color/type) are settled. All other text and line
+  breaks confirmed accurate against the photo.
