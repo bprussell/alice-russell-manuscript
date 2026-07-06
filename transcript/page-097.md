@@ -57,3 +57,12 @@ he would throw her in.
 - The "a" of "cared" ("had c red for") printed so faintly it is nearly
   blank; marked unclear.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — zoomed on the top-right page number; the corner of
+  the sheet is folded/creased right where the digits sit, cutting off the
+  tops of both characters, so "95" remains a best guess rather than a
+  certain reading; left as ⟦unclear: 95⟧ with needs_review: true. Checked
+  the faint "c red" gap under magnification — no ink at all is visible in
+  the gap (not even a partial "a"), consistent with the existing
+  ⟦unclear: a⟧ guess inferred from context ("cared for"). All other text,
+  line breaks, and punctuation (including the typewriter-style "twins!")
+  confirmed accurate against the photo; no changes made.

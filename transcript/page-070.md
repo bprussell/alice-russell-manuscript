@@ -6,7 +6,7 @@ image: pages/originals/page-070.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     68
@@ -58,3 +58,10 @@ more dignity and reserve," she went on.  "You know Parepa will be
   unclear.
 - Page ends mid-sentence ("You know Parepa will be").
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — checked both strikeover marks (after "deep" and
+  within "can't") pixel-by-pixel against surrounding black type; neither
+  shows a clear, consistent blue tint beyond normal ink/JPEG variance, so
+  both remain classified as typewriter strikeovers, not pencil. The faint
+  "r" in "secrets" is likewise plain light typewriter ink, not blue.
+  Resolved needs_review to false — transcript confirmed accurate against
+  photo, no text changes needed.

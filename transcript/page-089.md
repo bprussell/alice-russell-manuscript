@@ -48,3 +48,4 @@ things."
   comma ("forget,everything") but appears to be a stray ink speck; if it is
   a comma it is typed with no following space.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed. Pixel-sampled the stray mark after "forget" (RGB values consistently warm/brownish, e.g. r>g>b with no blue tint) — confirms it is an ink speck/paper artifact, not a blue pencil mark, consistent with the existing note.

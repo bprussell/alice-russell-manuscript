@@ -3,10 +3,10 @@ page: 79
 typed_page: 77
 book: 1
 image: pages/originals/page-079.jpg
-has_pencil: false
+has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     77
@@ -22,7 +22,7 @@ they talk to each other so bewildered were they.
      Look!  she is returning to the stage in different attire.  This
 time to sing an encore.
      "Marvelous!  Wonderful!" exlaimed Mr. Wheeler, the only one in the
-party who felt uninterested enough in the singer ⟦strikeover: enough⟧ to give himself
+party who felt uninterested enough in the singer enough⟦pencil-delete⟧ to give himself
 up to enjoying it.  As she left the stage this time the  crowd was more
 eager than ever but all the response they got was a most gracious bow.
      In a  few minutes she was joining them in the box.  After greetings
@@ -50,13 +50,21 @@ she sent them to me, telling them I was fully capable of giving a full
 - Typed page number "77" at top right.
 - Page begins mid-sentence, continuing "...the whole house / clapped..."
   from page 78 (physical) — pages are consecutive.
-- The repeated word "enough" after "singer" is struck through with a
-  horizontal line. The strike matches typewriter-ink darkness and is
-  transcribed as a strikeover, but it could conceivably be a hand stroke in
-  ink/pencil — verify against the physical page (hence needs_review).
 - "exlaimed" (for "exclaimed"), "convenienced them" (apparently for
   "convinced"), "Now she here young lady" (apparently for "see here"), and
   "that." she answered" (period before closing quote plus lowercase "she")
   are all as typed.
 - Doubled spaces in "the  crowd" and "In a  few" are as typed.
-- No pencil marks found on this page.
+- Verified: 2026-07-06 — re-examined the strike over the repeated "enough"
+  after "singer" at high zoom. The strike is a single smooth, tapered
+  stroke (thin-thick-thin), unlike the dense repeated-character xxxx/hyphen
+  strikes typewriter x-outs make elsewhere in the manuscript. Pixel color
+  sampling of the strike (away from the underlying letters) gives a
+  distinctly blue-shifted tone (B channel well above R), whereas typed ink
+  and typed hyphens on this same page sample neutral-to-warm (B at or below
+  R) — a clear contrast, not just a shade difference. Reclassified as a
+  pencil deletion: changed ⟦strikeover: enough⟧ to enough⟦pencil-delete⟧
+  (word left legible in the text per convention used elsewhere, e.g.
+  page-142/page-180). Set has_pencil: true and resolved needs_review to
+  false. Rest of page checked line-by-line against the photo and confirmed
+  accurate, including all noted typos and doubled spaces.

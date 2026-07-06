@@ -56,3 +56,8 @@ come her and when at last she bowed her way off stage the whole house
 - Right edge of the sheet is slightly ragged/torn near the middle; no text
   affected.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed. Checked line-by-line including all noted typos
+  ("had began", "surprize", "audiance", "do it .", the comma-then-capital
+  "through,  What", "overcome her", doubled space in "occupants  of") —
+  all match the photo exactly. No pencil or strikeover marks visible.

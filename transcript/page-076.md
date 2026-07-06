@@ -59,3 +59,11 @@ bonnet."
 - No closing quotation mark after "it I roam." — as typed.
 - "Yes, but I suppose" — "but" is xed/blotted out by the typewriter.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed. Re-examined both unclear spots (the faint "f" in
+  "Pro essor" and the trailing "s" in "possibilitie[s]") at high zoom;
+  both remain genuinely ambiguous on the physical page (extremely faint
+  strike / edge-of-sheet crowding), so needs_review is left true per
+  caution. The "never" strikeover and the "but" strikeover were checked
+  for color and are solid black, consistent with typewriter x-outs, not
+  blue pencil.

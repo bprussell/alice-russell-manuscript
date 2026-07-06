@@ -6,7 +6,7 @@ image: pages/originals/page-093.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                    91
@@ -58,3 +58,11 @@ from beginning to end.  Are you⟦strikeover: overtyped character⟧ ready?"
 - In "Are you ready?" an extra character is struck over immediately after
   "you" (typewriter strikeover, not pencil); the intended reading is "you".
 - No pencil marks found on this page (margins and interlinear space checked).
+- Verified: 2026-07-06 — no textual changes; resolved needs_review. Pixel-
+  sampled the strikeover after "you" in "Are you⟦strikeover⟧ ready?": it is
+  neutral gray/black (r≈g≈b, no blue channel dominance), confirming it is an
+  ordinary typewriter strikeover, not blue pencil. Re-examined the faint
+  mark before the period in "clean young love⟦unclear: r⟧" at high zoom — a
+  thin stroke consistent with the shape of "r" is visible, and "lover" is
+  the only sensible reading in context, so the existing ⟦unclear: r⟧ stands
+  as a confident best guess and needs_review is cleared.

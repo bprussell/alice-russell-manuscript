@@ -6,7 +6,7 @@ image: pages/originals/page-083.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     81
@@ -25,7 +25,7 @@ Kate.  This wise woman understood and kissing her warm cheek closed her
 bedroom door and crept quietly down the steps to her husband who was
 sitting on the sofa waiting for her to come to him.  There seemed to
 be a completed understanding between these two people.  One always
-knew just what the other expected of them and always did it⟦unclear: l⟧  Just them
+knew just what the other expected of them and always did it!  Just them
 Uncle George wanted his wife to kiss him and she did.  Then she slipped
 down beside him real close and his arm closed around her.  Here they
 were again, nothing to say, just happy in each other's company.  Once
@@ -49,13 +49,20 @@ ing about?  Are you sure he is good company for you?  A fine looking
 ## Transcriber notes
 
 - Typed page number "81" at top right. Chapter heading "CHAPTER XVII".
-- "always did itl  Just them" — after "did it" there is a stray character
-  that reads as a lowercase "l" (probably a mis-struck exclamation point),
-  and "Just them" (apparently for "Just then") is as typed; flagged unclear
-  on the stray character only.
+- "always did it!  Just them" — the mark after "did it" is a typewriter-made
+  exclamation point (period struck slightly offset under an apostrophe/tick,
+  the era's standard method of faking "!" on machines without a dedicated
+  key); resolved from the earlier ⟦unclear: l⟧ guess on closer comparison
+  with the shape and the sentence break it makes before "Just them" (itself
+  a typo for "Just then", left as typed).
 - "carress", "two pair of eyes", "real metal" (for "mettle"), "stage life
   don't appeal", and "Emmerson" are all as typed.
 - "he said, "And" — comma before capitalized "And" — as typed.
 - Note: this page introduces the surname "Emmerson" for Frances; earlier
   pages spell the character "Frances" with the surname appearing variously.
-- No pencil marks found on this page.
+- No pencil marks found on this page; a smudged double-strike near "her to
+  come" and an overstruck "e/a" in "seemed" and a heavier-inked "a" in "all"
+  are ordinary typewriter artifacts (dark neutral/black ink matching the
+  surrounding type, not blue-tinted) — not corrections, no marker warranted.
+- Verified: 2026-07-06 — resolved the ⟦unclear: l⟧ mark to "!" (typewriter-
+  style exclamation point); set needs_review to false. No other changes.

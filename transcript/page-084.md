@@ -52,3 +52,10 @@ ago that you would come to me if you were in distress for any reason."
 - "surprized", "I wish you know him" (for "knew"), "let your self" (two
   words), "repentence", and "ungratful" are all as typed.
 - No pencil marks found on this page.
+- Checked two ambiguous-looking marks and confirmed both are page defects, not
+  typed/pencil content: a dark speck between "one" and "of" ("...from one of
+  Peoria's...") sits well above the text baseline and is dust/debris, not a
+  typed period (a period there would not make sense mid-sentence); a small
+  brownish spot above "as" ("...now and as they neared...") is warm-toned
+  (foxing/age stain), not blue, and marks nothing needing correction.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed.

@@ -56,3 +56,8 @@ this morning."
   entertainment" (no apostrophe), and ""the rule."  Smiled Aunt Kate"
   (capital S after period) are as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed. Checked line-by-line including the squeezed-in line,
+  "tutorage", "senseable", "any girls head", and the capital-S "Smiled"
+  after the period — all match the photo exactly. No pencil or strikeover
+  marks visible.

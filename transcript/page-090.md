@@ -58,3 +58,4 @@ Kate said, "in celebration of your eighteenth birthday."
 - Doubled spaces in "advisable  for him" and "a  trip somewhere" are as
   typed. The "t" of "tears" (start of line) is overstruck but legible.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed. Checked "exlaimed", "such a think", "torrant", "ungratful", "Al he needs" directly against zoomed crops; all match the typed page exactly. The "been" in "I have been wondering" (near bottom) is a heavier/double-struck impression, similar to the noted "t" of "tears", but reads unambiguously as "been" with no pencil involved.

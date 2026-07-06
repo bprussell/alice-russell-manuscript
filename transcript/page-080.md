@@ -3,10 +3,10 @@ page: 80
 typed_page: 78
 book: 1
 image: pages/originals/page-080.jpg
-has_pencil: false
+has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     78
@@ -30,7 +30,7 @@ of workmanship here.  Congratulations to you both!"
 their hands and kissed them.  "I love them both more than my own life."
      The street car was  coming now and they boarded it for home.  On
 leaving them at the door of their home Frances promised to call for
-Parepa to go for a horse back ride ⟦strikeover: through the Park⟧ some evening the
+Parepa to go for a horse back ride through the Park⟦pencil-delete⟧ some evening the
 next week.
      "You remember we go to Church tomorrow", she reminded him.
      "You bet!  I'll see you there," and he was off.
@@ -53,9 +53,16 @@ candy store at 313 Main Street.  Makes her home with Uncle and Aunt,
   and the doubled spaces in "and that  I must" / "was  coming" are as typed.
 - "all", "I", and "they" are underlined (typed underscore) in the "They
   deserve all the credit" paragraph.
-- "through the Park" is struck through with a continuous horizontal line;
-  darkness matches the typewriter ribbon so it is transcribed as a
-  strikeover, but as with page 79 it could be a hand stroke — verify against
-  the physical page (hence needs_review).
 - Right edge of the sheet has small tears/chips; no text lost.
-- No pencil marks identified with confidence on this page.
+- Verified: 2026-07-06 — re-examined "through the Park" at high zoom. The
+  strike is a single smooth wavy line with a hooked bracket mark at its
+  start, clearly a hand-drawn stroke rather than a mechanical typewriter
+  x-out (which would show discrete repeated hyphen/x impacts). Pixel
+  sampling also shows a mild blue shift relative to crisp black type
+  elsewhere on the page. Reclassified from ⟦strikeover: through the Park⟧
+  to "through the Park⟦pencil-delete⟧" (words kept legible per the
+  pencil-delete convention used elsewhere in the manuscript, e.g.
+  page-142/page-180). Set has_pencil: true and resolved needs_review to
+  false. Rest of page checked line-by-line against the photo, including
+  the underlined "all"/"I"/"they" and all noted typos/doubled spaces —
+  confirmed accurate.

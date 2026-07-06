@@ -6,7 +6,7 @@ image: pages/originals/page-096.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                    94
@@ -50,10 +50,17 @@ I do."
   with a caret between "all" and "things" — recorded as a pencil insertion.
 - "separated that": "that" is struck through with a heavy horizontal line
   the same darkness as the type, so it is recorded as a typewriter
-  strikeover; verify against the physical page that it is not a pencil/ink
-  deletion (hence needs_review).
+  strikeover.
 - The stray apostrophe after the closing quote in "daily shower."'" is on
   the page as typed.
 - "have keep" (for "kept"), "your happy" (for "you're"), "awful late", and
   "That's part of my story  --  I." are all as typed.
 - "estate" and "very" are underlined on the typewriter.
+- Verified: 2026-07-06 — zoomed and pixel-color-sampled the "that" strikeover
+  mark; it shows clear mechanical letter structure (straight overstruck
+  line through typed "t-h-a-t") rather than the solid, letterless blue blob
+  seen in confirmed pencil marks elsewhere (e.g. page 44), and its
+  background-relative color shift does not match the blue-pencil reference.
+  Confirmed as a typewriter strikeover, not pencil; resolved needs_review to
+  false. All other text, the pencil-insert "these", and underlines confirmed
+  accurate against the photo.

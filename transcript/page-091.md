@@ -6,7 +6,7 @@ image: pages/originals/page-091.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     89
@@ -55,6 +55,13 @@ pay it back.  I can do it only b⟦unclear: y⟧ giving entertainments.  That's 
   thought") are all as typed.
 - ""Yes, smiled Aunt  Kate," — missing closing quote after "Yes," and
   doubled space in "Aunt  Kate", as typed.
-- The "y" of "by giving entertainments" failed to strike/is extremely
-  faint; flagged unclear.
+- The "y" of "by giving entertainments" left no visible ink at all
+  (confirmed with a contrast-enhanced crop — not just faint); the space and
+  surrounding context make "by" the only sensible reading, so the
+  ⟦unclear: y⟧ marker stands as a confident best guess.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — no textual changes; resolved needs_review by close
+  zoomed/contrast-enhanced inspection of the "b⟦unclear: y⟧" spot. No ink is
+  present at all for that character (a dropped/non-inking keystroke), but
+  "by" is the only plausible reading in context, so the existing
+  transcription stands and needs_review is cleared.
