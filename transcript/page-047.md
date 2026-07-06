@@ -54,5 +54,15 @@ happy!
   closing quote after "happy!" — as typed.
 - "So" is underlined in the original (typed underscore).
 - The final "d" of "wakened" carries a stray mark above it (appears to be a
-  typewriter overstrike, not pencil).
+  typewriter overstrike, not pencil). Confirmed by pixel-color sampling:
+  this photo has a mild overall blue cast, and the mark's color is
+  statistically indistinguishable from the plain typed letters around it
+  (unlike the confirmed blue-pencil marks on pages 41 and 44, which are
+  clearly and consistently more blue than their surrounding type). Left
+  classified as a typewriter overstrike, not pencil.
+- Confirmed against the photo that "hink" (for "think") genuinely has no
+  "t" typed — this is a real typing omission, not a Phase 1 correction
+  error.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed.
