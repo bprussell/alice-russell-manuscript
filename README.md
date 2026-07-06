@@ -20,6 +20,7 @@ print-ready edition to be given as a gift.
 pages/originals/   Photos of the manuscript pages (page-001.jpg … page-288.jpg)
 pages/box-photo.jpg  Keepsake photo of the manuscript in its box
 transcript/        Verbatim per-page transcriptions (archival layer)
+transcript/REVIEW.md  Pages needing a human look at the physical manuscript
 book/              Edited, continuous text organized by chapter (reading layer)
 book/edits.md      Log of every correction made between the two layers
 print/             Typesetting sources and the final print-ready PDF
@@ -35,7 +36,9 @@ annotation conventions used in the verbatim transcripts.
 - [x] Phase 0 — Photos uploaded and normalized (288 pages + box photo,
       imported from a shared Google Photos album; all pages
       orientation-verified page-by-page)
-- [ ] Phase 1 — Verbatim transcription (2/288 pages)
-- [ ] Phase 2 — Verification pass
+- [x] Phase 1 — Verbatim transcription (288/288 pages)
+- [ ] Phase 2 — Verification pass (33/288 pages verified as a cost/quality
+      pilot; paused for a go/no-go decision on the remaining 255 — see
+      transcript/REVIEW.md for open questions found so far)
 - [ ] Phase 3 — Edited reading text
 - [ ] Phase 4 — Typesetting and print PDF

@@ -6,7 +6,7 @@ image: pages/originals/page-203.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     39
@@ -56,10 +56,27 @@ closely.  For a moment he sat staring vacantly into space.
   and twenty foot city lot"). Rendered here as its own physical line above,
   as on the sheet.
 - In "Allie knew better ... was too wise": a typed "was" is struck out and
-  the word "but" is handwritten above it in what appears to be pencil
-  (lighter, cursive). The strike itself is dark and may be typewriter
-  overstrike or heavy pencil — flagged for review.
-- "called him to his office": the "i" of "his" is overtyped/doubled on the
-  sheet; reads "his".
-- A possible stray comma sits under the closing quote in "try Colorado a
-  few years,"" — hard to distinguish from a speck.
+  the word "but" is handwritten above it in pencil (lighter, cursive,
+  matching other confirmed pencil insertions in this batch). At high zoom
+  the strike through "was" is a thin, straight, dark line consistent with
+  the typewriter-produced strikeouts seen elsewhere (e.g. "when" on page
+  172), not the looser hand-drawn stroke used for the pencil deletion on
+  page 180 — confirmed as a typewriter strikeover, not pencil.
+- "called him to his office": the "i" of "his" is overtyped/bolded on the
+  sheet (a heavier double-struck impression, similar to other overstrike
+  artifacts in this batch); reads "his" without ambiguity.
+- A small mark sits after the closing quote in "try Colorado a few
+  years,"" in addition to the comma before the quote; at high zoom it is
+  an isolated dot separate from both the comma and the quotation mark,
+  most consistent with an ink speck or paper defect rather than an
+  intended punctuation mark. No additional punctuation is transcribed.
+- Verified: 2026-07-05 — resolved the two open questions from the prior
+  pass: confirmed the "was"/"but" strike is a typewriter overstrike (not
+  pencil) by comparing stroke style to known examples elsewhere in this
+  batch, and confirmed the mark near "years,"" is most likely a paper
+  speck rather than punctuation. needs_review changed from true to false;
+  no illegible spots on this page. Rest of page checked line-by-line
+  against the photo and matches exactly, including "flu[x-ed
+  letter].", "thing[x-ed s]", the interlined "one hundred and", and all
+  noted typos ("seige", "house,the", "rambuncious", "acres instead
+  feet").
