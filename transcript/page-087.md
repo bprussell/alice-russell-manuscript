@@ -52,6 +52,13 @@ to his story more as a duty to her Uncle than because she really cared
 - "she gasp." (for "gasped", and no closing quote after "wonderful,"),
   "They road along" (for "rode"), "near by tree" (two words), and
   "alllaround" (three l's, no space) are all as typed.
+- Re-checked the "no closing quote after wonderful," call under
+  magnification: there is a small bold mark right after the comma, but its
+  shape and vertical extent (a body above baseline plus a tail below) match
+  a single heavily-inked/double-struck comma rather than a second,
+  separate quotation mark (a genuine closing double-quote elsewhere on this
+  page, e.g. after "enjoy it,", prints as two distinct ticks, which this
+  mark is not). Left as previously transcribed — no closing quote added.
 - At ""Let's go round" the opening quotation mark is overstruck on a stray
   capital letter (prints like "L); the quote is transcribed and the stray
   strike noted here rather than inline.

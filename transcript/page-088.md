@@ -53,4 +53,7 @@ you suppose I love everything that is pretty, Frances?" she asked.
   and "Oh!  look Frances" (lowercase l after exclamation) are as typed.
 - In "no one else" the first letter of "else" is overstruck/blotted but
   legible.
-- No pencil marks found on this page.
+- No pencil marks found on this page. Checked a faint mark between "like"
+  and "you" in "Because it's just like you," — it is a light tan speck
+  (paper fiber/dust, not ink) and not a stray comma.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed.
