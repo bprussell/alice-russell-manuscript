@@ -54,3 +54,4 @@ Uncle Will will be able to take you into his candy store.  Would you
   as typed.
 - Small tear/fold at the top right corner of the sheet, away from the
   text.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed.

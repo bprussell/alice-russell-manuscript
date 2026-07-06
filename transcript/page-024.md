@@ -55,3 +55,4 @@ the "sleeping beauty".
 - "sometime" (for "some time") and the period inside '"...for tonight."
   said Aunt Kate' are as typed.
 - The "g" of "managed" prints faintly ("mana ed"); read as "managed".
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed. Pencil "Chap. 4." marginal note re-confirmed as written.

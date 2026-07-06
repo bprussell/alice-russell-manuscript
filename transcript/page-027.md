@@ -53,3 +53,4 @@ He liked her extremely and wanted her to "play with" so to speak.
   (for "laughed") are as typed.
 - "so wrapped were they" — "wrapped" (for "rapt") is as typed.
 - First mention of the city: "There's no cows to milk in Peoria."
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed.

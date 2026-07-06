@@ -56,3 +56,4 @@ Kate steered her into the largest store yet.
   ("bri med"); read as "brimmed".
 - Small chips/tears at the top edge and left edge of the sheet, away from
   the text.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed.

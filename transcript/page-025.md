@@ -56,3 +56,4 @@ his hand?  He had on a blue suit, too, and a cap something like hers!
   after the opening quotation mark) is as typed.
 - Frances is referred to as "him" ("Finally she saw him coming.") — as
   typed; Frances appears to be a boy in this narrative.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed. Pencil "propriety" over struck "property" re-confirmed precisely as transcribed.

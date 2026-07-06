@@ -58,3 +58,4 @@ front of them.  She too was dreaming - "Our girl! Our Maude'. Parepa
   no period between — as typed.
 - '"Our girl! Our Maude'.' — closing punctuation after Maude is an
   apostrophe rather than a double quotation mark, as typed.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed. Zoomed in to re-check the "hhe"/"to" strikeover region and the "convenienced."" line-ending punctuation; both match photo precisely.
