@@ -59,3 +59,7 @@ been sixteen now."  Then she slipped a clean, stiffly starched ginham
 - No pencil marks found on this page.
 - Continues from page 10 ("...could have kissed him for that." / "Come
   right on in...") — consecutive.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed. (Noted a small brownish paper stain/fiber between "over"
+  and "the" in "climbed over the edge of the tub" — physical mark, not
+  pencil or ink, not transcribed.)

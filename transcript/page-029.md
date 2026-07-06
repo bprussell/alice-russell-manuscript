@@ -57,3 +57,7 @@ lessons both at once", she clapped her hands and then rushed to Aunt
   (no apostrophe) are as typed.
 - Notch torn out of the left edge near the top text block, not touching
   any characters.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed. Checked the "sixty-thirty" strikeover closely; the
+  transcript's description of the marks matches the photo. No pencil
+  marks found anywhere on the page (margins and between lines checked).

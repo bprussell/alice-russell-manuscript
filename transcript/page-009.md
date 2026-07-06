@@ -3,10 +3,10 @@ page: 9
 typed_page: 9
 book: 1
 image: pages/originals/page-009.jpg
-has_pencil: false
+has_pencil: true
 has_table: false
-illegible_spots: 0
-needs_review: false
+illegible_spots: 1
+needs_review: true
 ---
 
                                                                     9
@@ -36,7 +36,7 @@ and Uncle George wondering how in the world he had made such a rash
 promise.  Already he could hear the complaint of his customers at not
 finding the useful premiums they expected to get.  Well, he'd slip in
 a few any way.
-     Parepa-Roza boke the silence, "And Uncle George, ⟦strikeover: single character blacked out⟧you'll let me
+     Parepa-Roza boke the silence, "And Uncle George, ⟦illegible⟧⟦pencil-delete⟧you'll let me
 help pack in the pretty things won't you?  Let's see, we'll put in
 lots of those beads, they are so pretty.  Do you care if I wear a
 string of them till we get to your house?  I love those pink ones."
@@ -51,6 +51,14 @@ a long strand of the cheapest glass beads one could imagine.
   / "Now what are you up to?"
 - "happines" (for "happiness"), "sometime" (one word), "boke" (for
   "broke"), and "any way" (two words) are as typed.
-- Before "you'll let me" a single typed character is heavily blacked out
-  by strikeover (confirmed under magnification).
-- No pencil marks found on this page.
+- Before "you'll let me" a single typed character is heavily blacked out.
+- Verified: 2026-07-06 — corrected: the blacked-out mark before "you'll let
+  me" was mis-recorded as a typewriter ⟦strikeover⟧. Pixel-color analysis
+  against the surrounding typed ink (which reads warm/red-dominant, as
+  expected of aged black typewriter ribbon on this page) shows the blot
+  itself is distinctly blue-dominant — inconsistent with typewriter ribbon
+  and consistent with a hand-applied pencil (or blue pencil) strike. Per
+  the precedent on page 210 (same failure mode found there previously),
+  reclassified as ⟦illegible⟧⟦pencil-delete⟧, the struck character cannot
+  be identified. Set has_pencil: true, illegible_spots: 1, needs_review:
+  true pending physical-page confirmation of the exact medium.

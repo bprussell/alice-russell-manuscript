@@ -59,3 +59,5 @@ blue border - in the <u>kitchen</u>, mind you.
 - No pencil marks found on this page.
 - Continues mid-sentence from page 11 ("...stiffly starched ginham / dress
   over the clean stiffly starched petticoat...") — consecutive.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed.

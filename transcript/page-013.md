@@ -54,3 +54,5 @@ She didn't need to wonder long for when she went in Aunt Kate told
 - No pencil marks found on this page.
 - Continues from page 12 ("...in the kitchen, mind you." / "Finally Aunt
   Kate broke the spell...") — consecutive.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed.

@@ -58,3 +58,4 @@ reins at a farm house where he always fed his horses and got his dinner
 - No pencil marks found on this page.
 - Continues mid-sentence from page 5 ("...Parepa's / face fell.") —
   consecutive.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed.

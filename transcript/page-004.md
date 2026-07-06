@@ -31,7 +31,7 @@ finished grade school the question arose in the family just what was
 best to do with her.  There were two sisters and one brother older
 and one brother and sister younger than she.  The family finances,
 which were never quite equal to the demand, were insufficient to send
-her to high school.  Any way she didn't care to go to highschool, she
+her to high school.  Any way she didn't care to go to highschool⟦strikeover: first two letters struck over⟧, she
 wanted to earn while she learned.
      Finally one day in August, the 17th. to be exact, an Uncle from
 Peoria came on his regular two weeks trip.  He drove a team to a tea
@@ -55,3 +55,9 @@ weeks which was the time for his regular return trip.
 - No pencil marks found on this page.
 - Page begins mid-sentence, continuing from page 3 ("...well on / their way
   home.") — consecutive.
+- Verified: 2026-07-06 — corrected: the first two letters of "highschool"
+  are struck over by the typewriter (bolded/doubled impression under
+  magnification); this had been silently rendered as plain "highschool"
+  with no marker. Added ⟦strikeover: first two letters struck over⟧. Final
+  reading "highschool" is unambiguous, so needs_review remains false and
+  has_pencil remains false (typewriter mark, not pencil).

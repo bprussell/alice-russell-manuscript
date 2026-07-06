@@ -59,3 +59,5 @@ eh. Kate?"
 - Continues mid-sentence from page 9 ("...we'll put in a / a lot of those
   pretty pictures") — note the duplicated "a" across the page break: page 9
   ends "we'll put in a" and this page begins "a lot of".
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed.

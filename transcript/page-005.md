@@ -54,3 +54,4 @@ he said, "Of course, your folks will have to agree to it."  Parepa's
 - No pencil marks found on this page.
 - Page begins mid-sentence, continuing from page 4 ("...washing out and
   pressing this / dress and that...") — consecutive.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed.

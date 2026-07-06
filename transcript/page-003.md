@@ -52,3 +52,4 @@ she would be kept after school until the other children were well on
   (for "an old bracelet") are as typed.
 - Page begins mid-sentence, continuing from page 2 ("...in the breeze.  She /
   imagined herself a bird...") — consecutive.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed; pencil correction "past" over typed "poas" re-checked and matches.

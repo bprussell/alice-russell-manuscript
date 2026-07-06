@@ -3,10 +3,10 @@ page: 16
 typed_page: 15
 book: 1
 image: pages/originals/page-016.jpg
-has_pencil: false
+has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: false
+needs_review: true
 ---
 
                                                                    15
@@ -42,7 +42,7 @@ he said as his eyes fell on the remainder of "'Parepa's first'.  "Really
 I thought that was the best salad I ever ate.  How did you make it
 Mrs Slay?"  Parepa wished she wasn't there to hear Aunt Kate tell him
 she made it, but she was and when he grabed her two hands in his and
-swu g her around saying, "Hurrah for the champaion salad maker" she
+swu g her around saying, "Hurrah for the champai⟦pencil: blue mark obscures a letter, most likely "o"⟧n salad maker" she
 
 ## Transcriber notes
 
@@ -52,10 +52,23 @@ swu g her around saying, "Hurrah for the champaion salad maker" she
   quote cluster "'Parepa's first'. are as typed.
 - "grabed" (for "grabbed") is as typed; "swu g" (faint/skipped "n" in
   "swung") is as typed on the page.
-- In "champaion salad maker" (for "champion") the letter before the final
-  "n" is blotted with heavy dark ink (strikeover blob, like page 9).
+- In "champai[?]n salad maker" (for "champion") the letter before the final
+  "n" is obscured by an opaque blue-toned mark — under magnification the
+  color is distinctly blue-gray, not the brown-black of the typewriter
+  ink used throughout the rest of the page, so this is not a typewriter
+  strikeover as previously noted. It reads more like a blue-pencil/ink
+  blot. Context ("champaion" as elsewhere in the manuscript for
+  "champion") strongly supports the obscured letter being "o", but the
+  mark is fully opaque with no legible letter shape underneath, so this
+  is flagged for physical-page verification rather than asserted as fact.
 - Chunk torn from the right paper edge beside the "porch with you" lines;
   no text lost.
-- No pencil marks found on this page.
 - Continues from page 15 ("...always said the right thing at the right
   time." / "Let's go tomorrow evening then") — consecutive.
+- Verified: 2026-07-06 — corrected mischaracterized mark: the blotted
+  letter in "champa[?]n" was previously described as "heavy dark ink
+  (strikeover blob)" with has_pencil left false; pixel-level color
+  inspection shows the mark is blue-toned, not typewriter ink, matching
+  the same kind of ambiguous blue mark flagged on page 20. Updated the
+  inline marker to ⟦pencil: ...⟧, and set has_pencil: true and
+  needs_review: true pending a physical-page check.
