@@ -60,3 +60,15 @@ which to eat and took this opportunity to warn Parepa of the dangers of
   and 26 ("Mr. Saly"), and physical page 38 has "Mr. and Mrs. Slay" for
   Uncle George and Aunt Kate — Slay is evidently the family surname of
   both uncles.
+- Verified: 2026-07-06 — found one missed strikeover: the header's
+  "Edelstein" has its first two letters ("Ed") heavily overtyped/blotted,
+  the same kind of mark already flagged on physical page 32's header;
+  added a strikeover marker to match. Also added a strikeover marker on
+  "appreciativeness" (the "i" before "veness" is overtyped) to match this
+  manuscript's convention for such marks — the reading itself was
+  already correct, letter-count against "appreciativeness" (16 letters)
+  confirms it, not "appreciatively". No pencil marks found anywhere on
+  the page. Typed page number "33" is clean/legible here, i.e. the
+  sequence is still normal at this page; the known duplicate "34" is on
+  physical pages 35/36, just after this range — not visible on this
+  page.
