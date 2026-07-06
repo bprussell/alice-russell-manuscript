@@ -6,7 +6,7 @@ image: pages/originals/page-086.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     84
@@ -19,7 +19,7 @@ Edelstein, Illinois
                               CHAPTER XVIII
 
      At promptly five-thirty Frances pulled up in front of the Slay
-home with a beautifully matched span of coal black beauties.  ⟦unclear: Prepa⟧
+home with a beautifully matched span of coal black beauties.  Prepa
 was ready and Aunt Kate stood on the porch and waved a long good-bye as
 they cantered down the shady street.
      "We'll have two hours before dusk," said Frances.  "Which way shall
