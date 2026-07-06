@@ -52,4 +52,13 @@ had she wished she was home.
 - The play seen is Uncle Tom's Cabin (typed without underline).
 - "seemed" in "seemed only to aggravate" prints faintly (ribbon skip) but is
   legible.
-- No pencil marks found on this page.
+- No pencil marks found on this page. Checked the doubled/struck first
+  letter of "fact" against the blue-pencil pattern found elsewhere in the
+  manuscript (pages 9, 16, 20, 41, 44, 210): pixel-color sampling shows
+  only a mild blue lean, comparable to normal ink variation on this page
+  and much smaller than the confirmed pencil marks on pages 41 and 44; the
+  letter shape is clearly a legible "f" consistent with a typewriter
+  double-strike correction. Left classified as a typewriter strikeover, not
+  reclassified.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed.

@@ -48,17 +48,22 @@ George.
 ## Transcriber notes
 
 - Typed page number "66" at top right. "CHAPTER XIII" heading centered.
-- A short dash sits in the left margin before the opening line "In these
-  two years..." — transcribed as a typed dash, but (as with the marks on
-  page 1) it may be a pencil paragraph mark; verify against the physical
-  page.
 - "was witting to diverge" (evidently for "willing to divulge"), "neice",
   "postmakr" (for "postmark"), "keep sake drawer", "tongue end", and
   "surprized" are all as typed.
-- "much-left unsaid" — the hyphen-like mark between "much" and "left" is
-  transcribed as typed; may be a stray strike.
+- "much-left unsaid" — close zoom shows a normal thin, crisp, uniform-width
+  typewriter hyphen (matching the hyphen style seen elsewhere, e.g. p.65
+  "love-sick"); this is a genuine typed hyphen, not a stray mark.
 - ""candy shop"." (double punctuation) as typed.
-- In "said Uncle George" (third line from bottom) the "n" of "Uncle"
-  printed faintly ("U cle" appearance) — marked unclear.
 - Page ends mid-sentence ("...his money to educate").
-- No clear pencil marks; margin dash flagged above as ambiguous.
+- Verified: 2026-07-06 — two items resolved on close photo inspection.
+  (1) The mark previously transcribed as a typed dash before "In these two
+  years..." is, under magnification, a soft-edged, variable-width diagonal
+  stroke unlike any crisp typewriter-struck character on the page; it sits
+  in the margin left of the normal indent. Reclassified as a pencil mark
+  (⟦pencil-note⟧, likely a paragraph indicator) rather than typed text;
+  has_pencil set to true, needs_review set to false.
+  (2) "said Uncle George" — the faint gap ("U cle") is a very lightly
+  inked but present "n" (a thin trace is visible under magnification, in
+  black typewriter ink, not pencil); reading firmed up to "Uncle" and the
+  unclear marker removed.

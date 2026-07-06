@@ -27,7 +27,7 @@ time some way.  Let's stop in here and have some ice cream," and he
 swung them into a stylish eating place before they could object.
      After they were seated and the order given he turned to Parepa and
 said, "Well, Peaches and Cream, how did the candy store treat you today?"
-     "If you are speaking to me, I'm Parepa-Rosa and not sliced fruit.
+     "If you are speaking to me, I'm Parepa-Roza⟦strikeover: "z" appears overtyped/double-struck, matching the pattern seen elsewhere in the manuscript (e.g. page 1)⟧ and not sliced fruit.
 The candy store was great.  I like it better every day."
      Frances gave a jolly laugh and reached over and pinched Parepa's
 arm.  She slapped at him just as she would have big brother at home.
@@ -53,3 +53,12 @@ said.
 - Closing quotation mark missing after "It won't be so lonesome" (reads
   "...so lonesome she / said."), as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — corrected a transcription error: "I'm
+  Parepa-Rosa and not sliced fruit" had misread the name as "Rosa".
+  The name is spelled "Parepa-Roza" consistently everywhere else in the
+  manuscript (see e.g. page 1, page 2, page 10, etc.), and the letter in
+  question here is a messy, overtyped/double-struck character
+  consistent with the "z overtyped on another letter" pattern already
+  noted for this name on page 1. Corrected to "Roza" with a strikeover
+  marker; pixel-level color check confirms ordinary black typewriter ink
+  (no pencil involved).
