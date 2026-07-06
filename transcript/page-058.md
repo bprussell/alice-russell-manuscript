@@ -3,9 +3,9 @@ page: 58
 typed_page: 56
 book: 1
 image: pages/originals/page-058.jpg
-has_pencil: true
+has_pencil: false
 has_table: false
-illegible_spots: 1
+illegible_spots: 0
 needs_review: true
 ---
 
@@ -22,7 +22,7 @@ as if she hadn't been disturbed.
 and left for the candy shop without mentioning or giving any indication
 she even thought of the night before.
      Uncle George was puzzled over her actions.  He expected she would
-be all brok⟦illegible⟧⟦pencil-delete⟧ up over Frances departure.
+be all broken⟦strikeover: letter overtyped within "broken"⟧ up over Frances departure.
      Five days passed - a letter for Parepa bearing a New York postmark
 came.  Aunt Kate could hardly wait until she came home from work.
      "Guess what I've got behind me," and Aunt Kate backed against the
@@ -51,19 +51,19 @@ eating supper, and chatting about the days happenings at the store.
   (possible section/chapter break before the next page).
 - Small tear/notch at the top edge of the sheet, above the header; no text
   affected.
-- Verified: 2026-07-06 — reclassified the mark in "broken": color analysis
-  (same method used on page 57 — channel comparison against the page's other
-  black typewriter ink, corrected for a page-wide lighting gradient, then
-  confirmed visually with saturation boosted) shows the mark is blue-tinted,
-  not black typewriter ink, so it is a blue pencil mark, not a typewriter
-  strikeover as Phase 1 recorded. Unlike the page 57 mark, this one is a
-  dense, solid blot with no recoverable letterforms (isolating the blue
-  pixels from the black-ink pixels in the crop shows a single opaque block,
-  not distinct strokes), so — despite "broken" being the obvious contextual
-  fit ("all broken up over Frances['] departure") — the obscured letters
-  cannot be confidently read as "en" or confirmed as a like-for-like
-  correction versus a straight deletion. Transcribed as
-  brok⟦illegible⟧⟦pencil-delete⟧ up; has_pencil set to true and
-  illegible_spots set to 1. needs_review left true pending a physical-page
-  check to confirm whether "broken" is recoverable under raking light/other
-  means.
+- Verified: 2026-07-06 — checked the overtyped letter in "broken" against
+  the recurring blue-pencil pattern found elsewhere in the manuscript (pages
+  9, 16, 20, 210). Calibrated against a confirmed blue-pencil mark on page 9
+  (obviously, unmistakably blue to the naked eye with no enhancement needed)
+  and found this mark shows no such visible blue tint at high zoom — it
+  reads as dense black typewriter ink, consistent with an ordinary
+  overtyped-letter strikeover. An initial pixel-color pass suggested a
+  slight blue shift, but it did not hold up under a tighter, threshold-
+  matched re-test (the mark's raw blue-channel reading was, if anything,
+  lower than an adjacent, definitely-black word on the same line), and a
+  saturation-boosted "confirmation" proved to be a rendering artifact — the
+  same boost also turns known black type blue-purple. Confirmed as a
+  typewriter strikeover, matching Phase 1's original classification; no
+  change made to the text or has_pencil. The "immediately" gap and the
+  "broken" strikeover remain the two original points of uncertainty on this
+  page; needs_review left true pending a physical-page check of both.

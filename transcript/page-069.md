@@ -6,7 +6,7 @@ image: pages/originals/page-069.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     67
@@ -60,3 +60,11 @@ s
 - Small tear/notch at the right edge of the sheet (mid-page) and at the
   left edge lower down; no text lost.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — closely inspected all four flagged strikeover/
+  unclear marks (the "beaux"/"she" overtype join, the struck closing quote
+  after "had,", the struck final letter of "beaux," before "corrected Aunt
+  Kate", and the stray raised/duplicated "s" near "Let's wait"). All are
+  black typewriter ink consistent with ordinary typewriter strikeovers or
+  mis-strikes, not blue pencil. Readings confirmed as already transcribed;
+  needs_review set to false. Rest of page checked line-by-line against
+  photo, no other changes needed.
