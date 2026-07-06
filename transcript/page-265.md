@@ -6,7 +6,7 @@ image: pages/originals/page-265.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                    101
@@ -43,7 +43,7 @@ strong today," she answered.
 she kissed her check tenderly.
 
      "Sure as the world.  Now let's get busy."  Daddy witnessed the signa-⟦hyphen⟧
-ture to each, ⟦pencil-insert: officially. Parepa⟧ Parepa officially⟦pencil-delete⟧ watched the proceeding with sadness in
+ture to each ⟦pencil-insert: officially, Parepa⟧ Parepa officially⟦pencil-delete⟧ watched the proceeding with sadness in
 her heart.  Why must such good people as these be taken from this world?
 Their every desire is to do good for others.  I'll try my best to carry
 on for them she vowed silently as Daddy declared, "That is the last one."
@@ -55,13 +55,23 @@ on for them she vowed silently as Daddy declared, "That is the last one."
 - Typed page number "101" at top right.
 - Typewriter strikeover: "worrying" with the "ing" x-ed out, leaving
   "worry".
-- Pencil correction near the bottom: a caret after "ture to each," with
-  cursive pencil "officially. Parepa" written above the line, and the typed
-  words "Parepa officially" struck through in pencil — reordering the
-  sentence to "...the signature to each officially. Parepa watched the
-  proceeding...". The pencil word is spelled more like "offically" and its
-  punctuation (period vs. comma) is ambiguous — flagged for review.
+- Pencil correction near the bottom: a caret after "ture to each" (no
+  typed comma there — confirmed at high zoom, unlike the typed commas
+  elsewhere on this page) with cursive pencil "officially, Parepa" written
+  above the line, and the typed words "Parepa officially" struck through
+  in pencil — reordering the sentence to "...the signature to each
+  officially, Parepa watched the proceeding...". The pencil word is
+  clearly spelled "officially" (double f) and the mark after it is a
+  comma, not a period.
 - "surprize" (twice) and "she kissed her check tenderly" ("check" for
   "cheek"; a faint mark sits above the word, possibly an attempted
   correction) are as typed.
 - "O' yes" — apostrophe after the O, as typed.
+- Verified: 2026-07-06 — corrected an erroneous comma the transcript had
+  placed after "each" before the pencil-insert marker (the typed page has
+  no comma there; confirmed by close-up comparison against typed commas
+  elsewhere on the page). Also fixed the pencil-insert text's punctuation
+  from a period to a comma ("officially, Parepa") and corrected the note
+  that had described the pencil spelling as "offically" — it is clearly
+  "officially" at high zoom. Both strikeovers and other faint spots
+  re-examined and confirmed accurate. Resolved needs_review to false.

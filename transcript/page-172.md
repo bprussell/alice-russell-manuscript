@@ -83,3 +83,14 @@ them.  His genuine kindliness, his unpolished, truthful standards, his
 - "awkward-/ness" hyphenated across the line break by the typist.
 - Page is double-spaced on the original; ends mid-sentence, continuing onto
   page 173.
+- Verified: 2026-07-05 — re-examined the "crazy ⟦strikeover: illegible⟧venture"
+  mark at high zoom: it is a dense, curved black overstrike (likely repeated
+  typewriter characters struck on the same spot) fused into a solid loop,
+  clearly distinct in darkness and straightness from the gray cursive pencil
+  insertions elsewhere on the page ("where", "Allie") and from the thin
+  straight typewriter strikeover on "when" — confirming typewriter
+  strikeover, not pencil, is the correct marker. Underlying letters remain
+  unrecoverable; needs_review correctly left true. Rest of page (pencil
+  "where"/"when" correction, pencil "Parepa"/"Allie" correction, "surprized",
+  "Never-the-less", "comin'.") checked against the photo and transcribed
+  accurately; no changes needed.

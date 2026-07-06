@@ -5,7 +5,7 @@ book: 2
 image: pages/originals/page-174.jpg
 has_pencil: true
 has_table: false
-illegible_spots: 2
+illegible_spots: 1
 needs_review: true
 ---
 
@@ -21,7 +21,7 @@ Edelstein, Illinois
 amount of cash you have saved," said her anxious mother.  "You know
 we can't help you any."
 
-⟦pencil-insert: Mother⟧  "Don't worry, dear," she said kissing her.  "I know how to make
+     "Don't worry, ⟦pencil-insert: Mother⟧ dear," she said kissing her.  "I know how to make
 some.  I'll get along all right."  -   -   -   -   -
 
      We now find our Parepa-Roza back with us again, for on the Allen
@@ -47,23 +47,24 @@ Aunt Kate's and (as she thought of him) Frances's deaths.
 These finally simmered down to one.  The smartest and most handsome
 young fellow in school.  He had graduated with honors and had secured
 a position as Principal of a small town high school.  He was there
-through the summer session to "⟦unclear: f⟧reshen up" on a few subjects.
+through the summer session to "freshen up" on a few subjects.
 
 ## Transcriber notes
 
 - Typed page number "10" at top right corner. New chapter heading
   "CHAPTER III" begins this page, continuing directly from page 173's
   closing line about "being good friends for awhile."
-- Pencil insertion "Mother" appears written above the line, positioned
-  before the paragraph that opens "Don't worry, dear,". It most likely
-  functions as a speaker tag/insertion identifying the speaker of that
-  line of dialogue, but its exact intended placement relative to the
-  opening quotation mark is not fully certain from the photo; flagged for
-  verification against the physical page.
+- Pencil insertion "Mother": on close inspection the cursive word is
+  centered directly above "worry, dear," — its right edge lines up with
+  "dear," not with the opening quote or "Don't" — so it reads as the
+  period endearment "Mother dear" inserted immediately before "dear":
+  "Don't worry, Mother dear," she said kissing her. Corrected placement
+  from an earlier draft that had positioned the insertion before the
+  opening quotation mark.
 - The trailing punctuation after "I'll get along all right."" is a row of
-  short dashes/hyphens trailing off (a stylistic flourish common to the
-  era); the exact count and spacing of the marks is approximated here and
-  should be checked against the original.
+  dashes/hyphens trailing off (a stylistic flourish common to the era);
+  recounted at high zoom and confirmed as exactly five short dashes,
+  matching the transcript.
 - "summner" (for "summer") and "pagents" (for "pageants") are as typed.
 - "hers⟦strikeover: illegible⟧f champion": the middle of "herself" is
   overstruck/garbled by what appears to be a mistyped character corrected
@@ -71,10 +72,11 @@ through the summer session to "⟦unclear: f⟧reshen up" on a few subjects.
   context, but the exact struck character(s) cannot be made out. The same
   kind of garbled overstrike recurs on later pages in this batch (e.g.
   page 176, page 177) wherever "herself" appears.
-- '"⟦unclear: f⟧reshen up"': the initial letter of "freshen" is disturbed
-  by a stray mark/overtype that makes it look almost like a capital "T";
-  read as "freshen" from context and the quotation marks around the
-  idiom.
+- '"freshen up"': the initial letter of "freshen" is doubled/overinked
+  (a blurred re-strike of the same key, not a different character),
+  which at low zoom can look almost like a capital "T". At high zoom the
+  hook, stem, and crossbar of a lowercase "f" are all present; confirmed
+  as "f" and transcribed plainly (no longer flagged unclear).
 - Small stray mark above the "a" in "small" (first paragraph) and above
   the "y" in "any" (fourth paragraph, "rival any in the school") appear to
   be minor ink/strike artifacts rather than corrections; both words are
@@ -82,3 +84,11 @@ through the summer session to "⟦unclear: f⟧reshen up" on a few subjects.
 - No true pencil corrections (in the sense of crossed-out typed text)
   found on this page besides the "Mother" insertion noted above.
 - Page is double-spaced on the original; ends with a paragraph break.
+- Verified: 2026-07-05 — corrected the "Mother" pencil-insert placement to
+  before "dear" (forming "Mother dear") based on its alignment in the
+  photo; resolved the "⟦unclear: f⟧reshen" marker to a confirmed plain
+  "freshen"; confirmed the trailing dash count is five. illegible_spots
+  reduced from 2 to 1 to reflect the resolved "freshen" marker; the
+  garbled "hers...f" (herself) overstrike remains genuinely illegible, so
+  needs_review is left true. Rest of page checked against the photo and
+  matches.

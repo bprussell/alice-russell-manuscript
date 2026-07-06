@@ -56,3 +56,4 @@ to find you before he kicks off," he laughed.
 - "CERtainly" (capitalized first syllable), "refer too" (for "refer to"),
   and the double space in "some fellow  in Arizona" are all as typed.
 - No other pencil marks found on the page.
+- Verified: 2026-07-05 — transcript confirmed accurate against photo, no changes needed. The "Journal" ⟦pencil: Tribune⟧ correction was re-checked closely and is transcribed precisely as it appears (typed "Journal" struck through, "Tribune" written in pencil above with a caret).

@@ -6,7 +6,7 @@ image: pages/originals/page-253.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     89
@@ -26,7 +26,7 @@ the color of the home itself blended harmoniously into the sun-baked
 desert tan.  "Oh, it is beautiful!" she exclaimed.  "I can see Frances's
 nature cropping out all over.  I hope he is able to enjoy it for many
 years to come."
-     "She is not apt to my dear unless seeing you works a miracle.  She
+     "SHe is not apt to my dear unless seeing you works a miracle.  SHe
 has rallied considerable since we got your telegram.  I am glad you lost
 no time in coming," he said and Parepa noticed his face cloud as he
 added, "H⟦strikeover: er⟧ one hope seemed to be that she find you before it was too
@@ -48,8 +48,8 @@ to see him again," she pleaded.
 
 - Two typewriter strikeovers appear: "H⟦strikeover: er⟧" (a false start
   before "one hope") and "⟦strikeover: deis⟧" (a false start before
-  "disease"); both readings are best-effort and should be checked against
-  the physical page.
+  "disease"); both readings were re-checked at high zoom during
+  verification and confirmed to match the photo.
 - "Francis" (line 2, this page) vs. "Frances" (used everywhere else on
   this page, e.g. "I can see Frances's") — inconsistent spelling in the
   original, preserved verbatim.
@@ -64,3 +64,11 @@ to see him again," she pleaded.
 - The last line opens with a stray leading quotation mark before "The
   car stopped..." even though this is narrative, not dialogue — preserved
   as typed. The page/paragraph is cut off mid-scene.
+- Verified: 2026-07-05 — corrected two instances of "She" to "SHe" (both
+  occurrences of "SHe is not apt to my dear... miracle.  SHe has rallied
+  considerable...") to match a capitalization typo on the page (capital
+  "SH" typed instead of "Sh"), the same kind of shift-key slip seen
+  elsewhere in this manuscript (cf. "CERtainly" on page 236). Re-examined
+  both strikeovers and the faint "expression"/"least" characters at high
+  zoom; all other readings confirmed accurate. Resolved needs_review to
+  false — no remaining ambiguity found on this page.

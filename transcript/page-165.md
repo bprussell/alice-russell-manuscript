@@ -28,7 +28,7 @@ the real brothers and sisters whose blood she knew was pure.
 school.  Lavena, the next oldest sister was her father's and mother's
 'right hand man' taking the responsibility of the younger children onto
 her own shoulders so completely that they felt her 'orders were orders'
-and stepped to her music or wished they had.  She was a -born ⟦unclear: mamager⟧
+and stepped to her music or wished they had.  She was a -born mamager
 and managed the whole family.  The boys were regular farmers, working
 early and late day after day.
      Little Iona the baby of the family was now twelve years old and
@@ -57,9 +57,10 @@ say "in the yard" of some more fortunate church member who possessed
 - Pencil correction: typed "dity" is struck through in pencil and cursive
   "dirty" is written above it in the line "the cows, the hills, the dity
   dishes,".
-- "She was a -born ⟦unclear: mamager⟧": a stray typed dash sits directly
-  before "born"; the following word is smudged/overinked and reads
-  "mamager" or "manager" — flagged unclear for the verification pass.
+- "She was a -born mamager": a stray typed dash sits directly before "born";
+  the following word is clearly typed with a doubled "m" (three full down-
+  strokes, not a smudge) reading "mamager", a typist's transposition of
+  "manager". As typed; preserved verbatim.
 - A stray overtyped mark (typewriter ink, not pencil) sits above the "a" of
   "and" at the start of the line "and stepped to her music..." — appears to
   be a partial strikeover character, no text lost.
@@ -69,3 +70,12 @@ say "in the yard" of some more fortunate church member who possessed
 - Page is double-spaced on the original; transcript preserves one line per
   typed line without the extra leading.
 - Page ends mid-sentence ("...who possessed"), continuing onto page 166.
+- Verified: 2026-07-05 — resolved the "mamager" ⟦unclear⟧ marker to a
+  confirmed plain reading after close zoom inspection (clearly a doubled
+  "m", not a smudge); confirmed pencil "dity"/"dirty" correction and stray
+  overtype mark against the photo. The two ghost lines above "CHAPTER I"
+  remain illegible even under contrast enhancement (a shape resembling
+  "II" is faintly discernible at the end of the second line, consistent
+  with a possible "BOOK II" title, but not confident enough to transcribe);
+  needs_review left true for that reason. Rest of page transcribed
+  accurately, no other changes.

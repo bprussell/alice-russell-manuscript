@@ -35,7 +35,7 @@ ally.
 not urging me to disclose it.  Let's talk about the weather or something."
      "All right," he agreed, "what kind of weather do you have at home?"
 he asked teasingly.
-     "Oh, changeable," she laughed.  ⟦unclear: And⟧ sometimes <u>very</u> unusual."
+     "Oh, changeable," she laughed.  And sometimes <u>very</u> unusual."
      "Must be you are from Florida or California," he said.  "Which?"
      "Ask me another, as my boys would say," she answered glad to let
 him know she was a mother of boys.
@@ -53,12 +53,21 @@ many have you got?" she quized?
   before "finest in the world" — the struck characters could not be read
   with confidence and are marked illegible; verify against the physical
   page.
-- The word transcribed "⟦unclear: And⟧" at the start of "sometimes very
-  unusual" has a faint/malformed leading character in the photo; "And" is
-  the best contextual guess.
+- The word at the start of "sometimes very unusual" is typed "And"; the
+  leading "A" is a heavy inked/smudged strike (a print-quality defect, not
+  a different letter), but at high zoom the "nd" is unambiguous and the
+  blob is consistent with a malformed "A". Reading confirmed; the
+  ⟦unclear: …⟧ marker has been removed.
 - "sarcastic-" hyphenates across the line break to "ally." on the next
   line, as typed.
 - Double space in "am making  no new acquaintances" is as typed.
 - "very" is typewriter-underlined in the original.
 - Page opens mid-scene, continuing directly from typed p.83 (physical
   page 247).
+- Verified: 2026-07-05 — re-examined at high zoom. Confirmed the "And"
+  reading (see note above) and removed its ⟦unclear: …⟧ marker. The
+  strikeover before "finest" was examined closely but remains illegible at
+  the image's native resolution (appears to be a 4-letter struck word,
+  possibly "infe...", but not readable with confidence); left as
+  ⟦strikeover: illegible⟧ and needs_review kept true pending a check
+  against the physical page.

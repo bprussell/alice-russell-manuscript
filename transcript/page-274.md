@@ -65,7 +65,11 @@ How wonderful!  I shall be so glad to have them for the sentiment they
   2. "Each diamond ⟦illegible⟧⟦pencil-delete⟧ represents" — one stray
      typed character after "diamond" is blotted out with heavy pencil;
      the character underneath cannot be read (counted as the page's
-     illegible spot).
+     illegible spot). At high zoom the pencil mark has a distinct
+     blue-gray cast (unlike the plain graphite gray of the "she" insert
+     above) and a shape that could be read as a capital "N", but this is
+     not confident enough to transcribe as a letter — it may equally be a
+     dense scribble coincidentally shaped like one. Left as illegible.
   Both interpretations should be checked against the physical page.
 - "beautifull/bound" — a typed "y" at the end of "beautifully" is
   overstruck with a typed slash (black ink, not pencil); transcribed as
@@ -76,3 +80,12 @@ How wonderful!  I shall be so glad to have them for the sentiment they
   overstrikes in black ink.
 - Page begins mid-scene, continuing directly from page 273 (the jewels
   conversation).
+- Verified: 2026-07-06 — re-examined all marked spots at high zoom
+  (pencil "s" insert, both typewriter strikeovers in "next" and
+  "confessed", the "beautifull/bound" overstruck slash, and "Francex").
+  All existing readings confirmed accurate against the photo; no
+  transcription errors found. The pencil blot after "diamond" remains
+  genuinely illegible after close inspection (see note above on its
+  blue-gray color and possible "N"-like shape) — needs_review left true
+  and illegible_spots left at 1, biasing toward caution since this is the
+  one spot I could not confidently resolve.
