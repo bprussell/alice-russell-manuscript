@@ -57,3 +57,7 @@ it's anything that has to do with housework.  Sometimes I think I'm not
   a double quote with a single quote, as typed.
 - Page ends mid-sentence ("Sometimes I think I'm not"), continuing onto
   page 128/typed 126 ("domesticated at all.").
+- Verified: 2026-07-06 — checked line-by-line against the photo,
+  including the "cried" overtype (confirmed doubled "i"/"e" impression,
+  resolves clearly, no change) and all the mixed single/double quote
+  marks noted above. Transcript confirmed accurate; no changes needed.
