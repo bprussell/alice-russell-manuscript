@@ -6,7 +6,7 @@ image: pages/originals/page-061.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     59
@@ -39,7 +39,7 @@ two dollars per lesson.  She was to be given a complete course which
 would require a great deal of home study.  They went home to talk it
 over with Parepa before deciding.
      At supper they told her they had a big surprize for her.  She
-must ⟦unclear: guess⟧ what it is.
+must giess what it is.
      "Another letter from Frances?"
      "No."
 
@@ -55,6 +55,13 @@ must ⟦unclear: guess⟧ what it is.
   within one speech.
 - "where by" (two words), "in evening" (no "the"), "Mr. Wm Slay", "Mrs
   Breen" (no period), and "surprize" are all as typed.
-- In "must guess what it is." the "u" of "guess" printed faintly and reads
-  almost as "giess" — marked unclear.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — corrected: Phase 1 transcribed "must ⟦unclear:
+  guess⟧ what it is," treating the word as a faint/uncertain "guess." On
+  close, high-zoom inspection the second letter is not faint at all — it is
+  a clearly formed "i" with a distinct dot, not a "u" (an easy adjacent-key
+  typo on a QWERTY keyboard). The word is unambiguously typed as "giess."
+  Per the sacred-typed-layer rule this is an authorial typo that must be
+  preserved, not silently normalized to "guess," so the text now reads
+  "must giess what it is." with no marker (the letter is legible, not
+  unclear). needs_review set to false.

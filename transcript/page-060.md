@@ -58,4 +58,23 @@ troduced to the others, she and he discussed Parepa's possibilities.
   than pencil, but it is faint — flagged for verification against the
   physical page.
 - Page ends mid-sentence ("...if you could come with").
-- No clear pencil marks found on this page.
+- Verified: 2026-07-06 — checked both flagged marks on this page (the
+  character struck between "seen" and "the", and the mark above/below "and"
+  in "and as usual") against the recurring blue-pencil pattern found
+  elsewhere in the manuscript (pages 9, 16, 20, 210), using a confirmed
+  blue-pencil mark on page 9 as a calibration reference (obviously blue to
+  the naked eye, with a large, consistent colorimetric signal — see page 59
+  and page 9 transcriber notes for the method). Neither mark on this page
+  shows that signal: both read as neutral-to-warm dark tone (if anything
+  slightly warmer/more red than the surrounding black type), not blue. This
+  rules out the specific blue-pencil misclassification pattern, but does not
+  fully resolve what either mark is. The "and" mark in particular now reads,
+  on close inspection, as two small character-like shapes sitting in
+  superscript position directly above "and," with a second, separate small
+  caret-like mark below the line at the same spot — a layout that looks more
+  like a proofreading insertion (caret plus inserted text) than an ordinary
+  strikeover, though the shapes are too faint/blurred to read with
+  confidence and the typed line already reads "and as usual" in full, so it
+  is unclear what would have been inserted or corrected. No change made to
+  the transcribed text or has_pencil pending a physical-page check; both
+  marks remain flagged and needs_review stays true.
