@@ -26,3 +26,4 @@ Edelstein, Illinois
   page 81 (typed 79) — legitimate short page, nothing missing.
 - Small chip at the lower left edge of the sheet, far from any text.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed.
