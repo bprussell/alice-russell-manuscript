@@ -54,6 +54,8 @@ what the word meant.  "I've heard of that kind."
 - Frances mentions having "been over the ocean" for nearly two years —
   plot detail; he also addresses Parepa as "what's-your-name" (hyphenated
   as typed).
-- No pencil marks found on this page.
+- No pencil marks found on this page (margins checked closely, clean).
 - Continues from page 17 ("...on the table.  Maybe I'll / learn if I stay
   here long enough.") — consecutive.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed.

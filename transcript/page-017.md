@@ -57,6 +57,11 @@ she pondered as she put the last one carefully on the table.  Maybe I'll
   did," are as typed.
 - "I8ll. get you one" — again the figure "8" typed for an apostrophe
   ("I'll"), plus a stray period; same slip as "I8d" on page 12. As typed.
-- No pencil marks found on this page.
+- No pencil marks found on this page (margins checked closely, clean).
 - Continues from page 16 ("...champaion salad maker" she / felt her
   awkwardness more than ever.") — consecutive.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  text changes needed. Re-examined the overtyped typed page number: it is
+  black typewriter ink (not the blue-toned mark seen on pages 16 and 20),
+  a genuine digit-over-digit overstrike; still genuinely unclear whether
+  it reads "16" over "15" or something else, so needs_review remains true.

@@ -6,7 +6,7 @@ image: pages/originals/page-014.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                    13
@@ -31,7 +31,7 @@ have it figured out that they are getting well paid for keeping him
 in a "quiet" place until his college work begins.  The old lady did
 tell me this much, that he had received an awful shock at one time
 and his physician ordered him kept quiet for several months.  Don't
-think she knows what the shock washerself.  Anyway ⟦unclear: he'sreal⟧ polite
+think she knows what the shock washerself.  Anyway he'sreal polite
 and nice and I know you'll like him."
      Aunt Kate was taking a great deal for granted.  Parepa's appetite
 for salad was spoiled right then and as she noticed the pretty napkins
@@ -50,13 +50,26 @@ ever ate" she said.  "You've got yourself into a job now.  Uncle George
   previous sheet's typed number (this should be 14). The text nonetheless
   continues directly from the previous page ("...Aunt Kate told / her they
   were going to have another guest..."), so nothing is missing; the typist
-  simply repeated "13". Flagged needs_review.
+  simply repeated "13". Confirmed under magnification — this is what is
+  actually on the page, not a transcription error.
 - "visiting" has its first letter typed over another character
   (strikeover).
 - The boy's name is spelled "Frances" here but "Francis" on the previous
   page — both as typed.
 - "washerself" (for "was herself", run together) is as typed; in "Anyway
-  he'sreal polite" the characters between "he" and "real" are overstruck
-  and jammed — best guess "he's real" run together, flagged unclear.
+  he'sreal polite" the apostrophe and "s" are overstruck/jammed at one
+  carriage position, consistent with the missing-space typos elsewhere on
+  this page ("washerself", "Katehadn't" on p.13) — reading confirmed as
+  "he's" + "real" run together under magnification.
 - "she know / that misery" (for "knew") and "surmized" are as typed.
-- No pencil marks found on this page.
+- No pencil marks found on this page. (A faint thin curved mark below "she
+  know" on the page is a stray hair/fiber on the page or scanner, not
+  pencil — no width variation or graphite texture, and not associated with
+  any text.)
+- Verified: 2026-07-06 — resolved the previously-flagged ⟦unclear:
+  he'sreal⟧ spot: under magnification the apostrophe and "s" are
+  overstruck at a single carriage position (matching the page's other
+  missing-space typos), giving a confident reading of "he's" + "real" run
+  together. Text updated to drop the unclear marker; needs_review set to
+  false. The duplicate typed page number "13" is a genuine source anomaly,
+  not a misreading — see page-ordering note above.

@@ -61,3 +61,5 @@ always said the right thing at the right time.
 - Continues from the previous sheet ("...You've got yourself into a job
   now.  Uncle George / will want you to make all the salads...") —
   consecutive.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed.
