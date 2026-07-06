@@ -35,7 +35,7 @@ the time pass as pleasantly as possible for Anna Bell.  She having the
 highest spirits in the party.
      The nurse, Frances, and I lost ourselves in Great Britian for
 several years.  As my baby grew to childhood I could see the features of
-his mother developing rapidly.  He was the same little child my father
+his mother developing rapid⟦strikeover: "id" overtyped, doubled impression⟧ly.  He was the same little child my father
 had reared so carefully in our home.  Those snappy dark eyes, curly
 black hair, ruddy complexion, lithe body, charming ways, and lovable
 disposition.
@@ -55,3 +55,16 @@ youngster, twenty years old the same day Parepa was sixteen."
   "Doctors") is as typed.
 - The sentence fragment "She having the highest spirits in the party."
   is as typed, without a connecting verb.
+- Verified: 2026-07-06 — found and fixed one missed typo: "the purpose of
+  this voyage" is typed with a stray period after "purpose" ("the
+  purpose. of this voyage", lowercase "of" follows, not a new sentence);
+  photo shows a clear small round period-shaped mark there. Added
+  verbatim. Also found "rapidly" has its "id" heavily overtyped/doubled
+  (same phenomenon as the "V" overtype on page 121 and "z" overtype on
+  page 1); still resolves unambiguously to "rapidly", so recorded with a
+  strikeover marker rather than treated as a reading change. Checked and
+  ruled out as insignificant: a faint diagonal fleck near "of us tried"
+  (too small/disconnected to read as intentional punctuation) and a
+  second, much smaller/fainter dot after "him." (paper speck, not a
+  second period, based on size and darkness versus the clear period next
+  to it). Rest of page confirmed accurate against the photo.

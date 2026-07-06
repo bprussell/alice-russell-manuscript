@@ -6,7 +6,7 @@ image: pages/originals/page-119.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   117
@@ -26,7 +26,7 @@ my blood does not flow in your veins and I could not be happier than
 to live with you and for you always.  No child, of my own could have
 given me more comfort.  I shouldn't worry about telling her yet, if I
 were you.  She is too young to understand.  Enjoy each other while you
-are here and when you come back two years from now, will be time enough.
+are here and when you come back two years from / now, will be time enough.
 Maybe you will both have changed your minds by that time," and Mr. Wheeler
 rose and patted the lad on the back.
      Frances turned and faced him, "Did you change your mind about my
@@ -36,7 +36,7 @@ time today," and he waved Frances out of his room.
      There were only two days left before they would leave Peoria.
 Tomorrow he must see Parepa but today he must make Daddy happy.  They
 played awhile and then decided to go on a boat excursion.  They succeeded
-in making themselves happy by succeeding ⟦strikeover: to⟧⟦pencil: in⟧ make⟦pencil-insert: ing⟧ themselves think they
+in making themselves happy by succeeding to⟦pencil: in⟧ make⟦pencil-insert: ing⟧ themselves think they
 had succeeded in making the other happy.  Frances had never know the love
 of an own father but he was given the fineness and beauty and companion-⟦hyphen⟧
 ship of a real daddy and did not miss that indescribable sector from life
@@ -50,14 +50,26 @@ through the workings of fate.
 
 - Typed page number "117" at top right.
 - PENCIL: the typed word "to" in "succeeding to make themselves think" is
-  struck out, with cursive pencil "in" written above it, and a pencil
-  caret inserts "ing" after "make" — changing "succeeding to make
+  struck through and corrected to "in" (cursive pencil above), and a
+  pencil caret inserts "ing" after "make" — changing "succeeding to make
   themselves think" to "succeeding in making themselves think", which
   echoes "succeeded in making the other happy" later in the same
-  sentence. Recorded as strikeover + pencil per the page-115 convention;
-  verify against the physical page.
+  sentence.
 - "know" (for "known"), "sector" (seemingly for "segment" or similar), and
   "sincerety" (for "sincerity") are as typed. "companion-ship" is a
   line-break hyphenation of "companionship", marked with ⟦hyphen⟧.
 - Closing quote placed before "and he paced the floor" on the first line
   (mid-sentence) — page continues directly from page 118's dialogue.
+- Verified: 2026-07-06 — two fixes. (1) The strike-through over the typed
+  "to" (before "make themselves think") was mislabeled as an ordinary
+  typewriter ⟦strikeover⟧; pixel-level color comparison shows it is
+  distinctly blue-shifted (R29/G37/B48) compared to both the black typed
+  ink baseline (R16/G15/B11, warm/neutral) and the neutral-gray graphite
+  of the "in"/"ing" pencil insertions on the same edit (R86/G86/B88) —
+  this is a genuine blue-pencil deletion, not a typewriter strikeover, so
+  it is now recorded as "to⟦pencil: in⟧" per the standard pencil-
+  correction template rather than a separate strikeover marker. (2) Added
+  a typed slash between "from" and "now" ("from / now,") that had been
+  dropped — visible at full resolution with the same ink weight/color as
+  the surrounding type, so it is a typed character, not a crease or
+  artifact. Resolved needs_review to false.

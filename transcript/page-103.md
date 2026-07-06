@@ -54,3 +54,13 @@ she said quick as a wink.  'From this on I am sixteen years old'.  I
   but reads "really"; "raising from her chair" (for "rising") is as typed.
 - "SIXTEEN" is typed in full capitals on the page.
 - "im-/possible" is hyphenated across the line break in the original.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  text changes needed. Checked the pencil "all" insertion's color against
+  a same-page black-ink baseline (the bold "SIXTEEN" caps and a nearby
+  typed comma, both neutral R≈G≈B): the pencil stroke averages
+  noticeably blue-shifted (B exceeds R by roughly 10-11 across the whole
+  glyph, not just edge pixels), consistent with the manuscript's recurring
+  blue-pencil pattern. It is already correctly recorded as a pencil
+  insertion (not a typewriter strikeover), so no reclassification of the
+  marker type is needed; noting the blue tint here for the record since
+  the format has no separate marker for pencil color.

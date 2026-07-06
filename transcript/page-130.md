@@ -48,9 +48,21 @@ why I have allowed myself to so completely fallin love with any girl,
 
 - Typed page number "128" at top right (physical page 130).
 - "Wasn't those funny dreams" (opening quotation mark missing), "Wasn't
-  that a queer way to be Frances?"" (no opening quote but a closing quote
-  mid-paragraph), "if you want too" (for "to"), "Its always" (no
-  apostrophe), "don'tyou" (missing space), and "fallin love" (missing space)
-  are all as typed.
+  that a queer way to. be Frances?"" (stray period after "to", no opening
+  quote but a closing quote mid-paragraph), "if you want too" (for "to"),
+  "Its always" (no apostrophe), "don'tyou" (missing space), and "fallin
+  love" (missing space) are all as typed.
+- "telling them thei r hour was up" — "their" is typed with a stray space
+  splitting it into "thei" + "r", as typed.
+- "he said, 'and these that bloom all summer...ones," he said." — the
+  quote is reopened with a single quote mark (') rather than a double
+  quote after "he said,", then closed later with a double quote; as typed.
 - Page ends mid-sentence.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — corrected three discrepancies against the photo:
+  restored the stray period in "way to. be Frances" that Phase 1 had
+  silently dropped, restored the stray space in "thei r hour" (Phase 1
+  had smoothed it to "their"), and corrected the quote-reopening mark
+  before "and these that bloom all" from a double quote to the single
+  quote actually typed. Rest of page checked line-by-line against photo
+  with no further discrepancies found.

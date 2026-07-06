@@ -5,7 +5,7 @@ book: 1
 image: pages/originals/page-126.jpg
 has_pencil: false
 has_table: false
-illegible_spots: 0
+illegible_spots: 1
 needs_review: true
 ---
 
@@ -26,7 +26,7 @@ they exist."
 the home life of these two children should they decide to join hearts and
 hands for life.  That is why I came here.  So you would not be deceived
 by us.  Anna Bell was determined her family should not be propagated
-farther than her son.  So far we have executed her every desire.  Frances
+farther than her son.  So far we have executi⟦illegible⟧ed her every desire.  Frances
 is satisfied it was a wise plan his mother thought out for him and is
 thoroughly determined to follow it to his death..  No doubt Parepa has a
 strong mother instinct.  This could never be gratified and Mr. Wheeler
@@ -59,11 +59,39 @@ origin.  Can I trust you to keep as much of his secret as I have disclosed
   line may be a false start or an earlier draft of dialogue not
   advanced past. Recorded with a strikeover marker; flagged for
   verification against the physical page.
-- Dialogue tag quote styles are inconsistent as typed: some open with a
-  double quote and close with a single quote (e.g. the first two
-  paragraphs, and "Answer my one question...Wheeler."), consistent with
-  the pattern seen on page 121/typed 119.
+- Dialogue tag quote styles are inconsistent as typed: single and double
+  quotes are mismatched at open/close on some lines. "Why didn't you
+  tell us...birthday cakes,'" opens with a double quote and closes with
+  a single quote; "'We did not intend...they exist."" and "'Answer my
+  one question...Wheeler."" do the opposite (open single, close double).
+  Other dialogue on the page (e.g. "I would like to ask...if I may," said
+  Mr.") is normally paired. Consistent with the general inconsistent-quote
+  pattern seen on page 121/typed 119; verified against the photo, and
+  the transcript's exact marks (confirmed correct) prompted correcting
+  this note's earlier description, which had mischaracterized the
+  "Answer my one question" line as open-double/close-single.
 - "to his death.." (double period), and "Parep's" (for "Parepa's") are
   as typed.
 - Page ends mid-sentence ("as I have disclosed"), continuing onto page
   127/typed 125 ("to you?"").
+- Verified: 2026-07-06 — re-examined the overlapping-typed-lines anomaly
+  at high zoom; both superimposed lines are legible as previously
+  recorded ("But what was in the locket Mr. Wheeler?" asked Mrs Slay."
+  under "I am afraid I cannot tell you.  However, it would greatly
+  effect"), so that reading and strikeover marker are confirmed
+  accurate. Also found and flagged a new issue: "executed" (in "we have
+  executed her every desire") has a heavy ink blob/smudge between a
+  clearly-typed "i" and the final "ed" — distinct in texture from the
+  crisp overtyped letters elsewhere in this manuscript (e.g. the "V" on
+  page 121), more like a soft ink stain than a doubled typewriter
+  strike. Cannot confidently tell whether it obscures one extra typed
+  character or is an incidental blot over an otherwise normal
+  "executed"; recorded as ⟦illegible⟧ between "executi" and "ed" rather
+  than silently resolving to "executed". illegible_spots updated to 1;
+  needs_review remains true pending physical-page check of this spot.
+  Also checked "wi$e plan" (bold/overtyped middle letter) — reads
+  sensibly as "wise" in context ("a wise plan"; "a wife plan" is not
+  grammatical), consistent with the letter-shape caution, so left
+  unchanged. Corrected the quote-style note above (see revision) after
+  confirming the actual open/close marks against the photo; no other
+  text changes needed elsewhere on the page.

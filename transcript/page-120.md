@@ -54,3 +54,8 @@ an easy chair beside her husband.
 - "came her was" (for "came here was") is as typed.
 - Page ends mid-sentence ("as I was at"), continuing onto page 121/typed
   119 ("twenty. It's a sin...").
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed. Checked the faint "h" in "this nice morning" (appears
+  as a near-blank ghost strike between "t" and "is") — the letter shape
+  is present, just very lightly inked, so "this" stands as transcribed.
+  No pencil marks found on this page.

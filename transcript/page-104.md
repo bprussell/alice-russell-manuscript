@@ -55,4 +55,12 @@ little girl goodnight, went to bed.
   not dialogue) are all as typed.
 - The "n" of "Uncle George" in "one to U cle George" failed to print;
   marked unclear.
+- "They all laughed about it": the "la" of "laughed" is overtyped/bolded
+  (a typo correction retyped over itself), same as "really" on page 103
+  and "opportunities" on page 101 — legible and correctly spelled as
+  typed, so left unmarked per existing convention on this manuscript.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed. Checked the faint mark at the end of the "...time to go
+  home" line and confirmed it is paper texture/fiber, not a period or
+  other typed character.

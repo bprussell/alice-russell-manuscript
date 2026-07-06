@@ -6,7 +6,7 @@ image: pages/originals/page-118.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   116
@@ -64,3 +64,11 @@ insists on not hearing it.  Her very kiss fills me with such passion I
   readings are clear.
 - Page ends mid-sentence; continues on the next page.
 - Double-spaced typescript; one transcript line per typed line.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  text changes needed. Re-checked each marked spot at high zoom: the
+  "l"-struck-with-hyphen in "splending", the pencil "to" caret-inserted
+  above "message you", the overtyped letters in "carr[i]ed",
+  "conf[n]ronting", "om[i]tted", and "n[m]ight" in "Last night" all read
+  exactly as previously described. The pencil "to" insertion is soft
+  gray graphite with no blue shift, correctly marked as pencil-insert
+  (not a misclassified strikeover). Resolved needs_review to false.

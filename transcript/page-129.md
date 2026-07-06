@@ -68,5 +68,6 @@ as I had plenty to give with.
   "podding" reading and ⟦unclear⟧ marker are kept as-is. needs_review left
   true; this word still warrants a physical-page check. Also confirmed
   "he asked" (referring to Frances) is typed exactly that way, matching
-  the photo — an authorial pronoun inconsistency, not a transcription
-  error, so left as typed.
+  the photo; page 131 confirms Frances is a male character in this scene
+  ("he said sadly," "different from other boys"), so this is consistent
+  characterization, not an error.

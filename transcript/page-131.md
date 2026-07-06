@@ -18,7 +18,7 @@ Edelstein, Illinois
 knowing this horrid fact as I have all my life."
         She made no answer.
         "I do not want an answer now, Parepa dear," he said as his arm
-slipped round her waist.  "Wait until I come home again.  In the meantime
+slipped round her waist.  'Wait until I come home again.  In the meantime
 I want you to do something for me."
         "And what can I do for you, my dear lord and master?" she asked
 pushing her tiny hand into his and smiling at him.
@@ -51,5 +51,17 @@ boys," he said sadly.
   should be); transcribed as typed.
 - ""Frances"  She hesitated" — no punctuation after the closing quote, as
   typed.
+- "he said as his arm slipped round her waist.  'Wait until I come home
+  again." — the quote is reopened with a single quote mark (') rather
+  than a double quote after the action beat; as typed (same pattern as
+  page 130).
 - Page ends mid-sentence.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — checked full page line-by-line against the
+  photo. Corrected one discrepancy: the reopening quote mark before
+  "Wait until I come home again" was a typed double quote in the
+  transcript but is actually a single quote mark on the page (matching
+  the same typist habit already documented on page 130). No other
+  discrepancies found; "Frances" is confirmed male in this scene ("he
+  said sadly," "different from other boys"), consistent with the "he
+  asked" on page 129.

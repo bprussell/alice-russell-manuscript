@@ -49,7 +49,7 @@ must stop - and it would stop.  There would be no  more
 ## Transcriber notes
 
 - Typed page number "114" at top right.
-- "How did he ever allow himself to become so attached to any girl." ends
+- "How did 'he ever allow himself to become so attached to any girl." ends
   with a period rather than a question mark — as typed.
 - "He education had" (for "His education"), "side step", "mothers wish"
   (no apostrophe), and "new born" are as typed.
