@@ -14,7 +14,7 @@ Submitted by:
 
 Mrs Alice Reynolds Russell
 Mt.  Hawley Road
-Edelstein, Illinois
+Edelstein⟦strikeover: "Ed" heavily overtyped/blotted⟧, Illinois
 
 she was.  However, Uncle Will was aware of the fact and made up his
 mind he would protect her from any advances made by the admiring mas-⟦hyphen⟧
