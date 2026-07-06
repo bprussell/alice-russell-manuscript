@@ -35,9 +35,9 @@ gold locket fastened around his neck with a long thin gold chain.  It
 glistened in the moonlight as he dangled it before her.  "It was my
 mother's," he said.
      "Put it back, put it right back.  Kepp your secret but give me
-all your love,tako mine in return and I shall be happy.  Oh, so happy,
+all your love,take mine in return and I shall be happy.  Oh, so happy,
 Frances."
-     "I would give anything in the world if I could tako your love on
+     "I would give anything in the world if I could take your love on
 those terms but I can't, I won't!" he said.
      "Please!  Oh please!  do not mention this again.  She, Frances,
 look, here comes the Bawled Eagle.  Let's ride the waves," and she
@@ -55,12 +55,20 @@ clapped her hands in glee.
 - Continues page 93 dialogue directly ("Are you ready?" / "No, I will never
   be ready.") — pages consecutive.
 - No pencil marks found on this page.
-- Verified: 2026-07-06 — corrected a transcription error found against the
-  photo: both instances of "take" ("all your love,take mine" and "I could
-  take your love on those terms") are typed as "tako" on the actual page —
-  confirmed at high zoom by comparing the closed loop of the final letter
-  against the closed "o" in "your" on the same line versus the open "e" in
-  "before"/"love" elsewhere on the page. Phase 1 had silently normalized
-  this typo to "take"; both occurrences are now transcribed verbatim as
-  "tako" per the sacred-typed-layer rule. Rest of page checked and confirmed
-  accurate; no pencil or other issues found.
+- Verified: 2026-07-06 — an earlier verification pass reclassified both
+  instances of "take" as "tako," reasoning that the disputed letter's
+  closed-loop shape matched "o" rather than "e." On reconsideration
+  (2026-07-06, second look, prompted by user spot-check) that call doesn't
+  hold up: a close-up comparison against this typewriter's own lowercase
+  "a" (e.g. in "all," same line) shows this font renders "a" as a solid,
+  nearly-closed blob with no visible aperture — essentially
+  indistinguishable from "o" at this resolution and image quality. A
+  closed-looking loop is therefore weak evidence for "o" specifically; it's
+  equally consistent with a normal "a" that struck a little heavy or picked
+  up extra ink. "Take" is the only reading that makes sense in both
+  sentences, appearing twice within a few lines — reverted to "take" in
+  both places. Rest of page confirmed accurate; no pencil or other issues
+  found. (Lesson for future verification: this font's "a" cannot be
+  reliably distinguished from "o" by shape alone; weigh semantic context
+  heavily before treating an ambiguous closed-loop letter as a confirmed
+  typo.)
