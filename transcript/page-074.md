@@ -27,11 +27,20 @@ luck to find Uncle Tom there.  Ha!  Ha!"
 - PENCIL CORRECTION: in "they would all go the the Opera." the first typed
   "the" is struck out (typewriter overstrike) and "to" is written above it
   in pencil cursive, giving the corrected reading "go to the Opera." The
-  struck word beneath reads as "the" but is partly obscured — verify
-  against the physical page.
+  struck word is completely blacked out by the overstrike (solid ink patch,
+  no letter shapes visible) — "the" is a contextual best guess (matches the
+  width of the blot and the plausible typo "the"/"to"), not a confirmed
+  reading — verify against the physical page.
 - The closing speech is odd as typed: it opens with a quotation mark but is
   reported speech ("He hoped it wouldn't be his luck to find Uncle Tom
   there.  Ha!  Ha!") — as typed.
 - Short page: only three sentences, ending Chapter XIV; the rest of the
   sheet is blank.
 - Small chips at the right and bottom edges of the sheet; no text affected.
+- Verified: 2026-07-06 — confirmed the pencil "to" above the struck word is
+  clearly cursive graphite (distinct in color and hand from the typed
+  black text) and the struck word itself is a solid black overstrike blot
+  with no recoverable letter shapes, at 8x zoom / contrast enhancement.
+  Rest of page (short, three sentences) confirmed accurate against the
+  photo. needs_review left true — the struck word's exact identity remains
+  an unconfirmed contextual guess.

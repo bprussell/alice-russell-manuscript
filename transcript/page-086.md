@@ -49,10 +49,21 @@ of my dearest friends have offered congratulations."
 ## Transcriber notes
 
 - Typed page number "84" at top right. Chapter heading "CHAPTER XVIII".
-- The name at the end of the first paragraph is typed short — it reads
-  "Prepa" (or possibly "Brepa"), missing the "a" of "Parepa"; flagged
-  unclear on the exact letters, but the misspelling itself is as typed.
+- The name at the end of the first paragraph is typed short — "Prepa",
+  missing the first "a" of "Parepa" (typo, left as typed). Under
+  magnification the "P" and "r" are tightly kerned/blurred together,
+  which made it briefly misreadable as "B"; the descender-free bowl and
+  the separate "r" hook confirm "P", not "B". Resolved from the earlier
+  ⟦unclear: Prepa⟧ guess; needs_review set to false.
 - "very" is underlined (typed underscore) in "really so very different".
 - "May be" (two words), "surprize", and "not one of my dearest friends have
   offered" are as typed.
-- No pencil marks found on this page.
+- No pencil marks found on this page. A round ink blob directly under the
+  "t" of "sweet" (line "...what a sweet thing you were.") was checked: its
+  ink tone matches the page's normal (slightly cool-cast) typewriter black
+  rather than a distinctly blue pencil, and its shape/position (stacked
+  under the letter rather than beside it) is more consistent with a
+  mis-timed keystrike/ink blot than a deliberate comma — left untranscribed
+  per the guidance not to force a reading onto an ambiguous mark.
+- Verified: 2026-07-06 — resolved the ⟦unclear: Prepa⟧ mark to plain
+  "Prepa"; set needs_review to false. No other changes.

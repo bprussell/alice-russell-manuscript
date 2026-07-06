@@ -6,7 +6,7 @@ image: pages/originals/page-087.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     85
@@ -38,7 +38,7 @@ turf near the stream and talk.  "We have dreamed long enough," he said.
 nothing else," she admitted.
      "And I'm enjoying the most beautiful thing in the park until I
 can't think of anything else," he said.   That's you."
-     "Now Frances, don't be silly and ⟦unclear: spoil⟧ everything b⟦unclear: y⟧ talking
+     "Now Frances, don't be silly and spoil everything by talking
 foolish," and she sank down beside him half curious to hear what he
 wanted to say.  She thought of Uncle Will's advice: "Learn more about
 him before it's too late," he had said.  She settled herself to listen
@@ -59,5 +59,12 @@ to his story more as a duty to her Uncle than because she really cared
   typed.
 - `he said.   That's you."` — no opening quotation mark before "That's",
   as typed.
-- "spoil" and the "y" of "by talking" are mis-struck/faint; flagged unclear.
+- "spoil" is typed with the "o" and "i" overlapping in the same carriage
+  position (a mis-timed/un-advanced strike), and the "y" of "by talking" is
+  a very faint, lightly-struck impression; both are legible enough under
+  magnification to read with confidence as "spoil" and "by" — resolved
+  from the earlier ⟦unclear: spoil⟧ / ⟦unclear: y⟧ flags, needs_review set
+  to false.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — resolved both unclear marks on the "spoil
+  everything by talking" line; set needs_review to false. No other changes.

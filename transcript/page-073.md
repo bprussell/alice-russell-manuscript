@@ -6,7 +6,7 @@ image: pages/originals/page-073.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     71
@@ -60,3 +60,11 @@ pleased.
   handsome and well poised young fellow" (missing "a") are as typed.
 - "years"," (comma outside quote) as typed.
 - Page ends with the single word "pleased." completing the sentence.
+- Verified: 2026-07-06 — confirmed by pixel-color sampling that the raised
+  mark above the "n" in "FRAnces" and the strikeover character after "off"
+  are both neutral/black (B-R within this page's normal ~12-15 baseline),
+  not blue pencil. Confirmed the "well ⟦pencil: was⟧" correction: "well" is
+  struck with black typewriter x's and "was" is written to its right in
+  clearly gray/blue cursive pencil, distinct in both color and handwriting
+  from the typed text — reading confirmed. Resolved needs_review to false.
+  No text changes needed.

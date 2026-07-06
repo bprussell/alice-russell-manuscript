@@ -54,3 +54,10 @@ human being could improve upon it.
   faintly but is legible.
 - "bye,bye." (no space after comma) and "laying awake" are as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed. Confirmed the faint "A"/"E" in "CHAPTER" are weak
+  typewriter strikes (light ribbon), black, not pencil. Confirmed the
+  blank line before "Submitted by:" is warranted — this page has a visibly
+  larger gap between the page-number line and the header block than
+  neighboring pages (e.g. page 70), consistent with a new-chapter opening
+  page.
