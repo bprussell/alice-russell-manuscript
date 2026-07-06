@@ -49,3 +49,20 @@ of the manuscript is verified.
   (unlike the graphite gray of the page's other pencil mark) and a shape
   suggestive of a capital "N," but this isn't confident enough to
   transcribe as a character.
+
+Added from batch 2 (pages 2–34, verified 2026-07-06). This batch also
+surfaced a recurring **blue-pencil correction habit** — several marks
+below, plus page 210 above, were originally filed as ordinary typewriter
+strikeovers but turned out under color analysis to be a distinct blue
+pencil/ink. Worth watching for specifically in later batches.
+
+- **page 9** — a blacked-out character before "you'll let me" is
+  blue-dominant under pixel analysis, not the page's typed black ink —
+  reclassified as a likely pencil/blue-pencil deletion, but the exact
+  medium needs physical-page confirmation.
+- **page 16** — a blue-toned mark obscures a letter in "champa[?]n" (best
+  guess "o"); needs the physical page to confirm medium and letter.
+- **page 17** — the typed page number shows an overstruck digit (reads as
+  "16" over what might be "15"); needs raking-light inspection to confirm.
+- **page 20** — a blue-toned mark obscures a letter in "cool your face"
+  (best guess "l"); needs the physical page to confirm medium and letter.
