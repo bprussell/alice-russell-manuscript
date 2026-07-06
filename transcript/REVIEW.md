@@ -122,3 +122,30 @@ verification passes can introduce errors, not just catch them.
 - **page 98** — a struck word before "arm in arm" reads slightly cooler
   in tone than plain ink but not conclusively blue; genuinely borderline
   between typewriter strikeover and pencil.
+
+Added from batch 5 (pages 101–132, verified 2026-07-06). This batch's most
+notable finding wasn't a pencil mark: a systematic quote-mark pattern
+emerged on pages 130–132, where the typist used a single quote (') to
+resume or close dialogue mid-paragraph after an action beat like "he
+said," and Phase 1 had smoothed several of these to double quotes (4
+instances corrected). This is a distinct failure mode from the word-level
+typo smoothing found earlier, and may be worth a dedicated sweep across
+the rest of the manuscript later.
+
+- **page 106** — the first digit of a date ("the [2]4th.") is very faint;
+  shape is consistent with "2" but unconfirmed.
+- **page 107** — a left-margin dash before "Frances said no more" isn't
+  blue-toned, but it's unclear from the photo whether it's typed or a
+  hand mark.
+- **page 111** — an overstruck comma after "costume" may be struck over
+  an "s"; unclear.
+- **page 112** — an apostrophe-like mark in "subd'ued" could be a genuine
+  typing artifact or a stray speck; unresolved.
+- **page 123** — a mark after "locket" is comma-like but larger/more
+  complex than an ordinary comma; no confident alternative reading found.
+- **page 126** — a soft ink blob obscures part of "executed" (between
+  "executi" and "ed"); unclear if it's an incidental stain or hides an
+  extra character.
+- **page 129** — the letter after "pod" in "podding peas" has a thin
+  stroke more consistent with "l" than "d," but "podding" is the only
+  reading that makes sense in context; kept as transcribed.
