@@ -30,7 +30,7 @@ hoped she could work out and earn some money to study on.  Young as she
 was she had a business head on her as old as her Uncle beside her.  She
 knew it took money to make dreams come true and she was willing to
 earn it.  We all know the success she has won.  "Now, Mrs Slay tell
-⟦strikeover: them⟧ what you thought of her when you found I had brought her bag and
+them⟦strikeover: whole word heavily overtyped/doubled, still legible⟧ what you thought of her when you found I had brought her bag and
 baggage home to you."
      Mrs Slay laughed as she said:  "Iwas ⟦unclear: so, typed above the line with caret⟧ happy I could have taken the
 child in my arms and rocked her to sleep.  I know it was the happiest
@@ -55,8 +55,9 @@ The next course was being served now, and a jolly group were visiting
   letterforms exactly (not blue or graphite), so this is a typewritten
   interlinear insertion, not a pencil mark.
 - "them" at the start of "them what you thought" is heavily overtyped by
-  the typewriter (blacked out but still legible) — marked as
-  ⟦strikeover: them⟧ per format convention; previously left unmarked.
+  the typewriter (blacked out but still legible) — now marked with
+  ⟦strikeover: ...⟧ following the convention used elsewhere in this
+  manuscript (e.g. pages 45, 125, 227, 277); previously left unmarked.
 - "surprize", "road along" (for "rode"), and the mismatched quotation marks
   around Uncle George's reported dialogue ('...always', "Oh, Uncle George
   ... keep me?') are all as typed.
@@ -67,7 +68,7 @@ The next course was being served now, and a jolly group were visiting
   punctuation or pencil; correctly omitted from the text.
 - No pencil marks found on this page.
 - Verified: 2026-07-06 — corrected a missing marker: "them" (in "tell them
-  what you thought") is typewriter-overstruck and is now marked
-  ⟦strikeover: them⟧. Resolved the needs_review flag: close inspection
+  what you thought") is typewriter-overstruck and is now marked with
+  ⟦strikeover: ...⟧. Resolved the needs_review flag: close inspection
   confirms the "so"/caret insertion above "Iwas...happy" is typewriter ink,
   not pencil.
