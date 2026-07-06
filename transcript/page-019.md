@@ -77,3 +77,7 @@ he answered her.
 - Small tear in the right margin near "...was evident," (a few lines into
   the "I'd rather listen" paragraph), away from the text, similar to minor
   damage noted on page 21.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed. Confirmed the overtyped "e" in "least" is neutral
+  black/gray typewriter ink (not the blue-toned mark seen on pages 16 and
+  20), so the existing ⟦strikeover⟧ classification is correct.
