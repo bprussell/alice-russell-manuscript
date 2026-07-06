@@ -6,10 +6,10 @@ image: pages/originals/page-032.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
-⟦unclear: 31 — typed page number cut off at trimmed top edge⟧
+⟦unclear: 31 — typed page number cut off at trimmed top edge; two faint stub fragments remain⟧
 Submitted by:
 Mrs Alice Reynolds Russell
 Mt. Hawley Road
@@ -27,8 +27,9 @@ himself, was really her guardian.
 
 - The typed page number sits at the very top right but the sheet is
   trimmed/worn through it: only the bottom fragments of two digits
-  remain. By sequence (typed 30 precedes, typed 32 follows) it is "31".
-  Front matter records typed_page: 31; verify against the physical page.
+  remain, just above the paper's cut edge. By sequence (typed 30
+  precedes, typed 32 follows) it is "31". Front matter records
+  typed_page: 31.
 - Continues mid-sentence from page 31 ("...visited the other relatives
   in / Peoria with Uncle George as pilot...").
 - In the header, "Edelstein" is typed directly over a misstruck word
@@ -37,3 +38,13 @@ himself, was really her guardian.
   the way down — end of Chapter V's opening scene / a section break.
 - "he" in "that he, himself, was really her guardian" is underlined by
   the typewriter.
+- Verified: 2026-07-06 — resolved the trimmed page-number ambiguity.
+  Compared the two surviving digit stubs against reference glyphs from
+  this typewriter elsewhere in the manuscript (the "3" in page 31's "30"
+  and page 33's "32", and the "1" in page 22's "21"): the left stub is a
+  wavy hooked curve matching this font's "3", and the right stub is a
+  flat serif foot with corner ticks matching this font's "1" (not the
+  rounded hook that this font's "2" leaves at its base). This confirms
+  "31" both by shape and by sequence, so needs_review is cleared. No
+  additional pencil marks found; rest of the page (short paragraph plus
+  the underlined "he") checked accurate against the photo.

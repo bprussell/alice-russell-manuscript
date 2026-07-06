@@ -58,3 +58,9 @@ blushed a deep red much to the amusement of the other girls.
   kid"?' (no closing quote for the speech) are as typed.
 - "Carry Weber" — spelling of "Carry" (elsewhere possibly "Carrie") is
   as typed here and again in "chatting with Carry".
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no
+  changes needed. Checked "unmistakebly", "employes", "Prepa-Roza", and
+  the nested-quote dialogue closely; all match. No pencil marks found.
+  A small bluish speck sits in the bowl of the "c" in "attractive" (last
+  word on the page) but reads as a foxing/ink stain, not a strikeover or
+  pencil mark — the letter is unambiguous.

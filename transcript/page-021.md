@@ -16,7 +16,7 @@ Mt. Hawley Road
 Edelstein, Illinois
 
      "Now you must sleep as long as you can in the morning because
-you are all worn out from your long ride, and you know we are going
+you are all worn out f⟦strikeover: "f" overtyped on an earlier character with a descender, possibly "y"⟧rom your long ride, and you know we are going
 to have lots of fun tomorrow."
      After the light was snapped out and Parepa left alone she reviewed
 the days happenings.  I didn't suppose so much could happen in so short
@@ -46,3 +46,11 @@ dressed to go out.
 - The interior monologue after "she reviewed the days happenings." is typed
   without quotation marks, as on the page.
 - Small tears at the right edge of the sheet, away from the text.
+- Verified: 2026-07-06 — found one missed correction: the "f" of "from" in
+  "worn out from your long ride" (first paragraph) is typed over an
+  earlier character with a visible descender stroke (consistent with a
+  mistyped "y"), the same kind of black-ink typewriter overtype as the
+  blotted character after "ask" later on this page. Added a
+  ⟦strikeover: ...⟧ marker; confirmed by pixel color check that both this
+  mark and the "ask" blot are warm black/brown typewriter ink, not the
+  blue-toned mark seen on pages 16 and 20. No other changes needed.

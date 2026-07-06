@@ -78,3 +78,20 @@ big day."
 - No pencil or other marks were found in the left/right margins of this
   page (checked closely); the only hand-applied mark found is the blue spot
   described above, which sits within the text line itself.
+- Small curled/torn paper edge in the right margin beside "...flour sacks
+  to-" (hyphenated line end); away from the text, no text lost.
+- Verified: 2026-07-06 — took a fresh careful look at the blue mark after
+  "coo". Pixel-level color sampling confirms it is blue-shifted (blue
+  channel consistently higher than red by ~10-20 levels) versus neutral
+  black/gray typewriter ink elsewhere on the page (e.g. the "e" overtype
+  on page 19 for comparison shows no such shift) — same family of mark as
+  the one found on page 16 ("champa[?]n"). The mark's ink also extends
+  visibly above the cap-height of the surrounding typed letters (a tall
+  vertical stroke), more consistent with a hand-applied mark than a
+  typewriter strike. Character-spacing analysis (the gap between "coo"
+  and "your" measures close to two typewriter character-cells, i.e.
+  letter + following space) is consistent with a single obscured letter
+  there rather than an inserted word, supporting "l" as the best-guess
+  letter under it. None of this resolves whether the medium is graphite
+  pencil vs. ink pen, or lets us see the letter shape itself, so
+  needs_review remains true pending inspection of the physical page.

@@ -33,7 +33,7 @@ thought best for me not to go to a restaurant alone."
 after your welfare from eight to five." he said rather curtly and at
 twelve o'clock he brought Parepa's tam o'shanter to her saying:  "Come
 on, dearie, out to lunch with your old Uncle."  He appraised her luscious
-beauty and eyed her appreciativeness.
+beauty and eyed her appreciativeness⟦strikeover: the "i" before "veness" is heavily overtyped/blotted⟧.
      After they had gone out the two older girls stared at each other in
 blank amazement.  "I see where out noses are broken", said Mattie, "but
 isn't she innocence personified?  I see where those dimples and dancing
