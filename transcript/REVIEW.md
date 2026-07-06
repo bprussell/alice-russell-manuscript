@@ -66,3 +66,40 @@ pencil/ink. Worth watching for specifically in later batches.
   "16" over what might be "15"); needs raking-light inspection to confirm.
 - **page 20** — a blue-toned mark obscures a letter in "cool your face"
   (best guess "l"); needs the physical page to confirm medium and letter.
+
+Added from batch 3 (pages 35–69, verified 2026-07-06). The blue-pencil
+pattern above continued to turn up regularly in this batch (pages 36, 41,
+44, 52, 59 — bringing the running total to 9 confirmed instances); several
+other candidate marks were checked against the same color signature and
+correctly ruled back out as ordinary typewriter ink, so not everything
+struck-through is pencil.
+
+- **page 36** — a mark after "let" ("and let[mark] him up to see it") is
+  blue-pencil; best guess is a correction of "let" to "led," but needs the
+  physical page to confirm the intended word.
+- **page 41** — a blue-pencil mark obscures a letter in "the opposite
+  se[x]"; needs the physical page to recover the letter.
+- **page 44** — a blue-pencil mark obscures a letter in "livery"; needs
+  the physical page to confirm.
+- **page 45** — two overtyped marks, in "prett[j]er" and a second
+  "cl[d]p" (in "Clap, cl_p, clap"), remain unreadable at any zoom.
+- **page 58** — an overtype in "brok[??]en up" has no recoverable
+  letterform, and a gap in "im[?]ediately" is faint; context strongly
+  suggests "broken" but the mark itself is unconfirmed.
+- **page 59** — two blue-pencil marks after "fun" ("heaps of fun." and
+  "the most fun I've had") have no legible character underneath; also a
+  very faint fleck near "started right. / You" too faint to classify.
+- **page 60** — two unresolved marks: a character between "seen" and
+  "the," and a superscript-plus-caret mark near "and as usual" that may be
+  a proofreading insertion mark rather than a strikeover.
+- **page 65** — a brownish blob on "as" ("coated arms as they coasted")
+  was judged an ink artifact from the photo alone; worth a physical
+  backstop check since photo color casts can mislead.
+- **page 66** — a stray typed character after "Submitted by:" was read as
+  a doubled-struck "2" from a heavily zoomed, blurry crop; worth
+  confirming on the physical page.
+- **page 68** — a left-margin mark was reclassified from a typed dash to
+  a pencil paragraph-indicator mark — the most consequential single edit
+  in this batch (flips `has_pencil` to true) — recommend a raking-light
+  check to confirm it's actually graphite and not a very light typewriter
+  strike.
