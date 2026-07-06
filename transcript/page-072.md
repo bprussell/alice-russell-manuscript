@@ -53,3 +53,16 @@ because that seems awfully old for one so young," she laughed.
   typewriter strikeover.
 - Small chip at the bottom edge of the sheet; no text affected.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — checked the strikeover after "really" and a small
+  stray mark floating above "me" (in "the old lady told me") against
+  surrounding black type. This page's photo shows an overall mild
+  blue-gray tint on ink pixels generally (baseline B-R ≈ 10-15 across
+  ordinary black letters, vs. paper background which is warm-toned), so
+  per the false-positive caution, the "really" strikeover (B-R ≈ 17, only
+  marginally above this page's own baseline) is not classified as pencil
+  — stays a typewriter strikeover. The stray mark above "me" is a similar
+  neutral gray, isolated with no plausible edit it could represent, and is
+  left untranscribed as a likely speck/fiber. Also noted a mechanical
+  spacing gap in "qu ized" similar to a quirk seen on page 71's "coming",
+  read as one word "quized" per existing transcript, no text changes
+  needed overall.

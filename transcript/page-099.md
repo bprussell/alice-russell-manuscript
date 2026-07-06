@@ -3,10 +3,10 @@ page: 99
 typed_page: 97
 book: 1
 image: pages/originals/page-099.jpg
-has_pencil: false
+has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                    97
@@ -30,7 +30,7 @@ bracelet.  Mr. Wheeler's choice was a large wedge wood vase filled with
 eighteen most beautiful red roses.  The card red:  "A rose for every
 year.  To wish you joy, my dear." signed, Daddy Wheeler.  Professer
 Blough sent her such a beautiful etching, Beethoven's Moonlight Sonata.
-Uncle George and Aunt Kate gave her a s⟦unclear: a⟧fty bicycle ⟦strikeover: ⟦unclear: special⟧⟧.  Nothing
+Uncle George and Aunt Kate gave her a s⟦unclear: a⟧fty bicycle ⟦unclear: special⟧⟦pencil-delete⟧.  Nothing
 came from Frances until late in the afternoon, a pair of beautifully
 jeweled Opera glasses nestled in a soft velvet lined leather case.
 "With best wishes and a fond memory of an evening with 'Uncle Tom'
