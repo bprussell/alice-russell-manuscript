@@ -98,3 +98,27 @@ struck-through is pencil.
 - **page 66** — a stray typed character after "Submitted by:" was read as
   a doubled-struck "2" from a heavily zoomed, blurry crop; worth
   confirming on the physical page.
+
+Added from batch 4 (pages 70–99, verified 2026-07-06). Four more confirmed
+blue-pencil instances this batch (pages 71, 79, 80, 99), bringing the
+running total to 13. One page-68-style false alarm was also caught and
+reverted this batch: an earlier pass misread "take" as "tako" on page 94
+based on an ambiguous letter shape; a closer look (prompted by a user
+spot-check) showed this typewriter's lowercase "a" renders as a solid,
+nearly-closed blob indistinguishable from "o," so the shape alone wasn't
+good evidence — "take" was restored. Noting this as a reminder that
+verification passes can introduce errors, not just catch them.
+
+- **page 71** — a blue-pencil deletion mark after "her" obscures a
+  character (possibly the "s" of "hers"); needs the physical page to
+  recover the letter.
+- **page 74** — a fully blacked-out struck word before "⟦pencil: to⟧ the
+  Opera" has no recoverable letterform; "the" is only a contextual guess.
+- **page 76** — a faint "f" in "Pro essor" and a cut-off "s" in
+  "possibilitie[s]" are both edge-cropped in the photo and unreadable;
+  may resolve with a fresh photo that isn't cropped this tight.
+- **page 97** — the typed page number is obscured by a folded page
+  corner; inferred as "95" but needs physical confirmation.
+- **page 98** — a struck word before "arm in arm" reads slightly cooler
+  in tone than plain ink but not conclusively blue; genuinely borderline
+  between typewriter strikeover and pencil.
