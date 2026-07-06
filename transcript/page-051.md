@@ -56,3 +56,8 @@ some where".
 - Nested double quotation marks ("let loose", "telling something",
   "on business") are as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes
+  needed. Checked two rust-colored specks (after "that" in "now that he had",
+  and near "you" in "with you in the morning") against the typewriter ink —
+  both are foxing/age stains, not typed periods or apostrophes, so correctly
+  left untranscribed.

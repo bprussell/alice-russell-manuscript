@@ -17,7 +17,7 @@ Edelstein, Illinois
 
      She threw herself into his arms and they stood kissing and
 hugging each other  or some time.
-     "Yes, she is ours, all ours, and I'd like to see anyone try to
+     "Yes, she is ours, all ours, and I'd like to see anyone try, to
 take her away from us," cooed Uncle George.
      Already they had begun to dread a time which might change her into
 an independent woman.  What if she would tire of them or maybe lured
@@ -33,3 +33,6 @@ away by the glitter and show that attracts so many young girls.
 - "young" prints with a weak "n" ("you g"-looking) but is legible as
   "young".
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — corrected "try to" to "try, to" (stray comma present on
+  the page after "try", before "take her away"; transcript had omitted it).
+  No other discrepancies found; no pencil marks visible.

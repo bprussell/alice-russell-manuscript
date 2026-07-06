@@ -54,3 +54,7 @@ will not come across again for two years."
   are all as typed.
 - Uncle George's surname is given here: "Mr. George Slay" / "Mrs Slay".
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes
+  needed. (Noted a faint raised ink speck after "talked over" on line 3 of the
+  first paragraph, at a height inconsistent with the page's genuine periods —
+  judged to be a stray mark/blemish, not a typed character, so not transcribed.)

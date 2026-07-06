@@ -56,3 +56,5 @@ this - but they did.
 - The line " announced Uncle George." begins with a single leading space
   (typed slightly off the margin).
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes
+  needed (including faint-but-legible "f" in "feel" on line 5).

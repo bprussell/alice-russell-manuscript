@@ -54,3 +54,5 @@ hands.
   line turn are as typed.
 - Character name "Daddy Wheeler" (Frances's guardian) first appears here.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes
+  needed, including the unusual "Parepa,"taking" comma-then-quote sequencing.
