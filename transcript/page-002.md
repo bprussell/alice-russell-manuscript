@@ -52,3 +52,4 @@ slender limb that would swing and dip and sway in the breeze.  She
   back in); text is fully legible.
 - Page begins mid-sentence, continuing directly from page 1 ("...feel as if
   she were / being punished...") — confirms these two pages are consecutive.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed.
