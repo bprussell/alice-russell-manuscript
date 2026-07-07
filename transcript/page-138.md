@@ -37,7 +37,7 @@ neck - he did.
 he was sure - it was Parepa and  --  Joseph.  Something took possession
 of him.  He would hide by the side of the porch in the shurbery and
 would listen - yes, he would stoop to listen - evesdrop.
-        He heard them come up the walk.  "Won't you come in?" Parepa was
+        He heard them come up the walk.  'Won't you come in?" Parepa was
 saying.  Was hers a sympathetic voice or an understanding one.
         "No, let's just sit down here on the porch," he replied.
         "I'll run in and see if Auntie is all right and then I'll be right
@@ -55,3 +55,16 @@ out." she said.
 - Frances's interior monologue in the second paragraph is unquoted, as
   typed.
 - No pencil marks found on this page.
+- The dialogue opener "'Won't you come in?"" is typed with a single
+  quote to open and a double quote to close, mid-paragraph — as typed;
+  not normalized to a matching pair.
+- Verified: 2026-07-07 — corrected a silently-normalized quote mark: the
+  transcript had "Won't you come in?" with a double opening quote, but
+  the photo shows the typist used a single quote (') to open this line
+  of dialogue while closing it with a double quote ("), matching the
+  page's recurring single/double quote-mixing pattern. All other quote
+  marks on the page (before "Be not over anxious...", before "No, let's
+  just sit down...", before "I'll run in and see...", and the "out."
+  she said." period-before-quote) were checked against the photo and
+  confirmed to already match. No pencil or blue-pencil marks were found.
+  needs_review left false.
