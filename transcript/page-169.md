@@ -6,7 +6,7 @@ image: pages/originals/page-169.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     5
@@ -50,8 +50,9 @@ who hadn't forgotten the scolding.
   ("...admit to his relatives in Peoria his / financial problems.").
 - Blue pencil (or blue ink) correction: the final "s" of "sometimes" is
   written over a failed/blotted typed character in blue — same blue medium
-  as the "convulsion" fix on page 168. Verify medium against the physical
-  page.
+  as the "convulsion" fix on page 168. Confirmed on close inspection of the
+  photo: the mark is distinctly blue-shifted against the black typewriter
+  ink baseline on this page.
 - "stiring", "You use to sing", "wipped", "immerged", and "trousers,
   Grinning" (comma followed by two spaces and a capitalized "Grinning"
   mid-sentence) are all as typed.
@@ -60,3 +61,8 @@ who hadn't forgotten the scolding.
 - "dis-/appointed" hyphenated across the line break by the typist.
 - Page is double-spaced on the original; ends mid-sentence, continuing onto
   page 170.
+- Verified: 2026-07-07 — checked full page against photo; text, quote marks
+  (including single quotes around 'Lord and Master'), and hyphenation all
+  confirmed accurate. Confirmed the "sometime⟦pencil: s⟧" correction is in a
+  visibly blue medium (not typewriter strikeover); resolved needs_review to
+  false. No other changes needed.

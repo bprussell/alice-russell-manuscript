@@ -54,19 +54,38 @@ that's good, not a blot, not a stain on his character.
 - Typed page number "15" at top right corner. New chapter heading
   "CHAPTER IV" begins this page, continuing directly from the short,
   end-of-chapter page 178.
-- Pencil correction: the typed word "passed" is struck through with
-  "pressed" written above it in pencil, and the typed word "in" just after
-  is also struck through with "into" written above it in pencil — together
-  correcting "...as she passed her hand in his to hold" to "...as she
-  pressed her hand into his to hold."
+- Pencil correction ("passed⟦pencil: pressed⟧ ... in⟦pencil: into⟧"): the
+  typed word "passed" is struck through with "pressed" written above it
+  in pencil, and the typed word "in" just after is also struck through
+  with "into" written above it in pencil — together correcting "...as she
+  passed her hand in his to hold" to "...as she pressed her hand into his
+  to hold." Same single-line-strike-plus-cursive-word-above style as the
+  "all"/"she" correction on page 175; recorded with the "word
+  ⟦pencil: correction⟧" template rather than as a typewriter strikeover.
 - "surprized" (for "surprised") and "unvailing" (for "unveiling") are as
   typed.
-- "Johnie" (twice, "Johnie was dreaming" and "Johnie's lips") shows the
-  same faint stray mark near the "n"/"i" seen elsewhere in this batch;
-  read as "Johnie" per the spelling established elsewhere in the
-  transcript.
+- "John⟦pencil-insert: n⟧ie"/"John⟦pencil-insert: n⟧ie's" (twice, "Johnnie
+  was dreaming" and "Johnnie's lips"): the typed word both times is
+  "Johnie" (single n), with a bold mark between the "n" and "i" adding a
+  second "n" to read "Johnnie" — the same name-correction found on pages
+  176-178 in this batch, and matching the spelling confirmed on page 231.
+  Corrected from "Johnie". These two marks are denser and closer in tone
+  to the page's typed ink than the more obviously pencil marks on
+  177/178, so the pencil-vs-typewriter mechanism is less certain here, but
+  the resolved word is the same either way.
 - A small stray mark sits between "heart." and "She had known this man"
   in the closing paragraph; it does not obscure any letters and is not
   transcribed as a separate character.
 - Page is double-spaced on the original; ends with a paragraph break,
   continuing onto page 180.
+- Verified: 2026-07-07 — corrected "Johnie"/"Johnie's" to "Johnnie"/
+  "Johnnie's" (both instances, pencil-inserted second "n"); reformatted
+  the "passed"→"pressed" and "in"→"into" pencil corrections from
+  typewriter-strikeover markers to the standard pencil-correction template
+  (both are clearly hand-struck with cursive pencil words above, matching
+  page 175's "all"/"she" correction, not typewriter x-outs). Confirmed the
+  single-quote apostrophes in "'Twas" and "'twould" are contractions, not
+  mis-normalized dialogue quotes — both sit correctly inside the
+  surrounding double-quoted speech. needs_review left as true because the
+  pencil-vs-typewriter mechanism for the "Johnnie" marks on this page is
+  less certain than elsewhere (see note above).

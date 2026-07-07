@@ -80,7 +80,7 @@ him," she cried to herself.
   visible gap in "these two lo ers", but the word is unambiguous from
   context.
 - Pencil marks confirmed on this page: the exclamation-point correction on
-  "four days" noted above.
+  "four days" and the two "Johnnie" name corrections, both noted above.
 - Page is double-spaced on the original; ends mid-sentence, continuing onto
   page 178 ("...without any one being the / wiser.").
 - Verified: 2026-07-07 — corrected "Johnie"/"Johnie's" to "Johnnie"/

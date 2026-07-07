@@ -55,7 +55,7 @@ Not yet though; no use to hurt him yet - she'd wait until nearer time.
 
 - Typed page number "12" at top right corner. Continues page 175
   mid-sentence ("Was she the same Parepa that had accepted the carresses
-  of / Frances, Joseph, Johnie, and now Harold?").
+  of / Frances, Joseph, Johnnie, and now Harold?").
 - "Johnnie" (here and in "write Johnnie a kind note") has its second "n"
   added by hand: colour-sampled against the page's typed ink (warm,
   R-B ≈ +9 to +13) the added stroke reads neutral gray (R≈G≈B), i.e.
