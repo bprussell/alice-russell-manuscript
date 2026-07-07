@@ -58,3 +58,4 @@ decided."
 - "solitary" (for "solitaire") and "I want to go home alone?" (question
   mark) are as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed. Checked the mark on "spell" against the blue-pencil pattern seen elsewhere in the manuscript: measured hue/saturation of its darkest pixels against same-page ink baselines and found no meaningful blue shift (saturation actually lower than a same-line baseline sample), so it is left classified as an ordinary strikeover, not reclassified as pencil. Also checked a small brownish dot after "evening." (paragraph on Uncle Will) — warm/orange tone consistent with foxing or a paper stain, not ink or pencil; left untranscribed.

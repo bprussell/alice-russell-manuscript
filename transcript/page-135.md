@@ -56,3 +56,11 @@ the two was going something like this:
 - The line "line between sentences and glances." starts slightly to the
   right of the margin, as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. Checked quote-mark types at every boundary (double
+  quotes around "church people" and "Bethany's Angel", single quotes
+  around 'love messages'), the faint opening quote before "Bethany's
+  Angel", the faint "s" in "personal", and the rightward-shifted
+  indentation of "line between sentences and glances." — all match the
+  photo exactly. "Submitted by:" header confirmed lowercase "by" on this
+  page (contrast with page 134, which has a capital "Y").

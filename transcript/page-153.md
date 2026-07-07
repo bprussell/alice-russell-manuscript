@@ -53,3 +53,4 @@ a man coming closer and closer.  "Was it?" - Could it be - Frances?"
 - Closing line has unbalanced quotation marks ("Was it?" - Could it be -
   Frances?") — as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed. (A faint mark above the space in "home alone." on the second-to-last line before "Certainly" is dust/artifact, not a typed or pencil character — left untranscribed.)

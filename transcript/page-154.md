@@ -6,7 +6,7 @@ image: pages/originals/page-154.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     152
@@ -20,7 +20,7 @@ Edelstein, Illinois
 
      Yes, it was.  There was no doubt.  The figure stood still for
 sometime gazing over the water as if in a dream.  Parepa felt a strong
-impulse to spring to her feet, rush to his arms and live again the ⟦unclear: eestasy⟧
+impulse to spring to her feet, rush to his arms and live again the ecstasy⟦strikeover: second letter overtyped, appears as a filled blob⟧
 that was theirs two years ago.  He turned, and coming closer to the log,
 sat down on the opposite end from which Parepa was sitting near.
      He was talking to himself now ina low voice.  She heard him
@@ -50,11 +50,17 @@ His arms were tightly around her now and he was kissing her  hot lips.
 
 - Typed page number "152" at top right (physical page 154).
 - Chapter heading "CHAPTER XXIX" centered below the Submitted-by block.
-- "and live again the eestasy" — the second letter of the word (intended
-  "ecstasy") is a filled blob that reads best as "e" (i.e. "eestasy");
-  flagged unclear for verification.
+- "and live again the ecstasy" — the second letter of the word is a
+  solid filled blob (darker/denser than the surrounding letterforms,
+  including the plain "e" a few characters earlier), consistent with an
+  overtyped/corrected letter rather than true illegibility. "ecstasy" is
+  the only sensible reading in context ("live again the ecstasy that was
+  theirs two years ago"), so this is transcribed as "ecstasy" with a
+  strikeover marker rather than left as an unclear guess of "eestasy".
+  needs_review resolved to false on 2026-07-06 verification pass.
 - "ina low voice" (missing space), "Parepa gasp - she" (for "gasped"),
   "has repeated" (for "had"), "moon lit" (two words), "now.As if" (missing
   space after period), "flaping" (for "flapping"), and "her  hot lips"
   (double space) are all as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — resolved the "eestasy" unclear flag to "ecstasy" (overtyped second letter); rest of page confirmed accurate against photo, no other changes needed.

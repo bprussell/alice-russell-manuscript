@@ -6,7 +6,7 @@ image: pages/originals/page-141.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   139
@@ -30,7 +30,7 @@ and take his defeat like a man as he had met all other (and they were
 many) disappointments.
         After leaving the Slay home Frances as if in a dream strolled down
 to the river bank.  He was sure he recognized the very log on which he
-and Parepa had sat after their wonderful boa⟦unclear: t⟧ ride on the river.  He
+and Parepa had sat after their wonderful boat ride on the river.  He
 sat down on the log and tried to decide what was right to do.  He
 found all the old love coursing through his every vein.  His body
 surged and swayed as he sat there alone in the moonlight - the same
@@ -49,12 +49,22 @@ in some way who this 'Joseph' is and send him money enough to finish
 
 - Typed page number "139" at top right (physical page 141).
 - Chapter heading "CHAPTER XXVI" typed centered below the header block.
-- "boa⟦unclear: t⟧ ride" — the final letter(s) of the word are overstruck
-  (reads as "boat" or "board" with a struck letter); "boat" is the best
-  reading from context. Flagged for review.
 - "Or" at the start of the fourth text line is struck heavily/doubled
   (typewriter overstrike, not pencil).
 - "Oh god! the kisses." (lower-case "god") and "worrying Parepa she could
   hear" (no punctuation) are as typed.
 - Small tears at the left edge of the sheet; no text affected.
 - No pencil marks found on this page.
+- "'Joseph'" is typed with single quotes in the photo (not double);
+  confirmed as typed.
+- Verified: 2026-07-06 — resolved "boa⟦unclear⟧ ride" to "boat ride".
+  The letter is a heavy typewriter overstrike (checked pixel color
+  against a same-page black-ink baseline; it is not blue-shifted, so
+  this is an ordinary typewriter double-strike, not pencil), but
+  "boat ride on the river" is the only contextually sensible reading
+  and the letter count fits, so the unclear marker was removed and
+  needs_review set to false. Rest of page confirmed accurate against
+  photo, including "Frances" (not "Joseph") as the subject of "After
+  leaving the Slay home Frances as if in a dream strolled down..." —
+  this looks like an authorial name mix-up but is preserved verbatim
+  as typed.

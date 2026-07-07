@@ -6,7 +6,7 @@ image: pages/originals/page-133.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   131
@@ -16,7 +16,7 @@ Mt. Hawley Road
 Edelstein, Illinois
 
         Parepa slipped out to where the boy was standing and told him
-what she had heard.  They went out on the porch and said their rather
+what she had heard.  They went out on the porch and said their rather.
 sad goodbyes.  Mrs Slay came to the door with the Doctor and bade Frances
 goodbye.  "I'm sorry George isn't able to see you.  You know how much
 we all love you and wish you your happiness.  I'm sure."
@@ -31,3 +31,12 @@ we all love you and wish you your happiness.  I'm sure."
 - "Mrs Slay" — reading confirmed by "the Slay finances" on physical page
   135 (typed 133).
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — corrected a dropped period: the photo has "...said
+  their rather." with a period at the end of that line, before "sad
+  goodbyes." continues on the next line (an odd mid-sentence period, but
+  it is genuinely typed on the page and is now preserved verbatim). Quote
+  marks (double quotes opening/closing the dialogue) confirmed to match
+  the photo. Typed page number at top right remains faint/worn at the
+  sheet edge but is legible enough, together with sequence context (130
+  before, 132 after), to confidently read as "131"; resolving
+  needs_review to false.

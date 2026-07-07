@@ -30,3 +30,4 @@ for her.
 - "for her." carries no closing quotation mark before the next quoted
   paragraph opens — as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed. Small stray mark above the period after "speak." is a fleck/smudge with no plausible edit purpose, not transcribed.

@@ -6,7 +6,7 @@ image: pages/originals/page-148.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     146
@@ -39,7 +39,7 @@ remarks as - "tired to death poor child" or "this will most kill her,
 they fairly worshiped her - both of them."
      Finally the Doctor came in.  "How has she been resting?" he asked.
      "Fine," said Frances, "she roused a little once, but hasn't spoken
-a wordl⟦unclear: !"⟧
+a wordl!⟦strikeover: doubled impression⟧"
      "Think I better waken her," and the old Doctor bent low and said,
 "Parepa-Roza!  Parepa-Roza!  Come, child, wake up," and he patted her
 hand gently.
@@ -60,3 +60,13 @@ hand gently.
 - "the white child / on the bed" — "white" as typed (context suggests
   "little" may have been intended); left verbatim.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — resolved the "wordl" mark on close comparison: it is
+  two overlapping strikes of "!" (same overstrike habit confirmed on page 146's
+  "please!"), followed by a closing double quote, matching the clean single
+  "!" used later in "Parepa-Roza!" on this same page for comparison; updated
+  needs_review to false. Re-checked the dot before "Bethany's and the
+  diagonal mark above "Roza"'s "o" — both remain plausible flecks/impressions
+  with no editorial purpose, left untranscribed per the existing notes. All
+  quote marks on the page (including the "Fine,"/"she roused nested dialogue
+  and the "We call her "Bethany's Angel","' nesting) checked stroke-by-stroke
+  against the photo and are double quotes throughout, matching the transcript.

@@ -63,3 +63,14 @@ They remoulded you 'nearer to the hearts desire'."
   typed.
 - Page has a ragged/torn left edge and a small top-right corner tear;
   no text is lost.
+- Verified: 2026-07-06 — re-examined the "mind" pencil mark at high zoom with
+  color sampling: it is genuinely blue-shifted versus the page's black typed
+  ink baseline (not a saturation artifact), confirming it is pencil/ink and
+  not an ordinary strikeover. However, the mark itself still does not
+  resolve into a legible letterform under magnification, so the "mine"
+  reading remains an inference from context (the following "mine forever")
+  rather than a direct reading. Leaving needs_review: true per caution —
+  still genuinely ambiguous. Also re-confirmed the single quotes around
+  'nearer to the hearts desire' (matching the mid-paragraph quote-within-
+  quote pattern) and all other dialogue quote marks against the photo; no
+  other changes needed.

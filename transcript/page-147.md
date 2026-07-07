@@ -32,7 +32,7 @@ as they placed her on her own little bed in her own little bedroom.
      The Doctor worked over her for a long time before she showed any
 sign of recovering her senses.
      "Would you call the undertaker for us?  Number 772," he addressed
-Frances.  This done the Doctor sent him to a neighbors asking her to
+Frances.  This don⟦strikeover: overtyped on other letters⟧e the Doctor sent him to a neighbors asking her to
 come with another neighbor.
      "This child must not get up for a few hours.  Would you mind staying
 with her?" asked the old Doctor who was wondering all the time who this
@@ -56,3 +56,12 @@ must remember 'His will, Not Ours, be done'".
 - First letters of "Parepa" in "Parepa fell on her knees" are struck over
   (typed over other letters); final reading "Parepa" is clear.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — found a second typewriter overtype on this page,
+  previously untranscribed: the "n" in "This done the Doctor..." shows the
+  same overtype/strikeover signature as "Parepa" above it; final legible
+  reading "done" is unchanged and fits context, so only the strikeover
+  marker was added. Small tan speck between "get" and "up" in "must not
+  get up for a few hours" is a paper stain (off-color vs. typewriter ink),
+  not a mark, left untranscribed. All quote marks (single vs. double,
+  including the 'His will, Not Ours, be done'". closing) checked against
+  photo and match.

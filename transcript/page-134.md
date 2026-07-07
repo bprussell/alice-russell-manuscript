@@ -6,11 +6,11 @@ image: pages/originals/page-134.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   132
-Submitted by:
+Submitted bY:
 Mrs Alice Reynolds Russell
 Mt. Hawley Road
 Edelstein, Illinois
@@ -26,7 +26,7 @@ Doctors.  The moved into a little cottage of four rooms near the Bethany
 Baptist church which cornered on Hayward and Madison Streets.
         Parepa became much interested in this Church and the Sunday School
 work to say nothing of the young man Joseph Donald by name who taught a
-⟦unclear: class⟧ of boys just opposite her class of girls.  Oh, of course, Parepa
+class of boys just opposite her class of girls.  Oh, of course, Parepa
 wouldn't have admitted she was interested in this smart industrious young
 fellow and farther than their class interested threw them together but
 never-the-less there was a little "hankerin" for each others company just
@@ -54,6 +54,18 @@ or tried to.  Never-the-less there were tell tale glances passed between
   their class interested threw them together", "never-the-less",
   "hankerin", "each others" (no apostrophe), and "marriage,so" (no space
   after comma) are all as typed.
-- "⟦unclear: class⟧ of boys" — the first letter is malformed (reads almost
-  as "wlass"); possibly a strikeover of a wrong letter. Flagged for review.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — corrected "Submitted by:" to "Submitted bY:": the
+  photo clearly shows a capital Y in "bY" on this page's header block
+  (compared against page 133's header, which has a normal lowercase "by",
+  confirming this is page-specific and not a systemic artifact). Resolved
+  the "class of boys" ambiguity: the first letter is a heavily
+  overstruck/malformed typewriter correction (visibly bolder/blobbier than
+  the ordinary "c" in "her class of girls" later in the same sentence),
+  but "class" is unambiguous both visually and by the parallel construction
+  with "her class of girls" in the same sentence, so the ⟦unclear⟧ marker
+  is removed and needs_review is resolved to false. Also noted: the first
+  "never-the-less" (mid-page) has a heavily overstruck/bolded character
+  where "r" should be — likely a typing correction — but it resolves
+  unambiguously to "never" (matches the second "Never-the-less" near the
+  bottom of the page), so no text change was made.

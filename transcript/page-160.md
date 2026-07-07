@@ -56,3 +56,4 @@ the truth in her ear.  "Darling, I'm a Girl."
   "...and he whispered" and "the truth in her ear...", immediately before
   the story's reveal line; reproduced here as a blank line, though the
   two form one continuous sentence rather than a new paragraph.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed. Double-checked the spelling "Frances LaVern Emmerson" (with the "e" feminine spelling, foreshadowing the closing reveal) and the double quotes around "secret" — both match the photo.

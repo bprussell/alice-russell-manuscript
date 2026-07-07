@@ -30,10 +30,10 @@ girl.  The nurse and Mr. Wheeler were always so kind to me.  I have
 never wanted to be a girl.  Have never been suspected of being one or
 thought of myself as one.  Having been raised a boy may or may not
 have been responsible for the refusal of nature to take its course,
-and at seventeen years of age it was necessary for me to submit to an
+and at seventeen years of⟦strikeover: "f" struck over another letter⟧ age it was necessary for me to submit to an
 operation riding my body of female organs which were peculiarly formed
 and could not function.  For three months I dressed as a girl at that
-time.  My name being either girl or boy I was not suspicious at the
+time.  My name being either girl  or boy  I was not suspicious at the
 hospital.  It was while I was still recovering from this operation that
 I came to Peoria.  After this operation my voice changed and became
 more masculine.  After a years shaving and the generous use of hair
@@ -59,3 +59,18 @@ minute she said, "Are Mr. Wheeler, yourself, and I the only ones living
 - "a years shaving" (for "a year's shaving") is as typed.
 - Left margin of the page is torn/chipped in several places; no text
   lost.
+- Verified: 2026-07-07 — corrected two discrepancies against the photo:
+  (1) "seventeen years of age" — the "f" in "of" shows a dense, overlapping
+  double-strike (single character-width blob, not a genuine double "ff"),
+  matching the same strikeover-letter pattern seen on page 158's "scrap"; now
+  recorded as `of⟦strikeover: "f" struck over another letter⟧ age`.
+  (2) "My name being either girl or boy I was not suspicious" — pixel
+  measurement of the inter-word gaps showed the spaces after "girl" and
+  after "boy" are roughly double the width of ordinary single-word spaces
+  elsewhere on the same line; corrected to "girl  or boy  I" (double spaces)
+  to match the photo. Re-checked the "yesterday" pencil word above "fate"
+  and confirmed by color sampling it is neutral gray (not blue-shifted),
+  i.e. ordinary graphite pencil rather than the recurring blue-ink pattern
+  found elsewhere in the manuscript; its exact relationship to "fate"
+  (replacement vs. marginal note) remains uncertain, so needs_review stays
+  true.

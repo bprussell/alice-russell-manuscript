@@ -26,7 +26,7 @@ his bawled hea⟦strikeover: one character x-ed out⟧d.
 you sure you are not contemplating matrimony, child?"
      "May be," she laughed.  "All I need is the consent of the groom.
 That's hard to get."  Then she sat looking down at the floor very sad.
-     "Tell me about it Parepa, my little girl," and he drew her head
+     "Tell me about it Parepa, my little girl,' and he drew her head
 to his breast and tried to comfort her.  "Are you so much in love with
 this young stranger?"
      "Stranger!  He is not a stranger.  I know him better than I know
@@ -49,8 +49,13 @@ justified his concern.
 - "May be" (two words), "The tender care the gave Aunt Kate" ("the" for
   "she"), "Emmerson" (double m), and "his intentions toward the girl was"
   (singular verb) are all as typed.
-- The closing quotation mark after "my little girl," printed very faintly
-  but is present.
+- The closing mark after "my little girl," is a single quote (') rather
+  than a double quote — a typed close-quote for "Tell me about it Parepa,
+  my little girl," matching the manuscript's recurring single-quote
+  pattern; verified 2026-07-06 by comparing its shape against the double
+  quote opening the same line of dialogue ("Tell). Corrected from a
+  double quote in a prior transcription pass.
 - Page ends with about a quarter of the sheet blank below the last line
   (scene/chapter break; Chapter XXX begins on the next page).
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — corrected a mid-paragraph quote mark: the mark closing "Tell me about it Parepa, my little girl," is a single quote in the photo, not the double quote the transcript previously showed (matches the manuscript's known single-quote pattern). Rest of page confirmed accurate against photo.

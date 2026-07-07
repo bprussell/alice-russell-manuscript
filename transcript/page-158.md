@@ -57,3 +57,4 @@ I'd rather know it that way."
   chose" — possibly an erased or barely-struck comma; not transcribed as a
   character.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed. Re-checked "scrap⟦strikeover⟧ book", the faint mark between "who" and "she" in the Daddy Wheeler sentence, and all quote-mark boundaries (including the unbalanced quotes around "Do you want me too?"); all match the photo as previously transcribed.

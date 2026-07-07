@@ -6,7 +6,7 @@ image: pages/originals/page-139.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   137
@@ -18,7 +18,7 @@ Edelstein, Illinois
         Frances saw hi  turn and watch her go into the light.  He watched
 her until she was out of sight.  Then he said laying his head in his
 hands, "O God!  What have I done to deserve this.  Why can't I have
-her"and he rose and ⟦unclear: paced⟧ up and down the walk until she came out
+her"and he rose and paced up and down the walk until she came out
 again.
         "How's she feeling tonight," asked Joseph trying to act his old
 self.
@@ -54,9 +54,19 @@ don't care for him so much, that you will come right to me?  I know I
   "married." she said." (period before closing quote), and "Will you?"
   Promise never to forget me?"" (closing quote mid-speech) are all as
   typed.
-- "⟦unclear: paced⟧ up and down the walk" — first letter is struck over
-  (reads almost as "faced"); "paced" is the best reading. Flagged for
-  review.
 - "There don't seem to be anything" and "of he and I being separated" are
   as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — resolved the "paced up and down the walk"
+  ambiguity: the first letter is a typewriter overtype (two letterforms
+  struck on top of each other, likely a self-correction), but "paced"
+  is the only reading that makes sense in context ("faced up and down"
+  is not idiomatic), so the unclear marker was removed and
+  needs_review set to false. Also confirmed: "Only" (with a doubled/
+  ghosted "y" from a double-strike) is typed correctly, not a pencil
+  mark; the "he ro se and" spacing is an uneven-strike artifact, not a
+  dropped letter — text reads correctly as "rose". All quote marks
+  (including the double-double-quote around "Will you?" Promise ...
+  me?"") are typed as double quotes matching the photo, not a
+  single-quote dialogue-resume case. Otherwise transcript confirmed
+  accurate against photo.

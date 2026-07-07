@@ -54,3 +54,12 @@ Each going their separate ways; for better or for worse.
 - Page has torn/chipped edges on both left and right margins; no text
   lost. This is the final page of Book I; per the assignment, Book II
   begins on the reverse/upside-down sequence starting at physical page 1.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. Gave special attention to the closing centered line: it
+  reads exactly "TURN THIS BOOK UPSIDE DOWN AND BEGIN ON FIRST PAGE" with no
+  trailing period, matching the transcript verbatim. The second "for" in
+  "for better or for worse" is a faint/under-inked strike on the physical
+  page (worn or lightly-struck key) but is unambiguously "for" — not a
+  transcription error. Checked all line breaks, quote marks, and dialogue
+  boundaries line-by-line against the photo; all match. No pencil marks
+  found anywhere on the page.
