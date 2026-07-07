@@ -17,7 +17,7 @@ Edelstein, Illinois
 
      He had light straight hair, blue eyes, ruddy complextion, was
 stoutly built, an athlete from the word go.  His ready wit and gusto
-made him a cheerful companion for Parepa and ⟦strikeover: all⟧⟦pencil-insert: she⟧ enjoyed a happy care-⟦hyphen⟧
+made him a cheerful companion for Parepa and all ⟦pencil: she⟧ enjoyed a happy care-⟦hyphen⟧
 free summer.
 
      She had not thought seriously of this irresponsible young fellow
@@ -57,11 +57,10 @@ couple.  Was she the same Parepa that had accepted the carresses of
 - Typed page number "11" at top right corner. Continues page 174
   mid-narrative (new, unnamed paragraph describing the "smartest and most
   handsome young fellow" — later identified as Harold/Professor Crisp).
-- "and ⟦strikeover: all⟧⟦pencil-insert: she⟧ enjoyed": the typed word "all"
-  is struck through with the pencil word "she" written above it, correcting
-  the sentence to "...made him a cheerful companion for Parepa and she
-  enjoyed a happy carefree summer." Medium of the strike (pencil line vs.
-  typewriter x-out) should be verified against the physical page.
+- "and all ⟦pencil: she⟧ enjoyed": the typed word "all" is struck through
+  with the pencil word "she" written above it, correcting the sentence to
+  "...made him a cheerful companion for Parepa and she enjoyed a happy
+  carefree summer."
 - "why ⟦strikeover: such⟧, such a serious": the typed word "such" is
   struck out immediately before the retyped "such a serious tonehad taken
   possession of him," apparently a false start caught and refixed by the
@@ -77,3 +76,16 @@ couple.  Was she the same Parepa that had accepted the carresses of
 - "care-/free" hyphenated across the line break by the typist.
 - Page is double-spaced on the original; ends mid-sentence, continuing onto
   page 176 ("...accepted the carresses of").
+- Verified: 2026-07-07 — corrected the "all"/"she" edit near the top of the
+  page: it was marked as a typewriter ⟦strikeover⟧ plus a separate
+  pencil-insert, but on inspection the strike is a single continuous
+  hand-drawn line (neutral graphite gray, not blue-shifted) directly under
+  a cursive pencil "she" — a genuine pencil correction, not a typewriter
+  x-out (contrast with the "such" strikeover later in the same paragraph,
+  which is clearly typed x's). Reformatted to "all ⟦pencil: she⟧" per the
+  standard pencil-correction template. The "hers⟦strikeover: illegible⟧f"
+  garbled spot remains genuinely ambiguous on the photo (looks like an
+  overstruck/jammed character cluster); left as illegible and needs_review
+  stands as true. Everything else on the page checked correct, including
+  quote-mark types (all double quotes) and the typed oddities "complextion,"
+  "tonehad," "devoure," "carresses," and "goofl play mate."

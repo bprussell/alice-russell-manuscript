@@ -20,7 +20,7 @@ him, anyway?"
 
      Allie loved to care for him.  He was a good baby.  They had lots
 to be thankful for.  When he was three months old Allie would take him
-to the store where she would "help out" awhile each day.  As he grew
+to the store where she would "help out" awhile each⟦strikeover: "e" overtyped⟧ day.  As he grew
 older Johnie made a pen to keep him in at the store so he wouldn't get
 into mischief.
 
@@ -32,7 +32,7 @@ old a baby brother came to claim the same father and mother.
 why they named him LaVerne unless it was because she had always liked
 it.
 
-     He was a fine child, dark hair like his father's with a touch of
+     He was a finechild, dark hair like his father's with a touch of
 hazel in his eyes.  He was gladly welcomed into the family circle.  He
 soon identified himself by his strong aversion to nature's food.
 
@@ -62,4 +62,15 @@ with.  In fact he was just like Robert in every way.
 - Page begins mid-sentence ("in his basket.") — continues from page 194
   ("watched him sleeping / in his basket").
 - Page ends mid-sentence ("he had so much") — continues on next page.
-- No pencil marks found on this page.
+- No pencil marks found on this page; the overstrike on "each" (below) is
+  black typewriter ink, same color as the surrounding baseline text, not
+  the distinct blue pencil seen elsewhere in the manuscript.
+- "a finechild," (no space between "fine" and "child") is typed that way on
+  the page — confirmed under magnification (tight letter spacing vs. clear
+  spaces elsewhere on the same line); corrected from a Phase 1 transcript
+  that had silently inserted a space.
+- Verified: 2026-07-07 — found and fixed one missed strikeover ("each" has
+  an overtyped letter, not previously annotated) and one silently
+  "corrected" spacing error ("finechild" typed as one word, not two).
+  Quote marks (opening dialogue, "help out") confirmed as typed double
+  quotes against the photo. Rest of page confirmed accurate against photo.

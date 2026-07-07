@@ -47,3 +47,4 @@ sick," she said patting him on the cheek.
 - "etc.." (double period) and "It never entered my heard" (for "my head")
   are as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed. Re-checked the "herself for" overstrike and the "heard" typo against the image; both match as recorded.

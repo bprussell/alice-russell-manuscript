@@ -3,7 +3,7 @@ page: 197
 typed_page: 33
 book: 2
 image: pages/originals/page-197.jpg
-has_pencil: false
+has_pencil: true
 has_table: false
 illegible_spots: 0
 needs_review: false
@@ -22,7 +22,7 @@ first mortgage and the second which they took themselves they made a
 first payment on a six room home in a new addition to Peoria called
 Hanssler Place.
 
-     It was great fund⟦strikeover: stray strike on the "d"⟧ furnishing this new home.  Allie studied long
+     It was great fund⟦pencil-delete⟧ furnishing this new home.  Allie studied long
 over draperies, and floor coverings.  She had to be so very careful not
 to over step her limited funds alloted for this purpose.  However, when
 the job was done it proved the artistic nature of this homemaker and
@@ -57,10 +57,23 @@ was fortunate in finding not too strenuous employment at once.
   below the submission block.
 - Tear in the top edge of the sheet (right of center, near the page
   number); no text lost.
-- "great fund furnishing" (stray "d" on "fun"), "over step", "alloted",
-  "surprize", "throughtout" (first instance; "throughout" spelled normally
-  later in the page), and the missing space in 'the"completed picture"'
-  are as typed.
+- "over step", "alloted", "surprize", "throughtout" (first instance;
+  "throughout" spelled normally later in the page), and the missing space
+  in 'the"completed picture"' are as typed.
 - Double space in "Allie was  greatly pleased" is as typed.
 - "left the house" — the "e" of "left" barely struck but legible.
-- No pencil marks found on this page.
+- Reclassified the mark on "fund" (paragraph 2): under magnification the
+  heavy stroke through the final "d" is a distinct, cooler/more neutral
+  tone than the page's characteristic warm black typewriter ink (color-
+  sampled: struck stroke ~R75/G77/B76 vs. baseline type ~R111-118/G109-
+  113/B103, i.e. baseline has an 8-15pt warm R-over-B cast the mark lacks)
+  and its shape is a heavy hand-drawn stroke, not a typebar impression.
+  Reclassified from typewriter "strikeover" to a pencil deletion — the
+  edit also makes clear editorial sense ("It was great fun furnishing this
+  new home" reads correctly once the stray "d" is struck). has_pencil
+  updated to true.
+- Verified: 2026-07-07 — reclassified the "fund" strikeover as a pencil
+  deletion (see above, has_pencil now true); rest of page checked line by
+  line against the photo and confirmed accurate, including "Bradford"
+  (distinct from "Bredford" used for the same family on page 196 — both
+  are as typed, not harmonized).

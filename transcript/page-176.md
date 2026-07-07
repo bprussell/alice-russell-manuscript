@@ -3,7 +3,7 @@ page: 176
 typed_page: 12
 book: 2
 image: pages/originals/page-176.jpg
-has_pencil: false
+has_pencil: true
 has_table: false
 illegible_spots: 0
 needs_review: false
@@ -15,7 +15,7 @@ Mrs Alice Reynolds Russell
 Mt. Hawley Road
 Edelstein, Illinois
 
-Frances, Joseph, Johnie, and now Harold?  Was it right to do this --
+Frances, Joseph, John⟦strikeover: "n" double-struck⟧nie, and now Harold?  Was it right to do this ⟦pencil-insert: --⟧
 only to leave them - disappear from their lives altogether?  None of
 them reminded her in the least of the other.  They parted that night
 promising to be true to each other.
@@ -47,7 +47,7 @@ and he kissed her again and again.
 
      It was settled then and there they would be married in September.
 Parepa would send her resignation to the directors of the Kellogg
-school and write Johnie a kind note telling him of her change of
+school and write John⟦strikeover: "n" double-struck⟧nie a kind note telling him of her change of
 heart -- or, could she?  Well, she'd see -- may be some time soon.
 Not yet though; no use to hurt him yet - she'd wait until nearer time.
 
@@ -56,14 +56,31 @@ Not yet though; no use to hurt him yet - she'd wait until nearer time.
 - Typed page number "12" at top right corner. Continues page 175
   mid-sentence ("Was she the same Parepa that had accepted the carresses
   of / Frances, Joseph, Johnie, and now Harold?").
-- "Johnie" (here and in "write Johnie a kind note") shows the same faint
-  stray mark between the "n" and "i" seen on other pages in this batch;
-  read as "Johnie" per the spelling already established in later chapters
-  of this transcript (e.g. page 206, page 231), not as a distinct spelling.
+- "Johnnie" (here and in "write Johnnie a kind note") shows a bold
+  double-struck second "n" — the same recurring typewriter artifact
+  documented on page 231 ("'Johnnie' has its second 'n' double-struck"),
+  recorded inline the same way. Corrected from an earlier reading of
+  "Johnie" (single n): that reading's supporting note cited page 231 as
+  precedent for a single "n", but page 231 actually documents the opposite
+  (a double "n" with the second one overstruck), so "Johnie" was a
+  misreading of this page's own name-artifact.
 - "Couldn't" (first paragraph after "each other.") has a slightly garbled
   apostrophe/strike in the print but is legible.
 - "The day was long." — "was" in "She was in love" a few lines earlier is
   underlined in the original (typed underscore) for emphasis.
-- No pencil marks found on this page; margins are clean.
+- The dash after "Was it right to do this" (first paragraph) is a
+  hand-drawn pencil dash — a single tapered, curved stroke in neutral gray,
+  unlike the crisp black double-hyphen typewriter dashes used elsewhere on
+  this same page (e.g. "-- may be some time soon"). Recorded as a
+  pencil-insert rather than typed punctuation; has_pencil updated to true
+  accordingly.
 - Page is double-spaced on the original; ends with a paragraph break,
   continuing the chapter onto page 177.
+- Verified: 2026-07-07 — corrected "Johnie" to "Johnnie" (double-struck
+  second "n", matching the confirmed reading on page 231) in both
+  occurrences, and flagged the hand-drawn pencil dash after "this" in the
+  opening paragraph (was previously transcribed as an ordinary typed
+  dash). Updated has_pencil to true. Everything else checked correct,
+  including quote-mark types (all double quotes, including a faint/lightly
+  struck one before "And you my lady") and the typed oddity "Couldn't"
+  with its garbled apostrophe.

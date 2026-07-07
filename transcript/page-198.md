@@ -20,7 +20,7 @@ North Adams Street some blocks from their home but Johnie preferred
 to walk to and from work saying the exercise and fresh air did him
 good.  No doubt they did, but there was another reason.  The car fare
 he saved helped to make the monthly payments on their home.  Before
-they knew it they were overwhelmed with gas, electric, water, paving,
+they know it they were overwhelmed with gas, electric, water, paving,
 sewer, and tax bills.
 
      Allie began to wonder what she could do to help out.  She thought

@@ -52,3 +52,9 @@ rest as he should.  Regular hours was what he needed."
 - Page begins mid-sentence ("wanted.") — continues from page 195 ("the girl
   he had so much / wanted").
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. Double-checked "Bredford" (not "Bradford") letter by
+  letter under magnification; the double space before "tell" ("enough to
+  tell Allie") is a real, wider gap on the page, not a transcription
+  artifact; and the stray closing quote after "needed." (with no matching
+  opening quote in that paragraph) is exactly as typed.

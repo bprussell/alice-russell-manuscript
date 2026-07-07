@@ -17,7 +17,7 @@ Edelstein, Illinois
 
 little child.
 
-     "I like it too," he said, seating himself close beside her, and
+     "I like it too," he said,seating himself close beside her,and
 he did.
 
      On the other side of the fence the cows and horses nibbled contented-⟦hyphen⟧
@@ -29,8 +29,8 @@ so many ingredience to make one.  Tolerance, consideration for the
 feelings of another, honesty of conduct, the ability to overlook, the
 knack of understanding, the courage to be ones self, and many more
 qualities to make a genuine companionship.  She looked into the face of
-her friend by her side and saw there all the things envolved in a real
-companion.  The lasting things, the things that count.
+her friend by her side and saw there all the things envolved⟦strikeover: stray mark over the "o"⟧ in a real
+companion.  The lasting things,the things that count.
 
      He turned to her with the question, "A penny for your thoughts.
 You are surely having some deep ones.  Most forgot I was here I think.
@@ -62,3 +62,14 @@ eyes for his answer.
 - Page is double-spaced on the original; ends mid-sentence ("I've had a
   sample of"), continuing onto the next page (183), which is outside this
   transcription batch.
+- "Johnie" (in "don't it, Johnie?") is cleanly typed with no strikeover on
+  this page, confirming "Johnie" (single "n") as the intended spelling,
+  consistent with page 181.
+- Verified: 2026-07-07 — corrected two dropped-comma-spaces that Phase 1
+  had silently normalized: "he said,seating himself" and "her,and he did"
+  (no space after either comma, confirmed against the photo) and "lasting
+  things,the things that count" (same). Also added a missing strikeover
+  marker for a neutral-black (non-pencil) stray mark overtyping the "o" in
+  "envolved" — the word itself is unaffected and already correctly typed
+  as "envolved" (typo for "involved"). Checked all other commas and
+  dashes on the page; no further spacing discrepancies found.

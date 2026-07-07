@@ -6,7 +6,7 @@ image: pages/originals/page-166.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     2
@@ -54,8 +54,10 @@ day and night asking for you?  As long as George and Kate were looking
   word. A faint small mark above "that" in the same line may be a stray or a
   pencil tick; ambiguous.
 - The parentheses around "(he only called her by her full name when angry,)"
-  are large, hand-drawn curves — recorded as pencil insertions, though they
-  could be pen; verify against the physical page.
+  are large, hand-drawn curves — recorded as pencil insertions. On close
+  inspection both curves are a soft gray, slightly fuzzy-edged stroke,
+  distinct from the sharp uniform black of pen or typewriter ink, confirming
+  graphite pencil rather than pen.
 - "she was(" (opening paren typed where a closing paren belongs), "wans't",
   "come" twice for "came", "come;having" (no space after semicolon),
   "buggie", "man,pranced" (comma squeezed in with no following space,
@@ -68,3 +70,15 @@ day and night asking for you?  As long as George and Kate were looking
 - Top edge of the sheet has two small chips/tears; no text affected.
 - Page is double-spaced on the original.
 - Page ends mid-sentence, continuing onto page 167.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo (text,
+  line breaks, quote-mark types, and all noted typos/marks match). Resolved
+  the pencil-vs-pen ambiguity on the parentheses (confirmed pencil; see
+  note above) and cleared needs_review. Noted but did not flag as
+  strikeovers: minor heavy/doubled ink on the "w" of "was" and the "D" of
+  "Dick" in "Her company was sought by Tom, Dick, and Harry" — these read
+  unambiguously as the correct words with no alternate letter discernible,
+  consistent with worn-ribbon/double-strike artifacts rather than an
+  intentional overtype correction (unlike the clearly legible "Ehe"
+  overtype already recorded below). Left the small mark in the right
+  margin after "the worm" untranscribed (no plausible editorial purpose;
+  likely a smudge).

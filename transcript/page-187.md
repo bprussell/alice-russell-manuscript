@@ -29,7 +29,7 @@ instead of giving myself to you.  I am yours now - all yours.  It is
 your blood that shall flow in my children's veins."
 
      The first of September, 1904, found Allie unlocking the door of
-the old Kellogg school house again.  She was a happy contented girl
+the old Kellogg school hou⟦strikeover: "s" overtyped, doubled impression⟧e ag⟦strikeover: "a" overtyped, doubled impression⟧in.  She was a happy contented girl
 now.  Her whole ambition was in her work.  She was bound to do her best
 this last year of teaching.  They would be married next June after
 school had closed.
@@ -55,3 +55,11 @@ lawn.
   (missing commas) is as typed.
 - Narrative dates the scene: first of September, 1904.
 - No pencil marks found on this page.
+- "hou⟦strikeover: "s" overtyped, doubled impression⟧e ag⟦strikeover: "a"
+  overtyped, doubled impression⟧in" — the "s" of "house" and the "a" of
+  "again" are heavily double-struck (same overtyped/doubled-impression
+  phenomenon documented elsewhere in the manuscript, e.g. pages 121, 125);
+  both resolve unambiguously to "house again" in context.
+- Verified: 2026-07-07 — added two missed strikeover markers ("s" in
+  "house", "a" in "again") for heavily overtyped letters that were
+  previously left unmarked; no change to the words themselves.

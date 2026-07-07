@@ -60,3 +60,8 @@ that time.  They'd just keep on being good friends for awhile.
   appear.
 - Page is double-spaced on the original; ends with a paragraph break, and
   the next page (174) opens a new chapter ("CHAPTER III").
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. Note: the word "mate" (line "to its mate.") shows a
+  typewriter overstrike/double-impression on the "t", but the resolved
+  reading is unambiguously "mate" and matches the transcript; no marker
+  added since no distinct alternate letter is discernible.

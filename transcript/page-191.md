@@ -17,7 +17,7 @@ Edelstein, Illinois
 
      Kind relatives and neighbors did all they could do to help with
 the housework and farm work, but Allie was determined not to allow one
-dose of medicine or one little errand⟦strikeover: stray character under the "d"⟧ for Johnie to be done by anyone
+dose of medicine or one little errand⟦strikeover: ascender of "d" doubled/malformed from overtyping⟧ for Johnie to be done by anyone
 but herself⟦strikeover: letters overtyped⟧.  Sher made her bed on a cot beside him and so timed
 herself to his regular needs that she wakened involuntarily at the
 appointed time.
@@ -54,9 +54,16 @@ level.  All this Allie had carefully kept from Johnie.
 - "Sher made her bed" (for "She"), "Consultations of Doctors sere often
   held" (for "were"), and "The Doctor's were pleased" (apostrophe in a
   plural) are as typed.
-- "herself" in "but herself." is heavily overstruck (letters retyped);
-  "errand" has a stray strike beneath its final letter.
+- "herself" in "but herself." is heavily overstruck (letters retyped, bold
+  appearance); "errand" has its final "d" overtyped, giving the ascender a
+  doubled/malformed look. Pixel-level check: both are ordinary black
+  typewriter ink, not blue pencil (no blue shift vs. page baseline).
 - "the heart" in "then back to the heart" is faintly inked ("eart" barely
   struck) but legible.
 - Small tear at the left edge near the submission block; no text affected.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — re-checked the "herself" and "errand" overstrikes
+  pixel-by-pixel; confirmed ordinary black typewriter ink (no blue shift),
+  refined the "errand" marker description to reflect the doubled/malformed
+  ascender of the "d" rather than a separate stray character. No other
+  changes needed.

@@ -58,3 +58,4 @@ one.  I hope there will be lots of boys."
 - Page begins mid-sentence ("merchandise in a small town store...") —
   continues from page 192 ("buy the stock of general / merchandise").
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed. Checked every quote mark on the page (six dialogue boundaries); all are typed double quotes, matching the transcript.
