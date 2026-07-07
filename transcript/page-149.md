@@ -6,7 +6,7 @@ image: pages/originals/page-149.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     147
@@ -24,7 +24,7 @@ time."
 As they walked down the street the Doctor asked him who he was and how
 he happened to be so well acquainted with the Slays.  Frances told him
 all about it from the first.
-     "I see now why she gives all the boys around here the 'go by⟦unclear: '⟧",
+     "I see now why she gives all the boys around here the 'go by'",
 chuckled the old Doctor as they parted at the car line.
      Frances retired early and immediately went to sleep.  The next few
 days  were sad ones for everyone.  In the evening of the day after the
