@@ -149,3 +149,23 @@ the rest of the manuscript later.
 - **page 129** — the letter after "pod" in "podding peas" has a thin
   stroke more consistent with "l" than "d," but "podding" is the only
   reading that makes sense in context; kept as transcribed.
+
+Added from batch 6 (pages 133–164, verified 2026-07-06/07). This batch
+completes verification of all of Book I. The quote-mark pattern from
+batch 5 continued to show up regularly (pages 138, 140, 156, plus a
+closing-quote variant, not just opening/resuming), and a dropped comma on
+page 144 added another sacred-layer restoration.
+
+- **page 157** — a small, dense black dot sits in the word gap between
+  "Home" and "my" in "Welcome Home my dear one,"; neutral black in color
+  (not foxing), but its plain-dot shape doesn't match the hooked-apostrophe
+  stray keystrokes found elsewhere on the same page. Left untranscribed;
+  genuinely unresolved.
+- **page 161** — a pencil mark over "mind" is confirmed genuinely
+  blue-tinted (not an artifact) but doesn't resolve into a legible
+  letterform; "mine" (matching "mine forever" on the next line) is an
+  inferred reading, not a direct one.
+- **page 162** — a pencil word "yesterday" written above typed "fate"
+  ("this child of fate") is legible, but whether it's meant as a
+  replacement, a marginal alternative, or an unrelated note is
+  undetermined.
