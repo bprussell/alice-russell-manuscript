@@ -57,3 +57,15 @@ must hurry on.  Thanks just the same."  The fact was Frances didn't care
 - The line "and Mrs Slay pulled out..." starts one space to the left-margin
   side (single leading space), as typed.
 - No clear pencil corrections found on this page.
+- Verified: 2026-07-07 — resolved the "go by" closing mark: under magnification
+  it is a single bold vertical stroke (a heavily/doubly struck apostrophe),
+  distinct from the dotted "!" shape seen elsewhere in this manuscript;
+  reading it as a closing single quote gives "the 'go by'", which matches
+  the idiom "the go-by" and closes the single-quote pair opened before "go".
+  Updated needs_review to false. Re-checked the double space in "days  were"
+  and the leading space before "and Mrs Slay pulled out" — both confirmed
+  present in the photo exactly as transcribed. The vertical
+  crease/fiber line through the header was checked again; it shows no ink
+  transfer and doesn't track pencil-stroke behavior (no taper, crosses
+  letterforms without disturbing them), consistent with a physical
+  crease/fiber rather than a pencil mark.
