@@ -67,3 +67,14 @@ the end of the term."
   looks like "marriel" (weak "d" impression) — flagged unclear.
 - Page ends mid-sentence ("but a regular") — continues on next page.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — re-examined "marri⟦unclear⟧ at the end of the
+  term" at high zoom; the final letter of "married" is still genuinely a
+  weak/ambiguous impression (could read "d" or "l"), and color analysis
+  shows plain black typed ink (not pencil), so the ambiguity is in the
+  typing itself, not an added mark. "married" remains the strongly
+  contextually-supported best guess; left as ⟦unclear: married⟧ and
+  needs_review: true, unresolved. Checked all dialogue quote marks on the
+  page (all double quotes, matching the photo) and the double space
+  around the dash in "You mean  -  you mean he gets drunk?" (as typed,
+  matching the same typist habit seen on page 181). No other changes
+  needed.
