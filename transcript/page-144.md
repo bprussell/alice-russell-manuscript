@@ -53,3 +53,17 @@ He dressed and answered Mr. Wheeler's tap on the door.
 - "in so early tonight" and "most noon" are as typed.
 - Page ends mid-sentence.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — found and corrected one dropped-punctuation
+  error: "that they,never see each other again." has a stray comma
+  (no space) between "they" and "never" in the photo; Phase 1 had
+  silently dropped it to read "that they never see each other again."
+  Restored to match the photo. Confirmed the semicolon in "a lot of
+  sadness; her Uncle George's death", the double-dash spacing in "Has
+  she  --  has she changed her mind?" and "She hasn't  --  but I
+  have.", and the quote before "Better think it over again," (a
+  normal double quote, not a single-quote dialogue resumption) all
+  match the photo exactly. The typed page number at top right remains
+  genuinely illegible — only microscopic tips of the digits survive
+  at the very top edge of the photo, not enough to confirm "142" from
+  the image alone; needs_review left as true and the ⟦unclear: 142⟧
+  marker kept pending a physical-page check.
