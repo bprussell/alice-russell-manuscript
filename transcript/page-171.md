@@ -41,3 +41,7 @@ schools where she had placed her application.
 - No pencil marks found; margins are clean.
 - Small chip in the left edge of the sheet near "Isabel correct"; no text
   lost.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. Checked "every'evening" apostrophe, "summer , however"
+  spacing, "amoung", "inter-/ested" hyphenation, and all punctuation; all
+  match the photo exactly.
