@@ -3,7 +3,7 @@ page: 212
 typed_page: 48
 book: 2
 image: pages/originals/page-212.jpg
-has_pencil: false
+has_pencil: true
 has_table: false
 illegible_spots: 0
 needs_review: false
@@ -28,7 +28,7 @@ lawn (or could we call it a lawn) although it had not felt⟦strikeover: "f" ove
 a lawn mower's sharp blades for years (if ever), It could be made
 beautiful in a years time.  Allie was sure of that.  It was so large and
 had just the right slope.  The trees were beautiful, great tall old
-maples flanking each side of the lawn,⟦strikeover: as if⟧ reaching out great arms as
+maples flanking each side of the lawn, as if⟦pencil-delete⟧ reaching out great arms as
 if to protect and shelter this pitiful old structure.
      Oh! now she finds her garden spot.  A level space laying north of
 the lawn and extending to the road side.  Right now she could see it
@@ -52,8 +52,25 @@ Lonesome for something - she didn't quite know what.  They were all men -
 - "possiblities", "most reaching the floor" (apparently for "almost"),
   "transomes", "a years time" (no apostrophe), and the closing quote with
   no opening quote in "They are all men."" are as typed.
-- After "lawn," the typed words "as if" are struck out by the typewriter;
-  the sentence resumes with "reaching out great arms as / if to protect".
+- After "lawn," the typed words "as if" are struck through; the sentence
+  resumes with "reaching out great arms as / if to protect" (the author
+  evidently caught the duplicated "as if ... as if" and cut the first
+  one). Best-guess reading of the struck words is "as if".
 - "(if ever), It could be made": capital "I" mid-sentence after the comma,
-  as typed (the "I" is struck heavily/overtyped).
-- No pencil marks found on this page.
+  as typed (the "I" is struck heavily/overtyped in plain black ink —
+  ordinary double-struck typewriter character, not pencil).
+- Verified: 2026-07-07 — reclassified the "as if" strike-through from
+  ordinary typewriter strikeover to pencil deletion (⟦pencil-delete⟧),
+  and set has_pencil: true. Pixel-level color check against same-page
+  ink baselines: the "as if" mark measures RGB≈(82,82,87), hue≈236°
+  (blue) with R−B≈−5, while the "felt"/"cried" typewriter overtypes and
+  surrounding typed text all measure hue≈25-38° (black/warm) with
+  R−B≈+4 to +19. The mark is a solid hand-scribbled band rather than a
+  typed "xxxx" pattern, consistent with blue pencil rather than a
+  typewriter strikeover. All other strikeovers on this page ("felt",
+  "cried", the heavy capital "I") were checked the same way and remain
+  plain black ink — no reclassification needed for those. Also checked
+  the closing quote with no opening quote in "They are all men."" — this
+  is genuinely typed that way with no missed opening quote nearby;
+  preserved as typed per rule. The instance of "Johnie" on this page was
+  checked for a pencil "n" insertion — none found.

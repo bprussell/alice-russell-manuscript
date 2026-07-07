@@ -58,3 +58,4 @@ inflammation first," and seeing the question in Allie's eyes he added,
 - Left edge of the sheet has a notch torn out at mid-height; no text
   affected.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed. Checked both "Johnie" occurrences (no pencil "n" insertion on this page), both strikeover overtypes ("repairs" and "inevitable" — black typewriter ink, not blue pencil, so strikeover classification is correct), the double-space after "year" in the opening line, and quote-mark types throughout (all double quotes, correctly rendered). Image confirmed right-side up.
