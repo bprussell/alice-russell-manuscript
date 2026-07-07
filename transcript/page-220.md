@@ -6,7 +6,7 @@ image: pages/originals/page-220.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     56
@@ -20,7 +20,7 @@ desk bouquets at regular intervals from May first to November first.
 She received many orders and was delighted.  She named her garden
 "Wonderland," and her bouquets "Alice in Wonderland".  Every bouquet
 built by her had attached to it a dainty little card reading "I am
-an Alice in Wonderland Bouquet.  There's lots more of us at home."
+an Alice in Wonderland Bouquet.  'There's lots more of us at home."
 On the opposite side was printed her address.
      The idea was wholly⟦strikeover: second "l" overtyped on another letter⟧ original with her as was everything she did.
 It fell to Robert or Richard's lot to take Allie and her flowers to
@@ -50,14 +50,24 @@ Allie waited on the lady customers.  He enjoyed this companionship; this
 - Continues mid-sentence from page 219 ("...offices of Doctors, Lawyers, /
   Insurance Companies...") — pages are consecutive.
 - In "wholly" the second "l" is struck over another letter (possibly "e");
-  a small mark above the line at that spot could be a faint pencil tick or
-  a stray typewriter impression — flagged for review against the physical
-  page.
+  this is an ordinary black typewriter overstrike, not pencil.
 - "exclamation" shows overtyped letters in "lam" (typist corrected in
-  place); final reading "exclamation".
+  place); final reading "exclamation". Ordinary typewriter overstrike, not
+  pencil.
 - Duplicated word across the line break — "Otherwise she / she could not" —
   is as typed.
 - "The boys and cleaned and raked" (apparently for "had cleaned"),
-  "everchanging", and "Johnie's" are as typed.
+  "everchanging", and "Johnie's" are as typed. Checked "Johnie's" closely
+  against the photo for the known Johnie/Johnnie pencil-correction pattern —
+  no pencil mark of any kind is present here; stands as typed "Johnie's".
 - Stray opening quotation mark before "Allie was bound" has no closing
-  mate; as typed.
+  mate; as typed (confirmed double quote in photo).
+- Verified: 2026-07-07 — resolved needs_review. Added a dropped single
+  quote mark before "There's lots more of us at home" — the photo clearly
+  shows a single-quote mark resuming the dialogue mid-quotation
+  (Bouquet.  'There's...) that Phase 1 omitted entirely; the closing mark
+  after "home." is a genuine double quote and was already correct. The
+  small hairline marks above "wholly ori-" in "wholly original" (previously
+  flagged as possible pencil) are pale/uncolored scratches or paper fibers,
+  not blue or black pencil, and have no plausible editorial purpose — left
+  untranscribed. No other changes.

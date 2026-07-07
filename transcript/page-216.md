@@ -57,3 +57,7 @@ had he been caught prying into places he had no business to be.  "I
   a large cedar chest" — possibly a typed apostrophe; too faint to be
   certain, transcribed as a plain comma.
 - No other pencil marks found.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. Pencil insertion re-read carefully at high zoom and
+  confirmed as "put" (not "hut"). Both quote pairs around "With best
+  wishes..." and "Uncle Tom" confirmed as typed double quotes.

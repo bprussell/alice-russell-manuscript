@@ -22,7 +22,7 @@ were employed by the government in the after war reconstruction work at
 the Holt Manufacturing Company.  These young fellows had been staying
 at one of the best hotels in the City and begged Allie to give them
 breakfast, pack a lunch and serve them an evening dinner.  For this they
-offered what seemed to Johnie and Allie a huge sum.  Allie was afraid
+offerel what seemed to Johnie and Allie a huge sum.  Allie was afraid
 to tackle it.  She thought her way of cooking was countrified and told
 them so.
 
@@ -64,3 +64,12 @@ one half dollars per person per week.
 - Page begins mid-sentence ("on the second floor...") — continues from page
   198 ("The room was a large one").
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — corrected "offered" to "offerel" (line "offerel
+  what seemed to Johnie and Allie a huge sum"); the photo clearly shows a
+  straight-stroke "l" (no bowl) where Phase 1 had silently normalized it
+  to "offered" — compared directly against the "d" in "seemed" on the same
+  line, which has the expected round bowl. Typo preserved as typed. All
+  three "Johnie" occurrences, the "floor"/"milk"/"happy" strikeovers
+  (confirmed ordinary black typewriter ink, not blue pencil, by RGB
+  sampling), and all quote marks ("moved in", "out of sight") checked
+  against the photo and confirmed accurate.

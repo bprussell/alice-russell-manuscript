@@ -25,7 +25,7 @@ seemed to give new life to the one whose health was the excuse for this
 trip.
      Colorado Springs was a delight from the time they arrived at the
 Acacia Hotel which they made their stopping place until they boarded
-the train for Boulder,Manitou with its wonderful mineral springs.,
+the train for Boulder.Manitou with its wonderful mineral springs.,
 Pikes Peak which was visited by Allie only, and the many side trips
 made by Auto made an ever changing panorama of beauty.
      They arrived in Boulder on Saturday.  The good people into whose
@@ -48,9 +48,16 @@ were getting anxious to get home now that they had decided what they
 - Typed page number "42" at top right.
 - Continues mid-sentence from page 205 ("...who entertained / them
   royally.").
-- "Boulder,Manitou" (comma, no space), "mineral springs.," (period plus
+- "Boulder.Manitou" (period, no space), "mineral springs.," (period plus
   comma), and "than and Realator for miles around" (for "than any
   Realtor") are all as typed.
 - "much land as Johnie": the "l" of "land" strikes heavy and resembles a
   capital I on the sheet; read as "land".
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — corrected "Boulder,Manitou" to "Boulder.Manitou"; close
+  inspection at high zoom shows a round period (matching the shape of periods
+  elsewhere on the page, e.g. "Mr.") immediately after "Boulder", not a comma;
+  a separate grey smudge/fiber nearby is unrelated to the punctuation. Checked
+  both instances of "Johnie" on this page for a pencil "n" insertion
+  (per the known Johnie/Johnnie pattern) — no pencil marks present, name
+  stands as typed. No other discrepancies found.

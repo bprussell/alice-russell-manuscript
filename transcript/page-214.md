@@ -58,3 +58,6 @@ the question for two of the bed rooms.  The other two floors were painted
   "inexpensive" are typewriter-overtyped on the sheet but read clearly.
 - "until no / one to see it now would have suspected" (apparently for
   "no one who saw it") is as typed.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. "Johnie" checked closely: no pencil correction mark
+  present on this page (typed clean, no caret/added "n").

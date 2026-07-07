@@ -39,3 +39,7 @@ chickens were being hatched and demanded lots of care.
 - Small tear at the right edge of the sheet, away from the text; nothing
   lost.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. Both instances of "Johnie" on this page checked closely
+  for the known "Johnnie" pencil correction; neither shows any pencil
+  mark. "worst" strikeover (overtyped final letter) confirmed.

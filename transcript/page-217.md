@@ -58,3 +58,11 @@ enjoyed the sports of the day, too.
 - "Their parents encouraged": letters of "Their/They" are overtyped on
   the sheet; read as "Their".
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — re-examined the clipped page number at top right;
+  the photograph itself cuts off the tops of both digits (not a crop
+  artifact of this transcript), so a confident reading beyond the existing
+  "53" inference isn't possible from this image. needs_review left true
+  per caution. Also checked "kitchen was" for a possible stray apostrophe
+  mark between the words; it reads as an ink speck with no clear letterform,
+  left untranscribed. All other text, strikeovers, and typos confirmed
+  accurate against the photo; no changes needed.

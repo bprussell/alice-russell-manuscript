@@ -19,7 +19,7 @@ wanted to do.  When they arrived home they found everything running
 along as smoothly as if the heads of the family had been in attendance
 all the time.
      The little boys felt very important telling of the things they did
-to help Auntie and Grandma⟦strikeover: "d" overtyped on another letter⟧.  Never-the-less they were happy to have
+to help Auntie and Grandma⟦strikeover: "n" and "d" overtyped on other letters⟧.  Never-the-less they were happy to have
 Mother and Daddy home again.
      Johnie⟦strikeover: "J" overtyped on another letter⟧ called on his Doctor the next day.  The old physician stared
 at him in wonder, "I can hardly believe its you," he said.  "Surely
@@ -55,3 +55,12 @@ they could raise the money called for a payment of two thousand, five
 - "they drove to the farm": a small stray mark or gap splits "drove"
   ("d rove") on the sheet; reads "drove".
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — corrected the "Grandma" strikeover note: at high
+  zoom both the "n" and "d" are heavily double-struck/bold (not just the
+  "d"), consistent with a typewriter overtype correction; ink color is
+  plain black, matching typewriter ink elsewhere on the page (not blue
+  pencil). Checked all four instances of "Johnie"/"Johnie's" on this page
+  for a pencil "n" insertion (per the known Johnie/Johnnie pattern) — none
+  found; name stands as typed in every case. All dialogue quote marks
+  checked against the photo and are true double quotes throughout — no
+  single-quote-to-double normalization found. No other discrepancies.

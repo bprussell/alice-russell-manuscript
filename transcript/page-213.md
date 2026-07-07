@@ -49,3 +49,6 @@ a Garden!"
 - Text ends about a third of the way down the sheet with "Thanked God For
   a Garden!" — apparently the end of Chapter XIII; the rest of the page is
   blank.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. Pencil insertion "the barn," and caret position after
+  "by" confirmed; pencil appears graphite/gray, not blue.

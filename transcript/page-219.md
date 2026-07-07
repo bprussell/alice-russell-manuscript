@@ -18,7 +18,7 @@ Edelstein, Illinois
                               CHAPTER XV
 
      Gardening time had come.  This was  the greatest pleasure Allie
-could ask for.  She loved her garden.  Every woman needs a hobby especially
+could ask for.  She loved her garden.  Every woman needs a hobby, especially
 in the middle years of her life after her big job of raising her family
 is done.  Allie's hobby was her garden.  In its changing blooms she
 created the expression of the beauty and tranquillity which life had so
@@ -55,3 +55,9 @@ in Peoria.  She sent letters to many offices of Doctors, Lawyers,
   "continually") are all as typed.
 - Double space in "This was  the greatest" is as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — corrected missing comma: "a hobby especially" →
+  "a hobby, especially" (clearly visible comma in photo, dropped in Phase 1).
+  Checked "of ten"/"often" spacing near "perversely denied" — pixel analysis
+  confirms it is one word ("often") typed with narrow f/t kerning, not two
+  words; no change. No pencil marks found; small pale mark near "Russell" in
+  header is a paper crease/fiber, not pencil. No changes to other fields.

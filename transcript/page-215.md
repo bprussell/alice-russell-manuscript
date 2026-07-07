@@ -61,3 +61,8 @@ wrapped round and round with one of Aunt Kate's velvet dresses over
   "here".
 - "Parepa" and "Daddy Wheeler" hark back to Book I character names.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. Re-examined the "here and" overtype area at high zoom;
+  still reads as "here and" (contextually "here and there"), consistent
+  with the existing note; not changed given the caution against
+  letter-shape-only corrections.

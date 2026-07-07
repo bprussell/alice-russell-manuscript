@@ -6,7 +6,7 @@ image: pages/originals/page-226.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     62
@@ -62,3 +62,11 @@ a gleam of shining metal.  Johnie is well again.
   (for "shone"), and the tense shift "Johnie is well again." are as typed.
 - Short page: text ends about seven lines from the bottom margin —
   apparently the end of Chapter XVI.
+- Verified: 2026-07-07 — re-read the rotated image at full resolution;
+  transcript text, line breaks, and both pencil corrections ("hauled" and
+  "she was") confirmed accurate. Both pencil marks are ordinary graphite
+  gray with no blue shift versus the page's typewriter-ink baseline, so
+  they remain classified as plain pencil (not the separate blue-pencil
+  pattern seen elsewhere in the manuscript). No transcript text changes
+  needed; resolved needs_review to false. The image-rotation issue is a
+  photography/scan artifact, not a transcription problem — see report.

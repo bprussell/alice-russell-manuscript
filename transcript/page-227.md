@@ -44,3 +44,8 @@ anyone.
 - "Tulips" shows the third letter struck over (an "l" typed over what
   appears to be a "b").
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — checked opening quote+apostrophe combination in
+  "'Twas, the "Tulips" overtype, comma spacing, and the stray ink flick
+  above "put" (no plausible edit purpose, left untranscribed per
+  convention); transcript confirmed accurate against photo, no changes
+  needed.

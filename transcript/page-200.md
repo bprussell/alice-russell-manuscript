@@ -24,7 +24,7 @@ remunerative position.  His new duties were not so strenuous but there
 was more responsibility connected with it.
 
      Everything ran smoothly these days.  Allie had joined the Athenian
-Delphian Society, was enjoying the social duties connected with the
+Delphian Society, was enjoying the social duties⟦strikeover: "s" overtyped⟧ connected with the
 Arcadia Presbyterian Church and the Parent Teacher's Association of the
 Columbia School.  She guided her children carefully through the confusing
 lower grades and was a real companion to them.  No question however
@@ -42,3 +42,11 @@ boyhood with no mysteries of life tormenting their mentalities.
 - Page begins a new paragraph but continues the scene from page 199
   ("Month after month passed. / One evening Johnie came home delighted").
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — found and added one missed overtype mark: the "s"
+  in "duties" (paragraph 2, "the social duties connected with the") has a
+  bold typewriter overtype mark on top of it, matching the same
+  letter-overtype pattern as "hardly" on this page and "milk"/"happy" on
+  page 199. Confirmed black/brown ink via RGB sampling (not blue pencil).
+  Everything else on the page — text, line breaks, "hardly...believe"
+  overstrike, quote marks (none present) — checked against the photo and
+  confirmed accurate.

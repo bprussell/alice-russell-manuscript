@@ -6,7 +6,7 @@ image: pages/originals/page-225.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     61
@@ -49,10 +49,11 @@ There was no ⟦pencil-insert: "⟧mine ⟦pencil-insert: or Thine"⟧ at Bradfo
 - PENCIL CORRECTION near page bottom: in the typed line "There was no
   mine at Bradfords." a pencil caret sits below the line just after
   "mine", with "or Thine"" (including a closing double quote) written
-  above the line in pencil; a shorter pencil stroke before "mine" appears
-  to be an inserted opening quotation mark, giving the corrected reading
-  «There was no "mine or Thine" at Bradfords.» The stroke before "mine"
-  is small and could alternatively be a stray mark — flagged for review.
+  above the line in pencil; a pencil hook-shaped stroke immediately
+  before "mine" is an inserted opening quotation mark, pairing with the
+  closing quote after "Thine", giving the corrected reading «There was
+  no "mine or Thine" at Bradfords.» — a sensible idiomatic phrase in
+  context (shared ownership). Confirmed on close zoom: 2026-07-07.
   The typed word "mine" itself is double-struck (heavier ink) but not
   crossed out.
 - First line ends "world?" with the punctuation struck over another
@@ -61,3 +62,9 @@ There was no ⟦pencil-insert: "⟧mine ⟦pencil-insert: or Thine"⟧ at Bradfo
   "There was most three hundred dollars" (for "almost"), and the double
   space in "during  each day" are as typed.
 - Continues from the Rubaiyat quatrain that closes page 224.
+- Verified: 2026-07-07 — checked all dialogue quote marks (all double,
+  consistent), the "Johnie" spelling (no pencil "n" insertion present),
+  and the bottom-of-page pencil correction under magnification; resolved
+  needs_review to false as the opening/closing quote pencil marks around
+  "mine or Thine" are now clearly legible and contextually sound. No
+  transcript text changes were needed.
