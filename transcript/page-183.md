@@ -61,3 +61,8 @@ the natural mastery of events as they shaped his character.
   trained" (for "Not a trained") are all as typed.
 - Extra space in "it as  truly" is as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. Checked all dialogue quote marks (all double quotes,
+  matching the photo) and the single-quote usage around 'hopeless' and
+  'ologies (both as typed). "Johnie" on this page is cleanly typed with
+  no strikeover, consistent with pages 181-182.

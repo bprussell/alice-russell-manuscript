@@ -35,7 +35,7 @@ dollars a day.
 
      There would probably be an average of three days a week.  "If I
 could go from nine to eleven in the morning and from one to three in
-the afternoon I might try it," she thought.  "I couldn't be away when
+the afternoon .I might try it," she thought.  "I couldn't be away when
 the children are home from school," she decided so gave up the whole
 idea.
 
@@ -62,3 +62,11 @@ kept busy answering the 'phone or doorbell.  The room was a large one
 - Page ends mid-sentence ("The room was a large one") — continues on next
   page.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — found and fixed two places where Phase 1 had
+  silently "corrected" the typed text: "Before they know it" (typed
+  "know", not the idiomatic "knew" — confirmed under magnification) and
+  "the afternoon .I might try it," (a period is typed after "afternoon"
+  with a space before it and none after, before "I"; Phase 1 had dropped
+  the period entirely). Rest of page checked line by line against the
+  photo, including the "No -o - o," and "you,and" spacing quirks elsewhere
+  on the page; all confirmed accurate.
