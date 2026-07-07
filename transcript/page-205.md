@@ -6,7 +6,7 @@ image: pages/originals/page-205.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     41
@@ -18,7 +18,7 @@ Edelstein, Illinois
                               CHAPTER XII
 
      "Well, why don't you and your wife take a trip out there for a
-few months anyway.  You'll know more about how you'll likeit by ⟦strikeover: that⟧
+few months anyway.  You'll know more about how you'll likeit by that⟦pencil-delete⟧
 that time," the Doctor answered.  "You really should go soon."
      When Johnie broke this news to Allie she did not discourage it.
 Instead she sat about planning a way in which the children's welfare
