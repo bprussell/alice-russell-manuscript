@@ -59,3 +59,10 @@ face.
   quote), and "had seem a look" (for "seen") are all as typed.
 - The line " but never again."" begins one space to the right of the
   margin, as typed.
+- Verified: 2026-07-06 — re-checked against photo (this page is adjacent
+  to the linked "five"→"four" locket-portrait pencil edit spanning pages
+  142-143); transcript confirmed accurate, no changes needed. Confirmed:
+  both pencil-delete strikes ("The next one was" / "his mother's
+  mother."), the pencil "four" written above struck "five", and the
+  typewriter strikeover of "l" in "p⟦strikeover: l⟧aced" are all exactly
+  as recorded.

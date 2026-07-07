@@ -37,7 +37,7 @@ bed.
 after arranging the money for Joseph Donald.  He would write Parepa of
 his discovery and encourage her to listen to the pleadings of her Sunday
 School lover.  He would assure her that he was convinced it was best
-that they never see each other again.
+that they,never see each other again.
         The next morning Frances slept late into the day.  He awoke with
 a start.  He hadn't intended to go to sleep.  Here it is most noon!
 He dressed and answered Mr. Wheeler's tap on the door.

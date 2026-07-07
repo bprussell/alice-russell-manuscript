@@ -61,3 +61,11 @@ lakes on his estate.  He's so foolish about something though.  He is
 - Mid-speech the addressee changes from Joseph to "Donald" ("...wonderful
   home, Donald.") — as typed; likely an authorial slip. Flagged as a
   content anomaly, not a transcription uncertainty.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. All three pencil corrections ("held", "foliaged",
+  "listener") re-examined under magnification: plain gray graphite cursive,
+  not blue — has_pencil:true is correctly the ordinary-pencil case, not the
+  blue-pencil pattern seen elsewhere in the manuscript. "sa;d" re-checked at
+  high zoom: a semicolon-shaped character (dot over a comma-tail) between
+  "sa" and "d", not an extra space, confirming the existing single-word
+  transcription.

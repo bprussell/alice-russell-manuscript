@@ -33,3 +33,8 @@ change my mind," and she gave a little laugh⟦strikeover: "la" overtyped on oth
   other letters); final reading "laugh" is clear.
 - A small chip/tear at the lower right edge of the sheet, well away from
   any text.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. The "her"/"hear" pencil correction and the "laugh"
+  overstrike were both re-examined under magnification: the pencil is plain
+  gray graphite (not the blue-pencil pattern found elsewhere in the
+  manuscript), so has_pencil:true is correctly the ordinary case.
