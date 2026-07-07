@@ -53,3 +53,10 @@ The afternoon passed - he did not come.
 - "quotation for the Joseph speech opening on the previous page closes
   mid-line after "at all?"" — as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. Checked all quote-mark boundaries (including the
+  double quote closing "at all?"" at the top and the em-dash spacing in
+  "and a  - mother"), the "Yer Aunt Kate" hyphenated line break, and
+  "heleft"/"onto" as typed. Noted two heavily inked/overstruck letters
+  ("Each" and "angel") that render as bold blobs but are unambiguous in
+  context and already transcribed correctly; no text change needed.
