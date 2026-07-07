@@ -32,3 +32,9 @@ value now."
 - "mortgate" (for "mortgage") and "at there real value" (for "their") are
   as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — Checked the page line by line, including every
+  quotation mark (all genuine typed double quotes; the single-quote/
+  double-quote normalization pattern seen elsewhere is not present here)
+  and the "mortgate"/"at there real" typos. Image orientation is correct
+  (right-side up). Transcript confirmed accurate against photo, no
+  changes needed.

@@ -39,7 +39,7 @@ hand of one who cultivates and creates from the soil.  Fingers of love
 and understanding were stretched out to touch her own, that better
 courage come to her.  As she sat quietly thinking these old familiar
 words came to her.
-          "Oh, love, could you and I with fate conspire,
+          "Oh⟦strikeover: "O" overtyped/doubled⟧, love, could you and I with fate conspire,
                To grasp this sorry scheme of things entire;
           Would we not shatter it to bits and then,
                Remould it, nearer to the heart's desire?"
@@ -61,3 +61,14 @@ words came to her.
   verse; transcribed with its original indents.
 - Right edge of the sheet is chipped/torn in places; no text lost.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — confirmed image is now right-side up (matches
+  the fix already applied to pages/originals/page-224.jpg) and confirmed
+  needs_review was correctly resolved. Found one additional discrepancy:
+  the "O" opening the closing quatrain ("Oh, love, could you and I...")
+  is heavily overtyped/doubled in black typewriter ink (not blue pencil —
+  checked pixel color against page baseline), a correction mark the
+  transcript had not recorded; added a ⟦strikeover⟧ marker. Checked the
+  opening and closing quote marks around the quatrain and the quote
+  closing at "all right.\"" at the top of the page — all correctly double
+  quotes, no single-quote normalization issues found. No "Johnie"/"Johnnie"
+  occurrences on this page.

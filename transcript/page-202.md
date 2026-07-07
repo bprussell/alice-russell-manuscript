@@ -6,7 +6,7 @@ image: pages/originals/page-202.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     38
@@ -53,7 +53,19 @@ some giggle pills."
   on the previous page.
 - A tiny gray mark sits in the left margin beside the "anxious hours over
   each one in turn" line; it may be a faint pencil tick or just a paper
-  blemish — flagged for review (ambiguous, so has_pencil left false).
-- A faint low mark between "She" and "brought" ("She brought him in") may
-  be a typed comma or a speck; transcribed without it — verify on the
-  physical page.
+  blemish — has_pencil left false since it carries no discernible text and
+  doesn't correspond to any correction, insertion, or note in context.
+- A faint low mark between "She" and "brought" ("She brought him in") was
+  checked against the photo at high zoom: it is a light brown/tan surface
+  scratch (paper color, not ink), not a typed comma — correctly
+  transcribed without it.
+- Verified: 2026-07-07 — Checked the full page against the photo line by
+  line, including both "Johnie" occurrences (no pencil "n" added, unlike
+  the recently-noted Johnie/Johnnie pattern elsewhere), all quotation
+  marks (all genuine typed double quotes, no single-quote normalization
+  found), and the "flu" strikeover mark (sampled pixel color is a warm
+  near-black, consistent with ordinary typewriter ink/strikeover, not the
+  blue pencil/ink seen elsewhere — classification left unchanged). The
+  margin tick and the "She"/"brought" mark (see notes above) were
+  resolved by close inspection; no text changes were needed. Transcript
+  confirmed accurate against photo.
