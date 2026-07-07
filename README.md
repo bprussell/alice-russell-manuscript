@@ -37,8 +37,9 @@ annotation conventions used in the verbatim transcripts.
       imported from a shared Google Photos album; all pages
       orientation-verified page-by-page)
 - [x] Phase 1 — Verbatim transcription (288/288 pages)
-- [ ] Phase 2 — Verification pass (33/288 pages verified as a cost/quality
-      pilot; paused for a go/no-go decision on the remaining 255 — see
-      transcript/REVIEW.md for open questions found so far)
+- [ ] Phase 2 — Verification pass (164/288 pages verified — all of Book I
+      complete; proceeding through Book II in 10% batches with a checkpoint
+      between each — see transcript/REVIEW.md for open questions found
+      so far)
 - [ ] Phase 3 — Edited reading text
 - [ ] Phase 4 — Typesetting and print PDF
