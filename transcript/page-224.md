@@ -6,7 +6,7 @@ image: pages/originals/page-224.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     60
@@ -46,10 +46,10 @@ words came to her.
 
 ## Transcriber notes
 
-- IMAGE IS ROTATED 180 DEGREES (photographed upside down). Transcribed
-  from a rotated copy; typed page number "60" is at the top right when
-  the page is properly oriented. Flagged needs_review so the image file
-  can be re-shot or rotated.
+- Image was rotated 180 degrees (an orientation-check miss from Phase 0)
+  when this was verified; corrected in place on 2026-07-07 so
+  pages/originals/page-224.jpg now displays upright. Transcript text
+  below was already accurate against the corrected orientation.
 - Continues directly from page 223 ("...I see no reason / why he
   shouldn't come out all right.").
 - "Allie most collapsed" (for "almost"), "her husbands features" and
