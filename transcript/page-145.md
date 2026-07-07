@@ -56,3 +56,12 @@ Instantly Parepa flew to her side, Frances followed her.
   self" (for "his") are all as typed.
 - Page ends mid-sentence.
 - No pencil marks found on this page.
+- Verified: 2026-07-06 — transcript confirmed accurate against photo,
+  no text changes needed. Noted for the record: "his breast and was
+  covering" has a heavy typewriter overstrike on "and" (looks like a
+  corrected keystroke, not pencil — checked pixel color against the
+  page's ink baseline and it is not blue-shifted); "and" is the clear,
+  unambiguous contextual reading so no marker was added. Also confirmed
+  the low/heavy comma blot after "Yes yesterday" is ordinary typewriter
+  ink (not blue pencil) by the same pixel check, and the opening quote
+  before "All right, I'll be there at two." is a normal double quote.
