@@ -15,7 +15,7 @@ Mrs Alice Reynolds Russell
 Mt. Hawley Road
 Edelstein, Illinois
 
-Frances, Joseph, John⟦strikeover: "n" double-struck⟧nie, and now Harold?  Was it right to do this ⟦pencil-insert: --⟧
+Frances, Joseph, John⟦pencil-insert: n⟧ie, and now Harold?  Was it right to do this ⟦pencil-insert: --⟧
 only to leave them - disappear from their lives altogether?  None of
 them reminded her in the least of the other.  They parted that night
 promising to be true to each other.
@@ -47,7 +47,7 @@ and he kissed her again and again.
 
      It was settled then and there they would be married in September.
 Parepa would send her resignation to the directors of the Kellogg
-school and write John⟦strikeover: "n" double-struck⟧nie a kind note telling him of her change of
+school and write John⟦pencil-insert: n⟧ie a kind note telling him of her change of
 heart -- or, could she?  Well, she'd see -- may be some time soon.
 Not yet though; no use to hurt him yet - she'd wait until nearer time.
 
@@ -56,14 +56,18 @@ Not yet though; no use to hurt him yet - she'd wait until nearer time.
 - Typed page number "12" at top right corner. Continues page 175
   mid-sentence ("Was she the same Parepa that had accepted the carresses
   of / Frances, Joseph, Johnie, and now Harold?").
-- "Johnnie" (here and in "write Johnnie a kind note") shows a bold
-  double-struck second "n" — the same recurring typewriter artifact
-  documented on page 231 ("'Johnnie' has its second 'n' double-struck"),
-  recorded inline the same way. Corrected from an earlier reading of
-  "Johnie" (single n): that reading's supporting note cited page 231 as
-  precedent for a single "n", but page 231 actually documents the opposite
-  (a double "n" with the second one overstruck), so "Johnie" was a
-  misreading of this page's own name-artifact.
+- "Johnnie" (here and in "write Johnnie a kind note") has its second "n"
+  added by hand: colour-sampled against the page's typed ink (warm,
+  R-B ≈ +9 to +13) the added stroke reads neutral gray (R≈G≈B), i.e.
+  pencil, not a typewriter re-strike. Recorded as
+  "John⟦pencil-insert: n⟧ie". Corrected from an earlier reading of
+  "Johnie" (single n) on this page — that reading's supporting note cited
+  page 231 as precedent for a single "n", but page 231 shows the same
+  name with the same kind of added "n" (its own note calls it a
+  "typewriter double-strike," but colour-sampling that mark gives the same
+  neutral-gray result as here, suggesting it is likely pencil too — see
+  anomaly flagged in the verification report; page 231 itself is out of
+  this batch's scope so was left untouched).
 - "Couldn't" (first paragraph after "each other.") has a slightly garbled
   apostrophe/strike in the print but is legible.
 - "The day was long." — "was" in "She was in love" a few lines earlier is
@@ -76,11 +80,11 @@ Not yet though; no use to hurt him yet - she'd wait until nearer time.
   accordingly.
 - Page is double-spaced on the original; ends with a paragraph break,
   continuing the chapter onto page 177.
-- Verified: 2026-07-07 — corrected "Johnie" to "Johnnie" (double-struck
-  second "n", matching the confirmed reading on page 231) in both
-  occurrences, and flagged the hand-drawn pencil dash after "this" in the
-  opening paragraph (was previously transcribed as an ordinary typed
-  dash). Updated has_pencil to true. Everything else checked correct,
-  including quote-mark types (all double quotes, including a faint/lightly
-  struck one before "And you my lady") and the typed oddity "Couldn't"
-  with its garbled apostrophe.
+- Verified: 2026-07-07 — corrected "Johnie" to "Johnnie" in both
+  occurrences (typed "Johnie" plus a pencil-inserted second "n", per
+  colour analysis — see note above), and flagged the hand-drawn pencil
+  dash after "this" in the opening paragraph (was previously transcribed
+  as an ordinary typed dash). Updated has_pencil to true. Everything else
+  checked correct, including quote-mark types (all double quotes,
+  including a faint/lightly struck one before "And you my lady") and the
+  typed oddity "Couldn't" with its garbled apostrophe.
