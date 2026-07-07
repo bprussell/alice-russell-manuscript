@@ -169,3 +169,35 @@ page 144 added another sacred-layer restoration.
   ("this child of fate") is legible, but whether it's meant as a
   replacement, a marginal alternative, or an unrelated note is
   undetermined.
+
+Added from batch 7 (pages 166–198, verified 2026-07-07) — the first batch
+into Book II. Two notable discoveries this batch, beyond the usual open
+items: (1) a systematic pencil-correction pattern where "Johnie" is
+consistently corrected to "Johnnie" (added second n) across pages
+176–179, suggesting a deliberate later pass through the manuscript to fix
+this character's name — worth watching for on any other page featuring
+him; (2) a possible misclassification on **page 231** (already verified
+in an earlier batch, outside this one's scope) where its "Johnnie" mark
+was called an ordinary typewriter double-strike, but color-sampling
+elsewhere in this batch suggests it may actually be the same pencil
+correction — worth a second look when convenient, not urgent.
+
+- **page 175** — the interior of an overstruck "herself" is illegible;
+  reading is inferred from context only.
+- **page 178** — a scribbled-out word between "avoiding" and
+  "explanations" is illegible.
+- **page 179** — the "Johnnie" pencil corrections are confirmed in
+  spelling but their exact mechanism (pencil vs. typewriter) is less
+  certain here than on 176–178 (denser, warmer mark).
+- **page 181** — two struck characters in "Johnie"/"Johnnie" are
+  illegible at the letter level (one confirmed blue pencil, one confirmed
+  black typewriter ink) — the corrected spelling is confident, the
+  original struck character is not recoverable.
+- **page 184** — a "k" strike in "she kwas," has a weak, inconclusive
+  color signal (medium unconfirmed); a "hall" reading in "commotion in
+  the hall" is a faint, gapped best guess.
+- **page 185** — the final letter of "married" is a weak typed
+  impression; "married" is the strong contextual guess but unconfirmed.
+- **page 194** — the first letter of "kiss" ("to kiss his wife") is
+  overstruck and ambiguous, though "kiss" is the only word that makes
+  sense in context.
