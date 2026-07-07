@@ -38,11 +38,11 @@ both really enjoying themselves.
 
      Parepa unvailing new virtues in her partner as they sat there side
 by side in the moonlight.  It was a night that makes lovers, a night
-that makes dreams.  Johnie was dreaming - Parepa was too.  But what
+that makes dreams.  John⟦pencil-insert: n⟧ie was dreaming - Parepa was too.  But what
 was she dreaming?  She could feel a confusion of dreams.  Finally she
 felt an arm around her and a hand turning her face up to -- yes, it
-was Johnie's lips to be kissed.  She sank her head on his shoulders
-and sat silently as she ⟦strikeover: passed⟧⟦pencil-insert: pressed⟧ her hand ⟦strikeover: in⟧⟦pencil-insert: into⟧ his to hold.  She was safe
+was John⟦pencil-insert: n⟧ie's lips to be kissed.  She sank her head on his shoulders
+and sat silently as she passed⟦pencil: pressed⟧ her hand in⟦pencil: into⟧ his to hold.  She was safe
 with him --
 
      She could feel his heartbeat.  It was a true heart, a pure heart, a

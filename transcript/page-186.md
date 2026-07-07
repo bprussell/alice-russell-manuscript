@@ -63,3 +63,11 @@ basket.  "I'll never speak to him again.  Never."
   lines is as typed.
 - Page begins mid-sentence, completing "...but a regular / demon when he is
   drunk." from page 185 — pages are consecutive.
+- Verified: 2026-07-07 — confirmed via pixel color analysis that the
+  "were" margin insert is genuinely blue-pencil (B channel elevated
+  ~+25-32 over R/G, unlike this page's neutral black typed ink), so
+  has_pencil: true and ⟦pencil-insert: were⟧ are correct; the "told"
+  strikeover measured neutral/black, confirming ⟦strikeover⟧ (not
+  pencil) is the correct marker there. Checked all dialogue quote marks
+  on the page (all double quotes, matching the photo). No changes
+  needed.
