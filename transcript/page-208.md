@@ -53,3 +53,11 @@ had never known before.
 - Page ends with a completed paragraph ("...had never known before.") and
   some blank space at the foot of the sheet.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. Checked the "realize" strikeover (the "l" is overtyped
+  with a cross-shaped mark, plain black ink, not blue pencil) and every
+  dialogue quote mark on the page — all are true double quotes, no
+  single-quote normalization found. "Johnie" (with "said Johnie") has no
+  pencil correction. Note: this page is the first to name the family
+  surname "Bradford" ("the Bradfords found themselves greatly in debt");
+  spelled correctly and consistent with the photo.

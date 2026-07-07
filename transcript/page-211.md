@@ -53,3 +53,8 @@ to keep warm."  He started trapping them the second day and proudly
   missing windows" (doubled "many"), "mornful" (for "mournful"), and "the
   boys sat about hunting" (for "set about") are as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. "di[d] not" has a very faintly-struck "d" (light type
+  impression) but reads as "did"; both instances of "Johnie" checked for
+  a pencil "n" insertion — none found. Dialogue quotes ("Arthur said,
+  "Even...") confirmed as true double quotes.

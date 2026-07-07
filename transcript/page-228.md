@@ -6,7 +6,7 @@ image: pages/originals/page-228.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     64
@@ -49,10 +49,12 @@ might be and thanked their God for the many blessing received.
 
 - Typed page number "64" at top right.
 - Chapter heading "CHAPTER XVII" centered below the submission block.
-- PENCIL MARK: in "when the found every bulb was rotted" a faint gray
+- PENCIL MARK: in "when the found every bulb was rotted" a gray
   "y"-shaped stroke sits just below the line immediately after "the",
-  apparently a pencil-added "y" correcting "the" to "they". Gray tone
-  suggests pencil rather than typewriter; flagged for review.
+  a pencil-added "y" correcting "the" to "they". Confirmed on close
+  zoom and pixel-level color check: neutral gray/graphite, no blue
+  shift versus the page's typewriter-ink baseline — ordinary pencil,
+  not the separate blue-pencil pattern.
 - TYPED INTERLINEAR INSERTION: the word "bed" is typewritten above the
   line with a caret at the insertion point in "to take her ^ for a few
   days." — transcribed inline as "to take her bed for a few days." The
@@ -64,3 +66,8 @@ might be and thanked their God for the many blessing received.
 - "downed", "could buy and hid from them" (for "hide"), and "the many
   blessing received" (for "blessings") are as typed.
 - Small tear at top edge near the page number; no text affected.
+- Verified: 2026-07-07 — re-checked the pencil "y" insertion, the typed
+  "bed" interlinear insertion with caret, and both typed interlinear
+  quote marks around "standing still and waiting" under magnification;
+  all confirmed accurate as previously transcribed. Resolved
+  needs_review to false; no transcript text changes needed.

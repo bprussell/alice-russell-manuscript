@@ -55,3 +55,9 @@ have a right too."
 - Page begins a new paragraph — page 228 ended with a completed sentence
   ("...many blessing received."), so no break in continuity.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — checked all dialogue quote marks (all double,
+  consistent), the "Johnie" spelling at each occurrence (no pencil "n"
+  insertion present), the "strocking" overtype, and comma spacing;
+  transcript confirmed accurate against photo, no changes needed. A
+  faint stray tick mark before "The" (in "low.  The "golden") has no
+  plausible edit purpose and is left untranscribed as a likely smudge.

@@ -45,10 +45,10 @@ a gleam of shining metal.  Johnie is well again.
 
 ## Transcriber notes
 
-- IMAGE IS ROTATED 180 DEGREES (photographed upside down). Transcribed
-  from a rotated copy; typed page number "62" is at the top right when
-  properly oriented. Flagged needs_review so the image can be re-shot or
-  rotated.
+- Image was rotated 180 degrees (an orientation-check miss from Phase 0)
+  when this was verified; corrected in place on 2026-07-07 so
+  pages/originals/page-226.jpg now displays upright. Transcript text
+  below was already accurate against the corrected orientation.
 - TWO PENCIL CORRECTIONS on this page:
   1. "The howled Johnie's share of" — typed "howled" is struck through
      in pencil with "hauled" written above it. (The typed word under the
@@ -68,5 +68,5 @@ a gleam of shining metal.  Johnie is well again.
   gray with no blue shift versus the page's typewriter-ink baseline, so
   they remain classified as plain pencil (not the separate blue-pencil
   pattern seen elsewhere in the manuscript). No transcript text changes
-  needed; resolved needs_review to false. The image-rotation issue is a
-  photography/scan artifact, not a transcription problem — see report.
+  needed; resolved needs_review to false. The source image was also
+  corrected from upside-down to upright the same day (see note above).

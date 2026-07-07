@@ -56,3 +56,7 @@ work was most discouraging to these patient long suffering tillers of
 - The story location "Edelstein Congregational Church" matches the
   author's address town (Edelstein, Illinois).
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. "John" (not "Johnie") is genuinely typed that way here;
+  confirmed no pencil correction letters nearby. The "tillers" overtyped
+  "i" and the dash after "flowers -" both confirmed against the photo.

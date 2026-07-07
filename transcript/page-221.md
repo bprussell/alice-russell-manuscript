@@ -6,7 +6,7 @@ image: pages/originals/page-221.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     57
@@ -60,3 +60,14 @@ had been a hard year on all the family.  Up every morning by day break
 - The words "only for" at the end of the double-doors line are noticeably
   darker — struck twice or retyped in place; reading is clear.
 - Right edge of the sheet has small tears/chips; no text lost.
+- Verified: 2026-07-07 — resolved needs_review. Examined the margin dot
+  beside "in contact/fortable chairs" closely: it is a solid near-black dot
+  with a faint hairline dash just above/left of it, both plain
+  black/grey (not blue-shifted) and not aligned with any correction,
+  missing word, or error in the adjacent text — most consistent with a
+  stray ink blot or a proofreader's tick unrelated to the text layer, not
+  an authorial pencil correction. Left untranscribed per the no-plausible-
+  purpose rule. Confirmed "only for" overstrike is ordinary black
+  typewriter double-strike, not blue pencil. Checked "Johnie" — typed as
+  single "n", no pencil correction present, stands as typed. No text
+  changes made.

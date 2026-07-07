@@ -24,7 +24,7 @@ the bank saw fit to start foreclosure on their farm mortgage.  After
 employing a lawyer to advise them it was thought best to sign the farm
 over to the bank.  This left them without a farm of their own, but still
 plenty of debts.  If they had been the kind of people who give up to
-discouragements they certainly would have "folded their tents" as the
+discouregements they certainly would have "folded their tents" as the
 Arabs and as silently stole away.
      Not so, this family.  They rented another eighty acre farm near them
 making two hundred and forty acres in all and set about to try again.
@@ -47,3 +47,11 @@ flowers now.
 - "as silently stole away" (for "stole" vs "stolen"/"stole" idiom) and the
   double space in "his time  to cultivating" are as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — corrected a silently "fixed" typo from Phase 1:
+  the photo clearly types "discouregements" (an "e" where "discouragements"
+  would have an "a") — confirmed by close zoom, not a letter-shape illusion.
+  Restored the typo per the sacred-typed-layer rule. Checked "unwholesome"
+  (looked like a possible word-break due to a weak "n" strike; pixel check
+  confirms it is one word, no change) and "Johnie" (single "n", no pencil
+  correction present). "brought" strikeover and other overstrikes are
+  ordinary black typewriter ink, not blue pencil. No other changes.
