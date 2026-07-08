@@ -201,3 +201,19 @@ correction — worth a second look when convenient, not urgent.
 - **page 194** — the first letter of "kiss" ("to kiss his wife") is
   overstruck and ambiguous, though "kiss" is the only word that makes
   sense in context.
+
+Added from batch 8 (pages 199–229, verified 2026-07-07). Two of Book 0's
+photos turned out to still be upside down despite the Phase 0
+orientation pass — **pages 224 and 226** — both caught by verification
+agents reading the image and finding it didn't match the transcript's
+described layout; both corrected in place, text was already accurate
+against the corrected orientation.
+
+- **page 212** — a strikeover on "as if" (removing a duplicated phrase)
+  was reclassified from typewriter to blue-pencil based on quantitative
+  color evidence and clear editorial logic; confident, but flagged since
+  it's a new judgment call on a mark nobody had previously flagged as
+  pencil at all.
+- **page 217** — the typed page number is physically clipped by the
+  photograph's edge; "53" is the best inference from sequence but
+  unconfirmed.
