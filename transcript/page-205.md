@@ -21,7 +21,7 @@ Edelstein, Illinois
 few months anyway.  You'll know more about how you'll likeit by that⟦pencil-delete⟧
 that time," the Doctor answered.  "You really should go soon."
      When Johnie broke this news to Allie she did not discourage it.
-Instead she sat about planning a way in which the children's welfare
+Instead she sat about plamning a way in which the children's welfare
 would be looked after during their absence.  This settled satisfactorily
 she took the matter of funds into her  onw hands.  Obtaining a loan of
 five hundred dollars from the first person she approached on the subject.
@@ -49,16 +49,29 @@ it.  There were several cousins in homes of their own who entertained
 
 - Typed page number "41" at top right; "CHAPTER XII" heading centered
   below the Submitted-by block.
-- "likeit" (missing space), "onw hands" (for "own"), "trainbround" (run
-  together, apparently for "train bound"), "but on thing in mind" (for
-  "one"), "husbands health" (no apostrophe), and "gomfortable" (for
-  "comfortable") are all as typed.
-- A typed "that" at the end of the second text line is struck out by the
-  typewriter (the word was retyped at the start of the next line).
-- "chumming": the final letters carry a cursive gray overstroke that looks
-  like a pencil alteration, apparently making the word read "chummy". The
-  reading of the pencil correction is uncertain — flagged for review.
+- "likeit" (missing space), "plamning" (for "planning"), "onw hands" (for
+  "own"), "trainbround" (run together, apparently for "train bound"), "but
+  on thing in mind" (for "one"), "husbands health" (no apostrophe), and
+  "gomfortable" (for "comfortable") are all as typed.
+- A typed "that" at the end of the second text line is struck through with
+  a visibly blue-shifted pencil line (not a typewriter x-over) and the
+  word was retyped at the start of the next line; recorded as
+  `⟦pencil-delete⟧`, consistent with the same blue pencil used on
+  "chumming" below.
+- "chumming": the final letters carry a cursive blue-pencil overstroke,
+  apparently making the word read "chummy", matching the same blue pencil
+  as the "that" deletion above. Best-guess reading retained; kept as
+  needs_review: false but the correction itself remains a handwriting
+  judgment call.
 - In "They practiced" the "y" of "They" is typed low/out of line, as if
   squeezed in.
 - "When she learned / their location insisted upon sending..." (missing
   "she") is as typed.
+- Checked for the "Johnie"→"Johnnie" pencil correction seen on other pages;
+  "Johnie" here has no pencil mark, so it stands as plain typed text.
+- Verified: 2026-07-07 — fixed a silently-corrected typo: transcript read
+  "planning" where the page is typed "plamning" (now corrected to match
+  the photo); corrected a stale note that mischaracterized the pencil
+  strike-through of "that" as a typewriter strikeover (it is blue pencil,
+  matching the marker already used); no other discrepancies found. Image
+  orientation is correct (not upside down).
