@@ -24,10 +24,6 @@ pass. See the per-page Transcriber notes for full detail on any fix.
   II's opening page) are illegible; a shape resembling "II" is faintly
   visible at the end of the second line, possibly a "BOOK II" title
   fragment.
-- **page 274** — a pencil blot after "diamond" has a blue-gray tint
-  (unlike the graphite gray of the page's other pencil mark) and a shape
-  suggestive of a capital "N," but this isn't confident enough to
-  transcribe as a character.
 
 Added from batch 2 (pages 2–34, verified 2026-07-06). This batch also
 surfaced a recurring **blue-pencil correction habit** — several marks
