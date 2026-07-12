@@ -44,7 +44,7 @@ and kissed her.
      Taking his place at the table again he said, "Because there was
 room for more of our good times together on it.  Each diamonds⟦pencil-delete⟧ represents
 a memory of things that made us dear to each other.  "Here," he said
-drawing a small beautifull/bound booklet from his pocket, "is the history
+drawing a small beautifull⟦pencil-insert: y⟧ bound booklet from his pocket, "is the history
 of our gems.  I give it to you.  It has been a great comfort to me
 these years.  Now it is yours."
 
@@ -69,9 +69,10 @@ How wonderful!  I shall be so glad to have them for the sentiment they
      insert above) and a zigzag shape that could suggest a capital "N" at
      a glance, but "Each diamond N represents..." doesn't parse — the
      zigzag is simply how she crossed out the "s".
-- "beautifull/bound" — a typed "y" at the end of "beautifully" is
-  overstruck with a typed slash (black ink, not pencil); transcribed as
-  the visible "beautifull/bound".
+- "beautifull⟦pencil-insert: y⟧ bound" — typed "beautifull bound" (missing
+  the final "y") is corrected with a hand-written "y" added at the end of
+  "beautifull", giving "beautifully bound". The mark previously read as a
+  typed slash overstriking a typed "y" is actually this handwritten "y".
 - "Francex" — the final letter reads as "x", an apparent typo for
   "Frances"; as typed.
 - Other strikeovers on the page ("next", "confessed") are typewriter
@@ -91,3 +92,8 @@ How wonderful!  I shall be so glad to have them for the sentiment they
   character is the final "s" of typed "diamonds", corrected in pencil to
   singular "diamond"; the zigzag strike only resembles a capital "N"
   coincidentally. Text updated, needs_review cleared.
+- Corrected: 2026-07-08 — physical-page review shows the "beautifull"
+  mark previously described as a typed "y" overstruck by a typed slash is
+  actually a hand-written "y" added at the end of "beautifull", correcting
+  a dropped final letter to "beautifully bound". Transcript updated from
+  "beautifull/bound" to "beautifull⟦pencil-insert: y⟧ bound".
