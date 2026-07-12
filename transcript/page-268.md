@@ -6,7 +6,7 @@ image: pages/originals/page-268.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                    104
@@ -34,7 +34,7 @@ After she reached her room, her maid waited patiently until she had
 written her letter.  After she had sent it to the Post Office she suggestd
 to Parepa that she give her another conditioning treatment.  Parepa was
 delighted.  The bath and massages made her feel so rested.  Just as the
-body powder had been applied a ⟦pencil: the⟧ tap at ⟦pencil: of⟧ the door knocker called her maid
+body powder had been applied ⟦strikeover: a⟧ ⟦pencil: the⟧ tap ⟦strikeover: at⟧ ⟦pencil: of⟧ the door knocker called her maid
 out to her sitting room door.  She heard a commotion and slipping into
 her dressing gown stepped into the room.  To her surprize she saw two
 messenger boys carrying many boxes containing ladies' wearing apparel
@@ -53,14 +53,30 @@ lingerie.  Beautiful filmy stuff,  Parepa loved the feel of it.  A half
 
 - Typed page number "104" at top right.
 - Pencil corrections mid-page: in "applied a tap at the door knocker" the
-  typed word after "applied" (reads as "a", possibly "s") is scribbled out
-  in pencil with "the" written above it, and typed "at" is scribbled out
-  with "of" written above — corrected reading "...applied, the tap of the
-  door knocker called her maid...". The exact struck characters are hard to
-  make out under the pencil; flagged for review.
-- "annimated", "surprize" (three times), "herslef" (for "herself"),
+  typed word after "applied" (reads as "a") is x'd out by the typewriter
+  (black ink strikeover, matching the rest of the typed text — not a pencil
+  scribble) with "the" written above it in pencil, and typed "at" is x'd out
+  the same way with "of" written above in pencil — corrected reading
+  "...applied, the tap of the door knocker called her maid...". Confirmed
+  against a magnified crop of the photo: both struck words are typewriter
+  strikeovers, and the pencil-written replacements ("the", "of") are clearly
+  legible.
+- "annimated", "surprize" (four times), "herslef" (for "herself"),
   "suggestd" (final "e" missing at the right margin), "Two lady modiste
   followed", and "Emmerson" are as typed.
 - "in Tucson" ends without a period, as typed.
 - In "quite acquainted" the middle letters struck badly (resembles
   "acquminted"); read as "acquainted".
+- Verified: 2026-07-07 — corrected the mid-page pencil-correction marker
+  to note that the words "a" and "at" were struck by the typewriter
+  (⟦strikeover⟧), not scribbled out in pencil as previously noted; the
+  pencil only added "the" and "of" above. Confirmed the struck words read
+  "a" and "at" against a magnified crop, resolving the prior ambiguity, so
+  needs_review is cleared. Corrected the "surprize" count in these notes
+  from three to four instances (line counts confirmed against the text).
+  All quotation marks on this page are standard double quotes (checked the
+  "Daddy," "County," "A surprize for my lady," and "Miss Emmerson's
+  surprize...like." quotes against the photo); no single-quote-to-double
+  normalization issue found. No "Johnie"/"Johnnie" occurrence on this page.
+  Image orientation is correct (right-side up). No other discrepancies
+  found between transcript and photo.
