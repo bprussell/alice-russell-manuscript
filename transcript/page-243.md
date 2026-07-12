@@ -6,7 +6,7 @@ image: pages/originals/page-243.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 1
-needs_review: true
+needs_review: false
 ---
 
                                                                     79
@@ -15,7 +15,7 @@ Mrs Alice Reynolds Russell
 Mt. Hawley Road
 Edelstein, Illinois
 
-     "Not everything, " she said.  "Everything but children," she
+     "Not everything, ' she said.  "Everything but children," she
 whispered.  "I am happy,  You know that.  No one could have made me
 happier even in our most discouraging times.  I imagine our financial
 worries are over now.  Frances was many times a millionaire when I
@@ -53,9 +53,17 @@ be off before you know it," and he was out of bed with aleap.  She
 - "tickleing", "Aint'" (apostrophe after the t), "he most rolled" (for
   "almost"), "flash light" (two words), "with aleap" (run together), and
   'forget you, "he answered.' (quote placed before "he") are all as typed.
-- '"Not everything, "' — the closing quotation mark printed faintly with a
-  space before it, as typed.
+- '"Not everything, \'' — the mark closing this fragment before "she said"
+  is a single quote (apostrophe-style), not a double quote, with a space
+  before it, as typed; corrected from a Phase 1 normalization to a double
+  quote. This matches a recurring pattern of single quotes used mid-dialogue
+  elsewhere in the manuscript.
 - '"I am happy,  You know that.' — comma then capital Y, as typed.
 - The quoted speech '"You must though," ... children.' lacks a closing
   quotation mark, as typed.
-- No pencil marks found on this page.
+- No pencil marks found on this page. "Johnie" (both occurrences) checked
+  closely for a pencil-added second "n" — none present, reads as typed.
+- Verified: 2026-07-07 — corrected a mid-dialogue closing mark after "Not
+  everything," from a normalized double quote to the single quote actually
+  typed on the page; resolved needs_review to false (remaining illegible
+  strikeover confirmed genuinely unreadable, no other discrepancies found).

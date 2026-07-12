@@ -57,3 +57,4 @@ touch with him as soon as possible.  It may be to your advantage."
 - "locate" has faint double-struck impressions on the "o" and "c"
   (typewriter overtype); the resulting word is unambiguous.
 - No pencil marks found anywhere on the page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed. "locate" double-strike, "he a sked" odd spacing, "quized", "your every since", and "care too" all re-checked and confirmed as typed; all dialogue quote marks are standard double quotes matching the photo (no single-quote dialogue markers found).

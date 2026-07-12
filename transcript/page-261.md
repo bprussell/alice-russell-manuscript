@@ -27,3 +27,4 @@ be in my name?"
   John Bradford on / each...") and ends with Parepa's question.
 - Small tear at the top edge of the sheet, away from the text.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed.

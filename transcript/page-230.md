@@ -56,3 +56,4 @@ come when her boys should have a chance to cultivate their gifts.
 - Reference to "Frances" and "old Glen Oak" recalls the courtship scene
   earlier in the manuscript (Book I) — useful continuity anchor.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed. Both instances of "Johnie" on this page (opening dialogue line, and "Johnie noticing the tears") checked closely for the recurring "Johnie"→"Johnnie" pencil correction pattern found elsewhere in the manuscript; neither shows any pencil mark. Quote marks, line breaks, and typed oddities ("sum set", "road" for "rode", "the days happenings", "Lindburg") all confirmed as typed.

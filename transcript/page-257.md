@@ -62,3 +62,4 @@ She relished  every morsel of it.
 - In the maid's line, the quote " should you" has a space after the opening
   quotation mark, as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed.

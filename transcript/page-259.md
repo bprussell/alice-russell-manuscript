@@ -60,3 +60,4 @@ made it possible for me to go on living when I was ready to give up.
 - The left edge of the sheet has a torn-out notch near the top ("sooner."
   line) and smaller chips below; no text is lost.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed; confirmed the single-quote dialogue marks around 'The Earth is the Lord's and the fullness thereof' match the photo (typist used single quotes here, correctly preserved).

@@ -24,7 +24,7 @@ admit it?  Yes, It was the desire to see once again her old sweetheart.
 Her first love of maidenhood days.  Her heart beat rapidly as she
 remembered their innocent love.  She basked in the memory of it all.
 The first time in her married life she allowed herself to indulge to
-the utmost in reminiscence of her first love.  Now, Johnie knew the
+the utmost in reminiscence of her first love.  Now, Johnie know the
 secret that had been hidden and guarded so safely for years in her heart.
 He had never dreamed of their being such a thing.  Would there be an
 u favorable reaction?  Would he mistrust here when the excitement of
@@ -55,3 +55,12 @@ colors so striking.  Our old Parepa-Roza had come back!  Here, in the
   color!"); the second occurrence later in the same sentence is not
   underlined.
 - Page continues mid-paragraph from typed p.85 (physical page 249).
+- Verified: 2026-07-07 — corrected "knew" to "know" ("Now, Johnie know the
+  secret") to match the photo verbatim; this is an authorial typo
+  (should be "knew"), not a Phase-1 correction target. Also confirmed:
+  "He had never dreamed" is tightly kerned/overlapping in the scan (a
+  mechanical typewriter spacing glitch) but both words are legible and
+  read as "He had", not a true dropped-space typo. A small isolated
+  ink speck below "picturesque scenery" is a stray mark with no
+  editorial shape, left untranscribed. No pencil marks found on this
+  page; has_pencil:false confirmed correct.

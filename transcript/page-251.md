@@ -6,7 +6,7 @@ image: pages/originals/page-251.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     87
@@ -27,7 +27,7 @@ letter en route to her home folks.
      It was three-thirty o'clock in the afternoon when she left the
 train.  She was just entering the depot when a young man dressed in
 livery stepped to her side and touching her on the arm asked, "Are you
-Mrs Bradford from Illinoi⟦unclear: s⟧?"
+Mrs Bradford from Illinois?"
      "I am," she answered.
      "Well, Mr. Wheeler is waiting for you in the car," he said, and
 taking her shabby looking bag from her hand added, "Come with me."
@@ -41,11 +41,21 @@ attractiveness.
 
 - "en-" hyphenates across the line break to "chanting" on the next line,
   as typed.
-- The final letter of "Illinois?" is faint/irregular on the page; "s" is
-  the best contextual guess and is flagged for verification against the
-  original.
+- The final letter of "Illinois?" is faint/blurred (looks like a smudged
+  double-strike) but the curve is consistent with "s" and the word reads
+  as the place name already used twice elsewhere on this page; resolved
+  to "Illinois?" with confidence, needs_review cleared.
 - "checks" (for "cheeks") and "annimated" (for "animated") are as typed.
 - The heroine is addressed here as "Mrs Bradford" — a new surname not
   used elsewhere in this range (she is elsewhere "Parepa"/"Allie"); left
   verbatim, worth checking against surrounding pages.
 - Page continues mid-scene from typed p.86 (physical page 250).
+- Verified: 2026-07-07 — resolved the ⟦unclear⟧ marker on "Illinois?"
+  (see above). Also examined a small elevated caret-shaped mark in the
+  gap between "he said," and "and taking her shabby looking bag..."; it
+  is not blue-shifted (sampled pixel color matches the same warm-dark
+  tone as the surrounding typed ink, not pencil/blue), and no legible
+  inserted text accompanies it, so it is treated as a stray mark/fleck
+  with no clear editorial purpose and left untranscribed. All dialogue
+  quote marks on this page checked against the photo and are genuine
+  double quotes, matching the transcript. No other changes needed.

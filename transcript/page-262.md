@@ -6,7 +6,7 @@ image: pages/originals/page-262.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     98
@@ -37,7 +37,7 @@ be sure it <u>is</u> your best.  Be fair and true to yourself and others and
 most of all to your God.  Be not over anxious for this world's goods.
 Be satisfied with fair returns.  Never plunge or speculate.  Always
 remember we are all 'Tenants of the Lord' - Care-takers for him.  These
-are the ⟦unclear: princepals⟧ on which the Emmerson fortune has always been handled.
+are the ⟦unclear: principals⟧ on which the Emmerson fortune has always been handled.
 You can never go wrong by following them.
 
      Here, take care of these, they belong to you," he said handing her
@@ -56,11 +56,22 @@ appointed in me.  It's hard for me to believe its true."
 - "Pheonix" (for "Phoenix"), "eachon" (missing space), "My advise" (for
   "advice"), and "alwyas" (for "always") are as typed.
 - "be sure it is your best" — "is" is underlined on the typewriter.
-- "princepals": the vowel after "princ" is battered; reads most like an
-  "e" (intended word evidently "principles"). Flagged unclear for the
-  verification pass.
+- The letter after "princ" is a heavily battered/overstruck character —
+  illegible on its own — but the letters following it are clearly "pals",
+  so the word reads "princ⟦?⟧pals".  The only English word fitting that
+  pattern is "principals"; the earlier reading of "princepals" (implying
+  "principles") does not match the clearly-legible "pals" ending, so the
+  reading has been corrected to "principals" (still flagged unclear since
+  the battered letter itself can't be confirmed as "i" with certainty).
 - In the final line "It's hard" the apostrophe is struck low/heavy,
   resembling an exclamation mark; "its true" (no apostrophe) is as typed.
 - The paragraph "Here, take care of these..." lacks an opening quotation
   mark, as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — corrected the unclear word from "princepals" to
+  "principals" (see note above; the visible "pals" ending rules out
+  "principles"), and resolved needs_review to false accordingly. Also
+  checked the small mark before "My advise" (line 27 in the photo) under
+  magnification: it is an orange/tan paper stain, not ink, so it is
+  correctly left untranscribed (not a dropped single quote). Rest of page
+  confirmed accurate against photo.

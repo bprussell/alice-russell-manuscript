@@ -6,7 +6,7 @@ image: pages/originals/page-245.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     81
@@ -31,7 +31,7 @@ We are well able to get along and we won't starve," offered Robert.
 another.
      "It can't be this time I know," she added, "but mext time we will
 all go."
-     They had just ten minutes to buy the ticket and bid goodbyes.
+     They had just ten minutes to buy the ticket and bid⟦strikeover: "d" heavily overtyped⟧ goodbyes.
 
 ## Transcriber notes
 
@@ -47,3 +47,12 @@ all go."
 - Text occupies only the top third of the sheet; the rest is blank — this
   is the end of Chapter XX (Chapter XXI begins on the next page).
 - No pencil marks found on this page.
+- "Johnie" checked closely for a pencil-added second "n" — none present,
+  reads as typed.
+- Added: the "d" in "bid goodbyes" (last line) is heavily overtyped by the
+  typewriter, a genuine strikeover missed in Phase 1 — the word still
+  reads clearly as "bid" in context.
+- Verified: 2026-07-07 — added a missed typewriter strikeover marker on
+  the "d" in "bid goodbyes"; resolved needs_review to false (the earlier
+  flagged spots — the interline "said" and the overtyped word after
+  "Robert" reading "drove" — are confirmed clear against the photo).

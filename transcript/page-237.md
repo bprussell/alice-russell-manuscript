@@ -6,7 +6,7 @@ image: pages/originals/page-237.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     73
@@ -58,3 +58,4 @@ more."
   page.
 - "I'll ring off now,  Goodbye," — comma after "now" as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed. Checked all strikeover annotations ("N" overtyped on "Now", double-struck "d" in "pretend", double-struck "f" in "forgotten", "??2" overtype after "yourself", extra "g" in "ggrown", overstruck "with"/"wihh") directly against the image at high zoom; all match. Confirmed single-quote 'phone (not double), correct quote types throughout, page right-side up, no pencil. needs_review resolved to false.

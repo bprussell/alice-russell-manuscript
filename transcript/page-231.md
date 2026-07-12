@@ -53,3 +53,4 @@ admittance.
 - "threshhold" (for "threshold") and the double space in "work and  could"
   are as typed.
 - No pencil marks found anywhere on the page (margins checked closely).
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed. The existing "Johnnie" double-strike annotation (previously classified as typewriter strikeover) was checked for color against the same-page ink baseline near "declared"; sampled pixels are neutral gray with no visible blue shift, so left as previously classified per scope instructions — not altered in this pass. Rest of page (quote marks, double spaces, "threshhold") confirmed as typed.

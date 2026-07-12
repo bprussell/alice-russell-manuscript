@@ -6,7 +6,7 @@ image: pages/originals/page-244.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     80
@@ -60,3 +60,11 @@ friend who was so sick.  These boys were not given the impression that
   printed a half-line low and the final "e" lower still (carriage slipped).
   Transcribed on one line.
 - "explained." on its own line is indented one extra space, as typed.
+- All three occurrences of "Johnie" on this page checked closely for a
+  pencil-added second "n" — none present, reads as typed in each case.
+- Pencil "thirty" above struck "ninety" is ordinary gray/graphite pencil,
+  not blue-shifted — no reclassification needed.
+- A small orange speck after "the" before "ticket" (paragraph 1) is a
+  paper fiber/stain, not a typed or pencil mark — left untranscribed.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed; resolved needs_review to false.

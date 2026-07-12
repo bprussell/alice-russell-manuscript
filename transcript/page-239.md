@@ -65,3 +65,15 @@ Edelstein, Illinois
 - "(By J.C. Wheeler)" typed at bottom left below the signature; a partial
   stroke below it at the photo's bottom edge suggests the next line may be
   cut off by the photograph — verify against the physical page.
+- Verified: 2026-07-07 — checked at high zoom; page is right-side up, "girl"
+  pencil insert above the x-ed-out typed word is graphite gray (not blue),
+  consistent with ordinary pencil elsewhere. Confirmed "Tucson"/"Tuoson"
+  overstruck "c" reading against photo — matches. Two items remain
+  genuinely unresolved even under magnification and are left as-is,
+  biasing toward caution: (1) the x-ed-out word before "girl" is fully
+  blacked out by typewriter x's with no visible letter shapes — "she" is a
+  plausible contextual guess (Phase 1's reading) but cannot be confirmed
+  from the photo alone; (2) the faint partial mark below "(By J.C.
+  Wheeler)" at the sheet's bottom edge is too faint/cropped to identify as
+  a letter or a page artifact. needs_review left true for these two items;
+  physical-page check recommended.

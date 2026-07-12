@@ -6,7 +6,7 @@ image: pages/originals/page-232.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     68
@@ -44,10 +44,8 @@ Bankruptcy was not only staring them in the face but was actually hissing
 at them.  Again the familiar lines ran through her mind:
 
      "⟦pencil-insert: Ah,⟧ love could you and I with fate conspire,
-
           To grasp this sorry scheme of things entire;
      Would we not shatter it to bits and then,
-
           Remould it nearer to the heart's desire?"
 
      She sat thoughtlessly drawing a picture on the white table cloth
@@ -63,9 +61,19 @@ at them.  Again the familiar lines ran through her mind:
   gap before "love could you..." — the missing opening word of the quoted
   verse (from the Rubaiyat) is filled in by hand in the gap. The insertion
   is rendered in bold, fluid cursive rather than the pale gray graphite
-  seen elsewhere in the manuscript, so it may be ink rather than pencil;
-  flagged for verification against the physical page. Read as "Ah,".
+  seen elsewhere in the manuscript. Read as "Ah,".
 - "unable" is typed with unusually tight letter spacing ("u" crowding the
   "n") but is a single word, not a typo.
 - "adds" (for "ads") is as typed.
-- No other pencil marks found in the margins.
+- No other pencil marks found in the margins. All three "Johnie" instances
+  on this page checked closely; none show a pencil correction to "Johnnie".
+- Verified: 2026-07-07 — corrected two erroneous blank lines that Phase 1
+  had inserted inside the four-line Rubaiyat quotation (between "conspire,"/
+  "To grasp..." and between "then,"/"Remould..."); the photo shows these as
+  ordinary consecutive typed lines with the same spacing as the rest of the
+  page, no paragraph break. Also resolved the needs_review flag: sampled
+  pixel color of the handwritten "Ah," insertion is neutral black (not
+  blue-shifted), and the reading is corroborated by the well-known Rubaiyat
+  line ("Ah, love! could you and I with fate conspire..."), so the
+  transcription is now treated as confirmed rather than merely a best
+  guess; needs_review set to false.

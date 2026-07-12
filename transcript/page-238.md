@@ -6,7 +6,7 @@ image: pages/originals/page-238.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     74
@@ -58,3 +58,4 @@ following communication was received today by the Peoria ⟦strikeover: Evening�
 - Strikeovers on "maybe" (first line) and "handed" flagged inline; verify
   against the physical page.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed. Both instances of "Johnie" checked at high zoom for a possible pencil "Johnnie" correction (known pattern elsewhere in manuscript); no pencil mark present either time, name is plain typed "Johnie" both times. Strikeovers on "maybe", "handed", and "Evening" confirmed against image (same black ink as body text, not blue pencil). Page right-side up, no pencil found. needs_review resolved to false.
