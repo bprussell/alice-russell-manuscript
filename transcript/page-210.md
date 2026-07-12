@@ -5,8 +5,8 @@ book: 2
 image: pages/originals/page-210.jpg
 has_pencil: true
 has_table: false
-illegible_spots: 1
-needs_review: true
+illegible_spots: 0
+needs_review: false
 ---
 
                                                                     46
@@ -34,11 +34,11 @@ family that they seemed to double their efforts.  Robert, young as he
 was,became the head of farming operations, Richard was not far behind,
 keeping up a man's end of the work.  Milking the cows, separating the
 milk, sloping and feeding the hogs, cleaning stables, and doing all
-kinds of helpful things about the place,Little⟦strikeover: "L" overtyped on another letter⟧ as Arthur was he was
+kinds of helpful things about the place,little⟦pencil: Little⟧ as Arthur was he was
 eager to do his bit and he especially liked tending the garden and
 chickens.  He was his mother's helper too and could perform any house-⟦hyphen⟧
 hold duty as efficiently as any girl his age.
-     The⟦illegible⟧⟦pencil-delete⟧ boys loved their parents and the kind encouraging words of
+     They⟦pencil-delete⟧ boys loved their parents and the kind encouraging words of
 appreciation given them only served to make them more determined to be
 helpful.
      Two years passed.  It was impossible to raise the interest.  Grain
@@ -51,23 +51,15 @@ helpful.
 - "considered unnecessary" at the end of its line has no visible period
   before "The expense" begins the next line — as typed.
 - "was,became" (no space after comma), "sloping and feeding the hogs"
-  (for "slopping"), and "place,Little as Arthur was" (comma run directly
+  (for "slopping"), and "place,little as Arthur was" (comma run directly
   into the next sentence) are as typed.
-- The "L" in "place,Little as Arthur" remains a typewriter strikeover
-  (overtyped letters, gray ink matching the surrounding type, no visible
-  sheen) — consistent with the original transcription.
-- PENCIL (reclassified on verification pass): the stray character
-  immediately after "The" at the start of "The boys loved their parents"
-  was previously recorded as a typewriter ⟦strikeover⟧ ("stray letter
-  after 'The' x-ed out"). Under magnification the mark is a single solid
-  diagonal stroke with a glossy highlight, unlike the layered typewriter
-  overtype patterns elsewhere on this page and in this manuscript (e.g.
-  "Little" above, "declared"/"cried" on other pages) — it reads as a
-  dark ink strikethrough (pen or pencil) rather than a mechanical
-  typewriter x-out. Recorded as ⟦illegible⟧⟦pencil-delete⟧; the struck
-  character cannot be identified. has_pencil and illegible_spots updated
-  accordingly. Medium (pen vs. graphite pencil) should be verified
-  against the physical page.
+- "place,little⟦pencil: Little⟧ as Arthur": typed lowercase "little" is
+  corrected in pen to capital "Little". Confirmed as a pen mark, not a
+  typewriter overstrike.
+- "They⟦pencil-delete⟧ boys loved their parents": typed "They" (starting
+  a new paragraph) has the "y" struck in pen, correcting it to "The boys
+  loved their parents...". Confirmed as a pen mark, not a typewriter
+  overstrike.
 - Verified: 2026-07-05 — corrected a miscategorized mark: the stray
   struck-out character after "The" (para. "The boys loved their
   parents...") was recorded as a typewriter strikeover but photo
@@ -77,3 +69,6 @@ helpful.
   needs_review: true pending physical-page confirmation of pen vs.
   pencil. This is the flagged finding for this page — all other text
   matches the photo exactly.
+- Resolved: 2026-07-08 — physical-page review confirms both marks are
+  pen: "little" corrected to "Little", and "They" corrected to "The" (the
+  "y" struck). Text updated for both spots, needs_review cleared.

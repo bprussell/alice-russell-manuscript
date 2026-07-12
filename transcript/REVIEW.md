@@ -24,10 +24,6 @@ pass. See the per-page Transcriber notes for full detail on any fix.
   II's opening page) are illegible; a shape resembling "II" is faintly
   visible at the end of the second line, possibly a "BOOK II" title
   fragment.
-- **page 210** — a mark previously classified as a typewriter strikeover
-  was reclassified during verification as pencil/ink (distinct glossy
-  highlight, unlike genuine typewriter overtype elsewhere on the same
-  page). Needs the physical page to confirm which it is.
 - **page 248** — a typewriter strikeover before "finest" is illegible even
   at maximum zoom on the digitized image.
 - **page 274** — a pencil blot after "diamond" has a blue-gray tint
