@@ -5,8 +5,8 @@ book: 2
 image: pages/originals/page-174.jpg
 has_pencil: true
 has_table: false
-illegible_spots: 1
-needs_review: true
+illegible_spots: 0
+needs_review: false
 ---
 
                                                                     10
@@ -36,7 +36,7 @@ ments week ends for which she received one third the receipts at the
 door.  This helped the financial end of affairs greatly.  Her ability
 as an entertainer was soon recognized by the student body.  She was given
 leading parts in pagents and plays as well as finding herself the
-physical culture instructor's assistant.  She proved hers⟦strikeover: illegible⟧f champion
+physical culture instructor's assistant.  She proved hers⟦strikeover: mistyped "le" (from "herslef") retyped over as "el"⟧f champion
 bowler, a sport which she delighted in greatly.  She was never tempted
 to sing even in the assembly.  No one would have suspected this young
 girl had once possessed a voice that would rival any in the school.
@@ -66,12 +66,11 @@ through the summer session to "freshen up" on a few subjects.
   recounted at high zoom and confirmed as exactly five short dashes,
   matching the transcript.
 - "summner" (for "summer") and "pagents" (for "pageants") are as typed.
-- "hers⟦strikeover: illegible⟧f champion": the middle of "herself" is
-  overstruck/garbled by what appears to be a mistyped character corrected
-  by retyping over it; the intended word is clearly "herself" from
-  context, but the exact struck character(s) cannot be made out. The same
-  kind of garbled overstrike recurs on later pages in this batch (e.g.
-  page 176, page 177) wherever "herself" appears.
+- "hers⟦strikeover: mistyped "le" (from "herslef") retyped over as "el"⟧f
+  champion": she originally typed "herslef" (transposing "le" for "el"),
+  then retyped over the transposed letters to correct it to "herself".
+  The same kind of garbled overstrike recurs on later pages in this batch
+  (e.g. page 176, page 177) wherever "herself" appears.
 - '"freshen up"': the initial letter of "freshen" is doubled/overinked
   (a blurred re-strike of the same key, not a different character),
   which at low zoom can look almost like a capital "T". At high zoom the
@@ -92,3 +91,6 @@ through the summer session to "freshen up" on a few subjects.
   garbled "hers...f" (herself) overstrike remains genuinely illegible, so
   needs_review is left true. Rest of page checked against the photo and
   matches.
+- Resolved: 2026-07-08 — physical-page review confirms the overstrike is
+  a self-correction: typed "herslef", retyped over the transposed "le" to
+  read "el", giving "herself". Text updated, needs_review cleared.
