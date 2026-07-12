@@ -5,8 +5,8 @@ book: 1
 image: pages/originals/page-159.jpg
 has_pencil: true
 has_table: false
-illegible_spots: 1
-needs_review: true
+illegible_spots: 0
+needs_review: false
 ---
 
                                                               157
@@ -22,7 +22,7 @@ shoulder she said, "Do -- do you love me?"
 said, "Look in my eyes, dearest - what do you see?"
      She could not answer for they sat in a tense embrace.  Then as if
 suddenly reminded of his duty he said, "Parepa ⟦strikeover: "M" overtyped on another letter⟧y mother was a brave
-woman, much braver than her child.  She knew the ⟦illegible⟧⟦pencil-insert: shame⟧ her ancestors as
+woman, much braver than her child.  She knew the same⟦strikeover: struck by dense typewriter x-strokes⟧ ⟦pencil: shame⟧ her ancestors as
 well as she herself had brought up on the name of Emmerson and society.
 Her mother had tried to correct it and resist the temptations that lead
 to disgrace.  She had not the strength of character to overcome her
@@ -55,13 +55,11 @@ son.  She wrote to me and talked of me to her intimates (who were few)
   capital M of "My" shows a heavy typewriter overtype/strikeover mark, the
   same convention used for the "z" overtype on page 1. Letter beneath is
   not recoverable; "y" is clearly legible, giving "My"/"my".
-  Right after this, the word "the ⟦illegible⟧ her ancestors" is not
-  recoverable: it is covered by a dense typewriter strikeover (multiple
-  overtyped x-strokes). A pencil annotation is written directly above the
-  strikeover, clearly reading "shame" — recorded here as a
-  ⟦pencil-insert⟧ supplying the probable intended reading ("she knew the
-  shame [of?] her ancestors..."), but the strikeover itself remains
-  illegible and this line should be checked against the physical page.
+  Right after this, "she knew the same her ancestors..." — the typed word
+  "same" (a mistype for "shame") is struck through by dense typewriter
+  x-strokes, with the pencil correction "shame" written directly above it,
+  giving "she knew the shame her ancestors...". Recorded as a typed
+  strikeover followed by the pencil correction.
 - "the temptations that lead to disgrace" — closely resembles "head" at
   first glance due to a doubled/bold strike on the "l" and "e", but a
   magnified check confirms the letterform is "l", not "h"; transcribed as
@@ -79,3 +77,6 @@ son.  She wrote to me and talked of me to her intimates (who were few)
   overtyped x-strokes with no recoverable letterforms); the pencil
   "shame" above it is the best available reading, as already recorded.
   needs_review left true for that spot.
+- Resolved: 2026-07-08 — physical-page review confirms the struck typed
+  word reads "same" (a mistype for "shame"), corrected in pencil above to
+  "shame". Text updated, needs_review cleared.

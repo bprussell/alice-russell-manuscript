@@ -20,9 +20,6 @@ pass. See the per-page Transcriber notes for full detail on any fix.
   readable at best-guess (`OF` / `...SECRETS`); the top line remains
   completely unrecoverable from the photo. Needs a raking-light photo of
   the physical page (see docs/manuscript-notes.md).
-- **page 159** — a dense typewriter strike-out before "her ancestors" is
-  illegible; the pencil word "shame" written above it is only an inferred
-  reading of what it replaces.
 - **page 165** — two faint ghost-impression lines above "CHAPTER I" (Book
   II's opening page) are illegible; a shape resembling "II" is faintly
   visible at the end of the second line, possibly a "BOOK II" title
