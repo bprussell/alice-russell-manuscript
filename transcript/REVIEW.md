@@ -24,9 +24,6 @@ pass. See the per-page Transcriber notes for full detail on any fix.
   II's opening page) are illegible; a shape resembling "II" is faintly
   visible at the end of the second line, possibly a "BOOK II" title
   fragment.
-- **page 180** — a garbled overstrike character appears in two instances of
-  "Johnie"/"Johnnie" on the same page; "Johnnie" (matching a third, clean
-  instance) is the best guess but not certain.
 - **page 210** — a mark previously classified as a typewriter strikeover
   was reclassified during verification as pencil/ink (distinct glossy
   highlight, unlike genuine typewriter overtype elsewhere on the same
