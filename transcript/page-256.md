@@ -64,3 +64,12 @@ They are as safe as anything in the world.  She has some in the capitol
   lost.
 - Page begins mid-scene, continuing from page 255 (after Frances is rolled
   to her sleeping room).
+- Verified: 2026-07-07 — confirmed the pencil-inserted "are" is genuine
+  graphite pencil (sampled pixel color is a muted warm-dark gray, not
+  blue-shifted, consistent with pencil rather than the typewriter's
+  denser black ink), so the existing ⟦pencil-insert: are⟧ marker and
+  has_pencil:true are correct. The diagonal mark between "be" and "made"
+  in "transfers should be/made tomorrow" is a crease/scratch on the
+  torn/ragged sheet, not a character or pencil mark; left untranscribed.
+  Full text, line breaks, and double-spacing checked against the photo;
+  no other changes needed.

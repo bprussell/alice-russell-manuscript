@@ -69,3 +69,8 @@ big doors into her sleeping room.
   double/heavy on the page but is a quotation mark.
 - A faint gray smear at the bottom left margin below the last line appears
   to be a smudge, not writing; no pencil marks found on this page.
+- Verified: 2026-07-07 — checked every dialogue quote mark on this page
+  against the photo (both opening and closing); all are genuine typed
+  double quotes, none are single-quote dialogue marks. Text, line breaks,
+  and all previously noted typos/spellings confirmed accurate against
+  the photo. No changes needed.
