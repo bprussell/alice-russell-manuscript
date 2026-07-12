@@ -6,7 +6,7 @@ image: pages/originals/page-241.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     77
@@ -58,3 +58,4 @@ to each other for an hour.  After the lights was out and they were in
   legible.
 - Page ends mid-sentence, continuing onto page 242.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed. Typed page number "77" is clear and unambiguous (confirms the sequence used to infer page 240's smudged number as "76"). All three instances of "Johnie" checked at high zoom for a pencil "Johnnie" correction; none found on this page. Confirmed the "or else" overstrike, faint "R" in "Robert", missing/faint opening quote before "Good night...luck.", and the space after the opening quote before "she was" all match the photo. needs_review resolved to false.

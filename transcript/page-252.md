@@ -59,3 +59,15 @@ Spanish architecture, conforming to no very definite school of design.
   page (typed p.89 / physical 253) opens with "Francis" (with i) for the
   same character — an inconsistency in the original manuscript, preserved
   verbatim on each page.
+- Verified: 2026-07-07 — checked the full page against the photo, no
+  text changes needed. Noted a few page-specific typewriter artifacts
+  that do not affect the transcript: a tiny stray typed mark between
+  "the" and "calmly" in line 1 (not blue, no editorial purpose, left
+  untranscribed); an oversized ink blot forming the comma between
+  "living" and "well preserved" (color-sampled neutral black, not
+  blue-shifted pencil, so read as an ordinary heavy-inked typed comma);
+  a lightly-struck "n" in "sunshine" (legible, not a discrepancy); and
+  heavy ink blobs on the final "t" in "it," and "what" a few lines later
+  that look like overstrikes but most plausibly reflect a worn/heavy
+  typewriter key rather than a genuine letter substitution — kept as
+  "it" and "what" per the existing verbatim reading.

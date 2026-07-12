@@ -6,7 +6,7 @@ image: pages/originals/page-247.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     83
@@ -51,11 +51,19 @@ possible.  He followed closely by her side to the dining car and showed
   instead of the usual "Edelstein, Illinois" (typed "Peo i a," with uneven
   spacing).
 - PENCIL: after the typed "aa" at the end of "That she was aa", a small
-  pencil squiggle appears to convert it to "an" — mark is faint and
-  ambiguous; flagged for review.
+  pencil squiggle appears immediately after — resembles a cursive "n"
+  and is contextually sound (the sentence needs "an intelligent woman"),
+  so the reading "an" is retained with higher confidence. Pixel-level
+  color check confirms this pencil mark is ordinary gray/graphite, not
+  blue-shifted, despite its faintness.
 - The x-ed-out word before "never eaten" reads like "nevrt" (typist's
   false start on "never").
 - "shown from her eyes" (for "shone"), "occured", "though,and" and
   "on,that" (missing spaces after commas), "everyway" (one word), and
   "propiety" (for "propriety") are all as typed.
 - Continues directly from page 246 ("...she was soon / asleep.").
+- No quote marks appear anywhere on this page (pure narration, no
+  dialogue), so the single/double quote pattern check does not apply here.
+- Verified: 2026-07-07 — firmed up the "aa"/"an" pencil correction as
+  confident (contextual fit plus confirmed non-blue pencil color); no
+  other discrepancies found. Resolved needs_review to false.

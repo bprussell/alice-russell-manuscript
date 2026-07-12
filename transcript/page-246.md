@@ -6,7 +6,7 @@ image: pages/originals/page-246.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     82
@@ -66,3 +66,11 @@ to sleep.  This she did.  With out any difficulty whatever she was soon
 - A blank space was left on the line before "Magazine," (after "the
   latest") — apparently for a magazine title never filled in; layout
   preserved, including the extra blank line after "kimona,".
+- Both pencil corrections ("that" and "her berth") are ordinary gray
+  pencil, not blue-shifted — no reclassification needed.
+- "Johnie" (only occurrence, in "which Johnie had thoughtfully") checked
+  for a pencil-added second "n" — none present, reads as typed.
+- Verified: 2026-07-07 — resolved the "on the seat"/"her berth" pencil
+  ambiguity: only "the seat" is struck through, "on" is untouched, so the
+  reading is "curl up on her berth"; no other changes needed. Resolved
+  needs_review to false.

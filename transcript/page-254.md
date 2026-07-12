@@ -46,3 +46,11 @@ which reclining on a luxurious lounge lay Frances.
   continues directly into typed p.91 (physical page 255), Chapter XXIII,
   which opens "Parepa was shocked at first to see the form of her ardent
   lover of the past clad in richest feminine garb."
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. The capital "I" in "I'll draw your bath" (and similar
+  capital I's elsewhere on the page) is typed with a heavy serif that
+  can look blob-like at low resolution but is consistent with this
+  typewriter's normal "I" glyph, not a strikeover. A small stray mark
+  before "Daddy Wheeler waited..." is an untranscribed ink fleck with no
+  legible content. All dialogue quotes are genuine double quotes,
+  matching the transcript. No pencil marks found.

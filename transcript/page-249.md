@@ -29,14 +29,14 @@ have it."
 matter what Fall might bring I'm going to enjoy the Spring."  They
 chatted idlely through the meal.  When she thanked him for it he said,
 "The thanks should go to you.  The pleasure has been mine.  I'll leave
-you now so you can write to those three wonderful boys of yours," he
+you now⟦strikeover: letters overtyped⟧ so you can write to those three wonderful boys of yours," he
 chided.
      "And to the best husband in the world," she added.  "Goodbye,"
      After she was seated she thought over the doings of her last hour.
 It had been unavoidable without making a scene.  She hoped he would not
 repeat it.  She took her writing material from her bag and wrote a long
 letter home.  She felt a  bit lonely but was too brave to acknowledge it.
-     She curled up on the seat and covering herself with her blanket went
+     She curled up on the seat and covering⟦strikeover: first letter overtyped⟧ herself with her blanket went
 to sleep.  She did not care for the evening meal, so remained in her
 seat.  Another day was past and she welcomed the night.  She wished her
 trip was over.
@@ -54,3 +54,15 @@ changed?  Would they be disappointed in her?  What would she do, how
 - Double space in "felt a  bit lonely" is as typed.
 - Page continues the train-conversation scene begun on typed p.84
   (physical page 248) without a chapter break.
+- Added: "now" (in "I'll leave you now so you can write...") is heavily
+  overtyped by the typewriter — a genuine strikeover missed in Phase 1;
+  the word is still legible as "now" in context.
+- Added: the first letter of "covering" (in "curled up on the seat and
+  covering herself...") is similarly overtyped by the typewriter — another
+  strikeover missed in Phase 1, legible in context.
+- Quote marks checked at every dialogue boundary on this page — all are
+  ordinary double quotes typed as such; no single-quote-to-double
+  normalization found. "Goodbye," is followed by a proper closing double
+  quote (easy to misread as missing at a glance).
+- Verified: 2026-07-07 — added two missed typewriter-strikeover markers
+  ("now" and "covering"); no other discrepancies found.

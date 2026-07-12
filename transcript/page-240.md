@@ -15,7 +15,7 @@ Mrs Alice Reynolds Russell
 Mt. Hawley Road
 Edelstein, Illinois
 
-     Allie handed the paper to her husband and sat down in a chair by
+     Allie handed the paper to her husband and sat down in a chair⟦strikeover: "ai" double-struck/overtyped⟧ by
 the table.
      "Do you know who this man is, Mrs Bradford?" the reporter asked.
      "I can think of no man who would be so interested in me and my
@@ -57,3 +57,16 @@ back.  I only wanted you to get in touch with this fellow before he
   flagged inline.
 - Page ends mid-sentence ("...get in touch with this fellow before he"),
   continuing onto the next page.
+- Verified: 2026-07-07 — corrected a missed strikeover: "chair" (first
+  paragraph, "sat down in a chair by the table") has its middle letters
+  "ai" visibly double-struck/overtyped in the same black ink as the body
+  text (not blue pencil, not a pencil correction) — added inline marker.
+  Confirmed "Sheadded" run-together overstrike and the pencil "to"
+  insertion (graphite gray, ordinary pencil) both match the photo.
+  Confirmed "Johnie" has no pencil correction toward "Johnnie" on this
+  page. The top-right typed page number remains genuinely illegible at the
+  photographed resolution — the corner is blurry/motion-smeared and the
+  first character is overtyped/smudged with an underline beneath both
+  characters; sequence context (75, then this page, then 77) strongly
+  implies "76" but the image does not visually confirm it. needs_review
+  left true for this one item; physical-page check recommended.
