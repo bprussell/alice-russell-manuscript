@@ -53,3 +53,4 @@ again to face inquiring eyes.
   closing quotation mark after "Wouldn't that be grand?", and the double
   space in "went  on," are all as typed.
 - No pencil marks found anywhere on the page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed. "Arigona", the missing closing quote after "grand?", and the double spaces ("went  on," and "four pair of") all re-checked and confirmed as typed; all dialogue quote marks are standard double quotes matching the photo (no single-quote dialogue markers found).
