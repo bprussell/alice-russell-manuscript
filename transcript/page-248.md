@@ -5,8 +5,8 @@ book: 2
 image: pages/originals/page-248.jpg
 has_pencil: false
 has_table: false
-illegible_spots: 1
-needs_review: true
+illegible_spots: 0
+needs_review: false
 ---
 
                                                                     84
@@ -40,7 +40,7 @@ he asked teasingly.
      "Ask me another, as my boys would say," she answered glad to let
 him know she was a mother of boys.
      "Your boys?" he said as if he had caught her in a bad break.
-     "Surely, three of them.  All as big as their mother and the ⟦strikeover: illegible⟧
+     "Surely, three of them.  All as big as their mother and the info⟦strikeover: struck through with dashes⟧
 finest in the world.  Their Daddy and I are so proud of them.  How
 many have you got?" she quized?
 
@@ -49,10 +49,10 @@ many have you got?" she quized?
 - "decidely" (for "decidedly") and "quized" (for "quizzed") are as typed;
   the page ends with a trailing "?" after "quized" that looks slightly
   irregular on the page but is transcribed as typed.
-- A typewriter strikeover (x-ed-out block) appears at the end of the line
-  before "finest in the world" — the struck characters could not be read
-  with confidence and are marked illegible; verify against the physical
-  page.
+- "the info⟦strikeover: struck through with dashes⟧ finest in the world":
+  she typed "info" before "finest", then struck it through with dashes.
+  The struck word is omitted entirely from the reading-layer text (Phase
+  3) — "All as big as their mother and the finest in the world."
 - The word at the start of "sometimes very unusual" is typed "And"; the
   leading "A" is a heavy inked/smudged strike (a print-quality defect, not
   a different letter), but at high zoom the "nd" is unambiguous and the
@@ -71,3 +71,6 @@ many have you got?" she quized?
   possibly "infe...", but not readable with confidence); left as
   ⟦strikeover: illegible⟧ and needs_review kept true pending a check
   against the physical page.
+- Resolved: 2026-07-08 — physical-page review confirms the struck word
+  reads "info", struck through with dashes. Text updated, needs_review
+  cleared.
