@@ -24,9 +24,6 @@ pass. See the per-page Transcriber notes for full detail on any fix.
   II's opening page) are illegible; a shape resembling "II" is faintly
   visible at the end of the second line, possibly a "BOOK II" title
   fragment.
-- **page 172** — a struck-through word between "crazy" and "venture" is too
-  densely overstruck to read; "crazy venture" is contextually plausible but
-  unconfirmed.
 - **page 174** — a garbled overstrike inside "herself" cannot be resolved
   to specific characters, only inferred from context.
 - **page 180** — a garbled overstrike character appears in two instances of

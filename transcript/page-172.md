@@ -5,8 +5,8 @@ book: 2
 image: pages/originals/page-172.jpg
 has_pencil: true
 has_table: false
-illegible_spots: 1
-needs_review: true
+illegible_spots: 0
+needs_review: false
 ---
 
                                                                     8
@@ -19,7 +19,7 @@ Edelstein, Illinois
 
      Allie was surprized that she should stand any show at all.  She
 had received no encouragement from any of the home folks in this
-"crazy ⟦strikeover: illegible⟧venture" of hers.  They couldn't see how she could expect to
+"crazy ⟦strikeover: ad⟧venture" of hers.  They couldn't see how she could expect to
 teach school after being out of school so long.
 
      Never-the-less the first Monday in September found her unlocking
@@ -59,12 +59,12 @@ them.  His genuine kindliness, his unpolished, truthful standards, his
   page. Compared side by side with pages 171 and 173, this photo is upright
   and reads correctly top-to-bottom with the "Submitted by:" block in the
   same top-left position — no rotation is present.
-- `"crazy ⟦strikeover: illegible⟧venture" of hers.`: a typed word (or
-  partial word, roughly the length of "ad") between "crazy" and "venture"
-  is struck through with typewriter x's densely enough that the underlying
-  letters cannot be confidently identified. "crazy venture" reads sensibly
-  as the intended final phrase. Flagged for verification against the
-  physical page.
+- `"crazy ⟦strikeover: ad⟧venture" of hers.`: she originally typed
+  "adventure", then struck the "ad" prefix, leaving "venture" as the
+  corrected reading — "crazy venture of hers". Fits the passage's framing
+  of her return to teaching as a doubted, risky undertaking (family
+  skepticism, wages, saving for Normal School) better than "adventure"
+  would.
 - Pencil correction near the top third of the page: the typed word "when"
   is repeated ("...a youngster and when her sister Isabel...") with the
   second occurrence struck through by the typewriter (x-ed out), and the
@@ -83,7 +83,7 @@ them.  His genuine kindliness, his unpolished, truthful standards, his
 - "awkward-/ness" hyphenated across the line break by the typist.
 - Page is double-spaced on the original; ends mid-sentence, continuing onto
   page 173.
-- Verified: 2026-07-05 — re-examined the "crazy ⟦strikeover: illegible⟧venture"
+- Verified: 2026-07-05 — re-examined the "crazy ⟦strikeover: ad⟧venture"
   mark at high zoom: it is a dense, curved black overstrike (likely repeated
   typewriter characters struck on the same spot) fused into a solid loop,
   clearly distinct in darkness and straightness from the gray cursive pencil
@@ -94,3 +94,7 @@ them.  His genuine kindliness, his unpolished, truthful standards, his
   "where"/"when" correction, pencil "Parepa"/"Allie" correction, "surprized",
   "Never-the-less", "comin'.") checked against the photo and transcribed
   accurately; no changes needed.
+- Resolved: 2026-07-08 — physical-page review confirms the struck prefix
+  reads "ad", i.e. she typed "adventure" and struck "ad", leaving "venture"
+  as the corrected reading ("crazy venture of hers"). Text updated,
+  needs_review cleared.
