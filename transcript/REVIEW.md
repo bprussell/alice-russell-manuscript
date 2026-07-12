@@ -3,9 +3,18 @@
 Pages where a verification pass compared the transcript against the source
 photo and confirmed the transcript is as accurate as it can be made from the
 photo alone — but a genuine ambiguity remains that only the physical
-manuscript page can resolve. Generated during the Phase 2 pilot
-(2026-07-05/06), covering a 33-page sample. This file will grow as the rest
-of the manuscript is verified.
+manuscript page can resolve.
+
+**Phase 2 is now complete: all 288 pages have been verified (2026-07-05
+through 2026-07-07), starting with a 33-page pilot and proceeding through
+nine further batches.** The list below is everything that remains
+unresolved from the photos alone. Along the way, verification also caught
+and fixed a number of Phase 1 errors unrelated to physical ambiguity —
+most notably several places where an authorial typo had been silently
+"corrected" back to standard spelling (a violation of the archival
+verbatim principle, now fixed in each case) and two page photos
+(224, 226) that were still upside down despite the Phase 0 orientation
+pass. See the per-page Transcriber notes for full detail on any fix.
 
 - **page 1** — the erased title block above "Chaper I" has two lines
   readable at best-guess (`OF` / `...SECRETS`); the top line remains
