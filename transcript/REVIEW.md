@@ -202,7 +202,7 @@ correction — worth a second look when convenient, not urgent.
   overstruck and ambiguous, though "kiss" is the only word that makes
   sense in context.
 
-Added from batch 8 (pages 199–229, verified 2026-07-07). Two of Book 0's
+Added from batch 8 (pages 199–229, verified 2026-07-07). Two of Book II's
 photos turned out to still be upside down despite the Phase 0
 orientation pass — **pages 224 and 226** — both caught by verification
 agents reading the image and finding it didn't match the transcript's
@@ -217,3 +217,17 @@ against the corrected orientation.
 - **page 217** — the typed page number is physically clipped by the
   photograph's edge; "53" is the best inference from sequence but
   unconfirmed.
+
+Added from batch 9 (pages 230–262, verified 2026-07-07). A poem-formatting
+bug was fixed on page 232 (Phase 1 had split a continuous 4-line Rubaiyat
+quotation with spurious blank lines) — worth checking other quoted-verse
+pages for the same issue. Several previously-unflagged overtyped letters
+were also found and marked on pages 240, 245, and 249.
+
+- **page 239** — an x-ed-out word before a pencil "girl" insertion is
+  fully blacked out with no visible letterforms; "she" is Phase 1's
+  plausible but unconfirmable guess. A faint partial mark below "(By J.C.
+  Wheeler)" at the sheet's bottom edge is also unidentified.
+- **page 240** — the typed page number is blurred/smudged in the photo;
+  sequence context strongly implies "76" but it can't be visually
+  confirmed.
