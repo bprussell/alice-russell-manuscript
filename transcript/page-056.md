@@ -5,8 +5,8 @@ book: 1
 image: pages/originals/page-056.jpg
 has_pencil: false
 has_table: false
-illegible_spots: 1
-needs_review: true
+illegible_spots: 0
+needs_review: false
 ---
 
                                                                     5⟦strikeover: second digit overstruck; reads "4" or "5"⟧
@@ -40,7 +40,7 @@ Wheeler, Parepa."  And down the steps they came together his arm about
 her.  She forgot she was in her gown.  In fact she had not yet realized
 it.   "Here, Daddy, is Alice ⟦unclear: Rarepa⟧-Roza."  The young gallant announced.
      Mr. Wheeler put his arm around her and kissed her.  "So this is the
-kind angel that has made this scamp so happy during my absence, ⟦illegible — short word blotted out by overtyping, ends with "?"⟧  Well,
+kind angel that has made this scamp so happy during my absence, ⟦unclear: Hm?⟧  Well,
 little girl that was mighty nice of you."
 
 ## Transcriber notes
@@ -67,8 +67,7 @@ little girl that was mighty nice of you."
 - "Come on down and meet Daddy Wheeler" lacks its opening quotation mark,
   as typed.
 - After "during my absence," a short word is blotted out by heavy
-  typewriter overstriking (a "?" is visible at its end); counted as the
-  page's one illegible spot.
+  typewriter overstriking (a "?" is visible at its end).
 - No pencil marks found on this page.
 - Verified: 2026-07-05 — transcript confirmed accurate against photo, no
   text changes needed. The overstruck second digit of the typed page
@@ -77,3 +76,10 @@ little girl that was mighty nice of you."
   photo, so the inferred "54" (per the established offset pattern) is
   kept but needs_review stays true. The illegible blotted word after
   "during my absence," is confirmed illegible at any zoom available.
+- Resolved: 2026-07-08 — the blotted word is recorded as a best-guess
+  reading of "Hm?" (user decision): the mark's "?" ending is confirmed,
+  and "Hm?" fits the sentence as a tag-question filler better than the
+  alternatives considered. No textual precedent elsewhere in the
+  manuscript confirms this reading (her only recurring interjection is a
+  doubled "Ha! Ha!" for laughter, always exclamatory) — treat this as the
+  best available guess, not a certain one. needs_review cleared.

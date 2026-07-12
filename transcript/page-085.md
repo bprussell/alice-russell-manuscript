@@ -6,7 +6,7 @@ image: pages/originals/page-085.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     83
@@ -40,9 +40,10 @@ Parepa or Frances.
 - Typed page number "83" at top right.
 - HANDWRITTEN COMPLETION: in "But promise me the steed is a", only the
   typed "s" was struck; the letters "teed" are completed by hand in cursive
-  directly on the line. Recorded as a pencil-insert, but the strokes look
-  dark (possibly ink rather than pencil) — verify medium against the
-  physical page.
+  directly on the line, confirming "steed" (matching "a steed this evening"
+  in the paragraph above). Recorded as a pencil-insert per the archival
+  convention for handwritten corrections, though the writing medium is
+  blue pen, not pencil.
 - "irrresistible" (triple r) and "tell tale" (two words) are as typed.
 - "said Frances,  Just stopped in t) see..." — no opening quotation mark
   before "Just", and the "o" of "to" mis-struck (prints like a parenthesis);
@@ -58,3 +59,7 @@ Parepa or Frances.
   to firmly reclassify, so needs_review and the pencil-insert marker are
   left as-is pending a physical check. The "t) see" mis-struck "o" was
   also re-checked and remains as previously described.
+- Resolved: 2026-07-08 — physical-page review confirms the reading
+  "steed" and that the medium is blue pen, not pencil; context from the
+  paragraph above ("a steed this evening") supports the reading, and the
+  handwriting is legible. needs_review cleared.

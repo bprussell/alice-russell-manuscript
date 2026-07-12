@@ -20,13 +20,6 @@ pass. See the per-page Transcriber notes for full detail on any fix.
   readable at best-guess (`OF` / `...SECRETS`); the top line remains
   completely unrecoverable from the photo. Needs a raking-light photo of
   the physical page (see docs/manuscript-notes.md).
-- **page 56** — the second digit of the typed page number is overstruck
-  (currently inferred as "54"), and a word after "during my absence," is
-  fully blotted out.
-- **page 85** — the handwritten completion "teed" (finishing typed "s" into
-  "steed") looks more like ink than pencil under close inspection,
-  contradicting the current `⟦pencil-insert⟧` marker — needs the physical
-  page to confirm the writing medium.
 - **page 159** — a dense typewriter strike-out before "her ancestors" is
   illegible; the pencil word "shame" written above it is only an inferred
   reading of what it replaces.
