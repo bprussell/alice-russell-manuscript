@@ -23,7 +23,7 @@ while now, we will dine together at two."
 saw on the table a letter from home.  Its sides fairly bulged with its
 messages.  Her maid stood waiting.  "I'll rest an hour then dress for
 luncheon," she told her and taking her letter from its envelope she
-laughed as she recognized the handwriting of four of her kingdom.  Each
+laughed as she recognized the handwriting of four ofher kingdom.  Each
 had added their bit to assure her she need not worry about them.  She
 kissed each one then slipping into her kimona she relaxed on the
 lounge.
@@ -57,3 +57,10 @@ When she finished there were no tear stains left.  Parepa felt keenly
 - Small tear/chip at the top edge of the sheet, away from the text; right
   edge slightly ragged mid-page, no text lost.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — corrected "of her kingdom" to "ofher kingdom": the
+  photo shows no space between "of" and "her" (a typed spacing typo,
+  distinct from the clear space in "of four" two words earlier); typed
+  layer preserved as-is. All dialogue quote marks checked against photo —
+  all are typed double quotes, no single-quote substitutions found. Page
+  confirmed right-side up. Otherwise transcript confirmed accurate against
+  photo.

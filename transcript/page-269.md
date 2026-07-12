@@ -3,10 +3,10 @@ page: 269
 typed_page: 105
 book: 2
 image: pages/originals/page-269.jpg
-has_pencil: false
+has_pencil: true
 has_table: false
-illegible_spots: 0
-needs_review: true
+illegible_spots: 1
+needs_review: false
 ---
 
                                                                    105
@@ -41,7 +41,7 @@ One of the modistes took it from its hanger and said, "You must try
 this one,⟦strikeover: comma struck over a stray letter⟧ Miss Emmerson ordered this one especially for you."
 
      "Oh," exlaimed Parepa as she recognized the pink coloring of the
-cheap dotted swiss dress she had worn to the dinner at ⟦strikeover: blotted character⟧ the Fey Hotel
+cheap dotted swiss dress she had worn to the dinner at⟦illegible⟧⟦pencil-delete⟧ the Fey Hotel
 thirty years ago.  Frances never forgot that dress.  Then they had gone
 to the theatre and "Uncle Tom."
 
@@ -55,13 +55,33 @@ to the theatre and "Uncle Tom."
   commas), "annimated", "broach", "belaced", "exlaimed", and "Paprea" (for
   "Parepa") are as typed.
 - "rose figures and trim" — the last letter of "trim" barely struck;
-  flagged unclear.
-- "dinner at the Fey Hotel" — a character after "at" is blotted out with
-  overstrike ink.
+  flagged unclear, but reads clearly as "trim" in context (list of dress
+  features); best guess confirmed on review.
+- "dinner at⟦illegible⟧ the Fey Hotel" — reclassified: the mark after "at"
+  was previously recorded as a typewriter strikeover ("blotted character")
+  but on close inspection it is a distinctly blue mark, not the black of
+  the surrounding typewriter ink (sampled pixels in the mark run ~(80,90,108)
+  — blue channel clearly higher than red — versus the neutral/warm
+  black of the typed text nearby, e.g. ~(23,18,15), blue lower than red).
+  This matches the recurring blue-pencil-deletion pattern found elsewhere
+  in the manuscript. The struck character underneath cannot be read, so it
+  is recorded as ⟦illegible⟧⟦pencil-delete⟧. has_pencil set to true,
+  illegible_spots set to 1.
+- Checked the comma in "this one, Miss Emmerson" (recorded as a typewriter
+  strikeover over a stray letter): this mark is black/heavy ink, not blue —
+  confirmed as an ordinary typewriter strikeover, no reclassification
+  needed.
+- All dialogue quotation marks on this page (the modiste's line, "Oh,"
+  and "Uncle Tom.") are typed as standard double quotes throughout; no
+  single-quote-to-double normalization issue found on this page.
 - Last line: the typist struck out a misstruck word ("aiffon"/"ciffon",
   partially underlined by the x-ing) at the end of the line and retyped the
   continuation "chiffon hat from a box," on the next line, indented far to
   the right.
 - References the dotted swiss dress and "Uncle Tom" theatre outing from
   Book I — deliberate call-back, not an error.
-- No pencil marks found on this page.
+- Verified: 2026-07-07 — reclassified the "at[blot] the Fey Hotel" mark
+  from typewriter strikeover to blue-pencil deletion over an illegible
+  character (see note above); has_pencil set to true, illegible_spots set
+  to 1, needs_review resolved to false after confirming the "trim" reading
+  and checking all quote marks against the photo.

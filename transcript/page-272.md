@@ -6,7 +6,7 @@ image: pages/originals/page-272.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                    108
@@ -67,3 +67,9 @@ about this surprize.  How did you happen to plan it?" she asked.
   "makkng"); read as "making".
 - The line ' childhood," Frances told the butler.' begins with an extra
   leading space, as typed.
+- Verified: 2026-07-07 — checked both pencil marks (the inserted "a" after
+  "saw and heard" and the "has" written over "as") against the photo; both
+  are grey/graphite pencil, not blue, and both readings are confirmed.
+  "physician;" is a semicolon, as typed. Resolving needs_review to false —
+  no text changes needed. All quotation marks on this page are typed as
+  standard double quotes.

@@ -59,3 +59,4 @@ make it plain to them that you are the new owner of everything I possessed
   all as typed.
 - Right edge of the sheet has small chips/tears; no text affected.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed. (Checked the faint diagonal mark between "give" and "you" — color-sampled against the paper background; it is not a distinct colored pencil mark, consistent with the existing "stray hyphen" reading.)

@@ -6,7 +6,7 @@ image: pages/originals/page-271.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                    107
@@ -68,3 +68,10 @@ here lips again and again.
   read as intended, recorded as typed quirks.
 - The maid's name is struck "Nanettzen" here (page 264 has "Nanettezen").
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  text changes needed. The "rrances"/"Frances" spot, the badly-struck
+  quotation mark after "with it?", the overstruck letter in "ready", and
+  the squeezed extra letter in "shining" were all re-examined against the
+  photo and match the existing readings; resolving needs_review to false.
+  All quotation marks on this page are typed as standard double quotes.
+  No blue-pencil marks found.

@@ -43,3 +43,6 @@ mirror.
   marks) and "Emmerson" are as typed.
 - Small chip in the top left edge of the sheet; no text affected.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. All quotation marks are typed as standard double quotes;
+  no blue-pencil marks found.

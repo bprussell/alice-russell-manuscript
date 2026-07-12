@@ -59,3 +59,4 @@ financial troubles were assailing them.  Then it dawned on her that she
   "Nanettezen" (the maid's name, run together as typed), "Johnie", and
   the question ending in a period ("that annoyed her.") are all as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed.

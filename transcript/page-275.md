@@ -62,3 +62,6 @@ Thanks for our good time.  Can I take my hat off now?" she laughed.
   period is as typed; likewise the comma-then-capital in "time,"  A
   nurse", and the punctuation "thing"," are as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. All quotation marks are typed as standard double quotes;
+  no blue-pencil marks found.

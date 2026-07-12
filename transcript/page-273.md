@@ -67,3 +67,7 @@ and laugh."
   overtyped correction); the intended word is clearly "deciphered".
 - Bottom right corner of the sheet is clipped/torn off; no text lost.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. The strikeover in "deciphered" is black typewriter ink,
+  not blue pencil. All quotation marks are typed as standard double
+  quotes.

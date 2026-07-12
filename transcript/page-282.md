@@ -16,7 +16,7 @@ Mrs Alice Reynolds Russell
 Mt. Hawley Road
 Edelstein, Illinois
 
-     "Did she suffer terribly?" asked Parepa.
+     'Did she suffer terribly?" asked Parepa.
 
      "No, she never suffers.  Just collapses and it takes strenuous
 treatment by the nurses to bring her around again.  We never know what
@@ -52,8 +52,10 @@ knows," she would say, "and that is all that matters."  I have up my
 ## Transcriber notes
 
 - Typed page number "118" at top right.
-- The opening quotation mark before "Did she suffer" struck faintly but
-  is present.
+- The opening mark before "Did she suffer" is a single quote (') in the
+  typescript, not a double quote — a typist inconsistency (the matching
+  close after "terribly?" is a proper double quote). Corrected from a
+  silently-normalized double quote in Phase 1.
 - "clothes with love" (apparently for "clothed"), "inchristian" (for
   "unchristian"), "back ground" (two words), and the dialogue punctuation
   quirks (a closing quote mid-speech at "burial, Parepa?"  "You know...",
@@ -61,3 +63,7 @@ knows," she would say, "and that is all that matters."  I have up my
 - Final line "I have up my" runs onto page 283 mid-sentence.
 - Small chips along the left edge of the sheet; no text affected.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — corrected the opening quote mark before "Did she
+  suffer terribly?" from a normalized double quote to the single quote
+  (') actually typed. No other discrepancies found; page confirmed
+  right-side up.

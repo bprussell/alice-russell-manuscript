@@ -67,3 +67,6 @@ my way.  I'm going to tell you something to laugh about Daddy," she said
 - Maid's name here spelled "Nanettezan" (vs. "Nanettezen" on pages
   276-277); both as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. All dialogue quote marks checked are properly paired
+  double quotes; "Nanettezan" spelling confirmed.
