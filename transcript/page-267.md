@@ -6,7 +6,7 @@ image: pages/originals/page-267.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                    103
@@ -39,7 +39,7 @@ raved over the incomparable beauty of the colorful mountains.  Their
 musical names - Santa Ritas, Tortillitas, Santa Catalinas, and Rincons
 interested her greatly.  She knew they were steeped in tradition, history,
 romance, and adventure.  She hoped she would learn a little of their
-story while there.  And to think this place is mine.  It was beginning ⟦unclear: do⟧
+story while there.  And to think this place is mine.  It was beginning do
 dawn on her now.
 
      Frances had named it "Kashema" meaning "Home, a place of rest,
@@ -55,11 +55,20 @@ Daddy.  She was convinced that Frances was really better.  She seemed
 - In the header the "y" of "Submitted by:" did not strike ("Submitted b :"),
   as typed.
 - "Once a awhile" (for "once in a while") is as typed.
-- "It was beginning ⟦unclear⟧ dawn on her now." — the word before "dawn"
-  strikes as "do" but is evidently intended "to"; the first letter is
-  battered. Flagged for review.
 - In "As she went" the "A" struck faintly and reads at first as an
   apostrophe; read as "As".
 - Mountain names "Santa Ritas, Tortillitas, Santa Catalinas, and Rincons"
   and the estate name "Kashema" are as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — resolved the previously-flagged "It was beginning
+  ⟦unclear: do⟧ dawn on her now.": compared the letter shape directly
+  against unambiguous "d" glyphs elsewhere on the page (e.g. "dawn" on
+  the very next line, and "d" in "duty"/"had") — the rounded bowl plus
+  right-side ascender matches "d" clearly, not "t" (compare the "t" in
+  "to think" two lines above, which has an open crossbar and no bowl).
+  The typed word is legibly "do", an evident typist typo for "to"
+  ("beginning do dawn" for "beginning to dawn"), consistent with other
+  letter-substitution typos in this manuscript (e.g. "het" for "let" on
+  page 266). Un-flagged the unclear marker and set needs_review: false.
+  All dialogue quote marks checked against photo and match (typed double
+  quotes throughout). No pencil found; page confirmed right-side up.
