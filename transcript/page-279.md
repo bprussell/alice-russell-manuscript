@@ -63,3 +63,4 @@ please remember this.  I have given to Mrs Bradford everything I own on
   orphaned quotation mark at the end of the line "...to take her hand.   ""
   are all as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed. (Checked "three" in "These three can keep up the place" closely — the "h" is a very faint/weak strike but legible as typed; not a dropped character like the one found on page 277.)

@@ -61,3 +61,8 @@ the perfume ladened air of the desert beneath the mysterious expanse of
 - "personffied" (for "personified") and "ladened" are as typed.
 - Small tears at the top edge and right edge of the sheet; no text lost.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. Two tiny stray brownish marks (above the "g" in
+  "helping" and above the "a" in "again.") were checked closely: neither
+  is blue-shifted pencil, and neither makes editorial sense in context,
+  so both are correctly left untranscribed as likely smudges/fibers.

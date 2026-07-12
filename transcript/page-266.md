@@ -63,3 +63,8 @@ You have made me so much stronger."
 - Small notch in the left edge of the sheet about a third of the way down;
   no text lost.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. Checked every dialogue quote boundary (all typed double
+  quotes, no single-quote substitutions); "het me make" reconfirmed as a
+  clean typed "h" (typo for "let"), not a pencil or strikeover mark; no
+  pencil found; page confirmed right-side up.

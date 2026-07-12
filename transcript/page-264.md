@@ -15,7 +15,7 @@ Mrs Alice Reynolds Russell
 Mt. Hawley Road
 Edelstein, Illinois
 
-the need of new clothes.  Her's she knew must appear very shabby to
+the need of new clothes.  Her's she know must appear very shabby to
 her maid and her friends.
 
      "Now you look as sweet and fresh as though you hadn't been sick,"
@@ -59,8 +59,20 @@ yourself are well looked after?  Have you plenty?  I'd love to look after
   "Are you sure" (before "yourself" on the next line).
 - Typewriter strikeover: a first attempt at "Daddy's" (reads "Daddis")
   struck out with overtyped hyphens/letters, followed by "- Daddy's."
-- "Her's she knew must appear very shabby" ("Her's" for "Hers"), "sat
+- "Her's she know must appear very shabby" ("Her's" for "Hers"), "sat
   about it" (for "set about it"), "Nanettezen" (maid's name run together
   with following letters, as struck), "see it a plenty", "eyes shown"
   (for "shone"), and "surprize" are as typed.
 - No other pencil marks found.
+- Verified: 2026-07-07 — corrected "she knew must appear" to "she know
+  must appear": the photo clearly types "know" (matching the shape of
+  "know" elsewhere on the page), not "knew"; earlier transcript had
+  silently normalized this to the grammatically expected past tense.
+  Checked the faint/lightly-struck "d" at the end of "sealed" (line
+  "When she had sealed her") — legible enough from context, no change.
+  Reviewed the heavy overtype in "please" (paragraph beginning "Well, no
+  doubt") — reads as a single heavily-struck "l", not a distinct
+  strikeover of another letter; left untouched per caution on
+  letter-shape guesses. All dialogue quote marks are typed double quotes
+  throughout; pencil insertion "you," confirmed ordinary graphite (not
+  blue). Page confirmed right-side up.

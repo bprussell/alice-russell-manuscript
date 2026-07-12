@@ -47,3 +47,8 @@ folks."
 - The sheet has a prominent diagonal crease across the middle; no text
   obscured.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. A tiny stray diagonal mark above the "I" of "I'd like"
+  (paragraph beginning "I'd love to do that") was checked and is a
+  brownish smudge/fiber, not blue pencil and not an intentional edit
+  mark — correctly left untranscribed.

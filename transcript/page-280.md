@@ -64,3 +64,4 @@ copy for each of the three.  After handing each their copy Daddy read
 - The yard man is introduced as "Jimmy" then "Jimmie" in the same line;
   both spellings as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed.

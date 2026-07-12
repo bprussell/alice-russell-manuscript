@@ -61,3 +61,4 @@ them on the table.  "Frances had a serious time last night," he added.
 - Narrative jumps abruptly at "After Parepa read the letter from home"
   (scene change with no extra spacing), as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no changes needed.

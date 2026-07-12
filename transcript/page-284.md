@@ -60,3 +60,7 @@ begged.
 - Page is short: typing ends about two-thirds down the sheet with
   "begged."; the rest is blank.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. Both strikeover markers (end of "variety", the "a" in
+  "and" between "again and again") checked against the photo and
+  confirmed as typewriter overtyping, not pencil.

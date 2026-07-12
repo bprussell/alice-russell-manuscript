@@ -64,3 +64,7 @@ started for a walk.
   "ahs" (for "as"), "Every thing" (two words), and "doned" (for
   "donned") are all as typed.
 - No pencil marks found on this page.
+- Verified: 2026-07-07 — transcript confirmed accurate against photo, no
+  changes needed. The jammed quote in "situations then"and she thanked"
+  was checked closely at high zoom and is a proper double quote (two
+  strokes), matching the transcript.
