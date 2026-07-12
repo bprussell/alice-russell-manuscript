@@ -49,7 +49,11 @@ little girl that was mighty nice of you."
   overstruck digit — it reads as "55" at a glance, but the typed numbering
   has run exactly two behind the physical numbering all through this stretch
   (physical 55 = typed 53), so the corrected digit is most plausibly "4"
-  (typed 54). Recorded as 54; verify against the physical page.
+  (typed 54). Recorded as 54.
+- Resolved: 2026-07-08 — the typed page number is settled as 54, per the
+  established offset pattern (user decision; the overstruck digit itself
+  remains genuinely ambiguous at any zoom, but the numbering-sequence
+  inference is treated as decisive).
 - "neice" (for "niece"), "liked to much" (for "so much"), "With me its"
   (no apostrophe), "decended" (for "descended"), and the missing closing
   quote after "fast friends." are all as typed. "rush, rush, rush" is
