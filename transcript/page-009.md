@@ -5,8 +5,8 @@ book: 1
 image: pages/originals/page-009.jpg
 has_pencil: true
 has_table: false
-illegible_spots: 1
-needs_review: true
+illegible_spots: 0
+needs_review: false
 ---
 
                                                                     9
@@ -36,7 +36,7 @@ and Uncle George wondering how in the world he had made such a rash
 promise.  Already he could hear the complaint of his customers at not
 finding the useful premiums they expected to get.  Well, he'd slip in
 a few any way.
-     Parepa-Roza boke the silence, "And Uncle George, ⟦illegible⟧⟦pencil-delete⟧you'll let me
+     Parepa-Roza boke the silence, "And Uncle George, y⟦pencil-delete⟧you'll let me
 help pack in the pretty things won't you?  Let's see, we'll put in
 lots of those beads, they are so pretty.  Do you care if I wear a
 string of them till we get to your house?  I love those pink ones."
@@ -51,7 +51,8 @@ a long strand of the cheapest glass beads one could imagine.
   / "Now what are you up to?"
 - "happines" (for "happiness"), "sometime" (one word), "boke" (for
   "broke"), and "any way" (two words) are as typed.
-- Before "you'll let me" a single typed character is heavily blacked out.
+- "y⟦pencil-delete⟧you'll let me" — she typed "yyou'll" (a doubled first
+  letter) and struck the first "y" in blue pen, correcting to "you'll".
 - Verified: 2026-07-06 — corrected: the blacked-out mark before "you'll let
   me" was mis-recorded as a typewriter ⟦strikeover⟧. Pixel-color analysis
   against the surrounding typed ink (which reads warm/red-dominant, as
@@ -62,3 +63,6 @@ a long strand of the cheapest glass beads one could imagine.
   reclassified as ⟦illegible⟧⟦pencil-delete⟧, the struck character cannot
   be identified. Set has_pencil: true, illegible_spots: 1, needs_review:
   true pending physical-page confirmation of the exact medium.
+- Resolved: 2026-07-08 — physical-page review confirms the struck
+  character is a doubled "y" (typed "yyou'll"), crossed out in blue pen to
+  correct to "you'll". Text updated, needs_review cleared.

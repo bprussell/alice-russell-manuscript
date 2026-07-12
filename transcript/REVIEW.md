@@ -31,10 +31,6 @@ below, plus page 210 above, were originally filed as ordinary typewriter
 strikeovers but turned out under color analysis to be a distinct blue
 pencil/ink. Worth watching for specifically in later batches.
 
-- **page 9** — a blacked-out character before "you'll let me" is
-  blue-dominant under pixel analysis, not the page's typed black ink —
-  reclassified as a likely pencil/blue-pencil deletion, but the exact
-  medium needs physical-page confirmation.
 - **page 16** — a blue-toned mark obscures a letter in "champa[?]n" (best
   guess "o"); needs the physical page to confirm medium and letter.
 - **page 17** — the typed page number shows an overstruck digit (reads as
