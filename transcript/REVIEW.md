@@ -20,12 +20,6 @@ pass. See the per-page Transcriber notes for full detail on any fix.
   readable at best-guess (`OF` / `...SECRETS`); the top line remains
   completely unrecoverable from the photo. Needs a raking-light photo of
   the physical page (see docs/manuscript-notes.md).
-- **page 23** — a pencil scribble after "col" in "white braid on the
-  col___ cuffs and belt" is illegible; a capital-R-like flourish is visible
-  but the word can't be completed with confidence.
-- **page 42** — two overtyped/garbled words, "threwgh" (for "threw") and
-  "Thatid" (for "That's"/"That'd"), remain unreadable beyond current best
-  guesses even at high zoom.
 - **page 56** — the second digit of the typed page number is overstruck
   (currently inferred as "54"), and a word after "during my absence," is
   fully blotted out.

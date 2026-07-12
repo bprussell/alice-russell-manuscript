@@ -5,8 +5,8 @@ book: 1
 image: pages/originals/page-023.jpg
 has_pencil: true
 has_table: false
-illegible_spots: 1
-needs_review: true
+illegible_spots: 0
+needs_review: false
 ---
 
                                                                     22
@@ -19,7 +19,7 @@ keep up with her Auntie.  Stockings were the first things; three pair
 of black ones and one of white, three petticoats, three suits of
 underwear and then on to look at dresses.  Such a pretty pink dotted
 swiss⟦strikeover: initial "s" overtyped on another letter, reads like "dwiss"⟧ was chosen first, then a lace trimmed, tucked and ruffled white
-organdy and last a blue sailor dress with white braid on the col⟦illegible⟧⟦pencil-delete⟧
+organdy and last a blue sailor dress with white braid on the col⟦pencil-insert: lar⟧
 cuffs and belt.  Also a red, white and blue emblem on one sleeve.  A
 pretty checked gingham seemed necessary, too.
      "Now for the hair ribbons", said Aunt Kate.  "We will only get
@@ -47,11 +47,11 @@ hardly wait to see her "dressed up" in her new things.
 - Typed page number "22" at top right; physical page 23. Continues
   mid-sentence from page 22 ("...she could hardly / keep up with her
   Auntie.").
-- PENCIL: at the end of the "blue sailor dress" line, after typed "col",
-  one or two typed characters are scribbled out by hand in pencil and are
-  unreadable; a handwritten mark resembling a capital "R" trails the
-  scribble (possibly a hand-completion of "collar"). The sentence resumes
-  "cuffs and belt." on the next line. Verify against the physical page.
+- PENCIL: at the end of the "blue sailor dress" line, typed "col" is
+  hand-completed in pencil to "collar" — confirmed against the physical
+  page (2026-07-08): "collar, cuffs and belt" is the clothing-trim list
+  the sentence describes, and matches the shape of the pencil marks
+  following "col". Resolved from the earlier illegible/deleted reading.
 - PENCIL: "satis-" (line end) and "faction" (next line start) are struck
   through by hand, with pencil "sophisticated" written above the line —
   correcting "did credit to the more satisfaction" to "the more
@@ -66,8 +66,6 @@ hardly wait to see her "dressed up" in her new things.
   text changes needed. At high zoom the "dwiss"/"swiss" overtype is
   confined to the first letter only (the "w" that follows is simply a
   naturally bold strike, not a second overtype) — consistent with the
-  note already on file. The pencil scribble after "col" remains
-  genuinely illegible at any zoom available here; it does end in a
-  flourish that could be a capital "R" as previously noted, but no more
-  confident reading is possible from this photo. needs_review left true
-  for that spot.
+  note already on file.
+- Resolved: 2026-07-08 — physical-page review confirms the pencil
+  completion of "col" reads "collar". Text updated, needs_review cleared.
