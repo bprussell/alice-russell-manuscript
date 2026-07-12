@@ -53,10 +53,11 @@ to sleep.  This she did.  With out any difficulty whatever she was soon
 - PENCIL, first line: ", thought" is struck through in pencil and "that"
   written above — corrected reading "...from the beginning that Allie had
   not had time...". The pencil strike appears to start at the comma.
-- PENCIL, near bottom: "on the seat" is struck through in pencil with
-  "her berth" written above (a leading pencil stroke may make it "in her
-  berth") — corrected reading "curl up in her berth and go to sleep".
-  Ambiguous whether "on" is changed to "in"; flagged for review.
+- PENCIL, near bottom: only "the seat" (not "on") is struck through in
+  pencil, with "her berth" written above it — "on" is untouched, so the
+  corrected reading is "curl up on her berth and go to sleep." Confirmed
+  on close inspection: the pencil strike-through line begins at "the",
+  not before it, and "on" shows no pencil marks at all.
 - "serious ness" (split), "Chicago,  From" (comma then capital),
   "thereeshe" (run together, "From there she"), "kimona", "With out"
   (split) are all as typed.
