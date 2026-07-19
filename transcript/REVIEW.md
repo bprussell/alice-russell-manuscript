@@ -39,9 +39,6 @@ other candidate marks were checked against the same color signature and
 correctly ruled back out as ordinary typewriter ink, so not everything
 struck-through is pencil.
 
-- **page 58** — an overtype in "brok[??]en up" has no recoverable
-  letterform, and a gap in "im[?]ediately" is faint; context strongly
-  suggests "broken" but the mark itself is unconfirmed.
 - **page 59** — two blue-pencil marks after "fun" ("heaps of fun." and
   "the most fun I've had") have no legible character underneath; also a
   very faint fleck near "started right. / You" too faint to classify.

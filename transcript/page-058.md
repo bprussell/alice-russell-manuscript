@@ -6,7 +6,7 @@ image: pages/originals/page-058.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     56
@@ -22,7 +22,7 @@ as if she hadn't been disturbed.
 and left for the candy shop without mentioning or giving any indication
 she even thought of the night before.
      Uncle George was puzzled over her actions.  He expected she would
-be all broken⟦strikeover: letter overtyped within "broken"⟧ up over Frances departure.
+be all broken⟦strikeover: corrected by typing over; underlying keystrokes unrecoverable⟧ up over Frances departure.
      Five days passed - a letter for Parepa bearing a New York postmark
 came.  Aunt Kate could hardly wait until she came home from work.
      "Guess what I've got behind me," and Aunt Kate backed against the
@@ -32,7 +32,7 @@ wall.
      "He said I'd get one about today," and she took the letter, opened
 it and read it all to herself.  "He says give you and Uncle George his
 love."  And then to Aunt Kates surprize she took the letter and went
-quietly to her room without showing it to her.  Almost ⟦unclear: immediately⟧
+quietly to her room without showing it to her.  Almost immediately
 she returned and began her practicing as attentively as if her whole
 mind was on it and nothing else.
      When she had finished Aunt Kate and she sat at the kitchen table,
@@ -45,8 +45,9 @@ eating supper, and chatting about the days happenings at the store.
   up there," said Uncle George.").
 - "Frances departure", "Aunt Kates surprize", and "the days happenings"
   (missing apostrophes; "surprize" spelling) are all as typed.
-- "immediately" prints with a faint gap ("im ediately" appearance) — struck
-  letters faint, marked unclear.
+- "immediately" prints with a faint gap ("im ediately" appearance) — the
+  first "m" is faintly typed but present; confirmed as "immediately"
+  against the physical page.
 - Text stops about two-thirds down the sheet; the lower third is blank
   (possible section/chapter break before the next page).
 - Small tear/notch at the top edge of the sheet, above the header; no text
@@ -67,3 +68,8 @@ eating supper, and chatting about the days happenings at the store.
   change made to the text or has_pencil. The "immediately" gap and the
   "broken" strikeover remain the two original points of uncertainty on this
   page; needs_review left true pending a physical-page check of both.
+- Resolved: 2026-07-08 — physical-page review confirms both spots: the
+  overtype clearly reads "all broken up" as corrected (the underlying
+  keystrokes are unrecoverable but immaterial), and the "im ediately" gap
+  is a faintly-struck first "m" — the word is "immediately". Text updated,
+  needs_review cleared.
