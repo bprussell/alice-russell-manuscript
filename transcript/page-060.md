@@ -23,7 +23,7 @@ know you could do anything like that."
 Inventor's Wife","The Stolen Watermelon", and then to Aunt Kates sur-⟦hyphen⟧
 prize she gave a most wonderful presentation of "Flying Jim's Last Leap".
 This dramatic reading brought tears to Aunt Kates eyes.  The hungry
-begger seen⟦pencil: faint comma-like stroke, likely a hand-added comma⟧ the fight betwe⟦strikeover: mistyped "n" retyped over as "e"⟧n Little Flossie's father and the tramp, the
+begger seen⟦pencil: faint stroke, purpose unclear⟧ the fight betwe⟦strikeover: mistyped "n" retyped over as "e"⟧n Little Flossie's father and the tramp, the
 Fire, The saving of "Little Flossie's life by "Flying Jim", the tramp
 and the death scene of flying Jim as Flossie's father begged his forgive-⟦hyphen⟧
 ness was portraited so clearly by this beautiful young girl that Aunt
@@ -57,9 +57,14 @@ troduced to the others, she and he discussed Parepa's possibilities.
   flying Jim...") whose collective subject takes "was portraited so
   clearly" — read as the verb "saw", the sentence has no subject for "was
   portraited". She spells "scene" correctly later in the same sentence.
-  The faint mark after "seen" (a gray, hand-drawn comma-like curl, lighter
-  than the type) is most plausibly a lightly added comma separating the
-  first two list items; recorded as an uncertain pencil mark.
+  The faint gray hand-drawn stroke after "seen" does not clearly read as
+  any character on the physical page — it may be a stray mark or a flag
+  on the misspelled "seen". Recorded as an uncertain pencil mark.
+- READING LAYER (Phase 3): render this as "The hungry beggar scene, the
+  fight between..." — "scene" for the phonetic "seen", plus the list
+  comma after it, which the sentence grammatically requires (every other
+  item in the list already carries its separating comma). Confirmed with
+  the author's great-grandson 2026-07-08.
 - "betwe⟦strikeover⟧n" ("between"): the sixth letter is a typewriter
   overtype — she struck "e" over a mistyped "n", correcting to "between"
   (previously read as "betwenn").
@@ -95,8 +100,10 @@ troduced to the others, she and he discussed Parepa's possibilities.
 - Resolved: 2026-07-08 — physical-page review plus a fresh high-zoom scan:
   (1) the word before the mark is definitely typed "seen" (phonetic
   "scene" in context — see note above); (2) the mark after it is a faint
-  hand-drawn comma-like stroke, recorded as an uncertain pencil comma;
-  (3) "betwenn" corrected to "betwe⟦strikeover⟧n" — an "e" overtyped on a
-  mistyped "n", reading "between"; (4) the "and as usual" ghost marks are
-  a typewriter carriage slip, not proofreading marks. needs_review
-  cleared, has_pencil set true for the comma stroke.
+  hand-drawn stroke that doesn't clearly read as a comma or any character
+  on the physical page — left as an uncertain pencil mark (the reading
+  layer adds the grammatically required comma regardless, per the READING
+  LAYER note above); (3) "betwenn" corrected to "betwe⟦strikeover⟧n" — an
+  "e" overtyped on a mistyped "n", reading "between"; (4) the "and as
+  usual" ghost marks are a typewriter carriage slip, not proofreading
+  marks. needs_review cleared, has_pencil set true for the stroke.
