@@ -5,8 +5,8 @@ book: 1
 image: pages/originals/page-044.jpg
 has_pencil: true
 has_table: false
-illegible_spots: 1
-needs_review: true
+illegible_spots: 0
+needs_review: false
 ---
 
                                                                     42
@@ -18,7 +18,7 @@ Edelstein, Illinois
                               CHAPTER VII
 
      They were all ready now and at promptly five-thirty a carriage
-from the best livery⟦illegible⟧⟦pencil-delete⟧ in town drove up in front of the house.  Frances
+from the best liverys⟦pencil-delete⟧ in town drove up in front of the house.  Frances
 stepped out and ran up the steps to meet them.  The driver stepped
 down from his high seat and helped the four of them in.  Frances and
 Parepa sat facing Uncle George and Aunt Kate.  They joked and laughed
@@ -49,17 +49,10 @@ would fade away and she would find herself back home eating home cured
 
 - Typed page number "42" at top right.
 - Chapter heading "CHAPTER VII" centered below the header block.
-- The mark after "livery" was originally classified in Phase 1 as a stray
-  typed character x-ed out by the typewriter. Re-examination shows the mark
-  is a solid, saturated blue blob with no typewriter-font letter structure
-  at all, and pixel-color sampling confirms it is strongly blue-shifted
-  (blue channel well above red) compared to the neutral/warm-black ink of
-  the surrounding typed "livery" and "in" — consistent with the blue-pencil
-  pattern found elsewhere in the manuscript (pages 9, 16, 20, 41, 210).
-  Reclassified as a pencil deletion over an illegible typed character;
-  has_pencil set to true and illegible_spots set to 1. needs_review left
-  true pending a physical-page check of the ink color and, if possible, the
-  obscured character.
+- "liverys⟦pencil-delete⟧": she typed "liverys" and crossed out the final
+  "s" in blue pen, correcting to "the best livery in town". (Originally
+  misclassified in Phase 1 as a typewriter x-out; the blue-shifted color
+  identified in verification is the pen strike.)
 - Also examined the doubled/bold "let" in "will let you if" (line with
   "your guarantee or what ever you call him"): under magnification this
   shows overlapping typewriter-font letter shapes (serifs consistent with
@@ -81,3 +74,6 @@ would fade away and she would find herself back home eating home cured
   blue pencil deletion over an illegible character (see notes above); all
   other text, line breaks, and spacing confirmed accurate against the
   photo.
+- Resolved: 2026-07-08 — physical-page review confirms the struck
+  character is a final "s" (typed "liverys"), crossed out in blue pen to
+  read "livery". Text updated, needs_review cleared.
