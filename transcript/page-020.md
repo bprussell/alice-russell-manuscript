@@ -6,7 +6,7 @@ image: pages/originals/page-020.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     19
@@ -33,7 +33,7 @@ smack.
      Parepa was so mortified she blushed all over but managed to mount
 the steps by Aunt Kate's side.
 
-     "We'll undress in the bath room where you can coo⟦pencil: blue mark obscures a letter, most likely "l"⟧your face
+     "We'll undress in the bath room where you can cooll⟦pencil-delete⟧ your face
 with a wash cloth wet in the lavatory.  Put on your nightie and come
 into this bed room" said Aunt Kate pointing to such a clean and pretty
 room.  "I'll turn the covers down for you."
@@ -63,16 +63,10 @@ big day."
   same carriage position (no space between them), rather than two distinct,
   cleanly separated characters. Recommend checking the physical page under
   raking light to confirm both characters are present.
-- On the line "you can cool your face", the letter that would complete
-  "cool" (between "coo" and "your", typed with no space between the words)
-  is covered by an opaque blue mark — clearly a different medium from the
-  black typewriter ink used throughout the rest of the page. It is dense
-  and solid rather than the "faint gray" typically expected of a pencil
-  correction, so it is flagged here as an ambiguous pencil/ink mark rather
-  than confidently classified. Context ("cool your face" with a wet wash
-  cloth) strongly supports the missing letter being "l"; the word is typed
-  with no space before "your" either way. Needs verification against the
-  physical page for ink/pencil color analysis.
+- "cooll⟦pencil-delete⟧ your face": she typed "cooll" (doubled final "l")
+  and struck the extra "l" in blue pen, correcting to "cool your face".
+  The opaque blue mark previously flagged as ambiguous is that pen
+  deletion.
 - "nightie which had  been made" has a double space between "had" and
   "been", as typed.
 - No pencil or other marks were found in the left/right margins of this
@@ -95,3 +89,7 @@ big day."
   letter under it. None of this resolves whether the medium is graphite
   pencil vs. ink pen, or lets us see the letter shape itself, so
   needs_review remains true pending inspection of the physical page.
+- Resolved: 2026-07-08 — physical-page review confirms she typed "cooll"
+  and struck the extra "l" in blue pen, correcting to "cool". Text
+  updated, needs_review cleared. (The exclamation-point/quote overstrike
+  note near the top of the page stands as recorded.)

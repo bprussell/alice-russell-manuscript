@@ -6,7 +6,7 @@ image: pages/originals/page-016.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                    15
@@ -42,7 +42,7 @@ he said as his eyes fell on the remainder of "'Parepa's first'.  "Really
 I thought that was the best salad I ever ate.  How did you make it
 Mrs Slay?"  Parepa wished she wasn't there to hear Aunt Kate tell him
 she made it, but she was and when he grabed her two hands in his and
-swu g her around saying, "Hurrah for the champai⟦pencil: blue mark obscures a letter, most likely "o"⟧n salad maker" she
+swung her around saying, "Hurrah for the champa⟦pencil-delete⟧ig⟦pencil: o⟧n salad maker" she
 
 ## Transcriber notes
 
@@ -50,17 +50,13 @@ swu g her around saying, "Hurrah for the champai⟦pencil: blue mark obscures a 
 - "Mrs Slay" — first appearance of Aunt Kate's surname.
 - ""Oh'. do the dish washers" (apostrophe-period after Oh) and the odd
   quote cluster "'Parepa's first'. are as typed.
-- "grabed" (for "grabbed") is as typed; "swu g" (faint/skipped "n" in
-  "swung") is as typed on the page.
-- In "champai[?]n salad maker" (for "champion") the letter before the final
-  "n" is obscured by an opaque blue-toned mark — under magnification the
-  color is distinctly blue-gray, not the brown-black of the typewriter
-  ink used throughout the rest of the page, so this is not a typewriter
-  strikeover as previously noted. It reads more like a blue-pencil/ink
-  blot. Context ("champaion" as elsewhere in the manuscript for
-  "champion") strongly supports the obscured letter being "o", but the
-  mark is fully opaque with no legible letter shape underneath, so this
-  is flagged for physical-page verification rather than asserted as fact.
+- "grabed" (for "grabbed") is as typed; "swung" has a lightly-typed "n"
+  (a faint key strike that can read as a gap, "swu g", in the photo) —
+  confirmed against the physical page as "swung".
+- "champa⟦pencil-delete⟧ig⟦pencil: o⟧n salad maker": she typed
+  "champaign", then attempted to erase the second "a" and corrected the
+  "g" to an "o" in blue pen, giving "champion". The blue mark previously
+  flagged as an opaque blot is that pen-written "o".
 - Chunk torn from the right paper edge beside the "porch with you" lines;
   no text lost.
 - Continues from page 15 ("...always said the right thing at the right
@@ -72,3 +68,8 @@ swu g her around saying, "Hurrah for the champai⟦pencil: blue mark obscures a 
   the same kind of ambiguous blue mark flagged on page 20. Updated the
   inline marker to ⟦pencil: ...⟧, and set has_pencil: true and
   needs_review: true pending a physical-page check.
+- Resolved: 2026-07-08 — physical-page review: she typed "champaign",
+  attempted to erase the second "a", and corrected the "g" to "o" in blue
+  pen, giving "champion". Also confirmed "swung" (the "n" is a light key
+  strike, not a skipped letter — previously transcribed "swu g"). Text
+  updated, needs_review cleared.

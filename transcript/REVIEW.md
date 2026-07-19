@@ -31,12 +31,6 @@ below, plus page 210 above, were originally filed as ordinary typewriter
 strikeovers but turned out under color analysis to be a distinct blue
 pencil/ink. Worth watching for specifically in later batches.
 
-- **page 16** — a blue-toned mark obscures a letter in "champa[?]n" (best
-  guess "o"); needs the physical page to confirm medium and letter.
-- **page 17** — the typed page number shows an overstruck digit (reads as
-  "16" over what might be "15"); needs raking-light inspection to confirm.
-- **page 20** — a blue-toned mark obscures a letter in "cool your face"
-  (best guess "l"); needs the physical page to confirm medium and letter.
 
 Added from batch 3 (pages 35–69, verified 2026-07-06). The blue-pencil
 pattern above continued to turn up regularly in this batch (pages 36, 41,

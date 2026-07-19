@@ -6,7 +6,7 @@ image: pages/originals/page-017.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                    16
@@ -46,10 +46,10 @@ she pondered as she put the last one carefully on the table.  Maybe I'll
 
 ## Transcriber notes
 
-- Typed page number at top right is an overstrike: a digit typed over
-  another, best read as "16" corrected over "15" (fits the sequence, since
-  the previous sheet is typed 15). Flagged needs_review for the ambiguous
-  digit.
+- Typed page number at top right is an overstrike: "16" typed over a
+  mistyped "15" (the previous sheet is typed 15, so she caught the
+  repeat and corrected it). Confirmed against the physical page —
+  recorded as 16.
 - The second "tumblers" in "What's tumblers?" has its middle letters
   overtyped (strikeover); word still legible.
 - "hecould" (run together), "CRYSTAL." (typed in capitals), "etc.."
@@ -58,10 +58,14 @@ she pondered as she put the last one carefully on the table.  Maybe I'll
 - "I8ll. get you one" — again the figure "8" typed for an apostrophe
   ("I'll"), plus a stray period; same slip as "I8d" on page 12. As typed.
 - No pencil marks found on this page (margins checked closely, clean).
-- Continues from page 16 ("...champaion salad maker" she / felt her
+- Continues from page 16 ("...champion salad maker" she / felt her
   awkwardness more than ever.") — consecutive.
 - Verified: 2026-07-06 — transcript confirmed accurate against photo, no
   text changes needed. Re-examined the overtyped typed page number: it is
   black typewriter ink (not the blue-toned mark seen on pages 16 and 20),
   a genuine digit-over-digit overstrike; still genuinely unclear whether
   it reads "16" over "15" or something else, so needs_review remains true.
+- Resolved: 2026-07-08 — physical-page review confirms the overstruck
+  page number reads "16" (typed over a mistyped "15"), keeping the
+  one-behind offset from the physical sheet count through this stretch.
+  needs_review cleared.
