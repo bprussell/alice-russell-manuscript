@@ -6,7 +6,7 @@ image: pages/originals/page-106.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   104
@@ -17,7 +17,7 @@ Edelstein, Illinois
 
 age should have and I want you to give yourself up to the impulses of
 youth.  Write me of all your good times while I am away.  You see we
-leave Peoria the ⟦unclear: 2⟧4th., only one more week and we will be far apart
+leave Peoria the 24th., only one more week and we will be far apart
 for two long years.  A long, long time, darling,"and he.raised her face
 to his and kissed her burning lips.
      "Yes, so long, Frances.  I'll miss you so much.  Will you promise
@@ -51,8 +51,14 @@ it."
   double-spaced.
 - Page begins mid-sentence, continuing page 105's "a youngster of your /
   age should have..." — pages consecutive.
-- In "leave Peoria the 24th.,": the first digit of the date printed faintly
-  and is marked unclear (reads "2"); the trailing "th.," is as typed.
+- In "leave Peoria the 24th.,": the "2" printed very faintly (a light key
+  strike; on the physical page it can read as erased). Confirmed as "24th"
+  from story context: this conversation happens at Parepa's August 17th
+  birthday party (pages 99-105; her birthday date is fixed on pages 4 and
+  71), and Frances says they leave in "only one more week" — August 24th
+  exactly. A "4th" reading (September 4) would be nearly three weeks out,
+  contradicting "one more week"; leaving Peoria the 24th also squares with
+  page 91's "leaving for England in September" (rail east, then sail).
 - "darling,"and" (no space after closing quote), "better them." (for
   "then"), "Aunt Kate don't want", and the double space in "He  has quit"
   are all as typed.
@@ -66,3 +72,7 @@ it."
   consistent with "2" and no more consistent with any other digit, but
   the ink is very faint on the photo, so needs_review is kept true for a
   physical-page check.
+- Resolved: 2026-07-08 — physical-page review found the faint "2"
+  ambiguous (lightly typed or possibly erased), but story context pins the
+  date to the 24th (see the dating note above). Unclear marker removed,
+  needs_review cleared.

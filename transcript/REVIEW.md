@@ -60,8 +60,6 @@ instances corrected). This is a distinct failure mode from the word-level
 typo smoothing found earlier, and may be worth a dedicated sweep across
 the rest of the manuscript later.
 
-- **page 106** — the first digit of a date ("the [2]4th.") is very faint;
-  shape is consistent with "2" but unconfirmed.
 - **page 107** — a left-margin dash before "Frances said no more" isn't
   blue-toned, but it's unclear from the photo whether it's typed or a
   hand mark.
