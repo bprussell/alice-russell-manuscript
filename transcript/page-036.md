@@ -6,7 +6,7 @@ image: pages/originals/page-036.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     34
@@ -22,7 +22,7 @@ bottom which slanted slightly toward the front.  She did her work
 deliberately and seemed to be so completely wrapped up in it that she
 didn't notice the others eyeing her  enviously.  When it was done she
 stood off some distance and gazed at it.  Clapping her hands, her
-face radiant as she grabed Uncle Will by the hand and let⟦pencil: blue diagonal mark drawn through the "t", most likely correcting "let" to "led"⟧ him up to
+face radiant as she grabed Uncle Will by the hand and let⟦pencil: led⟧ him up to
 see it.
      "It's beautiful, Parepa.  How Did you ever think to make it like
 That?" he asked.
@@ -71,3 +71,8 @@ some other shop will be trying to take my designer away from me."
   this page; the "He" in "He really didn't" has slightly heavier/bolder
   ink on the "e" but this is ordinary typewriter ink variation, not a
   separate mark.
+- Resolved: 2026-07-08 — physical-page review confirms the blue pen mark
+  corrects typed "let" to "led" ("led him up to see it"). Text updated,
+  needs_review cleared. The duplicate typed page number "34" stands as
+  recorded (a misnumbering by the typist, noted above; the text sequence
+  is continuous).

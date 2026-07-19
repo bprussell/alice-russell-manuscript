@@ -39,9 +39,6 @@ other candidate marks were checked against the same color signature and
 correctly ruled back out as ordinary typewriter ink, so not everything
 struck-through is pencil.
 
-- **page 36** — a mark after "let" ("and let[mark] him up to see it") is
-  blue-pencil; best guess is a correction of "let" to "led," but needs the
-  physical page to confirm the intended word.
 - **page 41** — a blue-pencil mark obscures a letter in "the opposite
   se[x]"; needs the physical page to recover the letter.
 - **page 44** — a blue-pencil mark obscures a letter in "livery"; needs
