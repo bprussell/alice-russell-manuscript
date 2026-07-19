@@ -39,9 +39,6 @@ other candidate marks were checked against the same color signature and
 correctly ruled back out as ordinary typewriter ink, so not everything
 struck-through is pencil.
 
-- **page 59** — two blue-pencil marks after "fun" ("heaps of fun." and
-  "the most fun I've had") have no legible character underneath; also a
-  very faint fleck near "started right. / You" too faint to classify.
 - **page 60** — two unresolved marks: a character between "seen" and
   "the," and a superscript-plus-caret mark near "and as usual" that may be
   a proofreading insertion mark rather than a strikeover.

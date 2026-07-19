@@ -5,8 +5,8 @@ book: 1
 image: pages/originals/page-059.jpg
 has_pencil: true
 has_table: false
-illegible_spots: 2
-needs_review: true
+illegible_spots: 0
+needs_review: false
 ---
 
                                                                     57
@@ -34,14 +34,14 @@ when⟦strikeover: final letter overtyped⟧ for the cows", said Parepa.  "I lik
      "Oh, 'My County 'Tis of Thee⟦strikeover: letter overtyped within word⟧', 'Almost Persuaded', Star Spangled
 Banner', and I used to like to sing best of all 'In the Green Pastures
 and by the Still Waters'."
-     "All right that will be heaps of fun⟦illegible⟧⟦pencil-delete⟧.  You just imagine you are
+     "All right that will be heaps of fune⟦pencil-delete⟧.  You just imagine you are
 down in the field now."
      "And bare-footed⟦strikeover: letter overtyped within word⟧," laughted the young girl.  "I use to sing "Pull
 for the Shore' when I waded through the creeks.  The last one I learned
 was 'Just One Girl'".
      Aunt Kate took her place at the piano and they sang one song after
 another until both their throats were tired.
-     "That's the most fun⟦illegible⟧⟦pencil-delete⟧ I've had in a long time," said Aunt Kate.
+     "That's the most fune⟦pencil-delete⟧ I've had in a long time," said Aunt Kate.
 "Wish Uncle George could have heard us.  Parepa, do you know you are
 going to be a great singer someday?"
 
@@ -78,10 +78,9 @@ going to be a great singer someday?"
   set to true, illegible_spots set to 2. needs_review left true pending
   physical-page confirmation of the exact medium, consistent with how the
   page 9 precedent was handled.
-- Also noticed a tiny, very faint low-contrast fleck between "started
-  right." and "You" (paragraph beginning "That was kind of him..."); too
-  faint and small to be legible as a character and its color measurement did
-  not clearly read as blue pencil (if anything it was less saturated than
-  the surrounding black type). Left untranscribed as noise/incidental mark
-  rather than forced into a marker, but flagging here in case a physical-page
-  check reveals it to be something more.
+- Resolved: 2026-07-08 — physical-page review confirms both blue-pen
+  marks strike a stray trailing "e": typed "fune" corrected to "fun" in
+  both "heaps of fun." and "the most fun I've had" (the same "fune" slip
+  she made and typewriter-struck on page 36). The faint fleck between
+  "started right." and "You" is just a smudge — no character, nothing to
+  transcribe. Text updated, needs_review cleared.
