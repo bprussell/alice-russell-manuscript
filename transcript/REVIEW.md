@@ -39,8 +39,6 @@ other candidate marks were checked against the same color signature and
 correctly ruled back out as ordinary typewriter ink, so not everything
 struck-through is pencil.
 
-- **page 41** — a blue-pencil mark obscures a letter in "the opposite
-  se[x]"; needs the physical page to recover the letter.
 - **page 44** — a blue-pencil mark obscures a letter in "livery"; needs
   the physical page to confirm.
 - **page 45** — two overtyped marks, in "prett[j]er" and a second

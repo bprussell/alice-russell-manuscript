@@ -5,8 +5,8 @@ book: 1
 image: pages/originals/page-041.jpg
 has_pencil: true
 has_table: false
-illegible_spots: 1
-needs_review: true
+illegible_spots: 0
+needs_review: false
 ---
 
                                                                     39
@@ -22,7 +22,7 @@ girls and boys.  She told her of some of the pit falls she must watch
 for.
      Aunt Kate realized better than this young girl ever would that her
 modest charms, physical and intellectual, made a peculiar appeal to
-the opposite se⟦illegible⟧⟦pencil-delete⟧ as well as being the envy of her own gender.
+the opposite set⟦pencil: sex⟧ as well as being the envy of her own gender.
      Since her stay with them Aunt Kate was often surprized and pleased at
 the super-intelligence unfolding in her.  She knew from the quick and
 precise way she mastered her music lessons there was no doubt that any
@@ -52,18 +52,15 @@ fell directly upon Uncle George.
   break without a hyphen, the sentence beginning "Said Aunt Kate giving..."
   after the closing quote, and the space before the closing quote in
   "for anything. "" are all as typed.
-- The mark after "se" (in "the opposite se[x]") was originally classified in
-  Phase 1 as a typewriter strikeover ("x" overtyped on another letter).
-  Close inspection (including pixel-color sampling against the surrounding
-  typed "s"/"e", which are neutral gray-black) shows this mark is distinctly
-  blue-tinted, matching the blue-pencil pattern found elsewhere in the
-  manuscript (pages 9, 16, 20, 210) rather than black typewriter ink.
-  Reclassified as a pencil deletion over an illegible typed character;
-  has_pencil set to true and illegible_spots set to 1. The underlying typed
-  letter cannot be made out beneath the pencil mark, so needs_review is left
-  true pending a physical-page check to confirm the ink color and, if
-  possible, recover the obscured letter.
+- "the opposite set⟦pencil: sex⟧": she typed "set" (a mistype of "sex")
+  and corrected the final letter by hand to give "the opposite sex". The
+  correction appears to be pen — possibly black rather than the blue seen
+  elsewhere; the exact instrument is immaterial and the ⟦pencil⟧ marker is
+  used per convention for all hand corrections.
 - Verified: 2026-07-06 — reclassified the "sex" strikeover mark as a blue
   pencil deletion over an illegible character (see note above); all other
   text, line breaks, and spacing confirmed accurate against the photo, no
   other changes needed.
+- Resolved: 2026-07-08 — physical-page review confirms the typed word is
+  "set", hand-corrected to "sex" ("the opposite sex"). Text updated,
+  needs_review cleared.
