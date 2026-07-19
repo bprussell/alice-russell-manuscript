@@ -6,7 +6,7 @@ image: pages/originals/page-074.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     72
@@ -25,12 +25,9 @@ luck to find Uncle Tom there.  Ha!  Ha!"
 
 - Typed page number "72" at top right.
 - PENCIL CORRECTION: in "they would all go the the Opera." the first typed
-  "the" is struck out (typewriter overstrike) and "to" is written above it
-  in pencil cursive, giving the corrected reading "go to the Opera." The
-  struck word is completely blacked out by the overstrike (solid ink patch,
-  no letter shapes visible) — "the" is a contextual best guess (matches the
-  width of the blot and the plausible typo "the"/"to"), not a confirmed
-  reading — verify against the physical page.
+  "the" is struck out and "to" is written above it in pencil cursive,
+  giving the corrected reading "go to the Opera." The struck word was
+  confirmed as "the" against the physical page (2026-07-08).
 - The closing speech is odd as typed: it opens with a quotation mark but is
   reported speech ("He hoped it wouldn't be his luck to find Uncle Tom
   there.  Ha!  Ha!") — as typed.
@@ -44,3 +41,6 @@ luck to find Uncle Tom there.  Ha!  Ha!"
   Rest of page (short, three sentences) confirmed accurate against the
   photo. needs_review left true — the struck word's exact identity remains
   an unconfirmed contextual guess.
+- Resolved: 2026-07-08 — physical-page review confirms the struck word is
+  "the" ("go the the Opera" corrected in pencil to "go to the Opera").
+  needs_review cleared.

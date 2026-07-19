@@ -39,15 +39,6 @@ other candidate marks were checked against the same color signature and
 correctly ruled back out as ordinary typewriter ink, so not everything
 struck-through is pencil.
 
-- **page 60** — two unresolved marks: a character between "seen" and
-  "the," and a superscript-plus-caret mark near "and as usual" that may be
-  a proofreading insertion mark rather than a strikeover.
-- **page 65** — a brownish blob on "as" ("coated arms as they coasted")
-  was judged an ink artifact from the photo alone; worth a physical
-  backstop check since photo color casts can mislead.
-- **page 66** — a stray typed character after "Submitted by:" was read as
-  a doubled-struck "2" from a heavily zoomed, blurry crop; worth
-  confirming on the physical page.
 
 Added from batch 4 (pages 70–99, verified 2026-07-06). Four more confirmed
 blue-pencil instances this batch (pages 71, 79, 80, 99), bringing the
@@ -59,19 +50,6 @@ nearly-closed blob indistinguishable from "o," so the shape alone wasn't
 good evidence — "take" was restored. Noting this as a reminder that
 verification passes can introduce errors, not just catch them.
 
-- **page 71** — a blue-pencil deletion mark after "her" obscures a
-  character (possibly the "s" of "hers"); needs the physical page to
-  recover the letter.
-- **page 74** — a fully blacked-out struck word before "⟦pencil: to⟧ the
-  Opera" has no recoverable letterform; "the" is only a contextual guess.
-- **page 76** — a faint "f" in "Pro essor" and a cut-off "s" in
-  "possibilitie[s]" are both edge-cropped in the photo and unreadable;
-  may resolve with a fresh photo that isn't cropped this tight.
-- **page 97** — the typed page number is obscured by a folded page
-  corner; inferred as "95" but needs physical confirmation.
-- **page 98** — a struck word before "arm in arm" reads slightly cooler
-  in tone than plain ink but not conclusively blue; genuinely borderline
-  between typewriter strikeover and pencil.
 
 Added from batch 5 (pages 101–132, verified 2026-07-06). This batch's most
 notable finding wasn't a pencil mark: a systematic quote-mark pattern

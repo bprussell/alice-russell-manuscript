@@ -6,10 +6,10 @@ image: pages/originals/page-097.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
-                                                                   ⟦unclear: 95⟧
+                                                                   95
 Submitted by:
 Mrs Alice Reynolds Russell
 Mt. Hawley Road
@@ -46,9 +46,11 @@ he would throw her in.
 
 ## Transcriber notes
 
-- The typed page number at top right is very faint and partly cut off by
-  the photo edge; it reads as "95", which fits the sequence (typed numbers
-  run two behind physical). Verify against the physical page.
+- The typed page number at top right is cut off on the physical page
+  itself (folded/creased corner — confirmed 2026-07-08, not just a photo
+  artifact). Recorded as "95" by inference: the typed numbering runs two
+  behind the physical count throughout this stretch, and the flanking
+  sheets (physical 96 and 98) are typed "94" and "96".
 - Page begins mid-sentence, continuing page 96's "I love / children and
   its so good..." — pages consecutive.
 - "its" (for "it's"), "use to" (for "used to"), "Wasn't that funny," (comma
@@ -66,3 +68,6 @@ he would throw her in.
   ⟦unclear: a⟧ guess inferred from context ("cared for"). All other text,
   line breaks, and punctuation (including the typewriter-style "twins!")
   confirmed accurate against the photo; no changes made.
+- Resolved: 2026-07-08 — physical-page review confirms the number is cut
+  off on the sheet itself; "95" stands as the sequence-inferred reading
+  (unambiguous given the flanking typed numbers). needs_review cleared.

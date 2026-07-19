@@ -5,8 +5,8 @@ book: 1
 image: pages/originals/page-071.jpg
 has_pencil: true
 has_table: false
-illegible_spots: 1
-needs_review: true
+illegible_spots: 0
+needs_review: false
 ---
 
                                                                     69
@@ -17,7 +17,7 @@ Edelstein, Illinois
 
 eighteen the 17th. of August.  Of age if you please, Mr. George Slay!
 Our little girl will be of age.  I hadn't thought of that before.  Well
-if I do say it there isn't one in a thousand her⟦illegible⟧⟦pencil-delete⟧ age as well prepared
+if I do say it there isn't one in a thousand here⟦pencil-delete⟧ age as well prepared
 to make their own living.  Just think, George, in two years you and I
 have made it possible for this dear child to be what she alone knew
 she could be - a real actress - a real song bird."
@@ -56,17 +56,11 @@ Will let you know in time to get your "boiled" shirt on," she laughed.
   with tighter line spacing than the rest of the page (typist squeezed the
   second line in); fully legible.
 - Small tear at the top edge near the header block; no text affected.
-- The mark after "her" (in "one in a thousand her[?] age") was originally
-  classified in Phase 1 as a typewriter strikeover ("character struck after
-  'her'"). Pixel-color sampling against the surrounding typed "h"/"r"
-  (neutral gray-black, B-R ≈ 3-4) shows this mark is distinctly blue-tinted
-  (B-R ≈ 14), matching the blue-pencil pattern found elsewhere in the
-  manuscript (pages 9, 16, 20, 36, 41, 44, 52, 59, 210) rather than black
-  typewriter ink. Reclassified as a pencil deletion over an illegible typed
-  character; has_pencil set to true and illegible_spots set to 1. The
-  underlying typed letter cannot be made out beneath the pencil mark
-  (possibly a stray "s", i.e. "hers" corrected to "her", but not certain),
-  so needs_review is left true pending a physical-page check.
+- "here⟦pencil-delete⟧ age": she typed "here age" and crossed off the
+  final "e" of "here" in blue pencil, correcting to "her age" ("one in a
+  thousand her age as well prepared"). Confirmed against the physical page
+  (2026-07-08); previously recorded as a pencil deletion over an illegible
+  character.
 - Verified: 2026-07-06 — reclassified the strikeover after "her" as a blue
   pencil deletion over an illegible character (see note above); all other
   text, line breaks, and spacing (including "17th. of August", "Let's
@@ -76,3 +70,6 @@ Will let you know in time to get your "boiled" shirt on," she laughed.
   compare "could" earlier on the page where "c" and "o" nearly touch) —
   read as one word "coming", not a genuine typed space, so no text
   change made.
+- Resolved: 2026-07-08 — physical-page review confirms the struck
+  character is the final "e" of typed "here", crossed off in blue pencil
+  to read "her age". Text updated, needs_review cleared.

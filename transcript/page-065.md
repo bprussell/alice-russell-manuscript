@@ -25,7 +25,7 @@ development of the normal happy girl.
 These Parepa-Roza enjoyed to the limit.  Often some courageous young
 gallant would grab her mittened hand and careen with her over the slick
 cold ice.  Just as often some love-sick swain encircled her heavily
-coated waist with his heavily coated arms as⟦strikeover: letter overtyped in "as"⟧ they coasted down the
+coated waist with his heavily coated arms as they coasted down the
 long long hills on their big sleds.  It was a long and jolly ride from
 the top of Spring Street Hill to the Monroe Street car tracks.  Some-⟦hyphen⟧
 times they risked the more curved more exciting decent of old Seventh
@@ -56,3 +56,7 @@ lessons at old Central Park on 'Ladies day".  Aunt Kate made her suit
 - Page ends mid-sentence ("Aunt Kate made her suit").
 - No pencil marks found on this page.
 - Verified: 2026-07-06 — transcript confirmed accurate against photo, no changes needed. Checked the two strikeover marks closely (in "arms as⟦strikeover⟧ they" and "freeze⟦strikeover⟧"): both are black/brownish ink consistent with typewriter over-strike, not blue pencil, so no reclassification needed.
+- Resolved: 2026-07-08 — physical-page review confirms the brownish blob
+  on "as" is a stray ink artifact, not an overtyped letter; the strikeover
+  marker there has been removed ("as" is plain typed text). The "freeze"
+  strikeover stands as recorded.

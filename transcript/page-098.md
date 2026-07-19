@@ -6,7 +6,7 @@ image: pages/originals/page-098.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                    96
@@ -17,7 +17,7 @@ Edelstein, Illinois
 
      "Let's go home and be good," cried Parepa.  "Uncle George will
 be walking the streets for us."
-     They walked home silently ⟦strikeover: ⟦unclear: and⟧⟧ arm in arm so happy each with the
+     They walked home silently and⟦strikeover: x-ed out⟧ arm in arm so happy each with the
 other that when the parting time came they vowed again their love
 and promise.
      "Your are all mine," said Frances.
@@ -30,9 +30,9 @@ and promise.
 - Short page: text ends about a quarter of the way down the sheet — this is
   the end of Chapter XX (page 99 should be checked for the next chapter
   heading).
-- In "walked home silently ... arm in arm", a short word (probably "and")
-  is heavily x-ed out by the typewriter before "arm in arm"; the struck
-  word is not fully legible, hence needs_review.
+- In "walked home silently and arm in arm", the "and" is x-ed out before
+  "arm in arm", correcting to "walked home silently arm in arm" —
+  confirmed against the physical page (2026-07-08).
 - "Your are all mine" (for "You are"), the capital "Y" in "And You are all
   mine", and the punctuation-outside-quotes in "mine", said" and "Good
   night". are all as typed.
@@ -56,3 +56,6 @@ and promise.
   candidate for a physical-page check of ink color under raking light.
   All other text and punctuation on this short page confirmed accurate
   against the photo; no text changes made.
+- Resolved: 2026-07-08 — physical-page review confirms the struck word is
+  "and" ("silently and arm in arm", the "and" crossed off). Text updated,
+  needs_review cleared.

@@ -10,7 +10,7 @@ needs_review: false
 ---
 
                                                                     64
-Submitted by:2
+Submitted by:2⟦strikeover: struck through⟧
 Mrs Alice Reynolds Russell
 Mt. Hawley Road
 Edelstein, Illinois
@@ -48,10 +48,9 @@ wise Aunt Kate.  How kind she was, how stimulating, how interested in
 
 - Typed page number "64" at top right, partially cropped at the photo edge
   but legible.
-- A stray character is typed immediately after the colon of "Submitted by:".
-  Close zoom inspection confirms it is black typewriter ink (not pencil) and
-  its shape (rounded top, heavy flat base) is consistent with a numeral "2"
-  struck with extra/double impact; transcribed literally as "2".
+- A stray "2" is typed immediately after the colon of "Submitted by:" and
+  is struck through — confirmed against the physical page (2026-07-08).
+  Recorded as "2⟦strikeover: struck through⟧".
 - Continues directly from page 65 ("Aunt Kate made her suit / of blue
   serge.").
 - "thnn" (for "than"), "intimaties" (for "intimacies"), "Some times" (two

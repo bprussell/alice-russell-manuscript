@@ -3,10 +3,10 @@ page: 60
 typed_page: 58
 book: 1
 image: pages/originals/page-060.jpg
-has_pencil: false
+has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     58
@@ -23,7 +23,7 @@ know you could do anything like that."
 Inventor's Wife","The Stolen Watermelon", and then to Aunt Kates sur-⟦hyphen⟧
 prize she gave a most wonderful presentation of "Flying Jim's Last Leap".
 This dramatic reading brought tears to Aunt Kates eyes.  The hungry
-begger seen⟦strikeover: character struck between "seen" and "the"⟧ the fight betwenn Little Flossie's father and the tramp, the
+begger seen⟦pencil: faint comma-like stroke, likely a hand-added comma⟧ the fight betwe⟦strikeover: mistyped "n" retyped over as "e"⟧n Little Flossie's father and the tramp, the
 Fire, The saving of "Little Flossie's life by "Flying Jim", the tramp
 and the death scene of flying Jim as Flossie's father begged his forgive-⟦hyphen⟧
 ness was portraited so clearly by this beautiful young girl that Aunt
@@ -47,16 +47,30 @@ troduced to the others, she and he discussed Parepa's possibilities.
 ## Transcriber notes
 
 - Typed page number "58" at top right.
-- "begger" (for "beggar"), "betwenn" (for "between"), "portraited" (for
-  "portrayed"), "surprize", "Aunt Kates" (no apostrophe, twice), and the
-  comma after "elocutionist," followed by two spaces are all as typed.
+- "begger" (for "beggar"), "portraited" (for "portrayed"), "surprize",
+  "Aunt Kates" (no apostrophe, twice), and the comma after "elocutionist,"
+  followed by two spaces are all as typed.
+- "seen" in "The hungry begger seen the fight..." is typed exactly so, but
+  contextually it is her phonetic spelling of "scene": the sentence is a
+  list of the scenes portrayed ("The hungry begger seen, the fight
+  betwenn..., the Fire, The saving..., the tramp and the death scene of
+  flying Jim...") whose collective subject takes "was portraited so
+  clearly" — read as the verb "saw", the sentence has no subject for "was
+  portraited". She spells "scene" correctly later in the same sentence.
+  The faint mark after "seen" (a gray, hand-drawn comma-like curl, lighter
+  than the type) is most plausibly a lightly added comma separating the
+  first two list items; recorded as an uncertain pencil mark.
+- "betwe⟦strikeover⟧n" ("between"): the sixth letter is a typewriter
+  overtype — she struck "e" over a mistyped "n", correcting to "between"
+  (previously read as "betwenn").
 - Quotation marks erratic as typed: "The saving of "Little Flossie's life
   by "Flying Jim"" opens quotes without closing them; "flying Jim" appears
   once lowercase.
-- A small mark sits above the "a" of "and as usual" (line 3 from the bottom
-  of the main block); it appears to be a typed correction/strikeover rather
-  than pencil, but it is faint — flagged for verification against the
-  physical page.
+- The small ghost marks above/below the "a" of "and as usual" (line 3 from
+  the bottom of the main block) are a typewriter carriage/platen slip — a
+  faint partial ghost strike at the line return, not a correction or
+  proofreading mark. Confirmed against the physical page; nothing to
+  transcribe.
 - Page ends mid-sentence ("...if you could come with").
 - Verified: 2026-07-06 — checked both flagged marks on this page (the
   character struck between "seen" and "the", and the mark above/below "and"
@@ -78,3 +92,11 @@ troduced to the others, she and he discussed Parepa's possibilities.
   is unclear what would have been inserted or corrected. No change made to
   the transcribed text or has_pencil pending a physical-page check; both
   marks remain flagged and needs_review stays true.
+- Resolved: 2026-07-08 — physical-page review plus a fresh high-zoom scan:
+  (1) the word before the mark is definitely typed "seen" (phonetic
+  "scene" in context — see note above); (2) the mark after it is a faint
+  hand-drawn comma-like stroke, recorded as an uncertain pencil comma;
+  (3) "betwenn" corrected to "betwe⟦strikeover⟧n" — an "e" overtyped on a
+  mistyped "n", reading "between"; (4) the "and as usual" ghost marks are
+  a typewriter carriage slip, not proofreading marks. needs_review
+  cleared, has_pencil set true for the comma stroke.
