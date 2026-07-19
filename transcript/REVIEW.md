@@ -39,8 +39,6 @@ other candidate marks were checked against the same color signature and
 correctly ruled back out as ordinary typewriter ink, so not everything
 struck-through is pencil.
 
-- **page 45** — two overtyped marks, in "prett[j]er" and a second
-  "cl[d]p" (in "Clap, cl_p, clap"), remain unreadable at any zoom.
 - **page 58** — an overtype in "brok[??]en up" has no recoverable
   letterform, and a gap in "im[?]ediately" is faint; context strongly
   suggests "broken" but the mark itself is unconfirmed.
