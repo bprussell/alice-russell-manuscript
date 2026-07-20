@@ -26,7 +26,7 @@ Many times Parepa-Roza would watch until the old "rig" drawn by two old gray hor
 
 One day it was to climb high up a tall maple tree and out on a slender limb that would swing and dip and sway in the breeze. She imagined herself a bird, maybe an eagle, or maybe an oriole. Any way she was *always* something that she wasn't. "Oh, if I were only a boy. God made a great mistake," she would say. Another time it was the big swing made of hay rope that hung from the tops of two maples. If one dared try they could swing so high they could see clear over the "big hill". "One" did try real often when the folks had gone to town. Though the rule was no one was to swing past the fence.
 
-Then that old trunk in the attic that Dad had before he was married. What a store of things there was in that to be investigated. Parepa knew some of them: the hard-tack like Papa had to eat when in the Civil War, one of Grandma's dresses with fringe on it, an old bracelet, some red and silver glass vases, Mamma's school children had given her, and Oh, Papa's and Mamma's love letters, and so many things that she had seen but never really *felt* with her own hands. She knew the key was kept in the old Seth Thomas Clock which stood on the shelf in the dining room, where no one was supposed to even look for anything.
+Then that old trunk in the attic that Dad had before he was married. What a store of things there was in that to be investigated. Parepa knew some of them: the hard-tack like Papa had to eat when in the Civil War, one of Grandma's dresses with fringe on it, an old bracelet, some red and silver glass vases Mamma's school children had given her, and Oh, Papa's and Mamma's love letters, and so many things that she had seen but never really *felt* with her own hands. She knew the key was kept in the old Seth Thomas Clock which stood on the shelf in the dining room, where no one was supposed to even look for anything.
 
 She never took anyone into her confidence. Always choosing to be alone she was exceptionally fortunate in not being caught for she planned well and took no risks.
 
@@ -34,7 +34,7 @@ She had few real chums at school for she held strictly to the rule of "Friendly 
 
 It was not always mischief that was on this child's mind. Often questions arose that were almost incredible for such a young mind. She invariably chose to figure the answers out for herself.
 
-She was a very attentive church goer, never missing a meeting 'though she with the other five Wesleys usually had to walk a mile each way unless some kind neighbor offered them a ride in their surry, as was often the case.
+She was a very attentive church goer, never missing a meeting 'though she with the other five Wesleys usually had to walk a mile each way unless some kind neighbor offered them a ride in their surrey, as was often the case.
 
 They liked to question this young girl for when she answered, as one neighbor said of her, "she always says something."
 

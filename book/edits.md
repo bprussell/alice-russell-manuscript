@@ -47,6 +47,10 @@ logged here as Phase 3 proceeds; global decisions are recorded up front.
 - **"convenience/convenienced" for "convince(d)" is KEPT as voice:** it
   occurs three times across the manuscript (pp24, 26, 79), consistently —
   the author's settled word, not a one-off slip.
+- **"surry/surries" → "surrey/surreys" (decided 2026-07-09, reviewer):**
+  initially kept as an era variant, but "surrey" is the correct spelling
+  of the carriage; corrected wherever it appears (pp37-area of ch. I,
+  p18 twice).
 
 ## Global typography (applied throughout, not logged per instance)
 
@@ -91,11 +95,15 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
   finger-slip for "judge"; confirmed — the sentence parses as "I should
   judge [that] your girl and our Ruth are about the same age")
 
-Kept as voice (sample): "'till", "'cross", "surry", "pippin'", "most
+Kept as voice (sample): "'till", "'cross", "pippin'", "most
 anything", "use to say", "hard-tack", "over night", "Mrs" without period,
 "there was several years". (Comma-outside-quote punctuation was initially
 kept, then normalized to inside-quotes when that became the global
 typography rule — 12 instances updated.)
+- p4 "surry" → "surrey" (reviewer decision, see global note)
+- p3 comma removed in "glass vases, Mamma's school children had given
+  her" → "glass vases Mamma's school children had given her" (reduced
+  relative clause; reviewer catch)
 
 ### Book I, Chapter II (pages 8-21)
 

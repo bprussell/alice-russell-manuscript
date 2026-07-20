@@ -136,7 +136,7 @@ I wonder what he's talking about, "open stock pattern" thought Parepa as Aunt Ka
 
 "I'll get you one tomorrow to replace it," he said, "so your set won't be broken."
 
-"I wonder why the whole set will break just because one did," she pondered as she put the last one carefully on the table. Maybe I'll learn if I stay here long enough. They went out to sit on the porch now and Parepa liked to hear the sound of the horses' feet clap, clap on the pavement and see all the fine ladies and girls sit primly in their surries with their nicely ruffled and lace trimmed dresses arranged "just so." The fringe trimming around the edge of the surry tops took her eye, too. It was all so pretty, this parade of fine horses and carriages in the twilight. She wished the folks could see it.
+"I wonder why the whole set will break just because one did," she pondered as she put the last one carefully on the table. Maybe I'll learn if I stay here long enough. They went out to sit on the porch now and Parepa liked to hear the sound of the horses' feet clap, clap on the pavement and see all the fine ladies and girls sit primly in their surreys with their nicely ruffled and lace trimmed dresses arranged "just so." The fringe trimming around the edge of the surrey tops took her eye, too. It was all so pretty, this parade of fine horses and carriages in the twilight. She wished the folks could see it.
 
 "Penny for your thoughts," said Frances as he gave her a poke in the back. "Wake up and talk to the people."
 
