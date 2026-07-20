@@ -60,6 +60,16 @@ underlines → italics; " - "/" -- " parenthetical dashes → em dashes;
 speech-end dash flourishes → em dash; per-page headers, page numbers and
 "Submitted by:" blocks dropped.
 
+## Open REVIEW flags (for the family to rule on)
+
+- **Ch VI, p34:** "eyed her appreciativeness" kept as typed; the sentence
+  likely intends "appreciatively" — rule whether to emend.
+- **Ch VI, p40:** "pertinently" kept as typed; possibly a slip for
+  "impertinently" — rule whether to emend.
+- **Ch X, p60 / Ch XII:** "portraited" kept as typed (possible authorial
+  coinage, but a one-off unlike the three-time "convenienced") — rule
+  whether the reading text should use "portrayed".
+
 ## Per-chapter corrections
 
 ### Book I, Chapter I (pages 1-7)
@@ -207,3 +217,73 @@ they" (for "rapt"), "alright", "straight way", "boy friend", "Hanged if",
 and "the City". (These chapters were drafted under the older
 outside-quote punctuation convention and normalized to the inside-quotes
 global rule — 32 instances updated.)
+
+### Book I, Chapter VI (pages 33-43)
+
+- p33 "August 28th., 1898" → "August 28th, 1898"; p39 "the 25th. of
+  September" → "the 25th of September" (stray ordinal periods)
+- p33 "Prepa-Roza" → "Parepa-Roza"
+- p33 nested song/nickname quotes repaired ('candy kid'); missing closing
+  quote added
+- p33 "unmistakebly" → "unmistakably"
+- p34 "a litte, girls" → "a little, girls"; "out noses" → "our noses"
+- p34 missing closing quote after "her turn beginning at one." added
+- p35 "now matter" → "no matter"; "thanks you" → "thank you"; "neice" →
+  "niece"
+- p36 pencil applied: "let him up" → "led him up"; struck "fune" → "fun"
+- p36 "grabed" → "grabbed" (p40 "grabing" → "grabbing")
+- p36 "How Did you ever" → "How did you ever" (shift-slip; emphasis "That"
+  kept)
+- p38 "chuckled her under the chin" → "chucked her under the chin"
+  (chin-chuck idiom)
+- p39 stray margin quote dropped; "skiping" → "skipping"; "spoke up them"
+  → "spoke up then"; comma-as-period repaired ("yet. We sail")
+- p41 pencil applied: "the opposite set" → "the opposite sex"
+- p42 READING LAYER: "threw herself", "That's my good Uncle"; "a you g
+  man" → "a young man"; pencil insert "the cheapest" applied
+- p43 struck extra "d": "straightended" → "straightened"
+
+Kept as voice (sample): "employes", "in's and out's", "pertinently" (see
+REVIEW flags), "eyed her appreciativeness" (see REVIEW flags), "He's
+pretty much sophisticated", "Nightie night", "Gee Whiz!", era two-word
+forms, "Alright"/"All right" variation.
+
+### Book I, Chapter X (pages 59-63)
+
+- p59 blue-pen deletions applied: "fune" → "fun" (twice)
+- p59 "when I when for the cows" → "went for the cows"
+- p59 "quized" → "quizzed"; "laughted" → "laughed"
+- p59 "My County 'Tis of Thee" → "My Country 'Tis of Thee"; song-title
+  quote marks repaired
+- p60 READING LAYER applied: "The hungry beggar scene, the fight
+  between..."; faint pencil stroke dropped
+- p60 "Aunt Kates" → "Aunt Kate's" (twice); "flying Jim" → "Flying Jim"
+- p60-61 quote repairs (stray/missing opening and closing quotes; one
+  split speech merged per transcriber note)
+- p61 "where by" → "whereby"; "giess" → "guess"
+- p62 "a ten minutes walk" → "a ten minutes' walk"; "I'd like to much" →
+  "too much"; "dail schedule" → "daily schedule"; question mark added
+  ("buy my clothes on that?")
+- p62-63 daily-schedule table rendered as two Markdown tables, values
+  verbatim
+- p63 "from on duty" → "from one duty"; "acqua inted" → "acquainted"
+
+### Book I, Chapter XI (page 64)
+
+- p64 "amoung" → "among"
+- p64 "Young Peoples meeting" → "Young People's meeting"
+- p64 "long and living talk" → "long and loving talk"
+
+### Book I, Chapter XII (pages 65-67)
+
+- p65 "Parep's" → "Parepa's"; "decent" → "descent"; "noticable" →
+  "noticeable"; "amoung" → "among" (twice)
+- p65 "'Ladies day"." → ""Ladies' day.""
+- p66 "thnn" → "than"; "intimaties" → "intimacies"; "Some times" →
+  "Sometimes"
+- p66/67 duplicated "in" across the page break removed
+
+Kept as voice (ch X-XII sample): "portraited" (see REVIEW flags), "I use
+to sing", "Mrs" without period, subjectless diary-style sentences ("Went
+to one party..."), "long long hills", "sitting next back of", "would lay
+awake", era two-word forms ("winter time", "row boats", "girl friend").
