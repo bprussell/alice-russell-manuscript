@@ -147,6 +147,15 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
   "suspected"; rule.
 - **Ch XXX, p161:** "—and for his sake" lowercased; the typed capital
   "And" could be authorial emphasis — rule.
+- **Book II Ch I, p169:** blue-pencil "s" makes typed "sometimes"; printed
+  "for some time" per Book I precedent, but "for sometimes" is the
+  letter-faithful reading — rule.
+- **Book II Ch I, p170:** "but did she—No, she dreaded it all" — rule
+  whether "did she?" was intended.
+- **Book II Ch II, p173:** "no false motions in this young man's head"
+  kept — likely "notions"; rule.
+- **Book II Ch I/II:** "buggie"→"buggy" and "scotch"→"Scotch" applied —
+  revert if letter-faithful forms preferred.
 
 ## Per-chapter corrections
 
@@ -736,3 +745,37 @@ Kept as voice (sample): "moon lit", "solitary" for solitaire, comma-less
 vocatives, emphasis capitals ("My Dreams are Over", "Darling, I'm a
 Girl"), fragments, "Each going their separate ways; for better or for
 worse."
+
+### Book II, Chapter I (pages 165-171)
+
+- p165 pencil applied: "dirty"; "a -born mamager" → "a born manager";
+  "commu ity" → "community"; narration single quotes doubled; quote
+  repairs
+- p166 paren typo fixed; "wans't" → "wasn't"; "Ehe" → "The"; author's
+  relocated "each" applied; missing spaces; "yelleed" → "yelled"; pencil
+  parentheses applied; "buggie" → "buggy" (see REVIEW flags)
+- p167 struck "said" removed; "fried" and pencil "k" ("milk") applied;
+  "all,this" → "all, this"
+- p168 "engagel" → "engaged"; "whilEher" → "while her"; blue-pencil "s"
+  applied ("convulsion"); "membef" → "member"; struck "been" removed;
+  question mark added
+- p169 "stiring" → "stirring"; "wipped" → "wiped"; "immerged" →
+  "emerged"; blue "s" + "for some time" (see REVIEW flags); question
+  mark added
+- p170 attribution comma; pencil "e" and pencil "!" applied
+- p171 "every'evening" → "every evening"; "years work" → "years' work";
+  "pupil's" → "pupils'"; "teachers Institute" → "teachers' Institute";
+  "amoung" → "among"
+
+### Book II, Chapter II (pages 172-173)
+
+- p172 author's strikes applied: "crazy venture", pencil "where", pencil
+  "Allie"; "surprized" → "surprised"; "a scotch family" → "a Scotch
+  family"; quote repair
+- p173 "doged" → "dogged"; pencil inserts applied ("Allie left for",
+  "propose"); "believedherself" → "believed herself"
+
+Kept as voice (sample): "remould", "tothood", "sociables", "they all
+come", "reined high", stutters, "milk man", diary-style fragments,
+"with the refusal of the two country schools", "Johnie" per global
+normalization.
