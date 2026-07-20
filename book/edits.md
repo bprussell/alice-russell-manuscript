@@ -168,6 +168,14 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
   confirm (plural "cousins" also reads).
 - **Book II Ch IV, p183:** quoted reported-narration question kept quoted
   as typed (same issue as Ch XIV p74) — rule.
+- **Book II Ch VI-IX, pp194/196:** the father is called "John" twice
+  ("It's a boy John"; "John was doing his best") — kept as typed; rule
+  whether "John" also normalizes to "Johnie".
+- **Book II Ch IX, p194:** blotted character resolved as "John" — confirm.
+- **Book II Ch VIII, p193:** "the old Parepa's love for beautiful" — rule
+  whether to supply "things".
+- **Book II Ch VI, p187:** "No extra flourishes no learned language no
+  specimen penmanship" comma-less list kept — rule whether to punctuate.
 
 ## Per-chapter corrections
 
@@ -834,3 +842,29 @@ Kept as voice (sample): era two-word forms, "Her heart and mind was too
 full", "His heart sink.", "cry take me! take! and keep me", "drug him
 from the house", drunken dialect ("Dish", "kish", "Yer glad I come"),
 "the 'ologies", "don't it, Johnie?", "'Twas"/"'twould".
+
+### Book II, Chapters VI-IX (pages 187-196)
+
+- p187 "I love hi ." → "I love him."; strikeovers resolved
+- p188 "forward too" → "forward to"; "overcome" → "overcame"; "soill" →
+  "so ill"; "side ways" → "sideways"; question mark and attribution
+  comma added
+- p189 "etc.." → "etc."; "my heard" → "my head"
+- p190 "I want her too." → "I want her to,"; "resperation" →
+  "respiration"
+- p191 "Sher" → "She"; "sere" → "were"; "The Doctor's were" → "The
+  Doctors were"
+- p192 "nearly everyday" → "nearly every day"; "him old self" → "his old
+  self"; "has been told" → "had been told"
+- p193 "weree" → "were"; "apportunity" → "opportunity"; "it's mother"/
+  "it's sex" → "its"; "carming" → "charming"; "amoung" → "among"
+- p194 "either ladened" → "ether ladened"; "Its a boy" → "It's a boy";
+  blotted "Joh_" → "John" (see REVIEW flags); "came too" → "came to";
+  "hiss" → "kiss" (resolved overstrike); "squirmming" → "squirming"
+- p195 "finechild" → "fine child"; "families' love" → "family's love"
+- p196 "Bredford" → "Bradford"; stray quote removed
+
+Kept as voice (sample): "No extra flourishes no learned language..."
+anaphora, "beckoning the harvester to gather them in", "died with
+cholera", "He's a girl, of course", "He sniffled considerable",
+"Regular hours was what he needed.", era two-word forms.
