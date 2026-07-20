@@ -60,8 +60,6 @@ instances corrected). This is a distinct failure mode from the word-level
 typo smoothing found earlier, and may be worth a dedicated sweep across
 the rest of the manuscript later.
 
-- **page 112** — an apostrophe-like mark in "subd'ued" could be a genuine
-  typing artifact or a stray speck; unresolved.
 - **page 123** — a mark after "locket" is comma-like but larger/more
   complex than an ordinary comma; no confident alternative reading found.
 - **page 126** — a soft ink blob obscures part of "executed" (between

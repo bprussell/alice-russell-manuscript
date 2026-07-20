@@ -6,7 +6,7 @@ image: pages/originals/page-112.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   110
@@ -38,7 +38,7 @@ from the  little pebbles he through into the water.  He said nothing
 for sometime.  He seemed deeply in thought.  Finally he turned saying,
 "I expect we better start home now.  I must see Daddy at eleven and
 then you know we are to have the afternoon in the park."
-     The trip home was made by a quieter, more subd'ued couple then had
+     The trip home was made by a quieter, more subdued couple then had
 passed that way earlier in the morning.  The sun was hot, the road sandy,
 and they felt dragged out and dirty from a mixture of perspiration and
 dust.  "You must take a few hours rest now, Parepa," he said bidding
@@ -53,8 +53,9 @@ her good bye.  "I'll call for you about four."
 - "aagerness" (for "eagerness"), "ad he put" (for "and"/"as"), "he through
   into the water" (for "threw"), "for sometime", "cunningest", "then had"
   (for "than had"), and "good bye" are all as typed.
-- "subd'ued": an apostrophe-like mark sits between "d" and "u"; transcribed
-  as typed but it may be a stray ink speck — verify against the page.
+- "subdued": the apostrophe-like mark between "d" and "u" is nothing — a
+  dent or speck in the paper, not a typed character (confirmed against
+  the physical page 2026-07-08). Transcribed as plain "subdued".
 - On "apart" (first line) the "a" carries a short dash above and a partial
   "n"-like impression below the baseline — appears to be typewriter slippage
   or an overtyped character, in ink, not pencil.
@@ -68,3 +69,6 @@ her good bye.  "I'll call for you about four."
   overtyped "t" confirmed), and "aagerness" — all match the current
   transcript. No changes to the transcript text; needs_review left true
   given the remaining ambiguous marks.
+- Resolved: 2026-07-08 — physical-page review confirms the mark in
+  "subd'ued" is a dent/speck in the paper, not a character; now
+  transcribed as plain "subdued". needs_review cleared.
