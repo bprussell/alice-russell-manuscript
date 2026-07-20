@@ -6,7 +6,7 @@ image: pages/originals/page-194.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     30
@@ -40,7 +40,7 @@ she came too a husky little red headed baby was laying by her side.
      "He's a girl, of course," she answered weakly smiling up at her
 husband.
 
-     "You are wrong, he's our boy," and he stooped to ⟦unclear: kiss⟧ his wife, the
+     "You are wrong, he's our boy," and he stooped to ⟦strikeover: mistyped "h" (from "hiss") retyped over as "k"⟧iss his wife, the
 wonderful mother of his wonderful son.  When she grew stronger a name
 was chosen - Robert Frances.
 
@@ -68,10 +68,9 @@ heart was won.
   apostrophe), "she came too" (for "to"), "baby was laying", "He's a girl,
   of course" (as typed — joke or typo), "Robert Frances" (for the usual
   masculine "Francis"), and "squirmming" are all as typed.
-- "to kiss his wife" — first letter of "kiss" is overstruck and reads like a
-  capital "M"/"K"; best guess "kiss". Still genuinely ambiguous under
-  magnification (two overlapping strokes) — left as unclear, needs_review
-  stays true pending a physical-page check.
+- "to kiss his wife" — she typed "hiss" and retyped the "h" as "k" on the
+  typewriter, correcting to "kiss". Confirmed against the physical page
+  (2026-07-08); the two overlapping strokes are the "h"/"k" overstrike.
 - Page ends mid-sentence ("watched him sleeping") — continues on next page.
 - No pencil marks found on this page. Checked the overstruck marks on
   "baby's" (strikeover of "y"), "babe" (strikeover before the period), and
@@ -84,3 +83,6 @@ heart was won.
   cute little bugger?") confirmed as typed double quotes against the photo,
   no single-quote normalization issues found. "kiss" overstrike remains
   ambiguous; needs_review left true for that one spot.
+- Resolved: 2026-07-08 — physical-page review confirms the overstrike is
+  "hiss" corrected to "kiss" (the "h" retyped as "k"). Text updated,
+  needs_review cleared.

@@ -80,9 +80,6 @@ was called an ordinary typewriter double-strike, but color-sampling
 elsewhere in this batch suggests it may actually be the same pencil
 correction — worth a second look when convenient, not urgent.
 
-- **page 194** — the first letter of "kiss" ("to kiss his wife") is
-  overstruck and ambiguous, though "kiss" is the only word that makes
-  sense in context.
 
 Added from batch 8 (pages 199–229, verified 2026-07-07). Two of Book II's
 photos turned out to still be upside down despite the Phase 0

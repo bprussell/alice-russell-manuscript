@@ -23,7 +23,7 @@ troduced to the main actor.
 
      Harold broke past the boy who was trying to persuade him to go
 to room and sober up before letting Parepa see him.  "She's my girl
-and I'll see her if I want too," he stammered in a voice not at all
+and I'll see her if I want too," he stammered in a voice not all all
 familiar to Parepa.
 
      Before she could turn to see him he fell over her chair with arms
@@ -62,8 +62,11 @@ the end of the term."
 - "to go / to room" (missing word), "if I want too", "Dish is my
   sweetheart" and "sweet kish" (drunken speech, as typed), "drug him"
   (for "dragged"), and "surprize" are all as typed.
-- "a voice not at all familiar" — the physical page reads "at all", not
-  the doubled "all all" recorded in Phase 1; corrected 2026-07-08.
+- "a voice not all all familiar" — typed exactly so (an authorial slip
+  for "not at all"); kept verbatim per the archival convention.
+- READING LAYER (Phase 3): render as "a voice not at all familiar to
+  Parepa" — unlike the intentional drunken-speech spellings on this page
+  ("Dish", "kish"), the doubled "all" is an unintentional typo.
 - "they are to be married at" is faintly inked at the right edge but
   correct as typed — confirmed against the physical page (2026-07-08).
 - Page ends mid-sentence ("but a regular") — continues on next page.
@@ -80,6 +83,6 @@ the end of the term."
   matching the same typist habit seen on page 181). No other changes
   needed.
 - Resolved: 2026-07-08 — physical-page review confirms "married at" (the
-  faint letters are simply weak strikes) and corrects a Phase 1 misread:
-  the page reads "a voice not at all familiar", not "not all all". Text
-  updated, needs_review cleared.
+  faint letters are simply weak strikes). "not all all" is confirmed as
+  typed — an authorial slip for "not at all", kept verbatim here and
+  corrected in the reading layer (see note above). needs_review cleared.
