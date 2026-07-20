@@ -80,6 +80,17 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
 - **Ch VII, p48:** "or maybe lured away by the glitter" kept as typed;
   possibly missing "be" ("or maybe be lured away") — rule.
 
+## Open REVIEW flags (continued)
+
+- **Ch XIV, p71:** "Let's having her sitting at the piano" kept as typed
+  — likely "Let's have her sitting"; rule whether to emend.
+- **Ch XIV, p73:** "so handsome and well poised young fellow" kept —
+  probably missing "a"; and "He's a full blooded all right" kept —
+  possibly missing a noun; rule on both.
+- **Ch XIV, p74:** chapter-ending reported speech ("He hoped it wouldn't
+  be his luck...") is quoted in the typescript though it is narration —
+  rule whether to unquote.
+
 ## Per-chapter corrections
 
 ### Book I, Chapter I (pages 1-7)
@@ -348,3 +359,32 @@ him", "must of cost", "he don't"/"she don't", "alright", "most" for
 almost, "'Round"/"'bout", "Their eyes met their lips met", "real
 generous", stuttered "K-K-Kate", era two-word forms ("dutch cheese",
 "rain coat", "spell bound", "good bye").
+
+### Book I, Chapter XIII (pages 68-69)
+
+- p68 "neice" → "niece"; "postmakr" → "postmark"; "surprized" →
+  "surprised" (and passim)
+- p68 "was witting to diverge" → "was willing to divulge" (per
+  transcriber note)
+- p68 "much-left unsaid" → "much left unsaid"; question mark added
+  ("send you?")
+- p68/69 nested quotes singled; quote repairs; stray mis-strike line
+  dropped
+- p69 "beauxshe" → "beaux she"; "coarse in music" → "course"; "No only"
+  → "Not only"; question mark added ("for entertainment?")
+
+### Book I, Chapter XIV (pages 70-74)
+
+- p70 "until that times comes" → "time comes"; "each others secrets" →
+  "each other's secrets"; nested quotes singled; interior-thought commas
+  added
+- p71 pencil applied: "here age" → "her age"; "17th." → "17th";
+  "tell,he" → "tell, he"; "Lochenvar" → "Lochinvar"
+- p72 "quized" → "quizzed"
+- p73 "FRAnces" → "Frances"; "off arms length" → "at arm's length";
+  "coily" → "coyly"; pencil "was" applied; quote repair
+- p74 pencil applied: "go the the Opera" → "go to the Opera"
+
+Kept as voice (sample): "keep sake drawer", "on her tongue end",
+"we'ens", "it don't seem possible", "Peppy", "sat to thinking",
+narrative tense shifts, unquoted interior monologues.
