@@ -6,7 +6,7 @@ image: pages/originals/page-161.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                               159
@@ -49,13 +49,10 @@ They remoulded you 'nearer to the hearts desire'."
 - Header typo on this sheet only: "Mt. Haweley Road" (extra "e"); every
   other page in this batch reads "Mt. Hawley Road". Confirmed by close
   zoom — not a scanning artifact.
-- "you are mind -" / "mine forever" (next line): the typed word is
-  "mind"; directly over it is a small, faint blue-gray pencil/ink mark
-  that does not resolve into a clearly legible letterform under
-  magnification. Given the next line's "mine forever," the intended
-  correction is almost certainly "mine," transcribed as
-  `mind⟦pencil: mine⟧`, but the mark itself should be checked against the
-  physical page — flagged needs_review for that reason.
+- "you are mind⟦pencil: mine⟧ -": the typed word is "mind"; the final "d"
+  is hand-corrected to an "e" (writing instrument uncertain — blue-gray
+  in the photo), giving "you are mine - mine forever". Confirmed against
+  the physical page (2026-07-08).
 - "schemem" (for "scheme") and "amoung"-style typist quirks elsewhere in
   this batch are typed as-is; not corrected.
 - The nested-quote construction `said "Bethany's Angel.` (opening quote
@@ -74,3 +71,6 @@ They remoulded you 'nearer to the hearts desire'."
   'nearer to the hearts desire' (matching the mid-paragraph quote-within-
   quote pattern) and all other dialogue quote marks against the photo; no
   other changes needed.
+- Resolved: 2026-07-08 — physical-page review confirms the "d" of typed
+  "mind" is hand-corrected to an "e", reading "you are mine". The "mine"
+  correction stands; needs_review cleared.
