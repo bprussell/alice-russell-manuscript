@@ -6,7 +6,7 @@ image: pages/originals/page-129.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   127
@@ -17,7 +17,7 @@ Edelstein, Illinois
 
 to do when I was a little girl,and peeling potatoes!  Ye Gods!  I've
 peeled potatoes enough in my young life to fill this lake.  And how the
-flies did bite my bare legs as I sat on the back porch ⟦unclear: podding⟧ peas.  I
+flies did bite my bare legs as I sat on the back porch podding peas.  I
 had lots of nice dreams though while I was doing these things.  I'd dream
 and dream about the beautiful house and gardens I'd have when I got married.
 I'd have gold fish too and a bird cage with little yellow birds in it.
@@ -52,8 +52,8 @@ as I had plenty to give with.
   typed where a closing one is expected), "them,in my dreams" (no space after
   comma), and the missing opening quotation mark before "And what" are all
   as typed.
-- "⟦unclear: podding⟧ peas" — the word is lightly struck; "podding" (i.e.
-  shelling) is the best reading.
+- "podding peas" — the second "d" struck thinly but is a "d"; confirmed
+  against the physical page (2026-07-08). "Podding" = shelling peas.
 - "giving giving giving" (three times, no commas) is as typed.
 - The first two text lines are single-spaced; the rest of the page is
   double-spaced.
@@ -71,3 +71,6 @@ as I had plenty to give with.
   the photo; page 131 confirms Frances is a male character in this scene
   ("he said sadly," "different from other boys"), so this is consistent
   characterization, not an error.
+- Resolved: 2026-07-08 — physical-page review confirms "podding peas";
+  the second "d" is simply a thin strike. Unclear marker removed,
+  needs_review cleared.

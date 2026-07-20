@@ -60,9 +60,6 @@ instances corrected). This is a distinct failure mode from the word-level
 typo smoothing found earlier, and may be worth a dedicated sweep across
 the rest of the manuscript later.
 
-- **page 129** — the letter after "pod" in "podding peas" has a thin
-  stroke more consistent with "l" than "d," but "podding" is the only
-  reading that makes sense in context; kept as transcribed.
 
 Added from batch 6 (pages 133–164, verified 2026-07-06/07). This batch
 completes verification of all of Book I. The quote-mark pattern from
