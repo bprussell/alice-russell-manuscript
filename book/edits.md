@@ -108,6 +108,15 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
   while", "wore a cycling suit") — confirm or revert to as-typed.
 - **Ch XXI, p112:** "ad he put" resolved as "as he put"; "and he put"
   equally possible — rule.
+- **Ch XXV, p134:** garbled clause repaired as "any farther than their
+  class interests threw them together" — best guess, confirm.
+- **Ch XXV, p136-137:** the Joseph—/Parepa— play-script dialogue is
+  rendered with speaker labels and em dashes — confirm presentation.
+- **Ch XXV, p137:** "success in life?" emended to a period — the "?"
+  could be kept as authorial; rule.
+- **Ch XXVI, p146:** chapter-ending two paragraphs treated as one
+  continuing Parepa speech (typescript omits the closing quote) —
+  confirm.
 
 ## Per-chapter corrections
 
@@ -555,3 +564,45 @@ Kept as voice (sample): "these last two year", "cateress", "From that
 on", "try as she may", "spoonin'", "te-he-he", "SIXTEEN" caps, "He was
 health, life, beauty, and to Someone; love personified", comma splices,
 era two-word forms.
+
+### Book I, Chapter XXV (pages 134-140)
+
+- p134 "on health" → "of health"; "to see the home" → "to sell the
+  home"; "The moved" → "They moved"; garbled clause repaired ("any
+  farther than their class interests threw them together", see REVIEW
+  flags); "each others" → "each other's"
+- p135 narration-level single quotes doubled; "Frances letters" →
+  "Frances's letters"
+- p136 "Parepa,!." → "Parepa!"; nested 'Pep' singled; question mark
+  added ("Haven't you seen?")
+- p137 "onto" → "unto" (scripture, twice); "heleft" → "he left"; stray
+  quote removed; "life?" → "life." (see REVIEW flags)
+- p138 "soloa" → "solo"; "sait" → "sat"; "shurbery" → "shrubbery";
+  "evesdrop" → "eavesdrop"; single-quote dialogue openers doubled (per
+  Phase 2 notes); attribution commas
+- p139 "saw hi  turn" → "saw him turn"; "youwould" → "you would";
+  question marks added; stray quote removed
+- p140 "carling" → "darling"; "they tenderest care" → "thy tenderest
+  care" (hymn); quote conventions applied
+
+### Book I, Chapter XXVI (pages 141-146)
+
+- p141 rhetorical question marks added (3); "Oh god!" → "Oh God!";
+  narration single quotes doubled; comma splice punctuated
+- p142/143 pencil edits applied: "five" → "four" women's faces (both
+  occurrences); first "great," removed; "The next one was his mother's
+  mother." sentence removed (author's deletion)
+- p142 "tinest" → "tiniest"; "twin tohis" → "twin to his"
+- p143 "insued" → "ensued"; "gli mer" → "glimmer"; "loveingly" →
+  "lovingly"; "placed the floor" → "paced the floor" (strikeover);
+  "had seem" → "had seen"
+- p144 READING LAYER applied: "that they,never see" → "that they never
+  see"
+- p145 "the world slipped out" → "the word slipped out"; "quite him old
+  self" → "quite his old self"
+
+Kept as voice (sample): "hankerin", "never-the-less", "Yer Aunt Kate",
+"he don't", "of he and I being separated", hymn-line capitals, unquoted
+interior monologues with present-tense shifts, "most noon", play-script
+Joseph—/Parepa— dialogue rendered with speaker labels (see REVIEW
+flags).
