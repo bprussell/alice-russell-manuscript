@@ -80,8 +80,6 @@ was called an ordinary typewriter double-strike, but color-sampling
 elsewhere in this batch suggests it may actually be the same pencil
 correction — worth a second look when convenient, not urgent.
 
-- **page 178** — a scribbled-out word between "avoiding" and
-  "explanations" is illegible.
 - **page 179** — the "Johnnie" pencil corrections are confirmed in
   spelling but their exact mechanism (pencil vs. typewriter) is less
   certain here than on 176–178 (denser, warmer mark).

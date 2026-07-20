@@ -5,8 +5,8 @@ book: 2
 image: pages/originals/page-178.jpg
 has_pencil: true
 has_table: false
-illegible_spots: 1
-needs_review: true
+illegible_spots: 0
+needs_review: false
 ---
 
                                                                     14
@@ -24,7 +24,7 @@ him at the train, would stay at the Hotel too,and the girls wouldn't
 have to know that she wasn't at her cousins all the time.
 
      She hurried her clothes into the suit case and left for down
-town before they came home to dinner.  Thus avoiding ⟦illegible⟧ explanations.
+town before they came home to dinner.  Thus avoiding an⟦pencil-delete⟧ explanations.
 When she arrived there she loitered in the stores, ate supper, and then
 met the trains until the one John⟦pencil-insert: n⟧ie was on arrived.
 
@@ -33,13 +33,11 @@ met the trains until the one John⟦pencil-insert: n⟧ie was on arrived.
 - Typed page number "14" at top right corner. Continues page 177
   mid-sentence ("...without any one being the / wiser.").
 - "fo visit them" (for "to visit them") is as typed — the "t" is missing.
-- "Thus avoiding ⟦illegible⟧ explanations.": a short word between
-  "avoiding" and "explanations" is obscured by a dense scribble.
-  Colour-sampled, the scribble is neutral gray (≈(89,90,90), R≈G≈B)
-  against this page's warm black typed ink baseline (≈(80,77,71),
-  R-B≈+9) — i.e. it is a pencil scribble, not a typewriter x-out as
-  previously recorded. Whatever word it covers cannot be read with
-  confidence, typed or otherwise.
+- "Thus avoiding an⟦pencil-delete⟧ explanations.": she typed "avoiding an
+  explanations" and scribbled out the "an" in pencil, correcting to
+  "Thus avoiding explanations." Confirmed against the physical page
+  (2026-07-08); the scribble was previously recorded as covering an
+  illegible word.
 - "John⟦pencil-insert: n⟧ie" (both occurrences: "with Johnie"/"the one
   Johnie") — the typed word is "Johnie" (single n); a narrow pencil stroke
   rising well above the letter height sits between the "n" and "i" both
@@ -60,3 +58,6 @@ met the trains until the one John⟦pencil-insert: n⟧ie was on arrived.
   "too,and" — the photo shows no space after the comma, unlike normal
   word-spacing elsewhere on the line. needs_review left as true because
   the word under the pencil scribble remains genuinely illegible.
+- Resolved: 2026-07-08 — physical-page review confirms the scribbled-out
+  word is "an" (typed "avoiding an explanations", the "an" crossed off
+  in pencil). Text updated, needs_review cleared.
