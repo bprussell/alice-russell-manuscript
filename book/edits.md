@@ -42,6 +42,12 @@ logged here as Phase 3 proceeds; global decisions are recorded up front.
     and Book I's was composed around its two recovered words — the
     edition's one truly editorial invention.
 
+- **Surname "Slay" normalized:** the one "Mr. Saly" (p26) is corrected to
+  "Mr. Slay", the spelling used everywhere else in the manuscript.
+- **"convenience/convenienced" for "convince(d)" is KEPT as voice:** it
+  occurs three times across the manuscript (pp24, 26, 79), consistently —
+  the author's settled word, not a one-off slip.
+
 ## Global typography (applied throughout, not logged per instance)
 
 Line breaks unwrapped and ⟦hyphen⟧ words rejoined; all ⟦…⟧ markers
@@ -145,3 +151,51 @@ cloth", "dish washers"), "Pepper-Rosie", "Splash she slipped", "CRYSTAL."
 emphasis capitals, "surries", "wifie", "big big day", the drowsy
 "to--m--o--rr--ow", "couldn't remember of ever having". "Then I think I
 hear Uncle George" kept as typed (possibly "There", unconfirmed).
+
+### Book I, Chapter III (pages 22-24)
+
+- p22 period-before-speech-tag → comma ('"...wear them," she said', and
+  passim through chapters III-V)
+- p22 "daises" → "daisies"
+- p23 pencil completion applied: typed "col" → "collar"
+- p23 "collar cuffs and belt" → "collar, cuffs and belt"
+- p23 pencil replacement applied: struck "satis-faction" → "sophisticated"
+- p23 "this girls" → "this girl's"; p24 "the girls head" → "the girl's
+  head"
+- p23 missing opening quote before "Now we'll order the things" added
+
+### Book I, Chapter IV (pages 24-30)
+
+- p24 pencil-note "Chap. 4." dropped; chapter break applied at that mark
+- p24 "for sometime" → "for some time"
+- p25 pencil replacement applied: struck "property" → "propriety"
+- p25/p29 question marks added to plain-typed questions ("Did I go to
+  sleep?", "learn to do that?")
+- p25 "surprize" → "surprise"; "decended" → "descended"; "your pretty" →
+  "you're pretty"
+- p26 "Mr. Saly" → "Mr. Slay" (surname normalization, see global note)
+- p26 "to the park.." → "to the park."; missing period after "because she
+  had to" added
+- p26 "Our Maude'." → "Our Maude." (stray apostrophe mis-strike)
+- p27 "laughted Frances" → "laughed Frances"
+- p28 "the boys life" → "the boy's life"; "his guardians strict orders" →
+  "his guardian's strict orders"
+- p28 missing closing quote after "when we write to ask him." added
+- p29 struck "sixty-thirty" → "six-thirty" (her overstrike self-correction)
+- p29 "two full hours practice" → "two full hours' practice"
+- p30 "everyway" → "every way"; "temperment" → "temperament"
+
+### Book I, Chapter V (pages 31-32)
+
+- p31 missing period after "sermons and music" added
+- p31 "laughted" → "laughed" (authorial typed form, standardized in the
+  reading layer per policy)
+
+Kept as voice (chapters III-V sample): "Maude was she living", "laid
+awake"/"She laid on her bed", "most" for almost, "convenience(d)" for
+"convince(d)" (see global note), "she weights the most", "so wrapped were
+they" (for "rapt"), "alright", "straight way", "boy friend", "Hanged if",
+"Gee! Whiz!", "There's no cows to milk in Peoria", capitalized "Church"
+and "the City". (These chapters were drafted under the older
+outside-quote punctuation convention and normalized to the inside-quotes
+global rule — 32 instances updated.)
