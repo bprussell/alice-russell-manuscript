@@ -104,6 +104,10 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
 - **Ch XXII, p117:** "And it's a terrible one/" rendered "one!" — the
   slash could equally be a period; rule.
 - **Ch XXII, p119:** "sector" kept — rule whether to emend to "segment".
+- **Ch XXI, p104/p111:** editorial "a" supplied twice ("visited a
+  while", "wore a cycling suit") — confirm or revert to as-typed.
+- **Ch XXI, p112:** "ad he put" resolved as "as he put"; "and he put"
+  equally possible — rule.
 
 ## Per-chapter corrections
 
@@ -510,3 +514,44 @@ era two-word forms, unquoted interior monologue.
 Kept as voice (sample): "take" (twice, confirmed NOT "tako"), "where
 they may", "Nope", "awful late", "use to", attribution comma splices,
 "Uncle George will be walking the streets for us".
+
+### Book I, Chapter XXI (pages 99-113)
+
+- p99 "Maracco bound" → "Morocco bound"; "wedge wood" → "Wedgwood"; "The
+  card red:" → "The card read:"; "Professer" → "Professor"; "safty" →
+  "safety"; pencil deletion + struck "steed" applied; "shown and
+  sparkled" → "shone and sparkled"
+- p100 "coarses" → "courses"; "once very two weeks" → "once every two
+  weeks"; multi-paragraph quote convention
+- p101-102 nested reported dialogue singled; many quote repairs; "As we
+  road along" → "rode"; "truimph" → "triumph"; "mischieveously" →
+  "mischievously"
+- p103 pencil insert applied ("we shall all be friends always")
+- p104 "yeass" → "years"; "vease" → "vase"; "visited a while" (editorial
+  "a", see REVIEW flags); colon repair; quote repairs
+- p105 "lets" → "let's"; "wer" false start dropped; "meree child" →
+  "mere child"; "What didn't you tell me" → "Why didn't you tell me";
+  "loveingly" → "lovingly"; "your are" → "you are"
+- p106 "24th.," → "24th,"; "he.raised" → "he raised"; "better them." →
+  "better then."
+- p107 "goof his gift" → "good his gift"; "He know better" → "knew";
+  "evenmention" → "even mention"; "wandered" → "wondered"; "facein" →
+  "face in"; quote repairs
+- p108 pencil applied: "New Mexico" struck, "Nevada" written above →
+  "Las Vegas, Nevada" (author's own geographic correction; verified
+  against the transcript's pencil marker); "smoother her dress" →
+  "smoothed"; "stay her" → "stay here"; "go the the park" → "go to the
+  park"
+- p110 "Oh No!" → "Oh no!"; "lead him" → "led him"
+- p111 "fune" → "fun"; "o'lock" → "o'clock"; "doned" → "donned"; "set
+  up2" → "set up"; "approval of disapproval" → "approval or
+  disapproval"; "bicylists" → "bicyclists"; "tandam" → "tandem"; "wore a
+  cycling suit" (editorial "a", see REVIEW flags)
+- p112 "aagerness" → "eagerness"; "ad he put" → "as he put" (see REVIEW
+  flags); "he through" → "he threw"; "then had passed" → "than had
+  passed"; "hours rest" → "hours' rest"
+
+Kept as voice (sample): "these last two year", "cateress", "From that
+on", "try as she may", "spoonin'", "te-he-he", "SIXTEEN" caps, "He was
+health, life, beauty, and to Someone; love personified", comma splices,
+era two-word forms.
