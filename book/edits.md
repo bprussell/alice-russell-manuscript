@@ -216,6 +216,15 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
   "diagnose".
 - **Book II Ch XXV, p277:** "Oh, I did Frances." — reviewer may prefer
   "I did, Frances." for the speaker turn; rule.
+- **Book II Ch XXI, p250:** "Donald Joseph had been called away" kept as
+  typed — Book I gives "Joseph Donald"; rule whether to normalize the
+  order. (An earlier draft silently inverted it; reverted to as-typed.)
+- **Book II Ch XXI/XXIII:** "Mrs John Bradford" signature cards and
+  "Mr. J.S. Bradford" alias kept as typed — extends the open John/Johnie
+  question.
+- **Book II Ch XXI-XXIV best-guess repairs:** "Nowhere had she found"
+  (p250), "Her one hope" (p253), "place funds on deposit" (p253),
+  "principles" (p262) — confirm each.
 
 ## Per-chapter corrections
 
@@ -1064,3 +1073,53 @@ Kept as voice (sample): "never sang", "broach", "most thirty years",
 "perfume ladened air", Frances's shifting pronouns through the reunion
 (as typed, including the author's own pencil "As she slipped"), "It's
 better than to change to strangers.", era two-word forms.
+
+### Book II, Chapters XXI-XXIV (pages 246-270)
+
+- p246 pencil edits applied ("that Allie", "her berth"); "serious ness"
+  → "seriousness"; "thereeshe" → "there she"; "heree" → "here"; unfilled
+  magazine-title blank closed; "With out" → "Without"
+- p247 pencil "an" applied; "shown from her eyes" → "shone"; "occured" →
+  "occurred"; "everyway" → "every way"; "propiety" → "propriety"
+- p248 READING LAYER applied: struck "info" omitted; "decidely" →
+  "decidedly"; "well," → "Well,"; "quized?" → "quizzed."; quote repair
+- p249 "facesaddened" → "face saddened"; "idlely" → "idly"
+- p250 "know" → "knew"; "their being" → "there being"; "u favorable" →
+  "unfavorable"; "mistrust here" → "mistrust her"; "loose" → "lose";
+  "No where had seen found" → "Nowhere had she found" (see REVIEW flags)
+- p251 "checks wore" → "cheeks wore"; "annimated" → "animated"
+- p252 "calmly face" → "calm face"; "with out stretched" → "with
+  outstretched"; "There is it," → "There it is,"
+- p253 "Francis" → "Frances"; "SHe" → "She"; "transfered" →
+  "transferred"; "ti simplfy" → "to simplify"; "Her one hope" and "place
+  funds on deposit" repairs (see REVIEW flags); quote repairs
+- p254 "french girl" → "French girl"; "and hour" → "an hour"
+- p255 "of your to come" → "of you to come"; "encourageingly" →
+  "encouragingly"
+- p256 "wondered about" → "wandered about"; pencil insert applied
+  ("nonassessable"); "capitol" → "capital"; "my self" → "myself"
+- p257 "stationary" → "stationery"; comma fixes; stray quote removed
+- p258 "fragil" → "fragile"; "worlds goods" → "world's goods";
+  "decended" → "descended"
+- p259/260 stray comma removed; question mark added; "where ever" →
+  "wherever"; "apoligize" → "apologize"; "Everyone of them" → "Every one
+  of them"; "you signature" → "your signature"; quote repair
+- p262 "Pheonix" → "Phoenix"; "My advise" → "My advice"; "alwyas" →
+  "always"; "principals" → "principles" (see REVIEW flags); "eachon" →
+  "each on"
+- p263/264 "ofher" → "of her"; "families'" → "family's"; "Her's" →
+  "Hers"; "she know" → "she knew"; pencil edits applied; "shown with
+  joy" → "shone"
+- p265 pencil reorder applied; "kissed her check" → "cheek"; question
+  mark and comma added
+- p266-268 "het me" → "let me"; "Once a awhile" → "Once in a while";
+  "do dawn" → "to dawn"; "herslef" → "herself"; "suggestd" →
+  "suggested"; "modiste" → "modistes"; pencil edits applied; em dash
+  closed
+- p269/270 "Paprea" → "Parepa"; "exlaimed" → "exclaimed"; blue-pencil
+  deletion omitted; comma-as-period fixed; punctuation supplied
+
+Kept as voice (sample): "kimona", "Fall don't always fulfill", "she
+changed her sex" (confirmed plot point), "Let's set here", "a plenty",
+"we use to call them corsets", "'kerchiefs", era capitals, comma
+splices, "And to think this place is mine."
