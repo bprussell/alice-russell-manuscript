@@ -58,15 +58,8 @@ kissed it.  "Because its your Mother and because she has a quality ex-⟦hyphen�
   'yourself"and' (missing space), '"They all have on the locket."' (as
   typed), and "its your Mother" (no apostrophe) are all as typed.
 - No pencil marks found on this page.
-- A small solid black dot sits above the gap between "Home" and "my" in
-  ""Welcome Home my dear one,"" (para. beginning "There it is'."). It is
-  dense/neutral-black ink rather than the warm brownish tone of the
-  foxing/dust spots seen elsewhere in this manuscript, so it is likely a
-  genuine (if very lightly struck) keystroke rather than debris — this
-  page already has two other stray single-quote keystrokes ('phone,
-  is'.) — but its shape is a plain dot rather than the hooked apostrophe
-  shape of those two, and it sits roughly centered in the word gap
-  rather than tight against a letter, so it is not confidently a
-  specific character. Left untranscribed; flagging for a physical-page
-  check rather than guessing at a marker.
+- The small dot in the word gap between "Home" and "my" in ""Welcome
+  Home my dear one,"" is nothing — a speck of dust or debris, not a
+  keystroke. Confirmed against the physical page (2026-07-08); left
+  untranscribed.
 - Verified: 2026-07-06 — transcript confirmed accurate against photo apart from the stray-dot observation above; no changes made to the text.

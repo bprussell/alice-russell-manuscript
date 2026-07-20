@@ -67,11 +67,6 @@ batch 5 continued to show up regularly (pages 138, 140, 156, plus a
 closing-quote variant, not just opening/resuming), and a dropped comma on
 page 144 added another sacred-layer restoration.
 
-- **page 157** — a small, dense black dot sits in the word gap between
-  "Home" and "my" in "Welcome Home my dear one,"; neutral black in color
-  (not foxing), but its plain-dot shape doesn't match the hooked-apostrophe
-  stray keystrokes found elsewhere on the same page. Left untranscribed;
-  genuinely unresolved.
 - **page 161** — a pencil mark over "mind" is confirmed genuinely
   blue-tinted (not an artifact) but doesn't resolve into a legible
   letterform; "mine" (matching "mine forever" on the next line) is an
