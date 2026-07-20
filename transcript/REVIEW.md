@@ -60,9 +60,6 @@ instances corrected). This is a distinct failure mode from the word-level
 typo smoothing found earlier, and may be worth a dedicated sweep across
 the rest of the manuscript later.
 
-- **page 126** — a soft ink blob obscures part of "executed" (between
-  "executi" and "ed"); unclear if it's an incidental stain or hides an
-  extra character.
 - **page 129** — the letter after "pod" in "podding peas" has a thin
   stroke more consistent with "l" than "d," but "podding" is the only
   reading that makes sense in context; kept as transcribed.

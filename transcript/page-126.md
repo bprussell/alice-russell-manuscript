@@ -5,8 +5,8 @@ book: 1
 image: pages/originals/page-126.jpg
 has_pencil: false
 has_table: false
-illegible_spots: 1
-needs_review: true
+illegible_spots: 0
+needs_review: false
 ---
 
                                                                   124
@@ -26,7 +26,7 @@ they exist."
 the home life of these two children should they decide to join hearts and
 hands for life.  That is why I came here.  So you would not be deceived
 by us.  Anna Bell was determined her family should not be propagated
-farther than her son.  So far we have executi⟦illegible⟧ed her every desire.  Frances
+farther than her son.  So far we have executi⟦strikeover: struck "z" (typed "executized")⟧ed her every desire.  Frances
 is satisfied it was a wise plan his mother thought out for him and is
 thoroughly determined to follow it to his death..  No doubt Parepa has a
 strong mother instinct.  This could never be gratified and Mr. Wheeler
@@ -52,13 +52,13 @@ origin.  Can I trust you to keep as much of his secret as I have disclosed
   greatly effect" is struck directly on top of another complete typed
   line — "But what was in the locket Mr. Wheeler?" asked Mrs Slay." —
   both fully legible where they overlap, with the carriage evidently not
-  advanced between the two strikes. The standing/continuing text ("...it
-  would greatly effect the home life of these two children...") reads
-  as the intended line, since the question about the locket was already
-  asked and answered on page 123/typed 121; the superimposed question
-  line may be a false start or an earlier draft of dialogue not
-  advanced past. Recorded with a strikeover marker; flagged for
-  verification against the physical page.
+  advanced between the two strikes. Both lines are intended text, not a
+  false start: "I am afraid I cannot tell you" is Mr. Wheeler's answer
+  to the buried locket question, which nothing else in the scene asks.
+- READING LAYER (Phase 3): restore the two overlapped lines in sequence —
+  '"But what was in the locket, Mr. Wheeler?" asked Mrs. Slay.' followed
+  by '"I am afraid I cannot tell you. However, it would greatly affect
+  the home life of these two children..."'.
 - Dialogue tag quote styles are inconsistent as typed: single and double
   quotes are mismatched at open/close on some lines. "Why didn't you
   tell us...birthday cakes,'" opens with a double quote and closes with
@@ -89,6 +89,10 @@ origin.  Can I trust you to keep as much of his secret as I have disclosed
   "executed"; recorded as ⟦illegible⟧ between "executi" and "ed" rather
   than silently resolving to "executed". illegible_spots updated to 1;
   needs_review remains true pending physical-page check of this spot.
+- Resolved: 2026-07-08 — physical-page review shows she typed
+  "executized" and crossed off the "z"; the intended word is "executed"
+  ("we have executed her every desire" — use "executed" in the reading
+  layer). needs_review cleared.
   Also checked "wi$e plan" (bold/overtyped middle letter) — reads
   sensibly as "wise" in context ("a wise plan"; "a wife plan" is not
   grammatical), consistent with the letter-shape caution, so left
