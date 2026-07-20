@@ -69,6 +69,16 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
 - **Ch X, p60 / Ch XII:** "portraited" kept as typed (possible authorial
   coinage, but a one-off unlike the three-time "convenienced") — rule
   whether the reading text should use "portrayed".
+- **Ch IX, p56:** the blotted word after "during my absence," is rendered
+  "Hm?" per the transcript's recorded best guess — but the "user
+  decision" attribution on that transcript note could not be verified
+  against the conversation (the question may never have been answered).
+  Confirm "Hm?", or prefer omitting the unreadable word entirely
+  ("...during my absence? Well, little girl...").
+- **Ch VIII, p53:** "did I tell you we're to leave most any day now?" is a
+  best-guess repair of a genuinely garbled typed sentence — confirm.
+- **Ch VII, p48:** "or maybe lured away by the glitter" kept as typed;
+  possibly missing "be" ("or maybe be lured away") — rule.
 
 ## Per-chapter corrections
 
@@ -287,3 +297,54 @@ Kept as voice (ch X-XII sample): "portraited" (see REVIEW flags), "I use
 to sing", "Mrs" without period, subjectless diary-style sentences ("Went
 to one party..."), "long long hills", "sitting next back of", "would lay
 awake", era two-word forms ("winter time", "row boats", "girl friend").
+
+### Book I, Chapter VII (pages 44-48)
+
+- p44 "liverys" → "livery" (blue-pen deletion applied)
+- p44 "correct Aunt Kate" → "corrected Aunt Kate"
+- p45 "whose got the button" → "who's got the button"
+- p45 "horses feet" → "horses' feet"
+- p45 comma added before interior-monologue attribution ("before, she
+  pondered")
+- p46 "inher ear" → "in her ear"; p47 "could not hink" → "could not think"
+- p47 "road home" → "rode home"; quote repairs (two missing quotes)
+- p48 "hugging each other  or some time" → "for some time"; stray comma
+  removed; question mark added ("so many young girls?")
+
+### Book I, Chapter VIII (pages 49-53)
+
+- p49 "evenings experiences" → "evening's"; "lifes work" → "life's work"
+- p49 "charged from the young boy" → "changed"; "ernest" → "earnest"
+- p50 interlinear "more" inserted ("made my time here more pleasant")
+- p50 "point a finger" → "pointing a finger"; "gone from her" → "gone
+  from here"; attribution recast as new sentence ("He stopped short")
+- p50/p51 question marks added to plain-typed questions (4 instances)
+- p51 "parden" → "pardon"; "dea" → "dear"; "some where" → "somewhere"
+- p52 "think this think out" → "think this thing out" (recurring
+  think/thing slip); "That his business" → "That's his business";
+  "galant" → "gallant"; pencil-struck character dropped
+- p53 stray mid-speech quote removed; "for sometime" → "for some time"
+- p53 garbled sentence repaired: "did I tell you we're to leave most any
+  day now?" (see REVIEW flags); doubled "his his" → "his"
+
+### Book I, Chapter IX (pages 54-58)
+
+- p54 misplaced quote fixed; "Who's that?" question mark added
+- p55 "working in her heat" → "heart"; quote repairs; "sound asleep,
+  Went" → sentence break
+- p55 "Mrs Wheeler" → "Mr. Wheeler" (Mr. Slay addressing the male guest)
+- p56 "With me its" → "it's"; "neice" → "niece"; "liked to much" →
+  "liked so much"; "two peoples' lives" → "two people's lives";
+  "decended" → "descended"
+- p56 "Alice Rarepa-Roza" → "Alice Parepa-Roza" (mistyped "R" for "P")
+- p56 blotted word rendered "Hm?" (see REVIEW flags)
+- p57 "Glascow" → "Glasgow"; "Mr.Slay" → "Mr. Slay"; quote repairs
+- p58 "Frances departure" → "Frances's departure"; "Aunt Kates surprize"
+  → "Aunt Kate's surprise"; "the days happenings" → "the day's
+  happenings"
+
+Kept as voice (ch VII-IX sample): "your guarantee or what ever you call
+him", "must of cost", "he don't"/"she don't", "alright", "most" for
+almost, "'Round"/"'bout", "Their eyes met their lips met", "real
+generous", stuttered "K-K-Kate", era two-word forms ("dutch cheese",
+"rain coat", "spell bound", "good bye").
