@@ -489,3 +489,24 @@ don't want to know", era two-word forms.
 Kept as voice (sample): "dar" (see REVIEW flags), "took sick", "we'll
 soon be to the car track", "sector" (see REVIEW flags), "fore-mothers",
 era two-word forms, unquoted interior monologue.
+
+### Book I, Chapter XX (pages 93-98)
+
+- p93 "carresses" → "caresses"; "passiomately" → "passionately"; unclear
+  "lover" resolved
+- p94 "Kepp" → "Keep"; "She, Frances, look" → "See, Frances, look";
+  "Bawled Eagle" → "Bald Eagle"; question marks added to plain-typed
+  questions (also p95, p97); mid-sentence capitals lowered
+- p95 "so loveingly" → "lovingly"; "shrubery" → "shrubbery"; "boarded
+  with" → "bordered with"; "peer of beauty" → "peak of beauty" ("reached
+  the ___ of beauty" settles the intent); stray comma dropped
+- p96 stray apostrophe removed; "have keep so still" → "kept"; struck
+  "that" removed; "your happy" → "you're happy"; pencil insert "these"
+  applied
+- p97 "its so good" → "it's so good"; faint "cared" confirmed
+- p98 struck "and" removed ("walked home silently arm in arm"); "Your
+  are" → "You are"; stray capital lowered
+
+Kept as voice (sample): "take" (twice, confirmed NOT "tako"), "where
+they may", "Nope", "awful late", "use to", attribution comma splices,
+"Uncle George will be walking the streets for us".
