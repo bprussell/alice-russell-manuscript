@@ -192,6 +192,18 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
   cleaned" (p220), "marketed" (p221), "calloused" (p224) — confirm.
 - **Book II Ch XVI, p225:** "the Doctor thought would be able for the
   operation" kept — possibly missing "he"; rule.
+- **Book II Ch XVII, p229:** "have a right to." — "a right, too" (also)
+  is an alternative reading; rule.
+- **Book II Ch XIX, p234:** "friends of yours ever since" — the "yours"
+  goes beyond the transcriber's every/ever fix; confirm.
+- **Book II Ch XIX, p237:** "Dear old Aunt Kate" lowercased — the capital
+  may be affectionate emphasis; rule.
+- **Book II Ch XIX/XX, p241/p244:** "quired" → "inquired" — possibly an
+  authorial clipped form; rule. And p244 "Robert and John" extends the
+  open John/Johnie question.
+- **Book II Ch XX, p242/p245:** "my dear husband," comma repositioning
+  and the p245 supplied comma ("said Johnie, and Robert drove") —
+  confirm both.
 
 ## Per-chapter corrections
 
@@ -957,3 +969,45 @@ Kept as voice (sample): "sticktuitiveness", "put put put of the
 tractor", "gasolene", "boresome", "full reign" (see REVIEW flags),
 "folded their tents", "most collapsed", present-tense garden passage,
 "Johnie is well again." tense-shift climax.
+
+### Book II, Chapters XVII-XX (pages 228-245)
+
+- p228 pencil "y" + interlinear "bed"/quotes applied; "hid" → "hide";
+  "blessing" → "blessings"; question mark added
+- p229 "casualities" → "casualties"; "strocking" → "stroking"; "a right
+  too." → "a right to." (see REVIEW flags)
+- p230 "night's sleep" → "nights' sleep"; "sum set" → "sunset"; "road" →
+  "rode"; "had sank" → "had sunk"; "Lindburg" → "Lindbergh"
+- p231 struck "Johnnie" → "Johnie"; "Some times" → "Sometimes";
+  "threshhold" → "threshold"
+- p232 pencil "Ah," applied to the Rubaiyat opening; quatrain set as
+  verse block; "adds" → "ads"
+- p233 pencil "c" and pencil comma applied
+- p234 "quized" → "quizzed"; "he a sked" → "asked"; "of your every
+  since" → "of yours ever since" (see REVIEW flags); "care too" → "care
+  to"
+- p235 "Arigona" → "Arizona"; quote repair
+- p236 pencil applied: "Journal" → "Tribune"; "refer too" → "refer to"
+- p237 quote repairs; "Dear old" → "dear old" (see REVIEW flags)
+- p238 "their being" → "there being"; "I maybe" → "I may be"; struck
+  "Evening" dropped
+- p239 the Emmerson letter rendered as an indented block; struck "she" +
+  pencil "girl" applied; "successfully" → "successful"; "I an" → "I am"
+- p240 "honesty" → "honestly"; "Sheadded" → "She added"; pencil "to"
+  applied
+- p241 "quired" → "inquired" (see REVIEW flags); "triped" → "tripped";
+  quote repairs
+- p242 "its right" → "it's right"; "wedge wood" → "Wedgwood";
+  "beggining" → "beginning"; "Francis" → "Frances"; "fell his muscles" →
+  "feel"; "my dear, husband" → "my dear husband," (see REVIEW flags)
+- p243 nested quotes singled; illegible x-ed word omitted; "Aint'" →
+  "Ain't"; "with aleap" → "with a leap"; quote repairs
+- p244 "Robert dea" → "Robert dear"; pencil "thirty" applied; struck
+  "loose" removed
+- p245 interline "said" applied with supplied comma (see REVIEW flags);
+  "mext" → "next"
+
+Kept as voice (sample): "downed", "CERtainly", "he most rolled", "the
+lights was out", "four pair of", comma-before-capital rhythms (backed by
+the author's own p233 pencil comma), era two-word forms, the letter's
+era capitals.
