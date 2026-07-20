@@ -6,10 +6,10 @@ image: pages/originals/page-144.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
-                                                                  ⟦unclear: 142⟧
+                                                                  142
 Submitted by:
 Mrs Alice Reynolds Russell
 Mt. Hawley Road
@@ -47,8 +47,10 @@ He dressed and answered Mr. Wheeler's tap on the door.
 
 - The typed page number at the top right is almost entirely cut off by the
   photo framing — only the bottom tips of the digits are visible at the
-  image edge. By sequence (141 before, 143 after) it is "142"; verify
-  against the physical page.
+  image edge. Recorded as "142" by inference: the flanking sheets are
+  typed 141 and 143 (resolved 2026-07-08, sequence-inferred like the
+  other cut-off page numbers; the physical pages are no longer
+  accessible).
 - This page names the city: Frances plans "to leave Peoria the next day".
 - "in so early tonight" and "most noon" are as typed.
 - Page ends mid-sentence.
@@ -67,3 +69,6 @@ He dressed and answered Mr. Wheeler's tap on the door.
   at the very top edge of the photo, not enough to confirm "142" from
   the image alone; needs_review left as true and the ⟦unclear: 142⟧
   marker kept pending a physical-page check.
+- Resolved: 2026-07-08 — "142" stands as the sequence-inferred reading
+  (unambiguous given the flanking typed numbers 141 and 143). Unclear
+  marker removed, needs_review cleared.

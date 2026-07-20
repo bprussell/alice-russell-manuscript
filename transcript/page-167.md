@@ -6,7 +6,7 @@ image: pages/originals/page-167.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 1
-needs_review: true
+needs_review: false
 ---
 
                                                                     3
@@ -90,3 +90,10 @@ froth).
   like mark in "boarding place-as" is a small reddish-brown paper
   fiber/stain, not a typed character — "place as" (no hyphen) is correct
   as transcribed.
+- Resolved: 2026-07-08 — closed under the reviewer's standing rules from
+  the physical-page review: the exact writing instrument behind a hand
+  correction is immaterial, and the identity of a struck-out character is
+  immaterial because it was struck (the reading "fried" is unambiguous;
+  the pencil-inserted "k" in "milk" is legible as recorded). The physical
+  pages are no longer accessible. needs_review cleared; the ⟦illegible⟧
+  marker on the struck character stays as the accurate archival record.
