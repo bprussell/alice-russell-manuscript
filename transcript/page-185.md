@@ -6,7 +6,7 @@ image: pages/originals/page-185.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     21
@@ -23,7 +23,7 @@ troduced to the main actor.
 
      Harold broke past the boy who was trying to persuade him to go
 to room and sober up before letting Parepa see him.  "She's my girl
-and I'll see her if I want too," he stammered in a voice not all all
+and I'll see her if I want too," he stammered in a voice not at all
 familiar to Parepa.
 
      Before she could turn to see him he fell over her chair with arms
@@ -48,7 +48,7 @@ had fainted.
 
      The girls all rushed to help her.  They laid her on Mrs Allen's
 bed and called a doctor.  "It was a terrible shock to the child," Mrs
-Allen told him.  "Harold has told the boys they are to be ⟦unclear: married⟧ at
+Allen told him.  "Harold has told the boys they are to be married at
 the end of the term."
 
      "He is such a fine smart fellow when he is sober, but a regular
@@ -59,12 +59,13 @@ the end of the term."
   below the submission block.
 - Small tear/notch in the top edge of the sheet, above the text; no text
   lost.
-- "to go / to room" (missing word), "if I want too", "a voice not all all
-  familiar" (doubled "all"), "Dish is my sweetheart" and "sweet kish"
-  (drunken speech, as typed), "drug him" (for "dragged"), and "surprize"
-  are all as typed.
-- "they are to be married at" is faintly inked at the right edge; "married"
-  looks like "marriel" (weak "d" impression) — flagged unclear.
+- "to go / to room" (missing word), "if I want too", "Dish is my
+  sweetheart" and "sweet kish" (drunken speech, as typed), "drug him"
+  (for "dragged"), and "surprize" are all as typed.
+- "a voice not at all familiar" — the physical page reads "at all", not
+  the doubled "all all" recorded in Phase 1; corrected 2026-07-08.
+- "they are to be married at" is faintly inked at the right edge but
+  correct as typed — confirmed against the physical page (2026-07-08).
 - Page ends mid-sentence ("but a regular") — continues on next page.
 - No pencil marks found on this page.
 - Verified: 2026-07-07 — re-examined "marri⟦unclear⟧ at the end of the
@@ -78,3 +79,7 @@ the end of the term."
   around the dash in "You mean  -  you mean he gets drunk?" (as typed,
   matching the same typist habit seen on page 181). No other changes
   needed.
+- Resolved: 2026-07-08 — physical-page review confirms "married at" (the
+  faint letters are simply weak strikes) and corrects a Phase 1 misread:
+  the page reads "a voice not at all familiar", not "not all all". Text
+  updated, needs_review cleared.
