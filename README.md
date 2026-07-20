@@ -43,5 +43,8 @@ annotation conventions used in the verbatim transcripts.
       The two erased book titles are permanently unrecoverable; the
       reading edition will carry editor-composed titles, disclosed in the
       foreword — see book/edits.md)
-- [ ] Phase 3 — Edited reading text
+- [x] Phase 3 — Edited reading text (all 57 chapters — Book I: 30, Book II:
+      27 — in book/book-1/ and book/book-2/, with every correction logged
+      in book/edits.md; ~40 judgment calls await family rulings under its
+      "Open REVIEW flags" sections)
 - [ ] Phase 4 — Typesetting and print PDF
