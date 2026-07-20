@@ -5,8 +5,8 @@ book: 2
 image: pages/originals/page-175.jpg
 has_pencil: true
 has_table: false
-illegible_spots: 1
-needs_review: true
+illegible_spots: 0
+needs_review: false
 ---
 
                                                                     11
@@ -37,7 +37,7 @@ both her hands in his and said, looking straight in her face, "Look again,
 Parepa, is it murder or love you see there?"
 
      There was no mistake -- it was love.  Parepa recognized it.  Then
-as if caught in the clutches of a wild thing she found hers⟦strikeover: illegible⟧f tight
+as if caught in the clutches of a wild thing she found hers⟦strikeover: mistyped "le" (from "herslef") retyped over as "el"⟧f tight
 in his arms, he was kissing her over and over again.
 
      "All day I've wanted to devoure you," he was saying.  "You are so
@@ -65,10 +65,10 @@ couple.  Was she the same Parepa that had accepted the carresses of
   struck out immediately before the retyped "such a serious tonehad taken
   possession of him," apparently a false start caught and refixed by the
   typist in the same typing pass.
-- "hers⟦strikeover: illegible⟧f tight": the interior of "herself" is
-  obscured by an overstruck/garbled character; the intended word is clear
-  from context. The same garbled-"herself" artifact recurs on other pages
-  in this batch.
+- "hers⟦strikeover⟧f tight": the same "herself" self-correction confirmed
+  on pages 174 and 180 — she typed "herslef" (transposed "le"/"el") and
+  retyped over the transposed letters to read "herself". Confirmed
+  against the physical page (2026-07-08).
 - "complextion" (for "complexion"), "tonehad" (no space, run together as
   typed), "devoure" (for "devour"), "carresses" (for "caresses"), and
   "goofl play mate" (apparently a garbled/overstruck rendering of "good
@@ -89,3 +89,7 @@ couple.  Was she the same Parepa that had accepted the carresses of
   stands as true. Everything else on the page checked correct, including
   quote-mark types (all double quotes) and the typed oddities "complextion,"
   "tonehad," "devoure," "carresses," and "goofl play mate."
+- Resolved: 2026-07-08 — physical-page review confirms the "herself"
+  overstrike is the recurring self-correction: typed "herslef", retyped
+  over the transposed letters to read "herself" (same as pages 174 and
+  180). Text updated, needs_review cleared.

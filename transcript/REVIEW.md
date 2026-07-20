@@ -80,8 +80,6 @@ was called an ordinary typewriter double-strike, but color-sampling
 elsewhere in this batch suggests it may actually be the same pencil
 correction — worth a second look when convenient, not urgent.
 
-- **page 175** — the interior of an overstruck "herself" is illegible;
-  reading is inferred from context only.
 - **page 178** — a scribbled-out word between "avoiding" and
   "explanations" is illegible.
 - **page 179** — the "Johnnie" pencil corrections are confirmed in
