@@ -139,6 +139,14 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
   "little" was intended.
 - **Ch XXVIII, p152:** "mighty Kind" deliberate capital kept — rule; and
   p153's "Was it?—Could it be—Frances?" quote repair — confirm.
+- **Ch XXIX, p155:** "I want to go home alone?" question mark kept on a
+  declarative — rule.
+- **Ch XXX, p159:** "Parepa, my mother" vocative comma supplied; "Parepa.
+  My mother" equally defensible — rule.
+- **Ch XXX, p162:** "I was not suspicious at the hospital" kept — possibly
+  "suspected"; rule.
+- **Ch XXX, p161:** "—and for his sake" lowercased; the typed capital
+  "And" could be authorial emphasis — rule.
 
 ## Per-chapter corrections
 
@@ -695,3 +703,36 @@ he or Parepa").
 Kept as voice (sample): "most kill her", "I don't know as", "never heard
 tell of", "feel badly", "mighty Kind" (deliberate overtyped capital),
 "the white child on the bed", comma splices.
+
+### Book I, Chapter XXIX (pages 154-156)
+
+- p154 "ina" → "in a"; "gasp" → "gasped"; "has repeated" → "had
+  repeated"; "now.As" → "now. As"; "flaping" → "flapping"
+- p156 "bawled head" → "bald head"; "May be," → "Maybe,"; "the gave" →
+  "she gave"; quote repairs
+
+### Book I, Chapter XXX (pages 157-164)
+
+- p157 "There it is'." → "There it is!"; struck "warm" removed; "its
+  your Mother" → "it's your Mother"; quote repairs
+- p158 "her lovers face" → "her lover's face"; "clasp" → "clasped"; "me
+  too?" → "me to?"; Courage exchange split into two speakers (see REVIEW
+  flags); question mark added
+- p159 pencil "shame" applied; "brought up on the name" → "brought upon
+  the name"; "mother's before her" → "mothers before her" (plural);
+  speech-end dash; multi-paragraph quote convention for the confession
+- p160 "in tact" → "intact"; "fetes" → "feats"; "my mothers" → "my
+  mother's"; reveal line rejoined
+- p161 hand correction applied: "mind" → "mine"; "schemem" → "scheme";
+  Rubaiyat quatrain set as indented verse block; quote repairs
+- p162 pencil applied: "fate" → "yesterday"; "riding" → "ridding"; "a
+  years shaving" → "a year's shaving"
+- p163 "onto death" → "unto death"; "dolls hair" → "dolls' hair";
+  "amoung" → "among"; "transfere" → "transfer"; pencil-note dropped
+- p164 "in anyway" → "in any way"; closing TURN-THIS-BOOK-UPSIDE-DOWN
+  instruction dropped (physical-volume artifact)
+
+Kept as voice (sample): "moon lit", "solitary" for solitaire, comma-less
+vocatives, emphasis capitals ("My Dreams are Over", "Darling, I'm a
+Girl"), fragments, "Each going their separate ways; for better or for
+worse."
