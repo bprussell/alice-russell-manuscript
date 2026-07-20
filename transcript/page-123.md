@@ -6,7 +6,7 @@ image: pages/originals/page-123.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   121
@@ -30,7 +30,7 @@ her nurse and myself.  She wanted her nurse to stay with her baby as she
 had with her, etc.  Her mother had fallen heir to the family locket of
 huge size strung on a thin chain of gold.  This in turn became the
 possession of Annabell.  It was her idea to place certain truth requests,
-advice, secrets and wishes together with her picture into this locket⟦unclear: ,⟧
+advice, secrets and wishes together with her picture into this locket,⟦strikeover: comma struck over a stray final "t" (typed "lockett")⟧
 take it to a jeweler and witness its sealing with a band of gold on which
 was this inscription: . "To be opened on the fourteenth birthday of my
 darling child," signed Anna Bell Emmerson.
@@ -47,10 +47,10 @@ though conditions were mightly against her.
 ## Transcriber notes
 
 - Typed page number "121" at top right.
-- "into this locket," — the mark after "locket" is a small dark blob that
-  most closely resembles an overtyped/smudged comma (possibly the comma
-  key struck imprecisely against the "t"); read as ⟦unclear: ,⟧ pending
-  verification against the physical page.
+- "into this locket," — she typed "lockett" (doubled final "t"), then
+  struck the comma over the stray second "t", correcting to "locket," —
+  confirmed against the physical page (2026-07-08). This explains the
+  mark's complex shape (comma over a "t").
 - Verified: 2026-07-06 — re-examined the "locket" mark at high zoom. It
   is larger and more complex than a normal comma on this page (compare
   the clean comma after "requests," two lines above): it shows a small
@@ -66,6 +66,9 @@ though conditions were mightly against her.
   "mightly", the inconsistent Annabell/Anna Bell/Annabel spellings, and
   the stray period before the inscription's opening quote) were checked
   against the photo and confirmed accurate; no other changes needed.
+- Resolved: 2026-07-08 — physical-page review confirms the mark is a
+  comma struck over a stray final "t" (typed "lockett", corrected to
+  "locket,"). Text updated, needs_review cleared.
 - "her's" (for "hers"), "physician ." (stray space before the period),
   and "mightly" (for "mightily") are as typed.
 - The child's mother's name is spelled inconsistently across the

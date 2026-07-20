@@ -60,8 +60,6 @@ instances corrected). This is a distinct failure mode from the word-level
 typo smoothing found earlier, and may be worth a dedicated sweep across
 the rest of the manuscript later.
 
-- **page 123** — a mark after "locket" is comma-like but larger/more
-  complex than an ordinary comma; no confident alternative reading found.
 - **page 126** — a soft ink blob obscures part of "executed" (between
   "executi" and "ed"); unclear if it's an incidental stain or hides an
   extra character.
