@@ -132,6 +132,13 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
   confirm.
 - **Ch XXIV, p133:** "wish you your happiness. I'm sure." kept — rule
   whether "happiness, I'm sure." was intended.
+- **Ch XXVII, p150:** "a wonderful home, Donald." kept — Joseph's full
+  name is "Joseph Donald" (ch XXVI), so surname address is possible, but
+  it may be a slip for "Joseph"; rule.
+- **Ch XXVII, p148:** "the white child on the bed" kept — rule whether
+  "little" was intended.
+- **Ch XXVIII, p152:** "mighty Kind" deliberate capital kept — rule; and
+  p153's "Was it?—Could it be—Frances?" quote repair — confirm.
 
 ## Per-chapter corrections
 
@@ -664,3 +671,27 @@ Kept as voice (sample): "It Shall be—it shall be!", "not much-e-e-e",
 "Wasn't those funny dreams", "claw over the hotel salads", "can't
 remember of having", "Ye Gods!", era two-word forms, case quirks ("let
 he or Parepa").
+
+### Book I, Chapter XXVII (pages 147-151)
+
+- p147 "thenarrow" → "the narrow"; "a neighbors" → "a neighbor's"; quote
+  punctuation repairs
+- p148 compound strike resolved: "a word!"; nested "Bethany's Angel"
+  quotes singled
+- p150 pencil applied: "held", "foliaged", "listener"; "summer House" →
+  "summer house"; "hugh" → "huge"; "sa;d" → "said"; question mark added;
+  quote repair; "Joseph,and" → "Joseph, and"
+- p151 pencil applied: "hear"
+
+### Book I, Chapter XXVIII (pages 152-153)
+
+- p152 "for sometime" → "for some time"; missing comma-spaces; "may
+  effect" → "may affect"; "by it's cover" → "by its cover"; "daid" →
+  "said"; "sweetsake" → "sweet sake"; "did her get" → "did he get";
+  "Kind of you  Angel" → "Kind of you, Angel"
+- p153 "murmer" → "murmur"; question mark added; closing line repaired
+  as "Was it?—Could it be—Frances?" (see REVIEW flags)
+
+Kept as voice (sample): "most kill her", "I don't know as", "never heard
+tell of", "feel badly", "mighty Kind" (deliberate overtyped capital),
+"the white child on the bed", comma splices.
