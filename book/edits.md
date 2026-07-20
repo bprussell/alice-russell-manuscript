@@ -96,6 +96,8 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
 - **Ch XVI, p78:** "getting through what she had undertaken" is a minimal
   repair of "through,  What"; an alternative is a lost phrase — confirm.
 - **Ch XVI, p81:** "evening's entertainment" may also want "an" — rule.
+- **Ch XVII, p83:** "real metal" kept (era variant of "mettle") — rule
+  whether to modernize, alongside the "portraited" flag.
 
 ## Per-chapter corrections
 
@@ -425,3 +427,36 @@ Kept as voice (sample): "could remember of laying awake", "'phone",
 "Goldie Locks", "tutorage", "convenienced them" (third global
 occurrence), narrator asides and present-tense passages, era two-word
 forms.
+
+### Book I, Chapter XVII (pages 83-85)
+
+- p83 "Just them" → "Just then"; "carress" → "caress"; attribution
+  recast before capitalized speech
+- p84 "I wish you know him" → "knew him"; "let your self" → "let
+  yourself"; "repentence" → "repentance"; "ungratful" → "ungrateful"
+- p85 "irrresistible" → "irresistible"; missing opening quote added;
+  blue-pen completion applied ("the steed"); comma before participial
+  phrase
+
+### Book I, Chapter XVIII (pages 86-89)
+
+- p86 "Prepa" → "Parepa"; "May be" → "Maybe"
+- p87 "she gasp" → "she gasped"; "They road along" → "rode"; "I'd love
+  too" → "to"; "alllaround" → "all around"; quote repairs
+- p88 "Do You feel" → "Do you feel"; "clasp her tight" → "clasped";
+  "Oh! Look" capitalization
+- p89 "We road and road" → "We rode and rode"; quote repairs
+
+### Book I, Chapter XIX (pages 90-92)
+
+- p90 stray mid-speech quote removed; "exlaimed" → "exclaimed"; "such a
+  think" → "such a thing"; "torrant" → "torrent"; "Al he needs" → "All
+  he needs"; split speech rejoined ("somewhere," ... "in celebration")
+- p91 "ahppened" → "happened"; "strangly" → "strangely"; "he wants too"
+  → "to"; "himeself" → "himself"; "the thought" → "she thought"; quote
+  repair
+- p91/92 unclear "by" resolved per note
+
+Kept as voice (sample): "real metal" (see REVIEW flags), "two pair of
+eyes", "stage life don't appeal", "such young kids as us", "Some way I
+don't want to know", era two-word forms.
