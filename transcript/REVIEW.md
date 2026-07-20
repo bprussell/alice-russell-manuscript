@@ -88,11 +88,6 @@ agents reading the image and finding it didn't match the transcript's
 described layout; both corrected in place, text was already accurate
 against the corrected orientation.
 
-- **page 212** — a strikeover on "as if" (removing a duplicated phrase)
-  was reclassified from typewriter to blue-pencil based on quantitative
-  color evidence and clear editorial logic; confident, but flagged since
-  it's a new judgment call on a mark nobody had previously flagged as
-  pencil at all.
 - **page 217** — the typed page number is physically clipped by the
   photograph's edge; "53" is the best inference from sequence but
   unconfirmed.

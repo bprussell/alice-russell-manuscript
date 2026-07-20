@@ -74,3 +74,6 @@ Lonesome for something - she didn't quite know what.  They were all men -
   is genuinely typed that way with no missed opening quote nearby;
   preserved as typed per rule. The instance of "Johnie" on this page was
   checked for a pencil "n" insertion — none found.
+- Resolved: 2026-07-08 — physical-page review agrees the "as if" strike
+  looks like pencil; the exact instrument is immaterial. Classification
+  stands as recorded, no text changes.
