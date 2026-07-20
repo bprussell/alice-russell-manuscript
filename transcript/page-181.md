@@ -5,8 +5,8 @@ book: 2
 image: pages/originals/page-181.jpg
 has_pencil: true
 has_table: false
-illegible_spots: 2
-needs_review: true
+illegible_spots: 0
+needs_review: false
 ---
 
                                                                     17
@@ -18,7 +18,7 @@ Edelstein, Illinois
      When Parepa reached her room she threw herself on her bed and
 wept bitter tears.  She didn't know why she wept.  She couldn't explain
 her feelings to even her own satisfaction.  She knew she was madely in
-love, but with whom?  She was afraid it was John⟦illegible⟧⟦pencil-delete⟧ie.  She wasn't sure -
+love, but with whom?  She was afraid it was Johnn⟦pencil-delete⟧ie.  She wasn't sure -
 for hours she tossed on her bed.  Why was he -  how could he be so
 patient - so willing to wait for her decision.  Why didn't he urge her -
 force her - make her see his worthiness.  Finally sleep overcome her
@@ -31,7 +31,7 @@ she love me sometime?  Of course, she will - I can wait.  She must have
 her own time - I'll not coax her.  Someday she will be  my wife - I
 must bide my time.  He dropped to⟦strikeover: double-struck⟧ sleep in a peaceful restful confident
 state of mind that is the possession of only such honest fair minded men
-as John⟦strikeover: illegible⟧ie Bradford.
+as John⟦strikeover: struck "n"⟧ie Bradford.
 
      The next morning at ten o'clock two young people met with the
 spirit of the day ringing in their ears.  Horns and whistles blowing,
@@ -60,20 +60,14 @@ fall.  Isn't it charming out here?" and Allie clapped her hands like a
   a second time by the typewriter directly on top of itself (bold
   double impression), the same kind of overtype documented elsewhere in
   this transcript (e.g. page 231's "Johnnie"/"declared").
-- "Johnie" (twice: "it was Johnie" and "Johnie Bradford") each show a
-  struck illegible character between "John" and "ie", where the clean,
-  unmarked "So did Johnie" later on this same page confirms "Johnie"
-  (single "n") is the intended/typed reading in both cases. Pixel-level
-  color analysis shows the two marks are on different media: "it was
-  John[ ]ie" is distinctly blue-shifted (B channel elevated ~20-30 over
-  R/G, unlike this page's neutral black typed ink) and is recorded as
-  ⟦illegible⟧⟦pencil-delete⟧; "Johnie Bradford"'s mark is neutral black,
-  consistent with typewriter ink, and is recorded as ⟦strikeover:
-  illegible⟧. Both most plausibly represent a self-corrected "Johnnie"
-  typo (extra "n") struck back to "Johnie", but the struck character
-  itself cannot be read with confidence in either case. Set has_pencil:
-  true, illegible_spots: 2, needs_review: true pending physical-page
-  confirmation.
+- "Johnie" (twice: "it was Johnie" and "Johnie Bradford") each have a
+  struck extra "n" between "John" and "ie" — she typed "Johnnie" (double
+  n) and struck the second "n" back to "Johnie" in both spots, matching
+  the clean, unmarked "So did Johnie" later on this same page. Confirmed
+  against the physical page (2026-07-08). The two strikes are on
+  different media (the first blue pencil, the second black typewriter
+  ink), which is immaterial — the struck character and resulting reading
+  are the same.
 - "Why was he -  how could he be so": confirmed (via comparison against
   this page's other dashes, e.g. "he had come - she had said so" and "be
   my wife - I", all single-spaced) that there are two spaces after this
@@ -87,3 +81,6 @@ fall.  Isn't it charming out here?" and Allie clapped her hands like a
   illegible⟧ for the black typewriter mark; see note above), and added a
   missing second space after the dash in "he -  how could". Set
   has_pencil: true, illegible_spots: 2, needs_review: true.
+- Resolved: 2026-07-08 — physical-page review confirms both struck
+  characters are extra "n"s (typed "Johnnie", struck back to "Johnie").
+  Text updated, needs_review cleared.

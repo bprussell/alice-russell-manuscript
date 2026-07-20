@@ -80,10 +80,6 @@ was called an ordinary typewriter double-strike, but color-sampling
 elsewhere in this batch suggests it may actually be the same pencil
 correction — worth a second look when convenient, not urgent.
 
-- **page 181** — two struck characters in "Johnie"/"Johnnie" are
-  illegible at the letter level (one confirmed blue pencil, one confirmed
-  black typewriter ink) — the corrected spelling is confident, the
-  original struck character is not recoverable.
 - **page 184** — a "k" strike in "she kwas," has a weak, inconclusive
   color signal (medium unconfirmed); a "hall" reading in "commotion in
   the hall" is a faint, gapped best guess.
