@@ -176,6 +176,14 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
   whether to supply "things".
 - **Book II Ch VI, p187:** "No extra flourishes no learned language no
   specimen penmanship" comma-less list kept — rule whether to punctuate.
+- **Book II Ch X, p200:** "could hardly believe it, could be so much."
+  kept — likely a dropped "it"; rule.
+- **Book II Ch XII, p203/p205:** editorial "of" ("acres instead of feet")
+  and "she" ("When she learned...") supplied — confirm.
+- **Book II Ch XIII, p211:** "realy homey" → "really homey"; "real homey"
+  equally possible — rule.
+- **Book II Ch X, p198/p199:** "No-o-o," spacing normalization and
+  "Mr Rice" → "Mr. Rice" — confirm.
 
 ## Per-chapter corrections
 
@@ -868,3 +876,45 @@ Kept as voice (sample): "No extra flourishes no learned language..."
 anaphora, "beckoning the harvester to gather them in", "died with
 cholera", "He's a girl, of course", "He sniffled considerable",
 "Regular hours was what he needed.", era two-word forms.
+
+### Book II, Chapters X-XIII (pages 197-213)
+
+- p197 pencil-delete applied ("great fun"); "over step" → "overstep";
+  "alloted" → "allotted"; "throughtout" → "throughout"
+- p198 "know it" → "knew it"; stray period removed; "No-o-o," spacing
+  normalized (see REVIEW flags)
+- p199 "offerel" → "offered"; "decalred" → "declared"; "high peek" →
+  "high peak"; "nurishing" → "nourishing"; "Mr Rice" → "Mr. Rice" (see
+  REVIEW flags)
+- p200 "hardlybelieve" → "hardly believe"
+- p201 flu nested-quote knot repaired ("flue" → "flu"); "handling...
+  termometer" → "handing... thermometer"; pencil-delete applied;
+  "concious" → "conscious"
+- p203 "seige" → "siege"; "rambuncious" → "rambunctious"; interline
+  insertion applied; "instead of feet" (editorial "of", see REVIEW
+  flags); struck "was" + pencil "but" applied
+- p204 "mortgate" → "mortgage"; "at there real value" → "their"
+- p205 pencil edits applied ("that" dupe removed, "chummy"); "trainbround"
+  → "train bound"; "on thing" → "one thing"; "gomfortable" →
+  "comfortable"; editorial "she" (see REVIEW flags); typo cluster fixed
+- p206 "Boulder.Manitou" → "Boulder. Manitou"; "than and Realator" →
+  "than any Realtor"
+- p207 "believe its you" → "it's you"; "the land you mortgage is on" →
+  "your mortgage"
+- p208 "The onlyway" → "The only way"; question mark added
+- p209 "advertizing" → "advertising"; "peek in price" → "peak in price";
+  possessives ("days' work", p210 "weeks' observation", p212 "year's
+  time")
+- p210 pen corrections applied ("place. Little", "The boys"); "sloping"
+  → "slopping"; missing period added
+- p211 "mornful" → "mournful"; "realy" → "really" (see REVIEW flags)
+- p212 pencil-delete applied (duplicate "as if"); "(if ever), It" →
+  "(if ever). It"; stray quote removed; "possiblities" → "possibilities"
+- p213 pencil insert applied ("there, by the barn, stands her husband");
+  "carress" → "caress"; "adn" → "and"; "homest uprgith" → "honest
+  upright"; question mark added
+
+Kept as voice (sample): "Allie run a bill", "sat about" for "set about",
+"many many missing windows", "took desperately sick", "What would she
+do!", fragments, present-tense shifts, era capitals and two-word forms,
+"And she "Thanked God For a Garden!"".
