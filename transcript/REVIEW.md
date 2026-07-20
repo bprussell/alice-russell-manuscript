@@ -88,9 +88,6 @@ agents reading the image and finding it didn't match the transcript's
 described layout; both corrected in place, text was already accurate
 against the corrected orientation.
 
-- **page 217** — the typed page number is physically clipped by the
-  photograph's edge; "53" is the best inference from sequence but
-  unconfirmed.
 
 Added from batch 9 (pages 230–262, verified 2026-07-07). A poem-formatting
 bug was fixed on page 232 (Phase 1 had split a continuous 4-line Rubaiyat

@@ -6,7 +6,7 @@ image: pages/originals/page-217.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     53
@@ -47,9 +47,10 @@ enjoyed the sports of the day, too.
 ## Transcriber notes
 
 - The typed page number at top right is clipped by the edge of the
-  photograph; the visible portion is consistent with "53", which also
-  fits the sequence (52 before, 54 after). Flagged needs_review only for
-  confirming this number against the physical page.
+  photograph (the photo simply cuts it off — physical-page review
+  2026-07-08). Recorded as "53" by inference: the flanking sheets are
+  typed 52 and 54, and Book II's typed numbering runs exactly physical
+  minus 164 throughout. The visible digit bottoms are consistent.
 - Continues mid-sentence from page 216 ("..."I / will never peek at them
   again,"").
 - "of him before?"" (question mark where a period would go), "she
@@ -66,3 +67,6 @@ enjoyed the sports of the day, too.
   mark between the words; it reads as an ink speck with no clear letterform,
   left untranscribed. All other text, strikeovers, and typos confirmed
   accurate against the photo; no changes needed.
+- Resolved: 2026-07-08 — the page number didn't make it into the photo;
+  "53" stands as the sequence-inferred reading (unambiguous given the
+  flanking typed numbers 52 and 54). needs_review cleared.
