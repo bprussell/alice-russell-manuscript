@@ -80,9 +80,6 @@ was called an ordinary typewriter double-strike, but color-sampling
 elsewhere in this batch suggests it may actually be the same pencil
 correction — worth a second look when convenient, not urgent.
 
-- **page 179** — the "Johnnie" pencil corrections are confirmed in
-  spelling but their exact mechanism (pencil vs. typewriter) is less
-  certain here than on 176–178 (denser, warmer mark).
 - **page 181** — two struck characters in "Johnie"/"Johnnie" are
   illegible at the letter level (one confirmed blue pencil, one confirmed
   black typewriter ink) — the corrected spelling is confident, the

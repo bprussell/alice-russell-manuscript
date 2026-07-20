@@ -6,7 +6,7 @@ image: pages/originals/page-179.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     15
@@ -89,3 +89,7 @@ that's good, not a blot, not a stain on his character.
   surrounding double-quoted speech. needs_review left as true because the
   pencil-vs-typewriter mechanism for the "Johnnie" marks on this page is
   less certain than elsewhere (see note above).
+- Resolved: 2026-07-08 — per the author's great-grandson, the exact
+  writing instrument behind the "Johnnie" corrections is immaterial; the
+  corrected spelling is what matters and is already recorded. needs_review
+  cleared with no text changes.
