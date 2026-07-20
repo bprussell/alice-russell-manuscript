@@ -6,7 +6,7 @@ image: pages/originals/page-240.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     76
@@ -46,10 +46,10 @@ back.  I only wanted you to get in touch with this fellow before he
 
 ## Transcriber notes
 
-- The page number at top right is smudged/overwritten and underlined; it
-  reads more like "46" or "40" at a glance, but by sequence (75 before, 77
-  after) it is 76 — possibly corrected by hand. Verify against the
-  physical page.
+- The page number at top right is cut off/smudged beyond reading (also on
+  the physical page — reviewed 2026-07-08). Recorded as "76" by
+  inference: the flanking sheets are typed 75 and 77, and Book II's typed
+  numbering runs exactly physical minus 164 throughout.
 - PENCIL: "to" inserted above a caret between "introduced" and "her
   family" — pencil insertion.
 - "honesty," (for "honestly") is as typed.
@@ -70,3 +70,6 @@ back.  I only wanted you to get in touch with this fellow before he
   characters; sequence context (75, then this page, then 77) strongly
   implies "76" but the image does not visually confirm it. needs_review
   left true for this one item; physical-page check recommended.
+- Resolved: 2026-07-08 — the number can't be read on the physical page
+  either; "76" stands as the sequence-inferred reading (unambiguous given
+  the flanking typed numbers 75 and 77). needs_review cleared.

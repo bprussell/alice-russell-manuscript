@@ -100,6 +100,3 @@ were also found and marked on pages 240, 245, and 249.
   mark below "(By J.C. Wheeler)" at the sheet's bottom edge — is there
   another typed line below it on the physical page, or is it just an
   artifact?
-- **page 240** — the typed page number is blurred/smudged in the photo;
-  sequence context strongly implies "76" but it can't be visually
-  confirmed.
