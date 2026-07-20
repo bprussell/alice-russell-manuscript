@@ -156,6 +156,18 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
   kept — likely "notions"; rule.
 - **Book II Ch I/II:** "buggie"→"buggy" and "scotch"→"Scotch" applied —
   revert if letter-faithful forms preferred.
+- **Book II Ch III, p174:** five-dash flourish rendered as a `* * *`
+  scene separator (scene shifts) rather than an em dash — confirm.
+- **Book II Ch III, p177:** "Theirs was a made love" kept — possibly "a
+  mad love"; rule.
+- **Book II Ch III, p176:** "I think that will be real brittle" kept —
+  odd in context; rule.
+- **Book II Ch V, p185:** editorial "his" supplied ("go to his room") —
+  confirm.
+- **Book II Ch III, p178:** "at her cousins'" possessive apostrophe —
+  confirm (plural "cousins" also reads).
+- **Book II Ch IV, p183:** quoted reported-narration question kept quoted
+  as typed (same issue as Ch XIV p74) — rule.
 
 ## Per-chapter corrections
 
@@ -779,3 +791,46 @@ Kept as voice (sample): "remould", "tothood", "sociables", "they all
 come", "reined high", stutters, "milk man", diary-style fragments,
 "with the refusal of the two country schools", "Johnie" per global
 normalization.
+
+### Book II, Chapter III (pages 174-178)
+
+- p174 "summner" → "summer"; pencil "Mother dear" applied; "pagents" →
+  "pageants"; dash flourish rendered as scene separator (see REVIEW
+  flags)
+- p174/175/180 "herslef" typeovers → "herself"
+- p175 "complextion" → "complexion"; pencil "she" applied; struck
+  false-start "such" removed; "tonehad" → "tone had"; "devoure" →
+  "devour"; "goofl" → "good"; "carresses" → "caresses"
+- p176-178 pencil "n" inserts NOT applied per the Johnie global decision;
+  pencil dash applied; "quilty" → "guilty"; "fo visit" → "to visit";
+  pencil-delete "an" applied ("Thus avoiding explanations."); "at her
+  cousins'" (see REVIEW flags); question mark and comma-space fixes
+
+### Book II, Chapter IV (pages 179-184)
+
+- p179 "unvailing" → "unveiling"; pencil "pressed"/"into" applied
+- p180 "doubt.that." → "doubt that."; clean-typed "Johnnie" → "Johnie";
+  "enourh" → "enough"; pencil-delete "(good acting)" applied; "god
+  visit" → "good visit"; question mark added
+- p181 "madely" → "madly"; author's strikes → "Johnie" (twice);
+  "overcome her" → "overcame her"; rhetorical question marks;
+  "farthorest" → "farthest"; comma-as-period fixed
+- p182 "come to realize" → "came to realize"; "ones" → "one's" (twice);
+  "ingredience" → "ingredients"; "envolved" → "involved"
+- p183 "with out" → "without"; "No a trained" → "Not a trained";
+  question mark added
+- p184 "feated" → "feted"; "eligable" → "eligible"; blue-pencil
+  duplicate "in town" removed; "hwas" → "was"; struck "fs" removed
+
+### Book II, Chapter V (pages 185-186)
+
+- p185 READING LAYER applied: "a voice not at all familiar"; "to go to
+  his room" (editorial "his", see REVIEW flags); "want too" → "want to"
+- p186 "unconciousness" → "unconsciousness"; "him old self" → "his old
+  self"; blue-pencil margin insert applied ("They were merciless");
+  "emmotional" → "emotional"
+
+Kept as voice (sample): era two-word forms, "Her heart and mind was too
+full", "His heart sink.", "cry take me! take! and keep me", "drug him
+from the house", drunken dialect ("Dish", "kish", "Yer glad I come"),
+"the 'ologies", "don't it, Johnie?", "'Twas"/"'twould".
