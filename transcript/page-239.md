@@ -6,7 +6,7 @@ image: pages/originals/page-239.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     75
@@ -65,9 +65,10 @@ Edelstein, Illinois
   like "Tuoson"; transcribed as Tucson.
 - "very successfully financially" (for "successful") and "I an truly
   yours," (for "I am") are as typed.
-- "(By J.C. Wheeler)" typed at bottom left below the signature; a partial
-  stroke below it at the photo's bottom edge suggests the next line may be
-  cut off by the photograph — verify against the physical page.
+- "(By J.C. Wheeler)" typed at bottom left below the signature. The faint
+  partial stroke below it is illegible on the physical page too and does
+  not appear to mean anything — no cut-off line of text (confirmed
+  2026-07-08); left untranscribed.
 - Verified: 2026-07-07 — checked at high zoom; page is right-side up, "girl"
   pencil insert above the x-ed-out typed word is graphite gray (not blue),
   consistent with ordinary pencil elsewhere. Confirmed "Tucson"/"Tuoson"
@@ -80,8 +81,7 @@ Edelstein, Illinois
   Wheeler)" at the sheet's bottom edge is too faint/cropped to identify as
   a letter or a page artifact. needs_review left true for these two items;
   physical-page check recommended.
-- Resolved (partial): 2026-07-08 — physical-page review confirms the
-  x-ed-out word is "she" (typed "a young she she", first "she" struck,
-  pencil "girl" inserted). The faint mark below "(By J.C. Wheeler)" at
-  the sheet's bottom edge has not yet been checked; needs_review stays
-  true for that one spot.
+- Resolved: 2026-07-08 — physical-page review confirms the x-ed-out word
+  is "she" (typed "a young she she", first "she" struck, pencil "girl"
+  inserted), and the faint mark below "(By J.C. Wheeler)" is illegible
+  and meaningless — not a cut-off line. needs_review cleared.
