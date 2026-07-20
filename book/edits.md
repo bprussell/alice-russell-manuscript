@@ -90,6 +90,12 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
 - **Ch XIV, p74:** chapter-ending reported speech ("He hoped it wouldn't
   be his luck...") is quoted in the typescript though it is narration —
   rule whether to unquote.
+- **Ch XVI, p78:** "The expression on the faces of these people changed
+  but were non-committal" kept as typed — rule "were"→"was" or
+  "expression"→"expressions".
+- **Ch XVI, p78:** "getting through what she had undertaken" is a minimal
+  repair of "through,  What"; an alternative is a lost phrase — confirm.
+- **Ch XVI, p81:** "evening's entertainment" may also want "an" — rule.
 
 ## Per-chapter corrections
 
@@ -388,3 +394,34 @@ generous", stuttered "K-K-Kate", era two-word forms ("dutch cheese",
 Kept as voice (sample): "keep sake drawer", "on her tongue end",
 "we'ens", "it don't seem possible", "Peppy", "sat to thinking",
 narrative tense shifts, unquoted interior monologues.
+
+### Book I, Chapter XV (pages 75-77)
+
+- p75 "bye,bye" → "bye, bye"
+- p76 "progress/" → "progress?"; "themorning" → "the morning"; "spent
+  your time" → "spend your time"
+- p76 "possibilitie" → "possibilities" (final "s" restored — she ran out
+  of room at the line end; physical-page finding); nested quotes singled
+- p76 struck "but" removed; "beginners school" → "beginners' school";
+  quote repair
+- p77 "tht" → "that"; "its time" → "it's time"; pencil insert applied
+  ("beautiful lives—like yours"); quote repair
+
+### Book I, Chapter XVI (pages 78-82)
+
+- p78 "had began" → "had begun"; "audiance" → "audience"; question mark
+  added ("dare do it?"); "getting through,  What" → "getting through
+  what" (minimal continuation; see REVIEW flags)
+- p78 "not a hesitation overcome her" → "overcame her"
+- p79 "exlaimed" → "exclaimed"; blue-pencil deletions applied (doubled
+  "enough"; p80 "through the Park"); "Now she here" → "Now see here"
+- p79-81 possessive apostrophes ("evening's program", "Uncle's candy
+  store", "girl's head", "evening's entertainment")
+- p80/81 multi-paragraph quotation convention applied to the newspaper
+  article; appositive comma added ("Breen, dramatic instructor")
+- p81 "senseable" → "sensible"
+
+Kept as voice (sample): "could remember of laying awake", "'phone",
+"Goldie Locks", "tutorage", "convenienced them" (third global
+occurrence), narrator asides and present-tense passages, era two-word
+forms.
