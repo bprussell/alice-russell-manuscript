@@ -17,17 +17,30 @@ logged here as Phase 3 proceeds; global decisions are recorded up front.
   struck typed "Johnnie" back to "Johnie" twice (once in blue pencil),
   so "Johnie" reads as her settled choice.
 
-- **Book titles (decided 2026-07-08, with the author's great-grandson):**
-  the manuscript's original titles were erased by the author and are
-  permanently unrecoverable — Book I's title block on page 1 survives only
-  as the shape "_____ OF _____ SECRETS"; Book II's title lines on page 165
-  are entirely illegible. Physical recovery was attempted (verso reading,
-  all angles) without success while the manuscript was accessible. The
-  reading edition will carry **editor-composed titles** that fit the
-  books, and the **foreword will disclose** that the original titles were
-  erased and that these titles are the edition's one truly editorial
-  invention. (Titles themselves not yet chosen — to be drafted and agreed
-  during Phase 3/4.)
+- **Book titles (decided 2026-07-08/09, with the author's great-grandson):**
+  the manuscript's original titles were erased by the author. Both title
+  blocks share a three-line centered "X / OF / Y" shape.
+  - **Book I (page 1): "The Locket of Family Secrets" — composed.** The
+    erased block survives only as "_____ / OF / _____ SECRETS" (the "OF"
+    and "SECRETS" recovered by contrast enhancement; ghost-line width
+    shows a ~5-7 letter word preceded "SECRETS"; the first line is fully
+    lost). "The Locket" and "Family" are editorial choices fitted around
+    the recovered fragments — the locket being the story's literal vessel
+    of the Emmerson family's secrets. This is the edition's one truly
+    invented title element, to be disclosed in the foreword.
+  - **Book II (page 165): "The Heir of the Broken Chain" — reconstructed.**
+    During the physical-page review the family recovered partial letters
+    from the erased block: "____IR / __ / TH_ BR____ C__IN". The last
+    line reads "THE BROKEN CHAIN" letter-for-letter — matching the
+    manuscript's closing line ("The last link in the Emmerson chain was
+    broken.") and page 162's vow that the child "shall break this line of
+    weakness and shame." The first line's "...IR" ending fits "THE HEIR"
+    (and Allie is Emmerson's heir in the plot). "THE BROKEN CHAIN" is
+    treated as solidly recovered; "THE HEIR" as probable reconstruction.
+  - The **foreword will explain** both cases: the originals were erased,
+    Book II's title was substantially recovered from ghost impressions,
+    and Book I's was composed around its two recovered words — the
+    edition's one truly editorial invention.
 
 ## Per-page corrections
 

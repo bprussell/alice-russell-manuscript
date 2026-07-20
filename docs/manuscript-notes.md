@@ -36,19 +36,30 @@ The middle line reads **"OF"** with high confidence; the last line ends in
 "_____ OF _____ SECRETS" or "_____ / OF / SECRETS". The first line resists
 both photos at maximum enhancement.
 
-**Recovery outcome (2026-07-08):** while the physical manuscript was
-accessible, the family attempted recovery — reading the erased block from
-the back of the sheet and at all angles — without success, and the
-physical pages are no longer accessible, so the title is permanently
-unrecoverable beyond the "_____ OF _____ SECRETS" shape. (Book II's
-opening page, 165, carries a similar pair of erased/ghost title lines,
-equally unrecoverable.)
+**Recovery outcome (2026-07-08/09):** while the physical manuscript was
+accessible, the family attempted recovery of Book I's title — reading the
+erased block from the back of the sheet and at all angles — without
+success; the physical pages are no longer accessible, so Book I's title
+is permanently unrecoverable beyond the "_____ OF _____ SECRETS" shape
+(ghost-line width suggests a ~5-7 letter word preceded "SECRETS").
 
-**Editorial decision for the reading edition:** the reading edition will
-carry editor-composed titles that fit the books, and the foreword will
-explain that the original titles were erased and that these invented
-titles are the edition's one truly editorial contribution. Recorded in
-book/edits.md.
+**Book II's title, however, was substantially recovered.** Its erased
+block on page 165 shares the same three-line "X / OF / Y" shape, and a
+family reading of the ghost impressions recovered
+"____IR / __ / TH_ BR____ C__IN" — the last line reading **"THE BROKEN
+CHAIN"** letter-for-letter, which is the manuscript's own closing image
+("The last link in the Emmerson chain was broken.") and the fulfillment
+of page 162's vow ("He shall break this line of weakness and shame").
+The first line's "...IR" fits **"THE HEIR"** — and Allie is Emmerson's
+heir in the plot. Probable original: **"THE HEIR OF THE BROKEN CHAIN"**.
+
+**Titles for the reading edition (recorded in book/edits.md):**
+
+- Book I: **"The Locket of Family Secrets"** — composed around the
+  recovered "...OF ...SECRETS"; the edition's one truly editorial
+  invention, disclosed in the foreword.
+- Book II: **"The Heir of the Broken Chain"** — reconstruction from the
+  recovered letters ("THE BROKEN CHAIN" solid, "THE HEIR" probable).
 
 ## The story (as of pages 1–2)
 

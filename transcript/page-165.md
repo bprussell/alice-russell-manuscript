@@ -5,7 +5,7 @@ book: 2
 image: pages/originals/page-165.jpg
 has_pencil: true
 has_table: false
-illegible_spots: 2
+illegible_spots: 0
 needs_review: false
 ---
 
@@ -15,8 +15,9 @@ Mrs Alice Reynolds Russell
 Mt. Hawley Road
 Edelstein, Illinois
 
-⟦illegible — faint erased/offset centered line⟧
-⟦illegible — faint erased/offset centered line⟧
+⟦unclear: THE HEIR⟧
+⟦unclear: OF⟧
+⟦unclear: THE BROKEN CHAIN⟧
 
                               CHAPTER I
 
@@ -50,15 +51,20 @@ say "in the yard" of some more fortunate church member who possessed
 
 - First page of BOOK II: typed page numbering restarts at "1" (top right
   corner) and the page carries its own "CHAPTER I" heading.
-- Between the submission header and "CHAPTER I" are two very faint centered
-  ghost lines (a short one over a longer one) — an erased or offset-transfer
-  title block, unreadable even with contrast enhancement. Possibly the Book
-  II part-title. Flagged as two illegible spots. Physical recovery was
-  attempted by the family while the manuscript was accessible (back of
-  the sheet, all angles) without success, and the physical pages are no
-  longer accessible — permanently unrecoverable. The reading edition will
-  carry an editor-composed title, disclosed in the foreword (decision
-  2026-07-08, same as Book I's erased title on page 1).
+- Between the submission header and "CHAPTER I" sits Book II's **erased
+  title block**, a centered three-line stack in the same "X / OF / Y"
+  shape as Book I's (page 1). Partial letters were recovered from the
+  ghost impressions during the 2026-07-09 review (family reading of the
+  photo): "____IR / __ / TH_ BR____ C__IN". The third line reads
+  **"THE BROKEN CHAIN"** letter-for-letter — matching the manuscript's
+  closing line ("The last link in the Emmerson chain was broken.", page
+  288) and page 162's "He shall break this line of weakness and shame."
+  The first line's "...IR" ending fits **"THE HEIR"** (Allie is
+  Emmerson's heir in the plot); the middle line is "OF" by shape and by
+  parallel with Book I. Recorded as ⟦unclear⟧ readings: "THE BROKEN
+  CHAIN" solidly recovered, "THE HEIR" a probable reconstruction. The
+  reading edition uses "The Heir of the Broken Chain" (see
+  book/edits.md).
 - Pencil correction: typed "dity" is struck through in pencil and cursive
   "dirty" is written above it in the line "the cows, the hills, the dity
   dishes,".
@@ -84,7 +90,10 @@ say "in the yard" of some more fortunate church member who possessed
   with a possible "BOOK II" title, but not confident enough to transcribe);
   needs_review left true for that reason. Rest of page transcribed
   accurately, no other changes.
-- Resolved: 2026-07-08 — closed as permanently unrecoverable: physical
-  recovery was attempted without success and the manuscript is no longer
-  accessible. needs_review cleared; the ghost lines remain marked in the
-  text as the accurate archival record.
+- Resolved: 2026-07-08 — initially closed as unrecoverable after physical
+  recovery attempts failed.
+- Updated: 2026-07-09 — partial letters subsequently recovered from the
+  photo's ghost impressions (see the title-block note above): the two
+  formerly-illegible lines are now recorded as three ⟦unclear⟧ lines
+  reading "THE HEIR / OF / THE BROKEN CHAIN". illegible_spots reduced to
+  0 (readings are unclear-but-recorded rather than illegible).

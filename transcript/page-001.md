@@ -55,9 +55,12 @@ hear of such foolishness again.
   was attempted by the family while the manuscript was accessible (reading
   from the back of the sheet and at all angles) without success, and the
   physical pages are no longer accessible, so the title is permanently
-  unrecoverable beyond the "_____ OF _____ SECRETS" shape. The reading
-  edition will carry an editor-composed title, disclosed in the foreword
-  as the edition's one truly editorial invention (decision 2026-07-08).
+  unrecoverable beyond the "_____ OF _____ SECRETS" shape (ghost-line
+  width suggests a ~5-7 letter word preceded "SECRETS"). The reading
+  edition uses the composed title "The Locket of Family Secrets",
+  disclosed in the foreword as the edition's one truly editorial
+  invention (decided 2026-07-09; see book/edits.md). Book II's title, by
+  contrast, was substantially recovered — see page 165.
 - The two `-` marks in the left margin before the "Down in the pasture" and
   "What do you mean" paragraphs are transcribed as typed dashes, but they may
   be pencil paragraph marks. Verify against the physical page.
