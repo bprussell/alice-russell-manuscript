@@ -47,6 +47,10 @@ logged here as Phase 3 proceeds; global decisions are recorded up front.
 - **"convenience/convenienced" for "convince(d)" is KEPT as voice:** it
   occurs three times across the manuscript (pp24, 26, 79), consistently —
   the author's settled word, not a one-off slip.
+- **"Nanettezen" normalized (2026-07-20, dominant-form rule):** the
+  maid's name is typed four ways (Nanettezen 2x, Nanettzen/Nanettezon/
+  Nanettezan 1x each); the reading text uses "Nanettezen". Needs a match
+  in Chapter XXIV (p264).
 - **"Anna Bell" normalized (2026-07-20, dominant-form rule):** the
   child's mother's name is typed variously "Anna Bell"/"Annabell"/
   "Annabel"; the reading text uses "Anna Bell", the dominant form
@@ -204,6 +208,14 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
 - **Book II Ch XX, p242/p245:** "my dear husband," comma repositioning
   and the p245 supplied comma ("said Johnie, and Robert drove") —
   confirm both.
+- **Book II Ch XXV, p277:** "git up" → "get up" — a dialect-voice reading
+  is defensible; rule.
+- **Book II Ch XXV, p282/p284:** best-guess repairs "I gave up my whole
+  life" and "a few weak strains" — confirm.
+- **Book II Ch XXV, p283:** "how to diagnosis" kept — rule whether
+  "diagnose".
+- **Book II Ch XXV, p277:** "Oh, I did Frances." — reviewer may prefer
+  "I did, Frances." for the speaker turn; rule.
 
 ## Per-chapter corrections
 
@@ -1011,3 +1023,44 @@ Kept as voice (sample): "downed", "CERtainly", "he most rolled", "the
 lights was out", "four pair of", comma-before-capital rhythms (backed by
 the author's own p233 pencil comma), era two-word forms, the letter's
 era capitals.
+
+### Book II, Chapters XXV-XXVII (pages 271-288)
+
+- p271 "her maids arm" → "maid's"; "him old self" → "his"; "here lips" →
+  "her lips"; question mark repositioned
+- p272 "gasp" → "gasped"; pencil edits applied; "to," → "too,";
+  "character's" → "characters"; "Youwere" → "You were"; "Dosen't" →
+  "Doesn't"; quote repair
+- p273 "its been" → "it's been"; "any ones" → "any one's"; stray period
+  removed
+- p274 pencil edits applied ("As she slipped", "Each diamond
+  represents", "beautifully bound"); "cozy next" → "cozy nest"; "pined"
+  → "pinned"; "Francex" → "Frances"; "old times sake" → "old times'
+  sake"; quote repairs
+- p275 run-on split; comma-capital fixes
+- p276 "felling" → "feeling"; question mark added
+- p277 "Pheonix" → "Phoenix"; "sil bed suits" → "silk bed suits";
+  "irresistable" → "irresistible"; "Fr m" → "From"; "git up" → "get up"
+  (see REVIEW flags)
+- p278/279 stray hyphens removed; "I'LL" → "I'll"; doubled "on" removed;
+  "brough" → "brought"; appositive comma; quote conventions
+- p281 sentence-break and spacing repairs; "servants agreements" →
+  "servants' agreements"
+- p282 quote-pattern repairs; "clothes with love" → "clothed with love";
+  "inchristian" → "unchristian"; "I have up" → "I gave up" (see REVIEW
+  flags); "toher" → "to her"
+- p283 "My voiceI" → "My voice!"; stray comma removed
+- p284 "him jolly self" → "his jolly self"; "Parep'as" → "Parepa's";
+  "weak strained" → "weak strains" (see REVIEW flags); question mark
+  added
+- p285 "beamed,," → "beamed"; "Your's" → "Yours"; "ahs" → "as"; "doned"
+  → "donned"; sentence-break repair
+- p287 "personffied" → "personified"; "want her too." → "want her to.";
+  comma supplied
+- p288 "courtage" → "cortege"; "Reverantly" → "Reverently"; final page
+  order preserved (last-link line, quatrain, THE END)
+
+Kept as voice (sample): "never sang", "broach", "most thirty years",
+"perfume ladened air", Frances's shifting pronouns through the reunion
+(as typed, including the author's own pencil "As she slipped"), "It's
+better than to change to strangers.", era two-word forms.
