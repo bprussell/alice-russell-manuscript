@@ -98,6 +98,12 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
 - **Ch XVI, p81:** "evening's entertainment" may also want "an" — rule.
 - **Ch XVII, p83:** "real metal" kept (era variant of "mettle") — rule
   whether to modernize, alongside the "portraited" flag.
+- **Ch XXII, p114:** editorial "all" supplied ("know all there is to
+  know") — confirm.
+- **Ch XXII, p114:** "dar" kept — rule whether it is a slip for "dear".
+- **Ch XXII, p117:** "And it's a terrible one/" rendered "one!" — the
+  slash could equally be a period; rule.
+- **Ch XXII, p119:** "sector" kept — rule whether to emend to "segment".
 
 ## Per-chapter corrections
 
@@ -460,3 +466,26 @@ forms.
 Kept as voice (sample): "real metal" (see REVIEW flags), "two pair of
 eyes", "stage life don't appeal", "such young kids as us", "Some way I
 don't want to know", era two-word forms.
+
+### Book I, Chapter XXII (pages 114-119)
+
+- p114 "the.darkness" → "the darkness"; pencil-delete applied ("pressed
+  her lips to his."); "all" supplied in "know all there is to know" (see
+  REVIEW flags); quote repairs
+- p115 "greived" → "grieved"; struck duplicate "hoped" removed; pencil
+  applied ("forgive me"); "serged" → "surged"; "morning/" → "morning.";
+  quote repairs
+- p116 stray apostrophe dropped; question mark added; "He education" →
+  "His education"; "mothers" → "mother's"
+- p117 "com anion" → "companion"; pencil "ly" applied ("perfectly
+  legitimate compact"); "di dn't" → "didn't"; "hund round" → "hung
+  round"; "days program" → "day's program"; "one/" → "one!" (see REVIEW
+  flags)
+- p118 "splending" → "spending"; pencil "to" applied; "it's chared
+  crust" → "its charred crust"; multi-paragraph quote convention
+- p119 stray comma/slash dropped; pencil "in...ing" applied ("succeeding
+  in making"); "never know" → "never known"; "sincerety" → "sincerity"
+
+Kept as voice (sample): "dar" (see REVIEW flags), "took sick", "we'll
+soon be to the car track", "sector" (see REVIEW flags), "fore-mothers",
+era two-word forms, unquoted interior monologue.
