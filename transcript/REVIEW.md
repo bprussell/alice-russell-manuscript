@@ -80,9 +80,6 @@ was called an ordinary typewriter double-strike, but color-sampling
 elsewhere in this batch suggests it may actually be the same pencil
 correction — worth a second look when convenient, not urgent.
 
-- **page 184** — a "k" strike in "she kwas," has a weak, inconclusive
-  color signal (medium unconfirmed); a "hall" reading in "commotion in
-  the hall" is a faint, gapped best guess.
 - **page 185** — the final letter of "married" is a weak typed
   impression; "married" is the strong contextual guess but unconfirmed.
 - **page 194** — the first letter of "kiss" ("to kiss his wife") is

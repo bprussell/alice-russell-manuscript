@@ -6,7 +6,7 @@ image: pages/originals/page-184.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                     20
@@ -27,10 +27,10 @@ One thing she was  sure of, she would not marry anyone until after her
 school year was finished.
 
      That evening at the Club she came in for the usual "roasting" from
-the "gang".  They told her how sad she looked, how lonesome she k⟦pencil-delete⟧was,
+the "gang".  They told her how sad she looked, how lonesome she h⟦pencil-delete⟧was,
 how she had pined away these last few days for her Harold.
 
-     Finally there was a commotion in the ⟦unclear: hall⟧.  One of the boys got up
+     Finally there was a commotion in the hall.  One of the boys got up
 and hurried out.⟦strikeover: fs⟧
 
 ## Transcriber notes
@@ -46,23 +46,18 @@ and hurried out.⟦strikeover: fs⟧
   R/G, vs. this page's neutral-to-negative black typed ink) — a genuine
   blue pencil deletion, not typewriter or plain pen. ⟦pencil-delete⟧
   confirmed correct; has_pencil: true is accurate for this mark.
-- "she kwas," — the stray "k" is struck through with a similar straight
-  line, but color analysis here is much weaker/inconclusive (only a
-  slight, borderline shift over baseline, not the obvious blue of the
-  "in town" mark) — could be pencil or a pen/typewriter mark. Kept as
-  ⟦pencil-delete⟧ per the prior pass's reading, but medium is unconfirmed;
-  moved the marker to sit immediately after the struck "k" (was
-  previously mis-placed at the end of "kwas," in this file) — "was"
-  itself is not struck.
+- "she hwas," — she typed "hwas" (stray "h") and struck the "h",
+  correcting to "how lonesome she was". Confirmed against the physical
+  page (2026-07-08); the struck letter was previously read as "k". The
+  strike's medium is unconfirmed and immaterial.
 - Two stray characters after "hurried out." (read as "fs") are struck
   through; color analysis shows neutral/black ink, consistent with a
   typewriter strikeover (not pencil) — ⟦strikeover: fs⟧ confirmed
   correct. Exact letters remain uncertain.
 - "feated" (for "feted"), "eligable", and the double space in "she was
   sure of" are as typed.
-- "in the hall" — the word "hall" is faintly struck with a gap ("ha ll");
-  color analysis shows neutral/black ink (not pencil). Best guess "hall"
-  still stands; flagged unclear.
+- "in the hall" — the word printed faintly with a gap ("ha ll") but reads
+  "hall"; confirmed against the physical page (2026-07-08).
 - Verified: 2026-07-07 — fresh look at all four flagged marks per prior
   pass's has_pencil:true. Confirmed the "in town" strike is genuine blue
   pencil (high-confidence color evidence) and the "hurried out.fs" and
@@ -73,3 +68,6 @@ and hurried out.⟦strikeover: fs⟧
   after the (unstruck) period, and the "kwas," marker had drifted to the
   end of the word instead of sitting after the struck "k"; both now sit
   immediately after the actual struck text with no other content change.
+- Resolved: 2026-07-08 — physical-page review: the struck letter in
+  "hwas" is an "h" (not "k"), corrected to "was"; and "commotion in the
+  hall" is confirmed correct. Text updated, needs_review cleared.
