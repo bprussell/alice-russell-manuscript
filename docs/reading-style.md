@@ -91,6 +91,12 @@ page 248 omitting struck "info"). Apply them exactly and log them.
   em dashes (—); trailing dash-flourishes at speech ends become an em
   dash.
 - Straight quotes may remain straight (typesetting phase will smart-quote).
+- Terminal commas and periods go INSIDE closing quotation marks (standard
+  American style) even where the typescript places them outside; add the
+  conventional comma before a dialogue attribution where the typescript
+  omits it ("...child," her mother would say).
+- The typewriter-composed exclamation mark (apostrophe over/beside a
+  period, e.g. `Oh'.`) is rendered as "!".
 
 ## Logging
 

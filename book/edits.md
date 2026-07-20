@@ -87,4 +87,61 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
 
 Kept as voice (sample): "'till", "'cross", "surry", "pippin'", "most
 anything", "use to say", "hard-tack", "over night", "Mrs" without period,
-comma-outside-quote dialogue style, "there was several years".
+"there was several years". (Comma-outside-quote punctuation was initially
+kept, then normalized to inside-quotes when that became the global
+typography rule — 12 instances updated.)
+
+### Book I, Chapter II (pages 8-21)
+
+- p8 "Chaper II" → "Chapter II"
+- p8 "Parepa Roza" → "Parepa-Roza" (hyphen normalization)
+- p8 missing space in `"I won't,"promised` added
+- p8 "pretty think" → "pretty thing"
+- p8 "homliest" → "homeliest"
+- p8 "spitoon" → "spittoon" (and passim)
+- p9 "happines" → "happiness"
+- p9 "yyou'll" → "you'll" (blue-pen deletion applied)
+- p9 "boke" → "broke"
+- p9/p10 duplicated "a" across the page break removed
+- p10 "causal" → "casual"
+- p10 "eh. Kate?" → "eh, Kate?"
+- p11 typewriter-struck "never" removed
+- p11 "them turning" → "then turning"
+- p11 "sliped" → "slipped"
+- p11 stray closing quote after "our girl." removed
+- p11 "ker-bump" retained with its expressive hyphen
+- p12 "I8d" → "I'd" (8 typed for apostrophe)
+- p12 "I really an pretty" → "I really am pretty"
+- p12 "trimed" → "trimmed"
+- p13 "shrud" → "shrewd"
+- p13 "Katehadn't" → "Kate hadn't"
+- p13 "fune" → "fun"
+- p13 "Francis" → "Frances" (twice; name normalization)
+- p14 "washerself" → "was herself"; "he'sreal" → "he's real"
+- p14 "she know that misery" → "she knew"
+- p14 "surmized" → "surmised"
+- p15 "neice" → "niece"
+- p15 "wandered" → "wondered"
+- p15 typewriter-struck "too" removed; "though,after" → "though, after"
+- p16 `"Oh'.` → `"Oh!` (typewriter-composed exclamation)
+- p16 stray quote cluster around "Parepa's first." repaired
+- p16 "grabed" → "grabbed"
+- p16 "champaign" → "champion" (erasure + blue-pen "o" applied)
+- p17 "hecould" → "he could"; "etc.." → "etc."
+- p17 "I8ll. get" → "I'll get"
+- p17 closing quote added after "just because one did,"
+- p18 "horses feet" → "horses' feet"
+- p18 "haven't seem them" → "haven't seen them"
+- p18 `Scamper". she ventured` → `Scamper," she ventured`
+- p18 "out putt" → "out pull"
+- p19 closing quote added after "make up this quartet."
+- p20 "gave a big gap" → "gave a big gape" (yawn sense intended)
+- p20 "cooll" → "cool" (blue-pen deletion applied)
+- p21 "the days happenings" → "the day's happenings"
+
+Kept as voice (sample): "sometime", "most fell off" (most = almost),
+"Never-the-less", era two-word forms ("bath room", "bed room", "wash
+cloth", "dish washers"), "Pepper-Rosie", "Splash she slipped", "CRYSTAL."
+emphasis capitals, "surries", "wifie", "big big day", the drowsy
+"to--m--o--rr--ow", "couldn't remember of ever having". "Then I think I
+hear Uncle George" kept as typed (possibly "There", unconfirmed).

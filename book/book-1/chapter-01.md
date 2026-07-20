@@ -2,7 +2,7 @@
 
 "Alice Parepa-Roza, where have you been and what have you been doing?" said John Wesley, the stern father of the house of Wesley.
 
-"Down in the pasture", returned the tawny haired, freckled-faced, dimple cheeked, ten-year old, in question.
+"Down in the pasture," returned the tawny haired, freckled-faced, dimple cheeked, ten-year old, in question.
 
 "What do you mean by staying out in the pasture 'till this time of night? We've had supper two hours ago and you don't get any. I asked you what were you doing?"
 
@@ -12,31 +12,31 @@
 
 Parepa-Roza some way couldn't make herself feel as if she were being punished because the memory of having spent the afternoon "just as she wished" was recompense enough for the supper she missed.
 
-This child liked to be alone with her thoughts and would work hard and long if only she were promised a few hours to spend "as she liked". She always "liked" to be alone. Never once would she choose to visit her playmates if she had her way.
+This child liked to be alone with her thoughts and would work hard and long if only she were promised a few hours to spend "as she liked." She always "liked" to be alone. Never once would she choose to visit her playmates if she had her way.
 
-"I can't understand the child" her kind mother would say, and her father would add, "she's an odd one. Smart as a whip but so different from the others".
+"I can't understand the child," her kind mother would say, and her father would add, "she's an odd one. Smart as a whip but so different from the others."
 
 She was a beautiful child despite her freckles, chubby form, and curly reddish hair.
 
-It was the custom of her parents to go each Saturday afternoon to Chillicothe, a small town some miles distant, to do the family trading and "take in the produce of the farm to exchange for necessities". The rule was that one of the six children of the household was to go with them, by turns, each week.
+It was the custom of her parents to go each Saturday afternoon to Chillicothe, a small town some miles distant, to do the family trading and "take in the produce of the farm to exchange for necessities." The rule was that one of the six children of the household was to go with them, by turns, each week.
 
 Parepa-Roza seldom cared to go but would give her "turn" to an older sister, whose hobby was going to town, whom she liked to get off the place thus assuring her a better chance to do the things she could "put over" better when this watchful bossy "big sister" was out of hearing and seeing distance.
 
 Many times Parepa-Roza would watch until the old "rig" drawn by two old gray horses was well out of sight over the "big hill" before she would venture to try out some coveted "stunt" which had been brewing in her mind since the last Saturday.
 
-One day it was to climb high up a tall maple tree and out on a slender limb that would swing and dip and sway in the breeze. She imagined herself a bird, maybe an eagle, or maybe an oriole. Any way she was *always* something that she wasn't. "Oh, if I were only a boy. God made a great mistake", she would say. Another time it was the big swing made of hay rope that hung from the tops of two maples. If one dared try they could swing so high they could see clear over the "big hill". "One" did try real often when the folks had gone to town. Though the rule was no one was to swing past the fence.
+One day it was to climb high up a tall maple tree and out on a slender limb that would swing and dip and sway in the breeze. She imagined herself a bird, maybe an eagle, or maybe an oriole. Any way she was *always* something that she wasn't. "Oh, if I were only a boy. God made a great mistake," she would say. Another time it was the big swing made of hay rope that hung from the tops of two maples. If one dared try they could swing so high they could see clear over the "big hill". "One" did try real often when the folks had gone to town. Though the rule was no one was to swing past the fence.
 
 Then that old trunk in the attic that Dad had before he was married. What a store of things there was in that to be investigated. Parepa knew some of them: the hard-tack like Papa had to eat when in the Civil War, one of Grandma's dresses with fringe on it, an old bracelet, some red and silver glass vases, Mamma's school children had given her, and Oh, Papa's and Mamma's love letters, and so many things that she had seen but never really *felt* with her own hands. She knew the key was kept in the old Seth Thomas Clock which stood on the shelf in the dining room, where no one was supposed to even look for anything.
 
 She never took anyone into her confidence. Always choosing to be alone she was exceptionally fortunate in not being caught for she planned well and took no risks.
 
-She had few real chums at school for she held strictly to the rule of "Friendly with all, but familiar with few". Everybody liked her and would gladly have been a pal, if not her slave, had they gotten any encouragement. She lived a distance of a mile from school and so fond was she of her own company that when she had an especially interesting subject to work out would miss a spelling word or two so she would be kept after school until the other children were well on their way home.
+She had few real chums at school for she held strictly to the rule of "Friendly with all, but familiar with few." Everybody liked her and would gladly have been a pal, if not her slave, had they gotten any encouragement. She lived a distance of a mile from school and so fond was she of her own company that when she had an especially interesting subject to work out would miss a spelling word or two so she would be kept after school until the other children were well on their way home.
 
 It was not always mischief that was on this child's mind. Often questions arose that were almost incredible for such a young mind. She invariably chose to figure the answers out for herself.
 
 She was a very attentive church goer, never missing a meeting 'though she with the other five Wesleys usually had to walk a mile each way unless some kind neighbor offered them a ride in their surry, as was often the case.
 
-They liked to question this young girl for when she answered, as one neighbor said of her, "she always says something".
+They liked to question this young girl for when she answered, as one neighbor said of her, "she always says something."
 
 She grew finally to a beautiful girl of fourteen. When she finished grade school the question arose in the family just what was best to do with her. There were two sisters and one brother older and one brother and sister younger than she. The family finances, which were never quite equal to the demand, were insufficient to send her to high school. Any way she didn't care to go to high school, she wanted to earn while she learned.
 
@@ -58,7 +58,7 @@ Uncle George was so surprised he hardly knew what to say. Finally he said, "Of c
 
 "You're pretty young, my girl, but I'll see what can be done about it."
 
-This was enough of a promise for now. Parepa-Roza could wait now that the subject was broached. But all the way to the city she kept her thoughts on her "job".
+This was enough of a promise for now. Parepa-Roza could wait now that the subject was broached. But all the way to the city she kept her thoughts on her "job."
 
 Finally Uncle George broke in with, "Now, just what do you think you could do in a big city?"
 
@@ -70,12 +70,12 @@ For a long way they rode in silence. Finally he drew up the reins at a farm hous
 
 Mrs Jackson came out to the wagon for some coffee which she declared they were out of and on seeing Parepa sitting on the seat said, "Well, where did you get the girl? Did someone trade her in on coffee and spices?"
 
-"No, that's my girl", said Uncle George.
+"No, that's my girl," said Uncle George.
 
 Parepa didn't correct him for she had begun to imagine herself as partly Uncle George's girl anyway and was so hungry for some dinner and a rest from riding that the small matter of who she belonged to was nothing in comparison.
 
 Mrs Jackson called to her seventeen year old daughter to show Parepa where she could "wash up" and at once they were chattering away like they had always known each other. At the dinner table Mrs Jackson said, "I should judge your girl and our Ruth are about the same age, Ruth's sixteen."
 
-"Just about", said Uncle George and changed the subject. Score one, thought Parepa-Roza. "From now on I'm sixteen".
+"Just about," said Uncle George and changed the subject. Score one, thought Parepa-Roza. "From now on I'm sixteen."
 
 The meal progressed with the usual bantering and jokes between Uncle George and Mrs Jackson. Parepa-Roza was quiet. She had "reclined within herself" as big brother use to say when she closed her mouth and ears to those around her. After Mrs Jackson had traded in her "tea tickets" for a kettle and a tin cup the two mounted the seat and were off on their last stretch homeward.
