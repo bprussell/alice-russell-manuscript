@@ -6,7 +6,7 @@ image: pages/originals/page-165.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 2
-needs_review: true
+needs_review: false
 ---
 
                                                                     1
@@ -53,7 +53,12 @@ say "in the yard" of some more fortunate church member who possessed
 - Between the submission header and "CHAPTER I" are two very faint centered
   ghost lines (a short one over a longer one) — an erased or offset-transfer
   title block, unreadable even with contrast enhancement. Possibly the Book
-  II part-title. Flagged as two illegible spots.
+  II part-title. Flagged as two illegible spots. Physical recovery was
+  attempted by the family while the manuscript was accessible (back of
+  the sheet, all angles) without success, and the physical pages are no
+  longer accessible — permanently unrecoverable. The reading edition will
+  carry an editor-composed title, disclosed in the foreword (decision
+  2026-07-08, same as Book I's erased title on page 1).
 - Pencil correction: typed "dity" is struck through in pencil and cursive
   "dirty" is written above it in the line "the cows, the hills, the dity
   dishes,".
@@ -79,3 +84,7 @@ say "in the yard" of some more fortunate church member who possessed
   with a possible "BOOK II" title, but not confident enough to transcribe);
   needs_review left true for that reason. Rest of page transcribed
   accurately, no other changes.
+- Resolved: 2026-07-08 — closed as permanently unrecoverable: physical
+  recovery was attempted without success and the manuscript is no longer
+  accessible. needs_review cleared; the ghost lines remain marked in the
+  text as the accurate archival record.

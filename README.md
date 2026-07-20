@@ -38,7 +38,10 @@ annotation conventions used in the verbatim transcripts.
       orientation-verified page-by-page)
 - [x] Phase 1 — Verbatim transcription (288/288 pages)
 - [x] Phase 2 — Verification pass (288/288 pages verified against source
-      photos. ~50 pages retain a genuinely unresolved ambiguity that only
-      the physical manuscript can settle — see transcript/REVIEW.md)
+      photos, and the ~50-item review queue subsequently worked to zero in
+      a physical-page review with the family — see transcript/REVIEW.md.
+      The two erased book titles are permanently unrecoverable; the
+      reading edition will carry editor-composed titles, disclosed in the
+      foreword — see book/edits.md)
 - [ ] Phase 3 — Edited reading text
 - [ ] Phase 4 — Typesetting and print PDF

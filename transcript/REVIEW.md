@@ -1,29 +1,32 @@
-# Review queue
+# Review queue — CLOSED (all items resolved)
 
-Pages where a verification pass compared the transcript against the source
-photo and confirmed the transcript is as accurate as it can be made from the
-photo alone — but a genuine ambiguity remains that only the physical
-manuscript page can resolve.
+Pages where the Phase 2 verification pass confirmed the transcript was as
+accurate as it could be made from the photo alone, but a genuine ambiguity
+remained that only the physical manuscript page could resolve.
 
-**Phase 2 is now complete: all 288 pages have been verified (2026-07-05
-through 2026-07-07), starting with a 33-page pilot and proceeding through
-nine further batches.** The list below is everything that remains
-unresolved from the photos alone. Along the way, verification also caught
-and fixed a number of Phase 1 errors unrelated to physical ambiguity —
-most notably several places where an authorial typo had been silently
-"corrected" back to standard spelling (a violation of the archival
-verbatim principle, now fixed in each case) and two page photos
-(224, 226) that were still upside down despite the Phase 0 orientation
-pass. See the per-page Transcriber notes for full detail on any fix.
+**Phase 2 completed 2026-07-07: all 288 pages verified** (33-page pilot
+plus nine further batches). **The review queue itself was then worked to
+zero (2026-07-08) in a physical-page review with the author's
+great-grandson**: every queued ambiguity was checked against the physical
+manuscript and resolved in the corresponding transcript file (see each
+page's "Resolved:" transcriber note). The final two items — the erased
+title blocks on pages 1 (Book I) and 165 (Book II) — were closed as
+**permanently unrecoverable**: physical recovery was attempted (reading
+from the back of the sheet, at all angles) without success, and the
+physical pages are no longer accessible. The reading edition will carry
+editor-composed titles, disclosed in the foreword as the edition's one
+truly editorial invention (see book/edits.md).
 
-- **page 1** — the erased title block above "Chaper I" has two lines
-  readable at best-guess (`OF` / `...SECRETS`); the top line remains
-  completely unrecoverable from the photo. Needs a raking-light photo of
-  the physical page (see docs/manuscript-notes.md).
-- **page 165** — two faint ghost-impression lines above "CHAPTER I" (Book
-  II's opening page) are illegible; a shape resembling "II" is faintly
-  visible at the end of the second line, possibly a "BOOK II" title
-  fragment.
+Along the way, verification also caught and fixed a number of Phase 1
+errors unrelated to physical ambiguity — most notably several places
+where an authorial typo had been silently "corrected" back to standard
+spelling (a violation of the archival verbatim principle, now fixed in
+each case) and two page photos (224, 226) that were still upside down
+despite the Phase 0 orientation pass. See the per-page Transcriber notes
+for full detail on any fix.
+
+The batch-by-batch process notes below are kept as a historical record of
+cross-page patterns discovered during verification.
 
 Added from batch 2 (pages 2–34, verified 2026-07-06). This batch also
 surfaced a recurring **blue-pencil correction habit** — several marks

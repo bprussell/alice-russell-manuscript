@@ -17,6 +17,18 @@ logged here as Phase 3 proceeds; global decisions are recorded up front.
   struck typed "Johnnie" back to "Johnie" twice (once in blue pencil),
   so "Johnie" reads as her settled choice.
 
+- **Book titles (decided 2026-07-08, with the author's great-grandson):**
+  the manuscript's original titles were erased by the author and are
+  permanently unrecoverable — Book I's title block on page 1 survives only
+  as the shape "_____ OF _____ SECRETS"; Book II's title lines on page 165
+  are entirely illegible. Physical recovery was attempted (verso reading,
+  all angles) without success while the manuscript was accessible. The
+  reading edition will carry **editor-composed titles** that fit the
+  books, and the **foreword will disclose** that the original titles were
+  erased and that these titles are the edition's one truly editorial
+  invention. (Titles themselves not yet chosen — to be drafted and agreed
+  during Phase 3/4.)
+
 ## Per-page corrections
 
 (To be filled in during Phase 3. Individual reading-layer notes recorded

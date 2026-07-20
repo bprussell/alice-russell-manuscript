@@ -36,19 +36,19 @@ The middle line reads **"OF"** with high confidence; the last line ends in
 "_____ OF _____ SECRETS" or "_____ / OF / SECRETS". The first line resists
 both photos at maximum enhancement.
 
-**Recovery options for the physical page:**
+**Recovery outcome (2026-07-08):** while the physical manuscript was
+accessible, the family attempted recovery — reading the erased block from
+the back of the sheet and at all angles — without success, and the
+physical pages are no longer accessible, so the title is permanently
+unrecoverable beyond the "_____ OF _____ SECRETS" shape. (Book II's
+opening page, 165, carries a similar pair of erased/ghost title lines,
+equally unrecoverable.)
 
-1. **Raking light photo.** In a dark room, hold a flashlight nearly flat
-   against the page surface, shining across the erased area from the side,
-   and photograph straight down, close up. Typewriter keys dent the paper;
-   erasing removes ink but not the dents, and shallow side-light throws them
-   into shadow. Try light from two or three directions.
-2. **The back of the page.** The same dents emboss through; a raking-light
-   photo of the verso (which will read mirror-image) sometimes shows erased
-   lines more clearly than the front.
-3. **Look for the title elsewhere.** Boxes of submitted manuscripts often
-   held a separate title page or cover letter, and authors sometimes typed
-   the title on the last page or on the box lid.
+**Editorial decision for the reading edition:** the reading edition will
+carry editor-composed titles that fit the books, and the foreword will
+explain that the original titles were erased and that these invented
+titles are the edition's one truly editorial contribution. Recorded in
+book/edits.md.
 
 ## The story (as of pages 1–2)
 

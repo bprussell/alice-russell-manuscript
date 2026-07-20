@@ -6,7 +6,7 @@ image: pages/originals/page-001.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 1
-needs_review: true
+needs_review: false
 ---
 
 Submitted by:
@@ -51,9 +51,13 @@ hear of such foolishness again.
 - Between the header and the chapter heading sits the book's **erased
   title**: a centered three-line stack. Contrast enhancement of both photos
   recovers the middle line as "OF" and the last line as ending in "SECRETS";
-  the first line is unreadable in the available photos. See
-  docs/manuscript-notes.md for recovery options (raking-light photo of the
-  spot, or of the back of the page).
+  the first line is unreadable in the available photos. Physical recovery
+  was attempted by the family while the manuscript was accessible (reading
+  from the back of the sheet and at all angles) without success, and the
+  physical pages are no longer accessible, so the title is permanently
+  unrecoverable beyond the "_____ OF _____ SECRETS" shape. The reading
+  edition will carry an editor-composed title, disclosed in the foreword
+  as the edition's one truly editorial invention (decision 2026-07-08).
 - The two `-` marks in the left margin before the "Down in the pasture" and
   "What do you mean" paragraphs are transcribed as typed dashes, but they may
   be pencil paragraph marks. Verify against the physical page.
@@ -73,3 +77,8 @@ hear of such foolishness again.
   completely unrecoverable and "OF" / "...SECRETS" on the other two lines
   are the most that can be made out — needs_review left true since the
   title is still not fully legible.
+- Resolved: 2026-07-08 — closed as permanently unrecoverable: physical
+  recovery was attempted without success and the manuscript is no longer
+  accessible (see the title note above for the reading-edition plan).
+  needs_review cleared; the illegible title line remains marked in the
+  text as the accurate archival record.
