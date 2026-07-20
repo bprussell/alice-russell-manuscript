@@ -47,6 +47,11 @@ logged here as Phase 3 proceeds; global decisions are recorded up front.
 - **"convenience/convenienced" for "convince(d)" is KEPT as voice:** it
   occurs three times across the manuscript (pp24, 26, 79), consistently —
   the author's settled word, not a one-off slip.
+- **"Anna Bell" normalized (2026-07-20, dominant-form rule):** the
+  child's mother's name is typed variously "Anna Bell"/"Annabell"/
+  "Annabel"; the reading text uses "Anna Bell", the dominant form
+  (including her signature "Anna Bell Emmerson" on p124), following the
+  same dominant-form normalization already applied to Johnie/Slay.
 - **"surry/surries" → "surrey/surreys" (decided 2026-07-09, reviewer):**
   initially kept as an era variant, but "surrey" is the correct spelling
   of the carriage; corrected wherever it appears (pp37-area of ch. I,
@@ -117,6 +122,16 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
 - **Ch XXVI, p146:** chapter-ending two paragraphs treated as one
   continuing Parepa speech (typescript omits the closing quote) —
   confirm.
+- **Ch XXIII, p122:** "I felt for Germany" → "I left for Germany"
+  (departure verb required) — confirm; and "(child though he seems) is
+  better posted" kept, possibly missing "he" — rule.
+- **Ch XXIV, p126:** "as few of the facts" → "a few of the facts" —
+  confirm.
+- **Ch XXIV, p128:** "roughish glance" → "roguish glance" — confirm.
+- **Ch XXIV, p131:** broken '"Frances—" she hesitated—' dash treatment —
+  confirm.
+- **Ch XXIV, p133:** "wish you your happiness. I'm sure." kept — rule
+  whether "happiness, I'm sure." was intended.
 
 ## Per-chapter corrections
 
@@ -606,3 +621,46 @@ Kept as voice (sample): "hankerin", "never-the-less", "Yer Aunt Kate",
 interior monologues with present-tense shifts, "most noon", play-script
 Joseph—/Parepa— dialogue rendered with speaker labels (see REVIEW
 flags).
+
+### Book I, Chapter XXIII (pages 120-124)
+
+- p120 "o8clock" → "o'clock"; "came her was" → "came here was"; question
+  mark added
+- p121 quote repairs; "a Vacation" → "a vacation"; "errant" → "errand";
+  "for sometime" → "for some time"
+- p122 "diver.after" → "diver after"; "mother guardian" → "mother's
+  guardian"; "my fathers" → "my father's"; "I felt for Germany" → "I
+  left for Germany" (see REVIEW flags); pencil parentheses applied
+- p123 "her's" → "hers"; comma-strike applied ("locket,"); "mightly" →
+  "mightily"; "Glascoe" → "Glasgow" (also p124); inscription nested
+  quotes singled
+- p124 stray ordinal periods; "give u p" → "give up"; "your's" →
+  "yours"; "Ianswered" → "I answered"; pencil applied ("opened"); "I
+  know" → "I knew"; multi-paragraph quote convention for Mr. Wheeler's
+  story
+
+### Book I, Chapter XXIV (pages 125-133)
+
+- p125 "personel" → "personnel"; "cattered" → "catered"; "Britian" →
+  "Britain"; stray period/apostrophe fixes
+- p126 READING LAYER applied: the two overlapped typed lines restored in
+  sequence (the locket question and Mr. Wheeler's answer); "effect" →
+  "affect"; "executized" → "executed"; "as few of the facts" → "a few of
+  the facts" (see REVIEW flags); "Parep's" → "Parepa's"; "death.." →
+  "death."; quote normalizations
+- p127 "tranger" → "stranger"; "two years training" → "two years'
+  training"
+- p128 pencil edits applied ("can afford", "my share"); "scrubing" →
+  "scrubbing"; "coily" → "coyly"; "roughish" → "roguish" (see REVIEW
+  flags); "c atted" → "chatted"; "mischieveously" → "mischievously"
+- p129-130 missing spaces after commas; parenthesis repaired; quote
+  repairs; "want too" → "want to"; "Its" → "It's"; "don'tyou" → "don't
+  you"; "fallin love" → "fall in love"; single-quote resumptions doubled
+- p131 "bound b  any" → "bound by any"; broken "Frances—" line repaired
+  with dashes (see REVIEW flags)
+- p133 stray period removed
+
+Kept as voice (sample): "It Shall be—it shall be!", "not much-e-e-e",
+"Wasn't those funny dreams", "claw over the hotel salads", "can't
+remember of having", "Ye Gods!", era two-word forms, case quirks ("let
+he or Parepa").
