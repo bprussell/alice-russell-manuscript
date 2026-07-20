@@ -42,11 +42,49 @@ logged here as Phase 3 proceeds; global decisions are recorded up front.
     and Book I's was composed around its two recovered words — the
     edition's one truly editorial invention.
 
-## Per-page corrections
+## Global typography (applied throughout, not logged per instance)
 
-(To be filled in during Phase 3. Individual reading-layer notes recorded
-in transcript files during the review pass — e.g. page 60 "seen"→"scene,",
-page 126 restoring the overlapped locket question, page 248 omitting the
-struck "info" — are marked with "READING LAYER" or "reading layer" in
-their Transcriber notes and should be swept into this log when the
-reading text is built.)
+Line breaks unwrapped and ⟦hyphen⟧ words rejoined; all ⟦…⟧ markers
+resolved per docs/reading-style.md; double spaces collapsed; typed
+underlines → italics; " - "/" -- " parenthetical dashes → em dashes;
+speech-end dash flourishes → em dash; per-page headers, page numbers and
+"Submitted by:" blocks dropped.
+
+## Per-chapter corrections
+
+### Book I, Chapter I (pages 1-7)
+
+- p1 "Chaper I" → "Chapter I"
+- p1 "sterm" → "stern"
+- p1 "dimple checked" → "dimple cheeked"
+- p1 two left-margin typed dashes before dialogue paragraphs dropped
+  (typed paragraph marks, non-textual)
+- p1 "of night?," → "of night?"
+- p1 "skyuntil" → "sky until"
+- p1 missing closing quote after "foolishness again." added
+- p2 "redish" → "reddish"
+- p3 "alwayssomething" → "always something"
+- p3 "poas" → "past" (pencil correction applied)
+- p3 "and old bracelet" → "an old bracelet"
+- p4 "highschool" → "high school"
+- p4 "two weeks trip" → "two weeks' trip"
+- p5 "several years difference" → "several years' difference"
+- p5 "advise" → "advice"
+- p5 "upper most" → "uppermost"
+- p5 "surprize(d)" → "surprise(d)" (and passim)
+- p5 "calpped" → "clapped"
+- p6 "Your not sixteen" / "Your pretty young" → "You're..."
+- p6 "seveteen." she said → "seventeen," she said
+- p6 "neccesities" → "necessities"
+- p6 missing period after "no extras for anyone" added
+- p6 "Nice little think too" → "Nice little thing too"
+- p6 "they road in silence" → "they rode in silence"
+- p7 "bid Uncle George" → "said Uncle George" (typed "bid" is a slip for
+  "said" per transcriber note; confirmed)
+- p7 "I should just your girl" → "I should judge your girl" ("just" a
+  finger-slip for "judge"; confirmed — the sentence parses as "I should
+  judge [that] your girl and our Ruth are about the same age")
+
+Kept as voice (sample): "'till", "'cross", "surry", "pippin'", "most
+anything", "use to say", "hard-tack", "over night", "Mrs" without period,
+comma-outside-quote dialogue style, "there was several years".
