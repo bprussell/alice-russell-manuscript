@@ -6,7 +6,7 @@ image: pages/originals/page-107.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   105
@@ -19,7 +19,7 @@ what I mean, with money you know.  It's expensive, traveling for ones
 health, you know.  I'd love to foot the bills, just as friend to friend."
      "No indeed" and she sat up straight as if insulted.  "Uncle George
 hasn't a lot saved up but we'll manage some way - thank you, though."
--    Frances said no more but if Parepa only knew that he reaped his
+     Frances said no more but if Parepa only knew that he reaped his
 happiness from the goof his gift of gold did people.  His whole life was
 dedicated to helping wherever he could, those less fortu⟦unclear: n⟧ate in this
 world's goods.  He wished from the bottom of his heart he dared to leave
@@ -48,11 +48,12 @@ funny, though?"
 
 - Typed page number "105" at top right.
 - The "y" of "Submitted by:" failed to print; marked unclear.
-- A short dash sits in the left margin before the "Frances said no more"
-  paragraph, transcribed as a typed dash; like the marks on page 1 it may
-  be a pencil paragraph mark — verify against the physical page (hence
-  needs_review). A small stray mark also sits above "and she sat" in the
-  "No indeed" line; it does not appear to be a legible pencil character.
+- The short mark in the left margin before the "Frances said no more"
+  paragraph is a paper fiber or stray pencil scuff with no meaning —
+  confirmed against the physical page (2026-07-08); removed from the
+  transcribed text (it had been recorded as a typed dash). A small stray
+  mark also sits above "and she sat" in the "No indeed" line; it does not
+  appear to be a legible pencil character.
 - "from the goof his gift of gold did people" (apparently for "the good"),
   "He know better", "evenmention" (no space), "try as she may", "wandered"
   (for "wondered", double space after), "decended", "facein" (no space),
@@ -67,3 +68,7 @@ funny, though?"
   consistent with the sepia photo tone, not blue pencil/ink), but it remains
   ambiguous whether it is a typed mark or a hand mark, so needs_review is
   left true per caution policy. No changes made to the transcript text.
+- Resolved: 2026-07-08 — physical-page review confirms the left-margin
+  mark is a paper fiber or stray pencil scuff, not a typed dash or an
+  intentional annotation. Removed from the body text, needs_review
+  cleared.

@@ -60,9 +60,6 @@ instances corrected). This is a distinct failure mode from the word-level
 typo smoothing found earlier, and may be worth a dedicated sweep across
 the rest of the manuscript later.
 
-- **page 107** — a left-margin dash before "Frances said no more" isn't
-  blue-toned, but it's unclear from the photo whether it's typed or a
-  hand mark.
 - **page 111** — an overstruck comma after "costume" may be struck over
   an "s"; unclear.
 - **page 112** — an apostrophe-like mark in "subd'ued" could be a genuine
