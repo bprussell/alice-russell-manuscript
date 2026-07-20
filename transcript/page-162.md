@@ -6,7 +6,7 @@ image: pages/originals/page-162.jpg
 has_pencil: true
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                               160
@@ -47,13 +47,13 @@ minute she said, "Are Mr. Wheeler, yourself, and I the only ones living
 ## Transcriber notes
 
 - Typed page number "160" at top right, above the "Submitted by" header.
-- "this child of fate" — a pencil word, "yesterday", is written directly
-  above "fate" in the same hand/color of pencil seen elsewhere in this
-  batch. It reads as a suggested alternative/insertion rather than a
-  clear strike-and-replace (the typed "fate" is not struck through), so
-  the relationship between the two words is uncertain — recorded as
-  `fate⟦pencil: yesterday⟧`; flagged for verification against the
-  physical page.
+- "this child of fate⟦pencil: yesterday⟧" — she intended to erase typed
+  "fate" and replace it with the pencil "yesterday" written above it
+  (confirmed against the physical page 2026-07-08): "this child of
+  yesterday was 'shattered to bits' and 'remoulded'." The swap avoids
+  repeating "fate" from four lines above ("even against fate itself")
+  and extends the page-161 Rubaiyat metaphor — the child of the old
+  order/past shattered and remade. Reading layer uses "yesterday".
 - "riding my body of female organs" appears to be a typo for "ridding";
   left verbatim.
 - "a years shaving" (for "a year's shaving") is as typed.
@@ -74,3 +74,7 @@ minute she said, "Are Mr. Wheeler, yourself, and I the only ones living
   found elsewhere in the manuscript; its exact relationship to "fate"
   (replacement vs. marginal note) remains uncertain, so needs_review stays
   true.
+- Resolved: 2026-07-08 — physical-page review confirms "yesterday" is an
+  intended replacement for "fate" (she attempted to erase the typed word).
+  Reading confirmed sensible in context (see note above); needs_review
+  cleared.
