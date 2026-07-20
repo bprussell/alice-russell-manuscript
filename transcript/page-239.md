@@ -56,8 +56,11 @@ Edelstein, Illinois
 - This page is the typed letter with dateline "Tucson Arizona / Jan. 30,
   1932" and inside address "Editor, Peoria Tribune / Peoria, Illinois";
   the letter body is indented as a block, layout approximated here.
-- PENCIL: in "Though only a young ⟦…⟧ she earned", a typed word ("she") is
-  x-ed out by the typewriter and "girl" is written above it in pencil.
+- PENCIL: in "Though only a young ⟦…⟧ she earned", the typed word "she"
+  (a doubled "she she") is x-ed out by the typewriter and "girl" is
+  written above it in pencil — "Though only a young girl she earned her
+  way". The struck word was confirmed as "she" against the physical page
+  (2026-07-08).
 - "Tucson" in the dateline: the "c" is overstruck/filled and reads almost
   like "Tuoson"; transcribed as Tucson.
 - "very successfully financially" (for "successful") and "I an truly
@@ -77,3 +80,8 @@ Edelstein, Illinois
   Wheeler)" at the sheet's bottom edge is too faint/cropped to identify as
   a letter or a page artifact. needs_review left true for these two items;
   physical-page check recommended.
+- Resolved (partial): 2026-07-08 — physical-page review confirms the
+  x-ed-out word is "she" (typed "a young she she", first "she" struck,
+  pencil "girl" inserted). The faint mark below "(By J.C. Wheeler)" at
+  the sheet's bottom edge has not yet been checked; needs_review stays
+  true for that one spot.

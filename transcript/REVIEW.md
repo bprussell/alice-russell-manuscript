@@ -95,10 +95,11 @@ quotation with spurious blank lines) — worth checking other quoted-verse
 pages for the same issue. Several previously-unflagged overtyped letters
 were also found and marked on pages 240, 245, and 249.
 
-- **page 239** — an x-ed-out word before a pencil "girl" insertion is
-  fully blacked out with no visible letterforms; "she" is Phase 1's
-  plausible but unconfirmable guess. A faint partial mark below "(By J.C.
-  Wheeler)" at the sheet's bottom edge is also unidentified.
+- **page 239** — (partially resolved 2026-07-08: the x-ed-out word is
+  confirmed "she", pencil "girl" inserted.) Still open: a faint partial
+  mark below "(By J.C. Wheeler)" at the sheet's bottom edge — is there
+  another typed line below it on the physical page, or is it just an
+  artifact?
 - **page 240** — the typed page number is blurred/smudged in the photo;
   sequence context strongly implies "76" but it can't be visually
   confirmed.
