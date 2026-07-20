@@ -184,6 +184,14 @@ speech-end dash flourishes → em dash; per-page headers, page numbers and
   equally possible — rule.
 - **Book II Ch X, p198/p199:** "No-o-o," spacing normalization and
   "Mr Rice" → "Mr. Rice" — confirm.
+- **Book II Ch XIV, p217:** "give full reign" kept — rule whether the
+  reading text should print "rein" (also appears Book I p35-area).
+- **Book II Ch XVI, p226:** "The hauled" → "They hauled" goes one step
+  beyond the pencil mark — confirm.
+- **Book II Ch XIV-XVI uncertain fixes:** "ever since" (p215), "had
+  cleaned" (p220), "marketed" (p221), "calloused" (p224) — confirm.
+- **Book II Ch XVI, p225:** "the Doctor thought would be able for the
+  operation" kept — possibly missing "he"; rule.
 
 ## Per-chapter corrections
 
@@ -918,3 +926,34 @@ Kept as voice (sample): "Allie run a bill", "sat about" for "set about",
 "many many missing windows", "took desperately sick", "What would she
 do!", fragments, present-tense shifts, era capitals and two-word forms,
 "And she "Thanked God For a Garden!"".
+
+### Book II, Chapters XIV-XVI (pages 214-227)
+
+- p214 pencil insert applied ("busy springtime"); "hawled" → "hauled";
+  "years accumulation" → "years' accumulation"
+- p215/216 stray commas removed; "wedge wood" → "Wedgwood"; "over since"
+  → "ever since" (see REVIEW flags); "Morroco" → "Morocco";
+  "carressing" → "caressing"; pencil insert applied; card quotes singled
+- p217 "mechancial" → "mechanical"; stray comma removed; em dashes
+- p218 "miraculuous" → "miraculous"
+- p219 "hungerily" → "hungrily"; "safety value" → "safety valve"; "cake
+  feel" → "cake fell"; "comtinually" → "continually"
+- p220 stray quotes removed; "she she" → "she"; "and cleaned" → "had
+  cleaned" (see REVIEW flags)
+- p221 "oats marked" → "oats marketed" (see REVIEW flags); "Springs" →
+  "Spring's"; "hugh" → "huge"; "behin" → "behind"
+- p222 "discouregements" → "discouragements"
+- p223 "days receipts" → "day's receipts"; "they poor crop" → "the poor
+  crop"; "redace" → "reduce"
+- p224 "husbands features" → "husband's"; "loves chisel" → "love's
+  chisel"; "callosed" → "calloused" (see REVIEW flags); question mark
+  added; Rubaiyat quatrain set as verse block
+- p225 pencil quotes applied ("mine or Thine")
+- p226 pencil edits applied ("hauled", "she was"); "The hauled" → "They
+  hauled" (see REVIEW flags); "silver shown" → "shone"; comma spacing
+- p227 "from there winter beds" → "their"
+
+Kept as voice (sample): "sticktuitiveness", "put put put of the
+tractor", "gasolene", "boresome", "full reign" (see REVIEW flags),
+"folded their tents", "most collapsed", present-tense garden passage,
+"Johnie is well again." tense-shift climax.
