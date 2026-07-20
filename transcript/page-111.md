@@ -6,7 +6,7 @@ image: pages/originals/page-111.jpg
 has_pencil: false
 has_table: false
 illegible_spots: 0
-needs_review: true
+needs_review: false
 ---
 
                                                                   109
@@ -23,7 +23,7 @@ Crawl's Inn," he suggested.  "Daddy Wheeler and I have made it several
 times this summer.  It's just enough sprint to give a fellow a good
 appetite."
      At five-thirty the next morning Parepa doned her new bicycle
-costume,⟦strikeover: heavy comma, possibly struck over "s"⟧ which Aunt Kate had made of the prettiest dark red serge.
+costume,⟦strikeover: comma struck over a stray final "e" (typed "costumee")⟧ which Aunt Kate had made of the prettiest dark red serge.
 A divided skirt and loose jacket worn with a shirt waist.  Her jaunty
 little cap to match pulled over her tawny head, jerked a little to one
 side, seemed to invite the approval of disapproval of those "privileged"
@@ -54,8 +54,9 @@ in each others ears until time to start home.
   all as typed.
 - After "set up" the typist struck a "2" over (or instead of) the closing
   quotation mark — shift-slip on the 2/" key; recorded as strikeover.
-- After "costume" there is a heavy dark comma that may be struck over an
-  "s" ("costumes" corrected to "costume,"); flagged for verification.
+- After "costume" the heavy dark comma is struck over a stray final "e":
+  she typed "costumee", then struck the comma over the extra "e", giving
+  "costume," — confirmed against the physical page (2026-07-08).
 - No pencil marks found on this page.
 - Page ends mid-quotation; sentence continues on the next page.
 - Verified: 2026-07-06 — removed an inaccurate note claiming the page is
@@ -66,3 +67,6 @@ in each others ears until time to start home.
   the "set up2" strikeover, and the "costume," overstrike — all confirmed
   as already transcribed. needs_review left true; the overstrike after
   "costume" remains genuinely ambiguous from the photo alone.
+- Resolved: 2026-07-08 — physical-page review confirms the character
+  under the comma is a stray final "e" (typed "costumee"), not an "s".
+  Text updated, needs_review cleared.
