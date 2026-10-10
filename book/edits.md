@@ -82,31 +82,35 @@ Rulings by the author's great-grandson, 2026-10-10.
   (lowercase, continuing the sentence: "...during my absence, hm? Well,
   little girl..."), replacing the earlier capitalized "Hm?".
 
+- **Ch VIII, p53:** "did I tell you we're to leave most any day now?" —
+  best-guess repair of the garbled typed sentence **confirmed**.
+- **Ch VII, p48:** "or maybe lured away" → **"or maybe be lured away"**
+  — missing "be" supplied.
+- **Ch XIV, p71:** "Let's having her" → **"Let's have her"** — typing
+  slip corrected.
+- **Ch XIV, p73:** "so handsome and well poised young fellow" → **"so
+  handsome and well poised a young fellow"** — missing "a" supplied.
+- **Ch XIV, p73:** "He's a full blooded all right" — **kept as typed**
+  (period slang, "a thoroughbred").
+- **Ch XIV, p74:** chapter-ending quoted narration ("He hoped it wouldn't
+  be his luck... Ha! Ha!") — **kept quoted as typed** (reads as
+  half-quoted speech).
+- **Ch XVI, p78:** "The expression... changed but were non-committal" —
+  **kept as typed** (grammar quirk).
+- **Ch XVI, p78:** "getting through what she had undertaken" — minimal
+  repair **confirmed**.
+- **Ch XVII, p83:** "real metal" → **"real mettle"** — sound-alike
+  misspelling corrected (distinct words by 1900; same class as
+  "surry"→"surrey"). By the same ruling, **Book II Ch XIV, p217** "give
+  full reign" → **"give full rein"**.
+
 ## Open REVIEW flags (for the family to rule on)
 
-- **Ch VIII, p53:** "did I tell you we're to leave most any day now?" is a
-  best-guess repair of a genuinely garbled typed sentence — confirm.
-- **Ch VII, p48:** "or maybe lured away by the glitter" kept as typed;
-  possibly missing "be" ("or maybe be lured away") — rule.
-
-## Open REVIEW flags (continued)
-
-- **Ch XIV, p71:** "Let's having her sitting at the piano" kept as typed
-  — likely "Let's have her sitting"; rule whether to emend.
-- **Ch XIV, p73:** "so handsome and well poised young fellow" kept —
-  probably missing "a"; and "He's a full blooded all right" kept —
-  possibly missing a noun; rule on both.
-- **Ch XIV, p74:** chapter-ending reported speech ("He hoped it wouldn't
-  be his luck...") is quoted in the typescript though it is narration —
-  rule whether to unquote.
-- **Ch XVI, p78:** "The expression on the faces of these people changed
-  but were non-committal" kept as typed — rule "were"→"was" or
-  "expression"→"expressions".
-- **Ch XVI, p78:** "getting through what she had undertaken" is a minimal
-  repair of "through,  What"; an alternative is a lost phrase — confirm.
-- **Ch XVI, p81:** "evening's entertainment" may also want "an" — rule.
-- **Ch XVII, p83:** "real metal" kept (era variant of "mettle") — rule
-  whether to modernize, alongside the "portraited" flag.
+- **Ch XVI, p81:** typed "evenings entertainment" (no apostrophe),
+  currently printed "evening's entertainment" — under discussion: add
+  "an" (singular), or "evenings' entertainment" (plural, more than one
+  evening — supported by Ch XIII's "giving whole evening dramatic
+  entertainments") — rule.
 - **Ch XXII, p114:** editorial "all" supplied ("know all there is to
   know") — confirm.
 - **Ch XXII, p114:** "dar" kept — rule whether it is a slip for "dear".
@@ -188,8 +192,6 @@ Rulings by the author's great-grandson, 2026-10-10.
   equally possible — rule.
 - **Book II Ch X, p198/p199:** "No-o-o," spacing normalization and
   "Mr Rice" → "Mr. Rice" — confirm.
-- **Book II Ch XIV, p217:** "give full reign" kept — rule whether the
-  reading text should print "rein" (also appears Book I p35-area).
 - **Book II Ch XVI, p226:** "The hauled" → "They hauled" goes one step
   beyond the pencil mark — confirm.
 - **Book II Ch XIV-XVI uncertain fixes:** "ever since" (p215), "had

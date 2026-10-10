@@ -58,4 +58,4 @@ She threw herself into his arms and they stood kissing and hugging each other fo
 
 "Yes, she is ours, all ours, and I'd like to see anyone try to take her away from us," cooed Uncle George.
 
-Already they had begun to dread a time which might change her into an independent woman. What if she would tire of them or maybe lured away by the glitter and show that attracts so many young girls?
+Already they had begun to dread a time which might change her into an independent woman. What if she would tire of them or maybe be lured away by the glitter and show that attracts so many young girls?

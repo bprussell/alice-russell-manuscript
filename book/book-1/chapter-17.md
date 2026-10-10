@@ -6,7 +6,7 @@ Parepa spent the afternoon and evening resting. Reaction came in the form of tir
 
 Monday morning found Parepa up and coming as usual. She went through her lessons as earnestly as if they were her first ones. Success did not mean the end for her—only the beginning.
 
-That noon when Uncle Will and she were seated at lunch he became confidential. "We are all so proud of you, Parepa," he said. "And you refusing to go on the stage gives me more pleasure than your success. That showed the real metal in you."
+That noon when Uncle Will and she were seated at lunch he became confidential. "We are all so proud of you, Parepa," he said. "And you refusing to go on the stage gives me more pleasure than your success. That showed the real mettle in you."
 
 "Thank you, Uncle Will, but I did only what seemed to me the right thing to do. That kind of stage life don't appeal to me in the least."
 

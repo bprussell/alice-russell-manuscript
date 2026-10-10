@@ -16,7 +16,7 @@ The telephone rang. "That's Parepa calling to see if there's anything I want her
 
 "We mustn't forget the kids are older now and both have taken on more dignity and reserve," she went on. "You know Parepa will be eighteen the 17th of August. Of age if you please, Mr. George Slay! Our little girl will be of age. I hadn't thought of that before. Well if I do say it there isn't one in a thousand her age as well prepared to make their own living. Just think, George, in two years you and I have made it possible for this dear child to be what she alone knew she could be—a real actress—a real song bird."
 
-"Yes, and there is a real surprise in store for this young chap when he sees her tonight," laughed Mr. Slay. "Let's having her sitting at the piano singing when he comes. You and she singing a duet and I'll let him in."
+"Yes, and there is a real surprise in store for this young chap when he sees her tonight," laughed Mr. Slay. "Let's have her sitting at the piano singing when he comes. You and she singing a duet and I'll let him in."
 
 "Fine! We'll do that and then we will all see the fun. Well, I must get us a bite to eat now," and she hurried to the kitchen all excited.
 
@@ -64,7 +64,7 @@ Parepa liked nothing better so she took her place at the piano and picked out a 
 
 "The best I ever had. Not a sick day and wonderful progress with my studies."
 
-Parepa was most overcome at the sight of so handsome and well poised young fellow. His hair lay in dark waves over his head, his shoulders were square, his cheeks full, eyes bright, and manner—kindly. He's a full blooded all right, judged Uncle George and Aunt Kate was pleased.
+Parepa was most overcome at the sight of so handsome and well poised a young fellow. His hair lay in dark waves over his head, his shoulders were square, his cheeks full, eyes bright, and manner—kindly. He's a full blooded all right, judged Uncle George and Aunt Kate was pleased.
 
 They spent the evening talking and laughing over "old times" (two years ago) as though it had been fifty.
 
