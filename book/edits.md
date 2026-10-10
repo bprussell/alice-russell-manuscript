@@ -989,7 +989,7 @@ do!", fragments, present-tense shifts, era capitals and two-word forms,
 - p227 "from there winter beds" → "their"
 
 Kept as voice (sample): "sticktuitiveness", "put put put of the
-tractor", "gasolene", "boresome", "full reign" (see REVIEW flags),
+tractor", "gasolene", "boresome", ("full reign" later corrected to "rein" by family ruling),
 "folded their tents", "most collapsed", present-tense garden passage,
 "Johnie is well again." tense-shift climax.
 
