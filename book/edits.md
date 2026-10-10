@@ -548,7 +548,7 @@ narrative tense shifts, unquoted interior monologues.
 - p79 "exlaimed" → "exclaimed"; blue-pencil deletions applied (doubled
   "enough"; p80 "through the Park"); "Now she here" → "Now see here"
 - p79-81 possessive apostrophes ("evening's program", "Uncle's candy
-  store", "girl's head", "evening's entertainment")
+  store", "girl's head", "evening's entertainment" — later "evenings' entertainment" by family ruling)
 - p80/81 multi-paragraph quotation convention applied to the newspaper
   article; appositive comma added ("Breen, dramatic instructor")
 - p81 "senseable" → "sensible"
