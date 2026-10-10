@@ -104,13 +104,14 @@ Rulings by the author's great-grandson, 2026-10-10.
   "surry"→"surrey"). By the same ruling, **Book II Ch XIV, p217** "give
   full reign" → **"give full rein"**.
 
+- **Ch XVI, p81:** typed "evenings entertainment" (no apostrophe), first
+  printed "evening's entertainment" → **"evenings' entertainment"**
+  (plural possessive: more than one evening, consistent with Ch XIII's
+  "giving whole evening dramatic entertainments"; only the apostrophe
+  is editorial).
+
 ## Open REVIEW flags (for the family to rule on)
 
-- **Ch XVI, p81:** typed "evenings entertainment" (no apostrophe),
-  currently printed "evening's entertainment" — under discussion: add
-  "an" (singular), or "evenings' entertainment" (plural, more than one
-  evening — supported by Ch XIII's "giving whole evening dramatic
-  entertainments") — rule.
 - **Ch XXII, p114:** editorial "all" supplied ("know all there is to
   know") — confirm.
 - **Ch XXII, p114:** "dar" kept — rule whether it is a slip for "dear".
