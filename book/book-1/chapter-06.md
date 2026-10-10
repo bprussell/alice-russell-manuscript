@@ -22,7 +22,7 @@ It was a blessing that Parepa did not realize how very attractive she was. Howev
 
 "Aunt Kate put up a lunch for me, Uncle Will," said Parepa, "she thought best for me not to go to a restaurant alone."
 
-"You won't have to, you'll go with me. Tell Aunt Kate I'll look after your welfare from eight to five," he said rather curtly and at twelve o'clock he brought Parepa's tam o'shanter to her saying: "Come on, dearie, out to lunch with your old Uncle." He appraised her luscious beauty and eyed her appreciativeness.
+"You won't have to, you'll go with me. Tell Aunt Kate I'll look after your welfare from eight to five," he said rather curtly and at twelve o'clock he brought Parepa's tam o'shanter to her saying: "Come on, dearie, out to lunch with your old Uncle." He appraised her luscious beauty and eyed her appreciatively.
 
 After they had gone out the two older girls stared at each other in blank amazement. "I see where our noses are broken," said Mattie, "but isn't she innocence personified? I see where those dimples and dancing eyes will bring the world to her feet, and 'great will be the fall.'"
 

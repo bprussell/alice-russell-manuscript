@@ -52,7 +52,7 @@ They heard a step on the stairway and looking up saw a vision which was never fo
 
 With that Frances gave one spring past her and running up the steps grabbed both Parepa's hands and kissed them. "Come on down and meet Daddy Wheeler, Parepa." And down the steps they came together his arm about her. She forgot she was in her gown. In fact she had not yet realized it. "Here, Daddy, is Alice Parepa-Roza," the young gallant announced.
 
-Mr. Wheeler put his arm around her and kissed her. "So this is the kind angel that has made this scamp so happy during my absence, Hm? Well, little girl that was mighty nice of you."
+Mr. Wheeler put his arm around her and kissed her. "So this is the kind angel that has made this scamp so happy during my absence, hm? Well, little girl that was mighty nice of you."
 
 Frances pulled her down beside him on the lowest step while Uncle George, Aunt Kate, and their guest returned to comfortable seats in the living room. The children kept up a round of frank chummy talk. So likewise were the older folks with their backs to the stairway. Mr. Wheeler overcome by the charming hospitality of this fine couple, became confidential, that is, much more confidential than this sedate, reserved, closed-mouth gentleman had ever allowed himself to be.
 

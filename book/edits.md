@@ -69,21 +69,21 @@ underlines → italics; " - "/" -- " parenthetical dashes → em dashes;
 speech-end dash flourishes → em dash; per-page headers, page numbers and
 "Submitted by:" blocks dropped.
 
+## Resolved REVIEW flags (family rulings)
+
+Rulings by the author's great-grandson, 2026-10-10.
+
+- **Ch VI, p34:** "eyed her appreciativeness" → **"eyed her
+  appreciatively"** — emended (the typed form doesn't parse).
+- **Ch VI, p40:** "pertinently" — **kept as typed**.
+- **Ch X, p60:** "portraited" — **kept as typed** (archaic but genuine
+  verb form; her voice).
+- **Ch IX, p56:** blotted word after "during my absence," → **"hm?"**
+  (lowercase, continuing the sentence: "...during my absence, hm? Well,
+  little girl..."), replacing the earlier capitalized "Hm?".
+
 ## Open REVIEW flags (for the family to rule on)
 
-- **Ch VI, p34:** "eyed her appreciativeness" kept as typed; the sentence
-  likely intends "appreciatively" — rule whether to emend.
-- **Ch VI, p40:** "pertinently" kept as typed; possibly a slip for
-  "impertinently" — rule whether to emend.
-- **Ch X, p60 / Ch XII:** "portraited" kept as typed (possible authorial
-  coinage, but a one-off unlike the three-time "convenienced") — rule
-  whether the reading text should use "portrayed".
-- **Ch IX, p56:** the blotted word after "during my absence," is rendered
-  "Hm?" per the transcript's recorded best guess — but the "user
-  decision" attribution on that transcript note could not be verified
-  against the conversation (the question may never have been answered).
-  Confirm "Hm?", or prefer omitting the unreadable word entirely
-  ("...during my absence? Well, little girl...").
 - **Ch VIII, p53:** "did I tell you we're to leave most any day now?" is a
   best-guess repair of a genuinely garbled typed sentence — confirm.
 - **Ch VII, p48:** "or maybe lured away by the glitter" kept as typed;
