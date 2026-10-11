@@ -135,10 +135,15 @@ Rulings by the author's great-grandson, 2026-10-10.
   full reign" → **"give full rein"**.
 
 - **Ch XVI, p81:** typed "evenings entertainment" (no apostrophe), first
-  printed "evening's entertainment" → **"evenings' entertainment"**
-  (plural possessive: more than one evening, consistent with Ch XIII's
-  "giving whole evening dramatic entertainments"; only the apostrophe
-  is editorial).
+  printed "evening's entertainment" → **"evening entertainments"**
+  (revised 2026-10-11 from an interim "evenings' entertainment").
+  Whenever she means performances she writes the plural
+  "entertainments" — "giving whole evening dramatic entertainments"
+  (Ch XIII), "giving entertainments" (Ch XIX), "give dramatic
+  entertainments weekends" (Book II Ch III), "give entertainments in
+  the evening" (Book II Ch X); the singular appears only for amusement
+  in general. The edit moves the typed "s" from "evenings" to
+  "entertainment".
 
 - **Ch XXI, p104/p111:** editorial "a" ("visited a while", "wore a
   cycling suit") — **confirmed**.
@@ -605,7 +610,7 @@ narrative tense shifts, unquoted interior monologues.
 - p79 "exlaimed" → "exclaimed"; blue-pencil deletions applied (doubled
   "enough"; p80 "through the Park"); "Now she here" → "Now see here"
 - p79-81 possessive apostrophes ("evening's program", "Uncle's candy
-  store", "girl's head", "evening's entertainment" — later "evenings' entertainment" by family ruling)
+  store", "girl's head", "evening's entertainment" — later "evening entertainments" by family ruling)
 - p80/81 multi-paragraph quotation convention applied to the newspaper
   article; appositive comma added ("Breen, dramatic instructor")
 - p81 "senseable" → "sensible"
