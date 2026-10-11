@@ -45,6 +45,7 @@ annotation conventions used in the verbatim transcripts.
       foreword — see book/edits.md)
 - [x] Phase 3 — Edited reading text (all 57 chapters — Book I: 30, Book II:
       27 — in book/book-1/ and book/book-2/, with every correction logged
-      in book/edits.md; ~40 judgment calls await family rulings under its
-      "Open REVIEW flags" sections)
+      in book/edits.md; all 69 open judgment calls since ruled on by the
+      family, and split/hyphenated compounds modernized — see its
+      "Resolved REVIEW flags" and "Global decisions" sections)
 - [ ] Phase 4 — Typesetting and print PDF
