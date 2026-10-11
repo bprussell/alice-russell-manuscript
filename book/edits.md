@@ -235,33 +235,37 @@ Rulings by the author's great-grandson, 2026-10-10.
   **confirmed** (she visits several cousins: "with them", "Her cousins
   were a jolly lot").
 
+- **Book II Ch X, p200:** "could hardly believe it, could be so much."
+  → **"could hardly believe it could be so much."** — stray comma
+  dropped (no word supplied).
+- **Book II Ch X, p198/p199:** "No-o-o," normalization and "Mr Rice" →
+  "Mr. Rice" — **confirmed**.
+- **Book II Ch XI/XII, p203/p205:** editorial "of" ("acres instead of
+  feet") and "she" ("their location she insisted") — **confirmed**.
+- **Book II Ch XIII, p211:** typed "realy homey" → **"really homey"** —
+  confirmed.
+- **Book II Ch XIV-XVI uncertain fixes:** "over since" → "ever since"
+  (p215-216), "and cleaned" → "had cleaned" (p220), "marked" →
+  "marketed" (p221), "callosed" → "calloused" (p224) — **all
+  confirmed**.
+- **Book II Ch XVI, p225:** "the Doctor thought would be able" → **"the
+  Doctor thought he would be able"** — missing subject supplied.
+- **Book II Ch XVI, p226:** "The howled" + pencil "hauled" → **"They
+  hauled"** — confirmed.
+- **Book II Ch XVII, p229:** typed "have a right too." → **"have a right
+  to."** (a right to blame us) — confirmed.
+- **Book II Ch XIX, p234:** typed "friends of your every since" →
+  **"friends of yours ever since"** — confirmed.
+- **Book II Ch XIX, p237:** mid-sentence "Dear old Aunt Kate" →
+  **"dear"** — confirmed.
+- **Book II Ch XX, p241/p244:** "quired" → **"inquired"** (both) —
+  confirmed.
+- **Book II Ch XX, p242/p245:** "You, my dear husband, was my reward"
+  comma repositioning and the supplied comma in "said Johnie, and Robert
+  drove" — **confirmed**.
+
 ## Open REVIEW flags (for the family to rule on)
 
-- **Book II Ch X, p200:** "could hardly believe it, could be so much."
-  kept — likely a dropped "it"; rule.
-- **Book II Ch XII, p203/p205:** editorial "of" ("acres instead of feet")
-  and "she" ("When she learned...") supplied — confirm.
-- **Book II Ch XIII, p211:** "realy homey" → "really homey"; "real homey"
-  equally possible — rule.
-- **Book II Ch X, p198/p199:** "No-o-o," spacing normalization and
-  "Mr Rice" → "Mr. Rice" — confirm.
-- **Book II Ch XVI, p226:** "The hauled" → "They hauled" goes one step
-  beyond the pencil mark — confirm.
-- **Book II Ch XIV-XVI uncertain fixes:** "ever since" (p215), "had
-  cleaned" (p220), "marketed" (p221), "calloused" (p224) — confirm.
-- **Book II Ch XVI, p225:** "the Doctor thought would be able for the
-  operation" kept — possibly missing "he"; rule.
-- **Book II Ch XVII, p229:** "have a right to." — "a right, too" (also)
-  is an alternative reading; rule.
-- **Book II Ch XIX, p234:** "friends of yours ever since" — the "yours"
-  goes beyond the transcriber's every/ever fix; confirm.
-- **Book II Ch XIX, p237:** "Dear old Aunt Kate" lowercased — the capital
-  may be affectionate emphasis; rule.
-- **Book II Ch XIX/XX, p241:** "quired" → "inquired" — possibly an
-  authorial clipped form; rule.
-- **Book II Ch XX, p242/p245:** "my dear husband," comma repositioning
-  and the p245 supplied comma ("said Johnie, and Robert drove") —
-  confirm both.
 - **Book II Ch XXV, p277:** "git up" → "get up" — a dialect-voice reading
   is defensible; rule.
 - **Book II Ch XXV, p282/p284:** best-guess repairs "I gave up my whole
