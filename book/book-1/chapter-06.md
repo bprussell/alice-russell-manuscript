@@ -2,7 +2,7 @@
 
 August 28th, 1898, at eight o'clock Alice Parepa-Roza Wesley was actually launched on her industrial career in a big city. She was so shy, so quiet, so charmingly sweet and attentive to her duties (which were few) that she won the love and respect of all the other employes of the shop.
 
-Carry Weber and Mattie Swanson were the "old girls" on the job and from them Parepa was to learn all the "in's and out's" of the candy shop business.
+Carry Weber and Mattie Swanson were the "old girls" on the job and from them Parepa was to learn all the "ins and outs" of the candy shop business.
 
 "Guess we'll clean the showcases and windows first," said Mattie. "Parepa, you can remove all the candy dishes, empty them and wash them while we clean the glass and put new papers on the bottoms of the showcases and window shelves." She showed Parepa very kindly just where to put the candy removed from dishes and how to clean and dry them. Parepa wondered if all her work would be so easy. Occasionally a customer sauntered in and one of the older girls would wait on them. "Someday I'll sell candy I suppose," she said to herself. "I wonder how long before they'll let me."
 

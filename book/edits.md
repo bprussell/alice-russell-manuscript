@@ -382,6 +382,9 @@ Changes from the great-grandson's read-through of the EPUB proof.
 - **Agreement pass, read-through decisions:** see "Subject–verb
   agreement corrected in narration" under Global decisions.
 
+- **Ch VI, p33:** "in's and out's" → **"ins and outs"** — apostrophes
+  dropped from the plural (her quotation marks around the phrase kept).
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
