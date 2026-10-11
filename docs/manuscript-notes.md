@@ -15,8 +15,14 @@ Every page carries a typed submission header:
 Page 1 also carries a typed length declaration at the right margin —
 **"100,000 words"** — the standard format for a manuscript submitted to a
 publisher. She wasn't just typing this for the family drawer; she was
-submitting it for publication. (100,000 words across 288 pages ≈ 347
-words/page, which is consistent with the page density observed so far.)
+submitting it for publication.
+
+**Actual length (counted 2026-10-11, all pages transcribed):** about
+**82,000 words** as typed (81,953 across the 288 verbatim transcripts,
+≈285 words/page), and 81,005 in the edited reading text — Book I 45,850,
+Book II 35,153. Her "100,000" was a round-number estimate about 20% high,
+typical of the era's estimate-by-page method; the declaration sits on
+Book I's first page but evidently covers both books.
 
 ## The title
 
