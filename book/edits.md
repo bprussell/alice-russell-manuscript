@@ -136,32 +136,36 @@ Rulings by the author's great-grandson, 2026-10-10.
   confirmed (coy, flirtatious context; she spells by ear — "coily",
   "scrubing" on the same page).
 
+- **Ch XXV, p134:** typed "and farther than their class interested
+  threw them together" → **"any farther than their class interests
+  threw them together"** — repair confirmed.
+- **Ch XXV, p136-137:** Joseph—/Parepa— play-script dialogue format —
+  **confirmed** (deliberate authorial device).
+- **Ch XXV, p137:** "success in life?" (with stray mid-speech quote) →
+  **period** — confirmed.
+- **Ch XXVI, p146:** chapter-ending "Number 982. Oh, hurry please!" —
+  **confirmed as Parepa continuing** (no closing quote typed; it is her
+  household and she would know the doctor's number).
+- **Ch XXVII, p150:** "a wonderful home, Donald." → **"a wonderful home,
+  Joseph."** — slip; she addresses him as "Joseph"/"Joe" everywhere else,
+  including the very next sentence.
+- **Ch XXVII, p148:** "the white child on the bed" — **kept as typed**
+  (read as pale, deathly white).
+- **Ch XXVIII, p152:** "mighty Kind" → **"mighty kind"** — shift-key
+  slip; p153 "Was it?—Could it be—Frances?" quote repair **confirmed**.
+- **Ch XXIX, p155:** "I want to go home alone?" → **period**, matching
+  the Ch XXVIII line it echoes.
+- **Ch XXX, p159:** "Parepa, my mother" vocative comma — **confirmed**.
+- **Ch XXX, p161:** typed "And for his sake" → **lowercase "and"** —
+  confirmed (three-part build).
+- **Ch XXX, p162:** "I was not suspicious at the hospital" — **kept as
+  typed** ("suspicious" = arousing suspicion).
+- **"Never-the-less" (global, 2026-10-11):** reaffirmed as **kept** — her
+  consistent spelling (about 13 times, never "nevertheless"), like
+  "to-morrow".
+
 ## Open REVIEW flags (for the family to rule on)
 
-- **Ch XXV, p134:** garbled clause repaired as "any farther than their
-  class interests threw them together" — best guess, confirm.
-- **Ch XXV, p136-137:** the Joseph—/Parepa— play-script dialogue is
-  rendered with speaker labels and em dashes — confirm presentation.
-- **Ch XXV, p137:** "success in life?" emended to a period — the "?"
-  could be kept as authorial; rule.
-- **Ch XXVI, p146:** chapter-ending two paragraphs treated as one
-  continuing Parepa speech (typescript omits the closing quote) —
-  confirm.
-- **Ch XXVII, p150:** "a wonderful home, Donald." kept — Joseph's full
-  name is "Joseph Donald" (ch XXVI), so surname address is possible, but
-  it may be a slip for "Joseph"; rule.
-- **Ch XXVII, p148:** "the white child on the bed" kept — rule whether
-  "little" was intended.
-- **Ch XXVIII, p152:** "mighty Kind" deliberate capital kept — rule; and
-  p153's "Was it?—Could it be—Frances?" quote repair — confirm.
-- **Ch XXIX, p155:** "I want to go home alone?" question mark kept on a
-  declarative — rule.
-- **Ch XXX, p159:** "Parepa, my mother" vocative comma supplied; "Parepa.
-  My mother" equally defensible — rule.
-- **Ch XXX, p162:** "I was not suspicious at the hospital" kept — possibly
-  "suspected"; rule.
-- **Ch XXX, p161:** "—and for his sake" lowercased; the typed capital
-  "And" could be authorial emphasis — rule.
 - **Book II Ch I, p169:** blue-pencil "s" makes typed "sometimes"; printed
   "for some time" per Book I precedent, but "for sometimes" is the
   letter-faithful reading — rule.

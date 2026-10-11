@@ -16,7 +16,7 @@ Holding up the locket and kissing it she whispered, "Frances can I see what's in
 
 Her face turned to his and a long lingering kiss was her answer. They sat there a long time as if each was afraid the sweet spell would be broken.
 
-They heard the clock in the old court house strike eleven. "Must go now," said Parepa and as they walked hand in hand she asked, "You don't mind if I ask you to leave me alone when we leave Hayward Street do you Frances? I want to go home alone?"
+They heard the clock in the old court house strike eleven. "Must go now," said Parepa and as they walked hand in hand she asked, "You don't mind if I ask you to leave me alone when we leave Hayward Street do you Frances? I want to go home alone."
 
 "Familiar words," laughed Frances. "However your wish is granted," and once more kissing her goodbye he said, "You are a funny girl, Parepa."
 
