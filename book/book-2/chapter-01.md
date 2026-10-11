@@ -4,11 +4,11 @@ Parepa went back to the farm; the cows, the hills, the dirty dishes, and the big
 
 Isabel, the eldest child of the Wesley family was teaching a country school. Lavena, the next oldest sister was her father's and mother's "right hand man" taking the responsibility of the younger children onto her own shoulders so completely that they felt her "orders were orders" and stepped to her music or wished they had. She was a born manager and managed the whole family. The boys were regular farmers, working early and late day after day.
 
-Little Iona the baby of the family was now twelve years old and to her "Allie's" heart went out at dish-washing and milking time. "Allie" was none other than Alice Parepa-Roza. The "Allie" was the nickname for Alice, given her at home by her parents when she was still in "tothood." The only time the full name of Alice Parepa-Roza was used at home was when it was necessary to make it forceful—as it was in the first lines written in this story. The family in general as well as the home neighborhood knew her as Allie, the "different" Wesley girl. The neighborhood hadn't missed her much, these four years—"she was rather odd you know"—and so her advent into the community again was unheralded and unsung. She crept into the scheme of things just as she would have chosen to do had she her choice.
+Little Iona the baby of the family was now twelve years old and to her "Allie's" heart went out at dishwashing and milking time. "Allie" was none other than Alice Parepa-Roza. The "Allie" was the nickname for Alice, given her at home by her parents when she was still in "tothood." The only time the full name of Alice Parepa-Roza was used at home was when it was necessary to make it forceful—as it was in the first lines written in this story. The family in general as well as the home neighborhood knew her as Allie, the "different" Wesley girl. The neighborhood hadn't missed her much, these four years—"she was rather odd you know"—and so her advent into the community again was unheralded and unsung. She crept into the scheme of things just as she would have chosen to do had she her choice.
 
 There was the usual ice cream "sociables" on the lawns or, I would say "in the yard" of some more fortunate church member who possessed a lawn mower and a generous disposition at the same time.
 
-Allie (being the actor that she was) fooled the people into thinking she was having the time of her life. She threw herself into the spirit of the games, laughed and joked and worked her dimples in the most effective way and succeeded in charming the unsuspecting young fellows of the country side into an almost delirious state of restlessness. She wasn't home many weeks until things began to happen.
+Allie (being the actor that she was) fooled the people into thinking she was having the time of her life. She threw herself into the spirit of the games, laughed and joked and worked her dimples in the most effective way and succeeded in charming the unsuspecting young fellows of the countryside into an almost delirious state of restlessness. She wasn't home many weeks until things began to happen.
 
 Her company was sought by Tom, Dick, and Harry and she drew no line. The first come the first served was her devilish slogan and they all come; having discovered that the early bird catches the worm each tried to be early. The result was that more than one pair of steeds reined high and hitched to a brand new buggy and driven by (if we were to judge by his posture) an upright and determined young man, pranced up the lane to the "house of Wesley."
 
@@ -36,7 +36,7 @@ Allie got up from her stool and standing behind the long row of cows gave vent t
 
 "Well," said Allie hanging her bucket on the hook behind the cows, "I guess I'll have to go to the house then, for I just can't quit laughing. It's so funny," and she left the barn in a convulsion of laughter.
 
-At the "House of Wesley" the meals were never eaten until every member of the family were seated in their place at the table. This morning the lone milk man held up the breakfast hour.
+At the "House of Wesley" the meals were never eaten until every member of the family were seated in their place at the table. This morning the lone milkman held up the breakfast hour.
 
 "You shouldn't have laughed at him, Allie," said her mother kindly. "You know your father has financial worries on his mind that make him easily irritated. He worries day and night over how he will pay the interest on the mortgage. These four years you have been away have been hard ones for us, dearie. Times have been bad and although we have all worked hard it has been impossible to keep up the interest."
 
@@ -46,17 +46,17 @@ At the "House of Wesley" the meals were never eaten until every member of the fa
 
 "Mamma I lost my voice all at once. I can't exactly account for it but when I try to sing it just isn't there. I think it must have died with Aunt Kate. It seemed to belong to her and when she went it went with her." Allie looked at her mother from the corner of her eye to see how she was taking it.
 
-"I'm so sorry Allie; we had hoped it would make you a good living. Everyone thought your fortune was made in your voice dear. Your father was so proud of it though he is no hand to tell you so. He has always counted on your being a real Parepa-Roza some day. He will be so disappointed," and this devoted wife and mother turned her face from her daughter that she might not see the tear in her eye.
+"I'm so sorry Allie; we had hoped it would make you a good living. Everyone thought your fortune was made in your voice dear. Your father was so proud of it though he is no hand to tell you so. He has always counted on your being a real Parepa-Roza someday. He will be so disappointed," and this devoted wife and mother turned her face from her daughter that she might not see the tear in her eye.
 
 Putting her arms around her little mother she kissed her tenderly and said, "I'm so sorry I'm a disappointment to you all. Here I have been enjoying myself these last four years while the rest of you at home have been working and worrying."
 
-The "Lord and Master" had come in now and was washing for breakfast. Allie herself got a rag and wiped the milk from his trousers, grinning all the while. The meal passed quietly. Not a word said for some time as each individual seemed to have their mind full of their own interests. Once in a while a little sniffle emerged from the heart-broken Iona who hadn't forgotten the scolding.
+The "Lord and Master" had come in now and was washing for breakfast. Allie herself got a rag and wiped the milk from his trousers, grinning all the while. The meal passed quietly. Not a word said for some time as each individual seemed to have their mind full of their own interests. Once in a while a little sniffle emerged from the heartbroken Iona who hadn't forgotten the scolding.
 
 Just when things were at the lowest ebb, Allie let out an astonishing laugh such as had not rent the air of a Wesley breakfast table for years. She laughed in spite of her trying to control her mirth. She looked right straight at "Papa." Finally she burst out, "Oh, Papa, that was so funny if you could only have seen yourself! All covered with froth! I'll never forget how you looked," and again she bent over with laughter. By this time they were all excited and asking what was so funny.
 
 "Shall I tell them Papa?" she asked between laughs.
 
-By this time the humor of the situation had crawled under his skin and he emitted a little chuckle once in awhile much as he hated himself for having lost his dignity.
+By this time the humor of the situation had crawled under his skin and he emitted a little chuckle once in a while much as he hated himself for having lost his dignity.
 
 "Better not," he said, "or I'll spank you yet."
 
@@ -66,6 +66,6 @@ Things went along pretty much as they use to on the farm; everyday bringing its 
 
 "She is not contented," her mother would say to herself. "She is only acting a part."
 
-Allie had taken a great interest in Iona's school work. She helped her every evening with the seventh and eighth years' work which she was putting through in one. She also learned all she could by helping Isabel correct her pupils' papers. No one knew why she was so interested but Parepa herself.
+Allie had taken a great interest in Iona's schoolwork. She helped her every evening with the seventh and eighth years' work which she was putting through in one. She also learned all she could by helping Isabel correct her pupils' papers. No one knew why she was so interested but Parepa herself.
 
 The next summer, however, when teachers' Institute and teacher's examinations were held at Lacon, Illinois, Allie was among those present. She passed a successful examination and received her teacher's certificate, and found herself with the refusal of the two country schools where she had placed her application.

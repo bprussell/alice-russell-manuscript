@@ -24,7 +24,7 @@ The Doctor suggested it to her. "If I am not doing it well I will gladly give up
 
 "Well, we'll try a nurse for a couple of weeks anyway. That will give you a chance to catch up on your rest," said the kind old Doctor.
 
-It was not only the care of her husband that was telling on her. It was the fact that almost the last hog of the car load had died with cholera. Their best milk cow and baby calf died. The fall pigs were being burned by the pile each day and grain prices had sunk to a low level. All this Allie had carefully kept from Johnie.
+It was not only the care of her husband that was telling on her. It was the fact that almost the last hog of the carload had died with cholera. Their best milk cow and baby calf died. The fall pigs were being burned by the pile each day and grain prices had sunk to a low level. All this Allie had carefully kept from Johnie.
 
 He was asking now, nearly every day, if the big hogs weren't ready to ship. The first of February had come. It was necessary to find a hired man to look after the farming. There was no money in the bank. The nurse and specialists had to be paid—what was she going to do?
 
@@ -32,9 +32,9 @@ When the two weeks were up Parepa insisted she was able and willing to take up h
 
 It was a continual fight from then on to master the awful disease that lurked in his body but on the fourth of July he was permitted to sit for a short time in a chair. It was over seven months since he had done this.
 
-They were so happy again. Now he would get well. He would be his old self again. The Doctor bills and everything else would be paid some day and they would begin all over again.
+They were so happy again. Now he would get well. He would be his old self again. The Doctor bills and everything else would be paid someday and they would begin all over again.
 
-On the seventeenth of August (Allie's birthday) he was able to take his first walk to the barn. The crops looked good. He had been told of the live stock losses so was prepared to see the hog pens empty. He was a brave man in more ways than one. He faced the future squarely. "We will make it all right, Allie," he said as he kissed her hand. "It's been hard and lonesome for you but you've been wonderful and some day you'll be proud of me. We'll get along. You see if we don't."
+On the seventeenth of August (Allie's birthday) he was able to take his first walk to the barn. The crops looked good. He had been told of the livestock losses so was prepared to see the hog pens empty. He was a brave man in more ways than one. He faced the future squarely. "We will make it all right, Allie," he said as he kissed her hand. "It's been hard and lonesome for you but you've been wonderful and someday you'll be proud of me. We'll get along. You see if we don't."
 
 The Doctor watched his progress carefully. The second year he recommended a change of occupation. Both their fathers had passed away. Their share in the estates was enough to buy the stock of general merchandise in a small town store in the little village of Speer, Illinois. Here Allie helped him and together they worked long and hard hours.
 
@@ -42,8 +42,8 @@ If they had dared to believe store keeping was going to be an easy job they were
 
 Allie didn't care what its sex just so it was alright. Her whole mind was on this live thing near her heart. It was nearly five years since they were married. Happy, trying years. Years of sacrifice and suffering.
 
-There had been nothing with which to satisfy the old Parepa's love for beautiful. No time or money for pretty gardens, dainty fancy work, beautiful literature, or even the time to enjoy the sunsets, or charming moonlight which always held her spell bound. Never-the-less she had not lost her love for beautiful things. Now and then she caught herself gazing into the bygone past. She could see the gardens, the lake, the beautiful mansion among the trees. The wide walks, the stables, with their fine steeds. But never did she see a husband, never did she warm to the approach of one man in these dreams. Never did she see her children playing in the nursery.
+There had been nothing with which to satisfy the old Parepa's love for beautiful. No time or money for pretty gardens, dainty fancy work, beautiful literature, or even the time to enjoy the sunsets, or charming moonlight which always held her spellbound. Nevertheless she had not lost her love for beautiful things. Now and then she caught herself gazing into the bygone past. She could see the gardens, the lake, the beautiful mansion among the trees. The wide walks, the stables, with their fine steeds. But never did she see a husband, never did she warm to the approach of one man in these dreams. Never did she see her children playing in the nursery.
 
-Frances had said, "Some day you will be a real mother, a proud one. I hope there will be lots of boys."
+Frances had said, "Someday you will be a real mother, a proud one. I hope there will be lots of boys."
 
 Indeed she was proud. So was Johnie.

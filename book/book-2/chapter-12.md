@@ -20,7 +20,7 @@ When he learned that Johnie was looking for a farm near the mountains he knew at
 
 From there they went to Estes Park and spent several days. They were getting anxious to get home now that they had decided what they wanted to do. When they arrived home they found everything running along as smoothly as if the heads of the family had been in attendance all the time.
 
-The little boys felt very important telling of the things they did to help Auntie and Grandma. Never-the-less they were happy to have Mother and Daddy home again.
+The little boys felt very important telling of the things they did to help Auntie and Grandma. Nevertheless they were happy to have Mother and Daddy home again.
 
 Johnie called on his Doctor the next day. The old physician stared at him in wonder, "I can hardly believe it's you," he said. "Surely you have found the right place for you to live." Johnie told him of the plans he had made.
 
@@ -44,4 +44,4 @@ So it was settled. In January their City home was sold, possession to be given M
 
 On February twenty-fifth an old neighbor from the country called on Johnie and advised him to make sure he was going to get the mortgage money. He told how the owner of the farm had lost everything and how his creditors were closing in on him from all sides, "The only way you'll ever get anything out of your second mortgage will be to take the farm back," he said.
 
-This proved to be the case. Not only did he have to take the place back but there were back taxes, back interest on the first twelve thousand mortgage and lots of tedious and expensive legal transactions to be paid for. It was impossible to go on with the Colorado land deal. Never-the-less the court held them liable and the Bradfords found themselves greatly in debt with a load of financial worries such as they had never known before.
+This proved to be the case. Not only did he have to take the place back but there were back taxes, back interest on the first twelve thousand mortgage and lots of tedious and expensive legal transactions to be paid for. It was impossible to go on with the Colorado land deal. Nevertheless the court held them liable and the Bradfords found themselves greatly in debt with a load of financial worries such as they had never known before.

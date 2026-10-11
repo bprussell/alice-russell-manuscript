@@ -2,7 +2,7 @@
 
 June 21st, 1905, was a day long looked forward to and its setting sun witnessed the uniting of two hearts and lives—for better or for worse—for richer or for poorer—in sickness and in health until death do them part.
 
-This happy couple met and overcame the many unexpected matrimonial intricacies which are bound to arise in all well regulated families. By the end of the third year they were nearly out of debt and owned a fair equipment both of household furnishings and farm machinery. Allie was fortunate in winning a piano in a contest which she made good use of. However, she never sang. They had accumulated considerable live stock of which they were justly proud. Each was interested in everything that concerned the other. Both were working hard and enjoying every bit of it.
+This happy couple met and overcame the many unexpected matrimonial intricacies which are bound to arise in all well regulated families. By the end of the third year they were nearly out of debt and owned a fair equipment both of household furnishings and farm machinery. Allie was fortunate in winning a piano in a contest which she made good use of. However, she never sang. They had accumulated considerable livestock of which they were justly proud. Each was interested in everything that concerned the other. Both were working hard and enjoying every bit of it.
 
 Fall came—the ripened corn hung from its husks on the tall stalks in the fields as though beckoning the harvester to gather them in. Allie loved to help her swarthy companion pile high in the wagon the golden ears. They visited and planned as they worked. One day Allie was sure there was something worrying Johnie. He wasn't himself. What could be on his mind? She wouldn't ask him. He would tell her soon.
 

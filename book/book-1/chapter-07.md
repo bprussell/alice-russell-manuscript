@@ -2,7 +2,7 @@
 
 They were all ready now and at promptly five-thirty a carriage from the best livery in town drove up in front of the house. Frances stepped out and ran up the steps to meet them. The driver stepped down from his high seat and helped the four of them in. Frances and Parepa sat facing Uncle George and Aunt Kate. They joked and laughed all the way. Parepa told Frances she was to stay right on with Aunt Kate and he clapped his hands delightedly. Then his face clouded and he said soberly, "Wish I could stay right on, too."
 
-"Oh, so do I," said Parepa truthfully. "Don't you suppose that man — your guarantee or what ever you call him will let you if we all ask him?"
+"Oh, so do I," said Parepa truthfully. "Don't you suppose that man — your guarantee or whatever you call him will let you if we all ask him?"
 
 "You mean his guardian," corrected Aunt Kate.
 
@@ -10,7 +10,7 @@ They were all ready now and at promptly five-thirty a carriage from the best liv
 
 "My, this must of cost an awful lot," she whispered to Uncle George and her sparkling eyes drank in the beauty around her. She scarcely knew what they were saying as she sat entranced, glancing shyly at the beautiful masterly young boy that was seated by her side. "He seems to be used to all this," she thought. "He doesn't even notice all the pretty things around us."
 
-They were laughing and joking now but Parepa was afraid this dream would fade away and she would find herself back home eating home cured pork, dried beans, dutch cheese, and dried apple sauce if she allowed herself to relax from the spell that bound her.
+They were laughing and joking now but Parepa was afraid this dream would fade away and she would find herself back home eating home cured pork, dried beans, dutch cheese, and dried applesauce if she allowed herself to relax from the spell that bound her.
 
 The waiter was placing something before her now. Yes, it was time to eat — the rest were —
 
@@ -22,7 +22,7 @@ The waiter was placing something before her now. Yes, it was time to eat — the
 
 Parepa couldn't see the joke but took it for granted it *was* a joke so laughed too.
 
-They were at the table more than an hour and a half; Parepa was glad when it was over. It was raining quite hard now and the driver sat huddled in his rain coat with umbrella up.
+They were at the table more than an hour and a half; Parepa was glad when it was over. It was raining quite hard now and the driver sat huddled in his raincoat with umbrella up.
 
 "To the Grand Opera House," commanded Frances as the driver closed the carriage door.
 

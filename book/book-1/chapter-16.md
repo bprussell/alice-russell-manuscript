@@ -4,7 +4,7 @@ They were home now and found Uncle and Auntie on the porch waiting for them.
 
 "Let's all go to the show Saturday night," suggested Frances. "Dad will like to go, too, I know."
 
-"It won't be a very high class show," said Parepa, "but I am crazy to go. Some one told me it was mostly acts put on by individuals and not a real play."
+"It won't be a very high class show," said Parepa, "but I am crazy to go. Someone told me it was mostly acts put on by individuals and not a real play."
 
 "Well, we'll all go anyway if you say so," Mr. Slay said to Frances.
 
@@ -12,7 +12,7 @@ So it was settled and at eight o'clock Frances called for them.
 
 Parepa was not there but Uncle George explained that she would be late in arriving at the box on account of an unexpected turn of affairs. However, they were to leave her ticket at the box office and she would join them when she arrived. Mr. Wheeler was waiting in the lobby and the four of them took their place in the box.
 
-The performance had begun but no Parepa had joined them. The second act was to be a dance and song act interspersed with impersonations. To the surprise of the occupants of a certain box, the actress was unmistakably Parepa-Roza. They sat enthralled with the rest of the audience. Such a surprise! Her dancing and acting was perfect, her singing heavenly. How did she dare do it? The genius of this young actress made a memorable picture. The expression on the faces of these people changed but were non-committal. They were tense with anxiety for her getting through what she had undertaken. However, this sensation was not shared by Parepa. She was as sure of herself as if she had been at it for years. Not a waver, not a hesitation overcame her and when at last she bowed her way off stage the whole house clapped as though they would bring the roof down. I said the whole house—no, the occupants of a certain box did not clap, neither did they talk to each other so bewildered were they.
+The performance had begun but no Parepa had joined them. The second act was to be a dance and song act interspersed with impersonations. To the surprise of the occupants of a certain box, the actress was unmistakably Parepa-Roza. They sat enthralled with the rest of the audience. Such a surprise! Her dancing and acting was perfect, her singing heavenly. How did she dare do it? The genius of this young actress made a memorable picture. The expression on the faces of these people changed but were noncommittal. They were tense with anxiety for her getting through what she had undertaken. However, this sensation was not shared by Parepa. She was as sure of herself as if she had been at it for years. Not a waver, not a hesitation overcame her and when at last she bowed her way offstage the whole house clapped as though they would bring the roof down. I said the whole house—no, the occupants of a certain box did not clap, neither did they talk to each other so bewildered were they.
 
 Look! She is returning to the stage in different attire. This time to sing an encore.
 
@@ -22,7 +22,7 @@ In a few minutes she was joining them in the box. After greetings were exchanged
 
 When they were leaving the Opera several reporters confronted them but Uncle George and Mr. Wheeler convenienced them that an interview was impossible. Mr. Wheeler left them at the corner saying he would come out some evening and have a good visit.
 
-As they waited for the street car Uncle George took Parepa's chin in his hand and tipped her face up to his. "Now see here young lady you put one over on the old folks this time and you were a queen, but remember this—never again."
+As they waited for the streetcar Uncle George took Parepa's chin in his hand and tipped her face up to his. "Now see here young lady you put one over on the old folks this time and you were a queen, but remember this—never again."
 
 "You were wonderful, Parepa, but I never want to suffer in suspense as I did tonight. I was so afraid you'd—well, you would fail," said Aunt Kate.
 
@@ -32,7 +32,7 @@ As they waited for the street car Uncle George took Parepa's chin in his hand an
 
 "They deserve *all* the credit. They have made me what I am. If *I* am a success then *they* are a success." And she grabbed both of their hands and kissed them. "I love them both more than my own life."
 
-The street car was coming now and they boarded it for home. On leaving them at the door of their home Frances promised to call for Parepa to go for a horse back ride some evening the next week.
+The streetcar was coming now and they boarded it for home. On leaving them at the door of their home Frances promised to call for Parepa to go for a horseback ride some evening the next week.
 
 "You remember we go to Church tomorrow," she reminded him.
 

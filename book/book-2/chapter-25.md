@@ -18,7 +18,7 @@ Frances extended his arms and Parepa snuggled into them. He kissed her lips agai
 
 "Just for today, Parepa—just for today," and led her into the dining room. Daddy Wheeler left them alone. The servants seemed startled at the picture they made. "We are only rehearsing an old play of our childhood," Frances told the butler. "Just place the first course and leave us until I ring."
 
-They were alone now. Each had so much they wanted to say yet neither could express themselves. They caught each other's eye and sat spell bound.
+They were alone now. Each had so much they wanted to say yet neither could express themselves. They caught each other's eye and sat spellbound.
 
 Frances gasped—"You are beautiful, Parepa, as beautiful as ever you were."
 
@@ -36,7 +36,7 @@ Frances gasped—"You are beautiful, Parepa, as beautiful as ever you were."
 
 "Yes, and how I wished I was in his place going home; holding you in his arms. And do you remember the night on the river, and old Glen Oak park? And—you, and the sunsets? I live them over and over. Parepa, dearest, it's been the very life of me." He rang for the next course.
 
-As they sat waiting, Parepa opened the jewel box. There was a necklace, bracelet, broach, and two rings all of platinum set with diamonds. They were of unusual design, and when Parepa raved over their delicate filigree, Frances said, "Do you recognize any one's name there?"
+As they sat waiting, Parepa opened the jewel box. There was a necklace, bracelet, broach, and two rings all of platinum set with diamonds. They were of unusual design, and when Parepa raved over their delicate filigree, Frances said, "Do you recognize anyone's name there?"
 
 Parepa studied the pattern for some time. "Yes," she cried, "Here is my name woven into the necklace and in the bracelet too."
 
@@ -88,11 +88,11 @@ As the nurse helped Frances to his room Parepa went across to Daddy's side. "How
 
 "She seemed perfectly at ease. I couldn't notice the least thing wrong," and Parepa turned to go. "I'll see you in the morning Daddy. I have some writing I must do and then I think I'll rest until tomorrow if you have nothing for me to do."
 
-"No, just do as you like. I expect you are tired," and he waved a good bye to her. When she reached her room she felt relieved not to find her maid there. She wanted time to remove her jewelry first. She placed one after another in the case, a queer feeling came over her as she counted the sparkling diamonds in the necklace. "Our good times," she said and closed the lid. This fifty year old Parepa was as happy as any sixteen year old girl ever dared to be. She was sure her voice had come back to her while Frances was putting the jewelry on her. Nanettezen came in. After she had changed Parepa's attire to one of new comfortable lounging robes she asked for the evening off.
+"No, just do as you like. I expect you are tired," and he waved a goodbye to her. When she reached her room she felt relieved not to find her maid there. She wanted time to remove her jewelry first. She placed one after another in the case, a queer feeling came over her as she counted the sparkling diamonds in the necklace. "Our good times," she said and closed the lid. This fifty year old Parepa was as happy as any sixteen year old girl ever dared to be. She was sure her voice had come back to her while Frances was putting the jewelry on her. Nanettezen came in. After she had changed Parepa's attire to one of new comfortable lounging robes she asked for the evening off.
 
 "Certainly you can," and Parepa was glad again that she would be left alone. In the deep silence of her room her thought fell to memories of the past. She wondered if it was right for her to guard them so sacredly. She was sure she did not love Frances in the same way she did her husband. That kind of love died long before her love for Johnie was born. What was it then, that annoyed her?
 
-She sat at her table and wrote a long loving letter to her husband and children. She longed to be with them. They needed her now when financial troubles were assailing them. Then it dawned on her that she was rich, that she could send them a check that would relieve all their worries of that kind. Taking a Phoenix bank check book from the drawer she deliberately wrote five checks for one thousand each. She told them to take each one to a different bank in Peoria to have them cashed. That much would pay up their most annoying debts.
+She sat at her table and wrote a long loving letter to her husband and children. She longed to be with them. They needed her now when financial troubles were assailing them. Then it dawned on her that she was rich, that she could send them a check that would relieve all their worries of that kind. Taking a Phoenix bank checkbook from the drawer she deliberately wrote five checks for one thousand each. She told them to take each one to a different bank in Peoria to have them cashed. That much would pay up their most annoying debts.
 
 When she finished her letter she slipped into one of her beautiful new silk bed suits and went to bed. So tired was she in mind that slumber came immediately.
 
@@ -120,7 +120,7 @@ Daddy Wheeler came into the room smiling, "So you two old pals are together so e
 
 "And I'll miss you both. I wish you knew my husband and boys. They are wonderful fellows," she said.
 
-"I thought of them in the night and how good it was of them to let you come to me. I know it must have been a great sacrifice for them to give you up for so long. Be sure and let them know I appreciate it. Now I'll tell you why I called you. I forgot to tell you that you are to have everything on this place and in the house. You can do as you please with them only that I want your boys to have all my masculine possessions. My saddle, my watches, rings, guns, cameras, sport goods, and everything I have that I kept as keep sakes when I came to America five years ago. I have them packed just as they were in England for shipping. There are eighteen large boxes of them. I shall order them taken to the express station soon. I hope they will get a lot of enjoyment out of them," and she smiled as Parepa assured her that they would.
+"I thought of them in the night and how good it was of them to let you come to me. I know it must have been a great sacrifice for them to give you up for so long. Be sure and let them know I appreciate it. Now I'll tell you why I called you. I forgot to tell you that you are to have everything on this place and in the house. You can do as you please with them only that I want your boys to have all my masculine possessions. My saddle, my watches, rings, guns, cameras, sport goods, and everything I have that I kept as keepsakes when I came to America five years ago. I have them packed just as they were in England for shipping. There are eighteen large boxes of them. I shall order them taken to the express station soon. I hope they will get a lot of enjoyment out of them," and she smiled as Parepa assured her that they would.
 
 "Each one is labeled so they will know their value," she said. "I want you to call the housekeeper, the yardman and the butler, please Daddy. I want to introduce them to their new mistress."
 
@@ -168,7 +168,7 @@ The yard man came in. He was apparently twenty-four years of age.
 
 "Yes, everything. I have them all catalogued in a book which I will give to her today. She can do just as she pleases with everything. You three will be responsible for their care the same as you have been these past five years, according to the agreements," Frances answered. "You may go now," and she sank back in her pillows as if weary.
 
-"You are so good Frances. Heaven is right on earth where you are," and Parepa rose and walked to her bedside, taking her hand in hers she said, "I must let you rest now, darling. I want you to feel good this afternoon. I have a surprise for you." Kissing her she said, "Now don't ask me to stay longer. I know you are tired. I'll see you at three this afternoon; until then, good bye," and she turned and blew a kiss to her from her hand.
+"You are so good Frances. Heaven is right on earth where you are," and Parepa rose and walked to her bedside, taking her hand in hers she said, "I must let you rest now, darling. I want you to feel good this afternoon. I have a surprise for you." Kissing her she said, "Now don't ask me to stay longer. I know you are tired. I'll see you at three this afternoon; until then, goodbye," and she turned and blew a kiss to her from her hand.
 
 After Parepa read the letter from home, she was sitting at her writing desk ready to answer it when she heard the knocker on the door.
 
@@ -176,13 +176,13 @@ Daddy Wheeler entered carrying the catalogue of articles in the household. "Tomo
 
 "Did she suffer terribly?" asked Parepa.
 
-"No, she never suffers. Just collapses and it takes strenuous treatment by the nurses to bring her around again. We never know what a day will bring forth," he added thoughtfully. "Did I ever tell you her wishes about her burial, Parepa? You know Parepa, Frances has a true religion all her own. Not one influenced by a creed or order. It is such a live thing to her that all else is dominated by it. It is the back ground that serves and supports her in all times of test or trial. Her love for the Supreme Being, her Father, her Helper, is a most natural thing for her. He understands her frail creation. In silence she goes to him and unburdens her longings and becomes refreshed.
+"No, she never suffers. Just collapses and it takes strenuous treatment by the nurses to bring her around again. We never know what a day will bring forth," he added thoughtfully. "Did I ever tell you her wishes about her burial, Parepa? You know Parepa, Frances has a true religion all her own. Not one influenced by a creed or order. It is such a live thing to her that all else is dominated by it. It is the background that serves and supports her in all times of test or trial. Her love for the Supreme Being, her Father, her Helper, is a most natural thing for her. He understands her frail creation. In silence she goes to him and unburdens her longings and becomes refreshed.
 
-"Her 'home made' religion is clothed with love. It is her property, and was created out of beauty, kindliness, and regard for the rights of others. I have always noticed that her own burdens disappear as she lightens the burdens of others."
+"Her 'homemade' religion is clothed with love. It is her property, and was created out of beauty, kindliness, and regard for the rights of others. I have always noticed that her own burdens disappear as she lightens the burdens of others."
 
 "No Daddy, you didn't tell me. Has she planned that too?" she asked.
 
-"Yes indeed. They are very simple. She wants to be taken to a little church yard in the country about fifty miles from here, and wants no service of any kind. She says she and her God understand each other and that is all that is necessary. I have promised to carry out her wishes to the letter. She wants no procession—only her servants and I to follow her. There must be no publicity. These three Johnsons and I were all that knew her wishes. She wants to be buried at night and hopes it will be moonlight. I suppose that sounds unchristian to you, but I have a great deal of respect for her wishes. She has a reason for them all. A better life was never lived. She has been a great blessing to humanity. Very few know from whose hand they benefited. 'The Lord knows,' she would say, 'and that is all that matters.' I gave up my whole life to her. It has been worth it. I shall never regret it." He spoke calmly as though talking of the weather.
+"Yes indeed. They are very simple. She wants to be taken to a little churchyard in the country about fifty miles from here, and wants no service of any kind. She says she and her God understand each other and that is all that is necessary. I have promised to carry out her wishes to the letter. She wants no procession—only her servants and I to follow her. There must be no publicity. These three Johnsons and I were all that knew her wishes. She wants to be buried at night and hopes it will be moonlight. I suppose that sounds unchristian to you, but I have a great deal of respect for her wishes. She has a reason for them all. A better life was never lived. She has been a great blessing to humanity. Very few know from whose hand they benefited. 'The Lord knows,' she would say, 'and that is all that matters.' I gave up my whole life to her. It has been worth it. I shall never regret it." He spoke calmly as though talking of the weather.
 
 "You are both wonderful. I love you as a father, Daddy, and I'm sure no one but our God knows how to diagnosis Frances's and my love for each other."
 
@@ -206,7 +206,7 @@ Her maid thought she was still dreaming but Parepa knew better. She could sing.
 
 "Yes, and I'll double it too," he said. They lingered long at the table. Daddy was his jolly self and being much traveled and very well educated he interested Parepa greatly.
 
-"Let's go see that cactus I've been telling you about," he said so they left the table. They strolled some way before they came to it. It was far above Parepa's head. She laughed as she thought of her petted house plant of the same variety. She was feeling fine when they got back and bound to carry out her intention of surprising Frances.
+"Let's go see that cactus I've been telling you about," he said so they left the table. They strolled some way before they came to it. It was far above Parepa's head. She laughed as she thought of her petted houseplant of the same variety. She was feeling fine when they got back and bound to carry out her intention of surprising Frances.
 
 When she heard the roll of his couch coming into the library she took her seat at the piano and began singing, "When Love Comes in the Moonlight." Her voice surprised herself. It was as clear in tone as it had been when a child. When she had finished Frances begged her to sing again and again. Often she joined in a few weak strains.
 

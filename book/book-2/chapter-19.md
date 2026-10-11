@@ -22,7 +22,7 @@ Allie took the receiver shakingly in her hand.
 
 "None, I thank you."
 
-"We published this communication in this evening's paper, hoping to hear from someone who knew of your where-abouts, and have been kept busy answering 'phone calls from friends of yours ever since." He waited for a reply. There was none and he continued. "I'd advise you to get in touch with him as soon as possible. It may be to your advantage."
+"We published this communication in this evening's paper, hoping to hear from someone who knew of your whereabouts, and have been kept busy answering 'phone calls from friends of yours ever since." He waited for a reply. There was none and he continued. "I'd advise you to get in touch with him as soon as possible. It may be to your advantage."
 
 "Thank you very much," she said as if to close the conversation.
 
@@ -46,7 +46,7 @@ When she faced her family four pair of inquiring eyes were turned to hers. Befor
 
 "No, I haven't."
 
-"Well, some one in Arizona is looking for you. There's a long piece about it. Can you imagine who it can be?"
+"Well, someone in Arizona is looking for you. There's a long piece about it. Can you imagine who it can be?"
 
 Allie recognized the voice of an old schoolmate whom she knew to have developed into a full fledged gossip. Of all people she was one not to be confided in.
 
@@ -108,7 +108,7 @@ Allie heard the coins tinkle into the 'phone box. She hoped no one was going to 
 
 Without turning from the 'phone she called central. "Hello, operator? This is Mrs Bradford. If there are any more long distance calls come in for me, will you kindly inform them I cannot answer any more calls tonight?"
 
-"All right, Mrs Bradford. I'll see that you are not bothered any more."
+"All right, Mrs Bradford. I'll see that you are not bothered anymore."
 
 "Now maybe I can talk to my family," she said seating herself at her place at the table. Her eyes fell on the locket outlined on the cloth. Quickly she turned away. Why should that haunt her so tonight? "Now I'll try to tell you all I have heard. The first 'phone call was from the Peoria Tribune office. He said they had a letter from someone living in Arizona wanting them to put forth an effort to locate me."
 
@@ -122,4 +122,4 @@ Without turning from the 'phone she called central. "Hello, operator? This is Mr
 
 "I may be taking liberties, Mr. Bradford, but I have with me a copy of tonight's Peoria Tribune which will explain to you my visit here. I have come to interview your wife." He opened it wide and held it out in front of him so they could all read the headlines.
 
-Allie entered the room and Johnie introduced her to the reporter. He handed the paper to her. Her eyes fell on the bold words, "Search for Alice Parepa-Roza Wesley." Has any body here seen "Alice"? The following communication was received today by the Peoria Tribune.
+Allie entered the room and Johnie introduced her to the reporter. He handed the paper to her. Her eyes fell on the bold words, "Search for Alice Parepa-Roza Wesley." Has anybody here seen "Alice"? The following communication was received today by the Peoria Tribune.

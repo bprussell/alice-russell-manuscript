@@ -2,7 +2,7 @@
 
 It had all been so exciting from the beginning that Allie had not had time to consider the seriousness of her mission. She bought her ticket to Chicago. From there she would take a through Pullman to Tucson on the Rock Island. After goodbyes were said, and she was seated on the train she pinched herself to see if she were dreaming. Things she had forgotten to tell the home folks to do ran through her brain. She pulled a tablet and pencil from her bag and started a letter to them. Finally she chucked ten pages of letter into a shabby envelope and gave it to the porter to mail for her. She addressed it to Robert and disguised her handwriting. In that letter she told them that hereafter she would address their letters to Mr. J.S. Bradford, General Delivery, Peoria, Illinois, and that they were to go to the Peoria Post Office and call for them. She explained that she thought best not to send letters to Edelstein for a while.
 
-She then worded a telegram to Daddy Wheeler. Allie laughed to herself as she took stock of the contents of her traveling bag. There were only two dresses, three pair of silk stockings which were Christmas presents, three suits of underwear, a night gown, an old silk kimona, two under slips, a dozen handkerchiefs, a new pair of shoes which she had never worn, stamps, tablet, envelopes, comb, powder, and a copy of the latest magazine, which Johnie had thoughtfully stuck in at the last minute.
+She then worded a telegram to Daddy Wheeler. Allie laughed to herself as she took stock of the contents of her traveling bag. There were only two dresses, three pair of silk stockings which were Christmas presents, three suits of underwear, a nightgown, an old silk kimona, two under slips, a dozen handkerchiefs, a new pair of shoes which she had never worn, stamps, tablet, envelopes, comb, powder, and a copy of the latest magazine, which Johnie had thoughtfully stuck in at the last minute.
 
 She carried with her a large pillow and a pretty dark blue plaid blanket—another Christmas present. After changing cars in Chicago she was so sleepy and tired that she decided to curl up on her berth and go to sleep. This she did. Without any difficulty whatever she was soon asleep. Such is the reward of a clear conscience. When she awoke it was to hear the call for dinner. She had missed her breakfast but felt no worse for it.
 
@@ -40,7 +40,7 @@ He gave a most elaborate order. After the waiter left he addressed his companion
 
 "I'm afraid I can't tell as big a one as you have. I haven't any. Never did have." Allie thought his face saddened. She would change the subject.
 
-"Isn't this scenery beautiful, this time of the year?" she asked. "I love the Spring time."
+"Isn't this scenery beautiful, this time of the year?" she asked. "I love the Springtime."
 
 "I love it too, it's my favorite season. So filled with hope and promise," he said.
 
@@ -60,7 +60,7 @@ As the train neared the end of the journey Allie was breathless with the charm o
 
 Now there was deep chasms and canyons—now sunny gardens of green and gold—silver gray desert stretches—towering forms of cactus giants—and *color*! Oh the beautiful blendings of color! Could the Temple of Solomon have been grander? Nowhere had she found nature's colors so striking. Our old Parepa-Roza had come back! Here, in the same seat and even in the same body in which Allie had entered the train, was this beauty worshiper of other days. Not one aspect of enchanting charm escaped the eyes of this woman. They were saturated with its loveliness.
 
-It was wonderful. Her thoughts traveled homeward to her husband. How he would have enjoyed this trip. How he loved the Colorado Mountains. "Well, some day," she said to herself, "we will take this trip together." She took her tablet from her bag, wrote her last long letter en route to her home folks.
+It was wonderful. Her thoughts traveled homeward to her husband. How he would have enjoyed this trip. How he loved the Colorado Mountains. "Well, someday," she said to herself, "we will take this trip together." She took her tablet from her bag, wrote her last long letter en route to her home folks.
 
 It was three-thirty o'clock in the afternoon when she left the train. She was just entering the depot when a young man dressed in livery stepped to her side and touching her on the arm asked, "Are you Mrs Bradford from Illinois?"
 

@@ -50,9 +50,9 @@ Frances retired early and immediately went to sleep. The next few days were sad 
 
 "The girl has got a great deal on her mind and I don't blame her for wanting to have some time to herself. Everyone tries to tell her what she should do and where she should go and who she should marry and why, until the poor child is most distracted. Take a chair, Mr. Emmerson and let's have a good visit. No use for you to hurry away," and Mrs Slay pulled out a comfortable looking chair for him.
 
-"I thank you Mrs Slay very much, but I am in somewhat of a hurry myself. Was going to take Parepa with me but since she is not here I must hurry on. Thanks just the same." The fact was Frances didn't care to chat confidentially with anyone. He walked to the park, sat down in the summer house at the head of the Perry Street entrance.
+"I thank you Mrs Slay very much, but I am in somewhat of a hurry myself. Was going to take Parepa with me but since she is not here I must hurry on. Thanks just the same." The fact was Frances didn't care to chat confidentially with anyone. He walked to the park, sat down in the summerhouse at the head of the Perry Street entrance.
 
-This place held no memories of times spent with Parepa. It was heavily foliaged by trees and vines which over hung it. Here was a quiet place to think. As he sat there, head in hands, earnestly trying to be fair to Parepa and himself he was startled by the approaching footsteps of two figures—a girl and a boy, evidently lovers.
+This place held no memories of times spent with Parepa. It was heavily foliaged by trees and vines which overhung it. Here was a quiet place to think. As he sat there, head in hands, earnestly trying to be fair to Parepa and himself he was startled by the approaching footsteps of two figures—a girl and a boy, evidently lovers.
 
 Sensing the fact that they were searching out a place to bill and coo he rose and taking his place beside a huge tree trunk found himself an unintentional listener. It was Joseph and Parepa.
 
@@ -64,7 +64,7 @@ Sensing the fact that they were searching out a place to bill and coo he rose an
 
 "Frances," she answered. "He is the boy I am going to marry you know."
 
-"Oh—lucky boy—All I have to say. What's troubling you?" he asked in a half-hearted manner.
+"Oh—lucky boy—All I have to say. What's troubling you?" he asked in a halfhearted manner.
 
 "I don't know as you'd call it trouble exactly. I wanted to tell you about him. I didn't want you to feel badly because I hadn't told you before you know," she said earnestly.
 

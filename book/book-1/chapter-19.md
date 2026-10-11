@@ -24,7 +24,7 @@ Parepa threw her arms around Aunt Kate and burst into a torrent of tears. "I've 
 
 "Yes," smiled Aunt Kate, "he helped me home from the grocery store with my packages one day and I became interested in him. He was so mannerly and attractive. After that I always took pains to talk with him when I met him on the street. That's how strangely things come about in this world. Did he ever tell you anything about himself, Parepa?"
 
-"No, Aunt Kate, but I believe he wants to and I think I'll let him some day. Every time he hints about himself I change the subject. Some way I don't want to know. It might make a difference you know."
+"No, Aunt Kate, but I believe he wants to and I think I'll let him someday. Every time he hints about himself I change the subject. Some way I don't want to know. It might make a difference you know."
 
 "Yes, dear it might, but if it will the sooner you know it the better. There is undoubtedly a mystery somewhere. Neither he nor Mr. Wheeler tell much of their past. Do you know how old he is, Parepa?"
 

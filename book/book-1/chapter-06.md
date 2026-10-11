@@ -4,7 +4,7 @@ August 28th, 1898, at eight o'clock Alice Parepa-Roza Wesley was actually launch
 
 Carry Weber and Mattie Swanson were the "old girls" on the job and from them Parepa was to learn all the "in's and out's" of the Candy shop business.
 
-"Guess we'll clean the show cases and windows first," said Mattie. "Parepa, you can remove all the candy dishes, empty them and wash them while we clean the glass and put new papers on the bottoms of the showcases and window shelves." She showed Parepa very kindly just where to put the candy removed from dishes and how to clean and dry them. Parepa wondered if all her work would be so easy. Occasionally a customer sauntered in and one of the older girls would wait on them. "Some day I'll sell candy I suppose," she said to herself. "I wonder how long before they'll let me."
+"Guess we'll clean the showcases and windows first," said Mattie. "Parepa, you can remove all the candy dishes, empty them and wash them while we clean the glass and put new papers on the bottoms of the showcases and window shelves." She showed Parepa very kindly just where to put the candy removed from dishes and how to clean and dry them. Parepa wondered if all her work would be so easy. Occasionally a customer sauntered in and one of the older girls would wait on them. "Someday I'll sell candy I suppose," she said to herself. "I wonder how long before they'll let me."
 
 "Say, who's the new 'candy kid'?" said a young swain who had been chatting with Carry as she boxed a pound of chocolates for him.
 
@@ -42,17 +42,17 @@ Uncle Will had chosen a table in a secluded part of the room in which to eat and
 
 Parepa didn't know just what he meant but was glad when Uncle Will started on.
 
-The afternoon was a time never to be forgotten by Parepa. The "older girls" decided to let her "dress" one of the back show cases by arranging the cheap candies to suit her own taste. They thought it would result in a panic of color without any thought of design, but much to their surprise and Uncle Will's delight the result was a dream in beautiful color arrangement. She laid out a rainbow across the case bottom which slanted slightly toward the front. She did her work deliberately and seemed to be so completely wrapped up in it that she didn't notice the others eyeing her enviously. When it was done she stood off some distance and gazed at it. Clapping her hands, her face radiant as she grabbed Uncle Will by the hand and led him up to see it.
+The afternoon was a time never to be forgotten by Parepa. The "older girls" decided to let her "dress" one of the back showcases by arranging the cheap candies to suit her own taste. They thought it would result in a panic of color without any thought of design, but much to their surprise and Uncle Will's delight the result was a dream in beautiful color arrangement. She laid out a rainbow across the case bottom which slanted slightly toward the front. She did her work deliberately and seemed to be so completely wrapped up in it that she didn't notice the others eyeing her enviously. When it was done she stood off some distance and gazed at it. Clapping her hands, her face radiant as she grabbed Uncle Will by the hand and led him up to see it.
 
 "It's beautiful, Parepa. How did you ever think to make it like That?" he asked.
 
-"Oh, I don't know only I simply love pretty things. I just crave to get my hands on any thing beautiful. Sort of possessed, I guess. These candies are so pretty, Uncle Will. I'm so glad I'm here!" she said.
+"Oh, I don't know only I simply love pretty things. I just crave to get my hands on anything beautiful. Sort of possessed, I guess. These candies are so pretty, Uncle Will. I'm so glad I'm here!" she said.
 
-It was drawing near five o'clock now and Uncle Will suggested he stroll along with Parepa as he wanted to talk over some business with Uncle George. This was only a stall but it worked. He really didn't like to have this young girl on the street alone even in the day light until she was better acquainted with the ways of the city. When they arrived Aunt Kate was waiting on the porch for them. She could hardly wait to hear Parepa's report of the day.
+It was drawing near five o'clock now and Uncle Will suggested he stroll along with Parepa as he wanted to talk over some business with Uncle George. This was only a stall but it worked. He really didn't like to have this young girl on the street alone even in the daylight until she was better acquainted with the ways of the city. When they arrived Aunt Kate was waiting on the porch for them. She could hardly wait to hear Parepa's report of the day.
 
 "Oh! Auntie Kate, I'm so happy!" she said, kissing her. "It's such fun!"
 
-Then Uncle Will told about the rainbow in the show case. "Prettiest piece of work I ever saw," he finished. "I'll have to watch out or some other shop will be trying to take my designer away from me."
+Then Uncle Will told about the rainbow in the showcase. "Prettiest piece of work I ever saw," he finished. "I'll have to watch out or some other shop will be trying to take my designer away from me."
 
 "Don't you worry, Uncle Will, I'll never leave you," she laughed.
 
@@ -70,7 +70,7 @@ It was five-thirty now and it was planned to eat at six, rest until seven-thirty
 
 "Of course you are, but don't you think we should get a letter off to your folks tonight?"
 
-Parepa's face clouded a little as she thought of the possibility of her folks objecting to her staying. They went into the house to get supper ready. Parepa was quiet. Auntie suspected the reason. Never-the-less this letter had to be written and it was. Uncle George wrote one and Parepa wrote one. They were placed together in an envelope and Uncle George mailed it.
+Parepa's face clouded a little as she thought of the possibility of her folks objecting to her staying. They went into the house to get supper ready. Parepa was quiet. Auntie suspected the reason. Nevertheless this letter had to be written and it was. Uncle George wrote one and Parepa wrote one. They were placed together in an envelope and Uncle George mailed it.
 
 "I'll be out there again to stay all night about Thursday and this will give them time to make up their minds before I get there," he said.
 
@@ -82,7 +82,7 @@ Parepa's face clouded a little as she thought of the possibility of her folks ob
 
 "Now Parepa you go practice and George and I will do the dishes," said Aunt Kate.
 
-She obeyed. As she was all concentration on her lesson she didn't hear the front door open quietly and some one slip up behind her putting both hands over her eyes and with a rousing kiss on her cheek say, "Guess who."
+She obeyed. As she was all concentration on her lesson she didn't hear the front door open quietly and someone slip up behind her putting both hands over her eyes and with a rousing kiss on her cheek say, "Guess who."
 
 She knew it was Frances. When he took her hands from over her eyes he gave a ringing laugh that brought Mr. and Mrs. Slay from the kitchen.
 
@@ -114,9 +114,9 @@ Uncle George spoke up then, "Say little girl, you know you promised to help me p
 
 "Alright," she answered, and kept her word.
 
-There was not one thing in that covered tea wagon that would not add a beauty touch, some where in a home.
+There was not one thing in that covered tea wagon that would not add a beauty touch, somewhere in a home.
 
-Parepa rose at five the next morning to see Uncle George off. Aunt Kate and she waved a long good bye. This trip would bring an answer from her parents that would be the turning point of her life. How she prayed that she might be allowed to stay. That night Parepa and Aunt Kate went through the practice hour together and then decided to take a short walk. As they turned the corner someone sprang between them grabbing both by the arm and laughing out, "I caught you this time." It was Frances, of course.
+Parepa rose at five the next morning to see Uncle George off. Aunt Kate and she waved a long goodbye. This trip would bring an answer from her parents that would be the turning point of her life. How she prayed that she might be allowed to stay. That night Parepa and Aunt Kate went through the practice hour together and then decided to take a short walk. As they turned the corner someone sprang between them grabbing both by the arm and laughing out, "I caught you this time." It was Frances, of course.
 
 "Where are you headed for?" he asked.
 
@@ -138,11 +138,11 @@ Aunt Kate watched this proceeding and wondered if it wasn't just as well that Fr
 
 After Frances left them on the porch Aunt Kate suggested that they sleep together in Parepa's bed. "It won't be so lonesome," she said.
 
-After the lights were out she cuddled up to Parepa and told her how much she and Uncle George loved her and how they hoped she would always be careful of herself and not get too familiar with strange girls and boys. She told her of some of the pit falls she must watch for.
+After the lights were out she cuddled up to Parepa and told her how much she and Uncle George loved her and how they hoped she would always be careful of herself and not get too familiar with strange girls and boys. She told her of some of the pitfalls she must watch for.
 
 Aunt Kate realized better than this young girl ever would that her modest charms, physical and intellectual, made a peculiar appeal to the opposite sex as well as being the envy of her own gender.
 
-Since her stay with them Aunt Kate was often surprised and pleased at the super-intelligence unfolding in her. She knew from the quick and precise way she mastered her music lessons there was no doubt that any thing she might undertake would be a success.
+Since her stay with them Aunt Kate was often surprised and pleased at the superintelligence unfolding in her. She knew from the quick and precise way she mastered her music lessons there was no doubt that anything she might undertake would be a success.
 
 "You must try to satisfy yourself with your job and music for a few years at least. By that time you'll be experienced enough in life to choose and judge your associates and pleasures. You know we will see to it that you have all the pleasures and companionship a girl your age needs to stimulate them in the meantime," said Aunt Kate giving Parepa a hug and kiss.
 
@@ -150,7 +150,7 @@ Since her stay with them Aunt Kate was often surprised and pleased at the super-
 
 "Good night, dear, and sweet dreams," said Aunt Kate.
 
-"Nightie night," echoed Parepa and they were soon in dream land. But before Parepa slept she offered up a special prayer that Mamma and Papa would let her stay here where she was so happy.
+"Nightie night," echoed Parepa and they were soon in dreamland. But before Parepa slept she offered up a special prayer that Mamma and Papa would let her stay here where she was so happy.
 
 The next day was an anxious one for Parepa. She could hardly wait until time to go home and hear Uncle George's message from home.
 
@@ -164,7 +164,7 @@ By this time the customers and other clerks stood amazed. Parepa in her exciteme
 
 "Say, sweetie, do you often take a spell like that? I wish I'd been the fellow attacked," he teased.
 
-"That's my good Uncle and he brought me some great news. Did you say gum drops?" she asked changing the subject.
+"That's my good Uncle and he brought me some great news. Did you say gumdrops?" she asked changing the subject.
 
 "No, you misunderstood me. I said kisses," he laughed.
 
@@ -176,7 +176,7 @@ By this time the customers and other clerks stood amazed. Parepa in her exciteme
 
 He tried to joke with her but she turned to an old lady and very sweetly gave her undivided attention to putting up her box of fine candies.
 
-Uncle George stood back in the store and pretended not to notice the above proceedings. Never-the-less he missed none of it and was pleased at the way Parepa handled the situation.
+Uncle George stood back in the store and pretended not to notice the above proceedings. Nevertheless he missed none of it and was pleased at the way Parepa handled the situation.
 
 He told Aunt Kate about it after they went home from the store. "Don't think we need to worry much about her not being able to take care of herself," he said.
 

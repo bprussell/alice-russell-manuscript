@@ -38,17 +38,17 @@ Finally he asked, "Do you understand, Parepa?"
 
 "Yes," she said, "but I have only allowed myself two weeks here."
 
-"That will be long enough. We will fix it up tomorrow. Frances will not have to worry over it any more. She will be so happy to know you will be looked out for. It has given her lots of pleasure getting things in shape for you. These investments are not due for fifteen and twenty years. They pay four percent and are nonassessable. They are as safe as anything in the world. She has some in the capital Cities of every State in the Union and in some of the other large Cities. We thought best not to invest much in any one bank. Not to put too many eggs in one basket you know," he chuckled as he saw Parepa's eyes open when large amounts were mentioned.
+"That will be long enough. We will fix it up tomorrow. Frances will not have to worry over it anymore. She will be so happy to know you will be looked out for. It has given her lots of pleasure getting things in shape for you. These investments are not due for fifteen and twenty years. They pay four percent and are nonassessable. They are as safe as anything in the world. She has some in the capital Cities of every State in the Union and in some of the other large Cities. We thought best not to invest much in any one bank. Not to put too many eggs in one basket you know," he chuckled as he saw Parepa's eyes open when large amounts were mentioned.
 
 "You don't mean that Frances has that much money," she gasped.
 
-"Yes, and lots left for herself, should she need it. I am to dispose of it to Charities after she is through with it. Come, now, it's most dinner time," and they strolled into the house.
+"Yes, and lots left for herself, should she need it. I am to dispose of it to Charities after she is through with it. Come, now, it's most dinnertime," and they strolled into the house.
 
 Parepa and Daddy ate together in the beautifully appointed dining room, with all the service accompanying a formal dinner. Parepa was very tired. She hoped she could gracefully retire early.
 
 This wish was quite naturally granted as Frances was only allowed to visit one half hour after dinner. She went to her sitting room and took from the writing desk daintily perfumed stationery. She wrote a long, long letter to her loved ones at home telling them of the beauty of the country, of Frances's condition and assured them of her own good health. After she had sealed the envelope her maid sent it to the Post Office with a servant.
 
-There was lots of good reading on her table but she was so tired. "I believe I'll retire now," she told her maid. After a shower and brisk rub she slipped into her night gown and after her prayers were said got into the most luxurious bed she had ever seen.
+There was lots of good reading on her table but she was so tired. "I believe I'll retire now," she told her maid. After a shower and brisk rub she slipped into her nightgown and after her prayers were said got into the most luxurious bed she had ever seen.
 
 "I'll be in this room, Mrs Bradford," said her maid, "should you need me just push this button. Good night."
 
@@ -62,7 +62,7 @@ At ten o'clock she descended the stairs and found Daddy waiting for her in the l
 
 They all three laughed heartily over the joke. It really seemed to them now as if it had been one of fate's huge jokes.
 
-"I want to hear your whole story since we parted. I see many interesting tell tale impressions which time has left on your countenance. Has the world dealt a little hard with you sometimes, Parepa?" she asked.
+"I want to hear your whole story since we parted. I see many interesting telltale impressions which time has left on your countenance. Has the world dealt a little hard with you sometimes, Parepa?" she asked.
 
 "I wouldn't say hard, exactly," she answered. "But I have seen a great deal of joy and trouble in the last thirty years. Had I not had the companionship of the kindest husband in the world I never could have survived it. You can see we were not blessed with this world's goods. In fact there were times when we hardly knew where the next dollar was coming from. Yet, I have been a fortunate mother and wife and I'm not complaining."
 

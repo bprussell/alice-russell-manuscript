@@ -20,7 +20,7 @@ After they had left the last place on the route she said, "Uncle George, do you 
 
 "Yes, but they *do* need them Uncle George. They need them *so* badly but they don't know it. Maybe you will be the means of finding the "missing link" in their chain of happiness (a phrase she had gathered from a book). Who knows?"
 
-They rode on in silence again for sometime. Parepa-Roza picturing little dots of beauty here and there in the many homes they had visited and Uncle George wondering how in the world he had made such a rash promise. Already he could hear the complaint of his customers at not finding the useful premiums they expected to get. Well, he'd slip in a few any way.
+They rode on in silence again for sometime. Parepa-Roza picturing little dots of beauty here and there in the many homes they had visited and Uncle George wondering how in the world he had made such a rash promise. Already he could hear the complaint of his customers at not finding the useful premiums they expected to get. Well, he'd slip in a few anyway.
 
 Parepa-Roza broke the silence, "And Uncle George, you'll let me help pack in the pretty things won't you? Let's see, we'll put in lots of those beads, they are so pretty. Do you care if I wear a string of them till we get to your house? I love those pink ones."
 
@@ -50,15 +50,15 @@ Parepa-Roza could have kissed him for that.
 
 "Come right on in and make yourself at home. Expect you'd like to take a bath and freshen yourself up a bit before supper, wouldn't you?" smiled Aunt Kate.
 
-"I do feel dirty" ventured the bewildered Alice Parepa-Roza. She had heard of bath rooms and bath tubs but had never seen one. Never-the-less she was soon to be introduced to one in full action. Aunt Kate drew the water for the bath, got out pretty bath towels, sweet smelling soap, and then turning to the tired, half scared girl said, "This is the toilet, I'll show you how to use it, and this is the lavatory which we use to wash our hands and face in. Now just undress and I'll be unpacking and hanging up your clothes while you bathe. I'll leave the door open a crack so you won't be lonesome."
+"I do feel dirty" ventured the bewildered Alice Parepa-Roza. She had heard of bathrooms and bathtubs but had never seen one. Nevertheless she was soon to be introduced to one in full action. Aunt Kate drew the water for the bath, got out pretty bath towels, sweet smelling soap, and then turning to the tired, half scared girl said, "This is the toilet, I'll show you how to use it, and this is the lavatory which we use to wash our hands and face in. Now just undress and I'll be unpacking and hanging up your clothes while you bathe. I'll leave the door open a crack so you won't be lonesome."
 
 Parepa-Roza climbed over the edge of the tub and slipped down into the water a little cautiously, but was soon enjoying the refreshing thrill as well as the smell of the pretty soap. She hoped Aunt Kate wouldn't peek in at her. She would have more fun if the door was closed.
 
 Finally Aunt Kate called, "Are you through, dear?"
 
-"I'm just getting out." Splash she slipped and went down ker-bump to the bottom of the tub, splashing the walls and floor of Aunt Kate's pretty bath room.
+"I'm just getting out." Splash she slipped and went down ker-bump to the bottom of the tub, splashing the walls and floor of Aunt Kate's pretty bathroom.
 
-Aunt Kate rushed in laughing and helped the very much mortified and subdued girl to the floor, wrapped her in a big bath towel and rubbed her dry. Then she combed her pretty wavy hair making a braid part way down and terminating it with a curl. "What a beautiful child you are, my dear. I wish you were our girl. Our Maude would have been sixteen now." Then she slipped a clean, stiffly starched gingham dress over the clean stiffly starched petticoat and with a kiss on one rosy cheek said, "Now come on downstairs and I'll let you help me get supper."
+Aunt Kate rushed in laughing and helped the very much mortified and subdued girl to the floor, wrapped her in a big bath towel and rubbed her dry. Then she combed her pretty wavy hair making a braid partway down and terminating it with a curl. "What a beautiful child you are, my dear. I wish you were our girl. Our Maude would have been sixteen now." Then she slipped a clean, stiffly starched gingham dress over the clean stiffly starched petticoat and with a kiss on one rosy cheek said, "Now come on downstairs and I'll let you help me get supper."
 
 "I'd love to" ventured our heroine and as she passed the long mirror in the hall she hardly knew herself. "I really am pretty," she said to herself, "Funny I never noticed it before."
 
@@ -68,7 +68,7 @@ Aunt Kate rushed in laughing and helped the very much mortified and subdued girl
 
 "All right," said Aunt Kate, "we'll make the one your Uncle George likes best. It won't take long. First, you can cut up these two apples into small pieces, wash them first; then cut this celery in just as small pieces. You see I've had it washed and in this clean bag on the ice so it will be nice and crisp. Open this little can of tuna fish, salt, and mix them all together by putting them into this white bowl and tossing about with this wooden fork. Then mix in this salad dressing. After that is done you can put a lettuce leaf on each salad plate and put some salad on the leaf. I always put some of the dressing on the table in this mayonnaise bowl so if anyone cares for more they can help themselves."
 
-Through all this long speech Parepa-Roza stood spell bound. Such a pretty kitchen, such beautiful dishes! She didn't think she would ever get tired washing them. If mamma only had pretty things. And the curtains! Think of it, thin white curtains trimmed with a blue border — in the *kitchen*, mind you.
+Through all this long speech Parepa-Roza stood spellbound. Such a pretty kitchen, such beautiful dishes! She didn't think she would ever get tired washing them. If mamma only had pretty things. And the curtains! Think of it, thin white curtains trimmed with a blue border — in the *kitchen*, mind you.
 
 Finally Aunt Kate broke the spell by handing her the paring knife (she had already washed the apples).
 
@@ -118,7 +118,7 @@ Parepa-Roza could have squeezed him for that, seemed as if he always said the ri
 
 She will never know how she got through that meal. It was all a blur to her, but when Aunt Kate said as they rose from the table, "Parepa-Roza and I will do up the dishes and then we'll be out on the porch with you," she thought that for a few moments at least she would be away from the eyes and ears of this strange boy. No such luck. "Let me help you Mrs Slay? I can wash dishes as well as a woman so let me prove it?" said the unsuspecting Frances as he gathered his hands full of dirty dishes. "Right this way my ladies" and he bowed a low bow into the kitchen.
 
-"Oh! do the dish washers get to finish up the salads and stuff," he said as his eyes fell on the remainder of "Parepa's first." "Really I thought that was the best salad I ever ate. How did you make it Mrs Slay?" Parepa wished she wasn't there to hear Aunt Kate tell him she made it, but she was and when he grabbed her two hands in his and swung her around saying, "Hurrah for the champion salad maker" she felt her awkwardness more than ever.
+"Oh! do the dishwashers get to finish up the salads and stuff," he said as his eyes fell on the remainder of "Parepa's first." "Really I thought that was the best salad I ever ate. How did you make it Mrs Slay?" Parepa wished she wasn't there to hear Aunt Kate tell him she made it, but she was and when he grabbed her two hands in his and swung her around saying, "Hurrah for the champion salad maker" she felt her awkwardness more than ever.
 
 "Now you two can wipe and I'll wash," said Aunt Kate as she handed each a tea towel. Uncle George puffed at his cigar amused at the girl's discomfort. Parepa was really beginning to feel a little more at home now. Something in the "feel" of the tea towel was familiar to her and she ventured to say, "I better wipe the tumblers, you might break them" to Frances.
 
@@ -142,7 +142,7 @@ I wonder what he's talking about, "open stock pattern" thought Parepa as Aunt Ka
 
 "Isn't that a pretty horse," she said and then went to pondering again.
 
-"Say, what's-your-name, if you like pretty horses I just wish you could see some of mine. My favorite saddle pony is black as coal. I have a team of pure white ones that Clem scrubs everyday. I'll show you their pictures some day. I'll be glad when I get home and can ride and drive them again. You see, I haven't seen them for nearly two years. I've been over the ocean that long. I bet they will know me though."
+"Say, what's-your-name, if you like pretty horses I just wish you could see some of mine. My favorite saddle pony is black as coal. I have a team of pure white ones that Clem scrubs everyday. I'll show you their pictures someday. I'll be glad when I get home and can ride and drive them again. You see, I haven't seen them for nearly two years. I've been over the ocean that long. I bet they will know me though."
 
 "I bet they can't pull as much as old Coaly and Scamper," she ventured. "They can out pull any horses around our place."
 
@@ -162,7 +162,7 @@ Uncle George had heard her singing while she was milking and had told Aunt Kate 
 
 "Sure, come right up and let her roar. Come on Parepa-Roza we need you too to make up this quartet."
 
-"I'd rather listen," she said and no amount of coaxing could move her. That she was spell bound by the singing of the others was evident, and they sang and sang sometimes one at a time, two at a time, or three at a time. Parepa made up her mind right then that she would learn to sing just like Aunt Kate. She thought she never saw such a pretty boy, too. She could look at him now while he was watching his music. Pretty black curly hair, dark eyes, and olive skin, tall, not too slender and so graceful. Too many dimples she thought.
+"I'd rather listen," she said and no amount of coaxing could move her. That she was spellbound by the singing of the others was evident, and they sang and sang sometimes one at a time, two at a time, or three at a time. Parepa made up her mind right then that she would learn to sing just like Aunt Kate. She thought she never saw such a pretty boy, too. She could look at him now while he was watching his music. Pretty black curly hair, dark eyes, and olive skin, tall, not too slender and so graceful. Too many dimples she thought.
 
 "That's enough now," said Aunt Kate as she whirled around on the piano stool.
 
@@ -182,9 +182,9 @@ Uncle George had heard her singing while she was milking and had told Aunt Kate 
 
 Parepa was so mortified she blushed all over but managed to mount the steps by Aunt Kate's side.
 
-"We'll undress in the bath room where you can cool your face with a wash cloth wet in the lavatory. Put on your nightie and come into this bed room" said Aunt Kate pointing to such a clean and pretty room. "I'll turn the covers down for you."
+"We'll undress in the bathroom where you can cool your face with a washcloth wet in the lavatory. Put on your nightie and come into this bedroom" said Aunt Kate pointing to such a clean and pretty room. "I'll turn the covers down for you."
 
-Aunt Kate watched the beautiful young girl approach in her long nightie which had been made by bleaching and piecing flour sacks together as were all the night gowns in the Wesley family.
+Aunt Kate watched the beautiful young girl approach in her long nightie which had been made by bleaching and piecing flour sacks together as were all the nightgowns in the Wesley family.
 
 Parepa kneeled down beside her bed and reverently whispered her prayers. Aunt Kate wished Uncle George could see this pretty picture. It remained clear in her mind to the last day of her life.
 
@@ -194,7 +194,7 @@ When Parepa arose she kissed Aunt Kate and told her how nice she was. "I'm tired
 
 After the light was snapped out and Parepa left alone she reviewed the day's happenings. I didn't suppose so much could happen in so short a time. I must ask Aunt Kate tomorrow what country pedigreed horses are from and what they look like. Hope Uncle George won't kiss me tomorrow night. Wonder if I'll make the salad to--m--o--rr--ow but the child was asleep, not to awaken until the sun was high in the sky. She couldn't believe she had slept so late.
 
-Aunt Kate heard her and came running upstairs calling out, "Sleepy head, sleepy head," and as she entered the room Parepa noticed she was dressed to go out.
+Aunt Kate heard her and came running upstairs calling out, "Sleepyhead, sleepyhead," and as she entered the room Parepa noticed she was dressed to go out.
 
 "How's our girl this morning?" she asked.
 

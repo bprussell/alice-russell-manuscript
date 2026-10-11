@@ -12,15 +12,15 @@
 
 "I do now that they are past and gone but they were serious situations then," and she thanked her God for these "blessings" as she called them.
 
-"I'm so satisfied now, Parepa. Every thing I wanted to do before I left this world is done. I can go happily now." The nurse came near them and Parepa knew their visit was ended for the day.
+"I'm so satisfied now, Parepa. Everything I wanted to do before I left this world is done. I can go happily now." The nurse came near them and Parepa knew their visit was ended for the day.
 
-Squeezing Parepa's hand she said, "Tomorrow we'll go for a long ride. Good bye dear."
+Squeezing Parepa's hand she said, "Tomorrow we'll go for a long ride. Goodbye dear."
 
 After writing a long letter home Parepa donned her sports suit and started for a walk. Daddy Wheeler joined her and the many surprises she found on the estate kept her from getting tired. They visited the stables. Two of Frances's fine horses which she brought from England with her were the pride of the groom. The dog kennels were cared for by an attendant who proudly explained to Parepa the different breeds and their high points. Every day he exercised them.
 
 After they had dinner the chauffeur drove them through the city of Tucson. Truly she was in the heart of the "Garden of Allah."
 
-"You haven't been in one of the business houses since you came. We'll have to take a shopping trip some day soon," Daddy offered.
+"You haven't been in one of the business houses since you came. We'll have to take a shopping trip someday soon," Daddy offered.
 
 "I'd love to do that now that I have a checking account," she laughed. "I'd like to spend a whole week buying presents for the home folks."
 

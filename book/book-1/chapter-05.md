@@ -8,7 +8,7 @@ The next day was Sunday and Parepa-Roza asked what Church and Sunday School they
 
 "Isn't it queer how we ever got out of the habit of going to Church?" said Aunt Kate one Sunday after enjoying an especially interesting sermon.
 
-"Guess we just quit and never had any one to start us in again until our girl here came our way," returned Uncle George and he took Parepa's chin in his hand and turned her face to his. "Do you know you have a great responsibility in this family, my dear, keeping your old Auntie and Uncle going straight."
+"Guess we just quit and never had anyone to start us in again until our girl here came our way," returned Uncle George and he took Parepa's chin in his hand and turned her face to his. "Do you know you have a great responsibility in this family, my dear, keeping your old Auntie and Uncle going straight."
 
 Parepa only laughed. This was one of her charms, but she didn't realize it. When she laughed she displayed a beautiful row of pearly teeth, her cheeks dimpled, her eyes flashed, while the laugh itself was a musical ripple which captivated its hearers. When she didn't know what to say, as in this instance, her laugh came to the rescue and was all that was necessary.
 

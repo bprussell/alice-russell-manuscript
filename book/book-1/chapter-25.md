@@ -2,11 +2,11 @@
 
 Days, weeks, months and to Parepa ages went rolling away in the two years that followed. It was a hard two years for Parepa as Uncle George's death left Aunt Kate in a broken condition of health. It had been necessary for them to sell the home which they so loved in order to keep Uncle George in the hospital and continue the services of the best Doctors. They moved into a little cottage of four rooms near the Bethany Baptist church which cornered on Hayward and Madison Streets.
 
-Parepa became much interested in this Church and the Sunday School work to say nothing of the young man Joseph Donald by name who taught a class of boys just opposite her class of girls. Oh, of course, Parepa wouldn't have admitted she was interested in this smart industrious young fellow any farther than their class interests threw them together but never-the-less there was a little "hankerin" for each other's company just the same. The young man was earning his way through Bradley college and had won several scholarships that made him all the more determined to succeed even though the profession he had chosen for himself would cost him most of his time and all his earnings.
+Parepa became much interested in this Church and the Sunday School work to say nothing of the young man Joseph Donald by name who taught a class of boys just opposite her class of girls. Oh, of course, Parepa wouldn't have admitted she was interested in this smart industrious young fellow any farther than their class interests threw them together but nevertheless there was a little "hankerin" for each other's company just the same. The young man was earning his way through Bradley college and had won several scholarships that made him all the more determined to succeed even though the profession he had chosen for himself would cost him most of his time and all his earnings.
 
 How he wished he could afford to take Parepa out and show her a good time—just once—but no, he needed every penny if he was to succeed. He had a fair voice and they both sang in the choir. After evening services he would stroll home with her, the half block, and then sometimes would "come in a minute" and sometimes he would "just sit on the porch a minute." Parepa admired this young fellow so much. He had such a strong purpose in life and such a strong will to carry out that purpose.
 
-He could not even think of marriage, so dispensed it from his mind, or tried to. Never-the-less there were tell tale glances passed between these two which the "church people" diagnosed as "love messages." Neither the young girl or man bothered to define them.
+He could not even think of marriage, so dispensed it from his mind, or tried to. Nevertheless there were telltale glances passed between these two which the "church people" diagnosed as "love messages." Neither the young girl or man bothered to define them.
 
 Reverend Reynolds, Pastor, as well as the older members of the church fell to calling Parepa-Roza "Bethany's Angel" in respect for her sweet voice and helpfulness in the church.
 
@@ -62,7 +62,7 @@ Aunt Kate and Parepa ate their lunch talking all the time, about Frances and wha
 
 Parepa went to church that evening as usual. She sang a solo and a duet with Joseph. She did not notice Frances slip quietly into a back seat. He sat as one fastened there—immovable as his eyes followed the glances of the two young people.
 
-*That* is *real* love. Love as it should be. Love—his face is shining with a fire that only a real mate's love can kindle. The song Parepa sang was so sweet and she so charming no wonder this normal young chap had fallen in love with her. She was his kind. She should be his wife—I'll not interfere. He sat quietly in his seat, having made his decision and listened to the sermon. "Be not over anxious for this world's goods" was the text. What do all this world's good amount to? Nothing, thought Frances.
+*That* is *real* love. Love as it should be. Love—his face is shining with a fire that only a real mate's love can kindle. The song Parepa sang was so sweet and she so charming no wonder this normal young chap had fallen in love with her. She was his kind. She should be his wife—I'll not interfere. He sat quietly in his seat, having made his decision and listened to the sermon. "Be not overanxious for this world's goods" was the text. What do all this world's good amount to? Nothing, thought Frances.
 
 As soon as the benediction was pronounced Frances crept out of the church and into the street. He decided to go to Parepa's home and wait for her. He would not let her know he had been to church. When he reached the porch he dropped down on the step completely exhausted. Yes, he was beaten—and rightly. The other chap had no chain around his neck—he did.
 
@@ -90,7 +90,7 @@ Frances saw him turn and watch her go into the light. He watched her until she w
 
 "Parepa will you promise me that if this fellow has changed and you don't care for him so much, that you will come right to me? I know I haven't a thing to offer you yet, but I'm going to have someday. Will you promise, darling?" he asked feverishly.
 
-"Yes, Joseph—I promise." He grabbed her into his arms and covered her face, her neck, her hair, her very eyelids with kisses. She did not resist, she felt sorry for him. She wanted to comfort him—but—how? He held her in silence for a long time then, loosening his grasp and springing to his feet he said, "Good bye darling of my heart, I will never kiss you again unless you ask it."
+"Yes, Joseph—I promise." He grabbed her into his arms and covered her face, her neck, her hair, her very eyelids with kisses. She did not resist, she felt sorry for him. She wanted to comfort him—but—how? He held her in silence for a long time then, loosening his grasp and springing to his feet he said, "Goodbye darling of my heart, I will never kiss you again unless you ask it."
 
 "Goodbye, my good friend, Goodbye," and as he went through the gate she threw herself on the porch cushions and sobbed and sobbed. Frances's heart was breaking for this wonderful woman whose love he had captured four years ago when she was a mere child.
 

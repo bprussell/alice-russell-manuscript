@@ -78,8 +78,10 @@ page 248 omitting struck "info"). Apply them exactly and log them.
   my sweetheart", "sweet kish", stuttered "k-k-kicked", "drug him from
   the house", "most noon"/"most thirty years" (for "almost"), "use to",
   "sociables", "Ye Gods!", pet names and exclamations.
-- Era spellings/hyphenations that read as voice, not error:
-  "Never-the-less", "to-morrow" style hyphens, "gray/grey" variation.
+- "gray/grey" variation. (Split and hyphenated compounds such as
+  "never-the-less", "bath room", "street car" are no longer kept —
+  they take modern closed spelling; see "Spelling of compounds
+  modernized" in book/edits.md for the rule and its exceptions.)
 - Her sentence rhythms, comma splices, and grammatical quirks ("was you",
   "them things", singular/plural slips in dialogue).
 - When genuinely unsure whether something is voice or slip: keep it as

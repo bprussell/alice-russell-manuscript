@@ -4,7 +4,7 @@ The time came when she was unable to help with the store duties. Her sister Iona
 
 Allie found time now to put a few dainty touches on the baby's clothes and basket. She found it hard to wait for its arrival. They were both so happy. Finally the warning was sounded and the nurse, Doctor and a neighbor lady summoned.
 
-For hours upon hours the young mother suffered. No less a sufferer was her husband. At eleven-thirty a.m. on June the fourteenth, 1910, there burst on the ether ladened air the cry of a new born babe. "It's a boy John and a big fellow," the old Doctor announced as he handed him over to the nurse.
+For hours upon hours the young mother suffered. No less a sufferer was her husband. At eleven-thirty a.m. on June the fourteenth, 1910, there burst on the ether ladened air the cry of a newborn babe. "It's a boy John and a big fellow," the old Doctor announced as he handed him over to the nurse.
 
 It was some time before Allie realized what had happened. When she came to, a husky little red headed baby was laying by her side.
 
@@ -40,6 +40,6 @@ Johnie was so disappointed in his not being the girl he had so much wanted. He s
 
 Things had drifted into a regular routine at the Bradford home. It was always a rush and a hurry from one duty to another both for the husband with the farm responsibilities and for the wife with children and household to look after.
 
-These parents loved their little boys and carefully raised them as they should be raised. Nothing concerning their welfare was neglected as far as they were financially and physically able to supply it. They were not over indulgent parents. There must be a good reason for every purchase. Their food, clothing and even their play things were discussed and their practical value to the child in question made certain before money was spent for it.
+These parents loved their little boys and carefully raised them as they should be raised. Nothing concerning their welfare was neglected as far as they were financially and physically able to supply it. They were not overindulgent parents. There must be a good reason for every purchase. Their food, clothing and even their playthings were discussed and their practical value to the child in question made certain before money was spent for it.
 
 These were strenuous days. John was doing his best to fight off a return of his old trouble. Finally his Doctor told him he must make a change. As long as he was on the farm he would work too hard and not rest as he should. Regular hours was what he needed.

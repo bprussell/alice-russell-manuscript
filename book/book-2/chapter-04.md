@@ -18,7 +18,7 @@ Parepa wished he would grab her and run far far away with her. Why, oh, why was 
 
 "No, Johnie, I haven't thought anything about it. You know I'm going to teach another year. There will be time enough later," she said calmly.
 
-She could feel his arm loosening, his hand clasp weakening. His heart sink. "Maybe I shouldn't have come?" he said, "maybe you would have had a better time with some one else. Tell me Allie shall I go home in the morning? I don't want to spoil your good times: really I don't. I was foolish enough to think maybe you would have some good news to tell me. I guess I'm too anxious. I really don't want to hurry you. I do so miss you, Allie, you don't know how I've missed you," and he rose from the seat and helped her to her feet.
+She could feel his arm loosening, his handclasp weakening. His heart sink. "Maybe I shouldn't have come?" he said, "maybe you would have had a better time with someone else. Tell me Allie shall I go home in the morning? I don't want to spoil your good times: really I don't. I was foolish enough to think maybe you would have some good news to tell me. I guess I'm too anxious. I really don't want to hurry you. I do so miss you, Allie, you don't know how I've missed you," and he rose from the seat and helped her to her feet.
 
 "I'm really glad you came, Johnie," she said. "I would have been lonesome too if you hadn't come. Tomorrow we will have another good visit."
 
@@ -28,9 +28,9 @@ When Parepa reached her room she threw herself on her bed and wept bitter tears.
 
 In another room of that same Hotel, a young man lay awake feeling happy in the thought he was so near to the girl he loved. She was glad he had come—she had said so—tomorrow we will have a good visit. Will she love me sometime? Of course, she will—I can wait. She must have her own time—I'll not coax her. Someday she will be my wife—I must bide my time. He dropped to sleep in a peaceful restful confident state of mind that is the possession of only such honest fair minded men as Johnie Bradford.
 
-The next morning at ten o'clock two young people met with the spirit of the day ringing in their ears. Horns and whistles blowing, flags flying, drums beating, fire crackers deafening them. Such crowds! It certainly was no place for confidence. No place for them.
+The next morning at ten o'clock two young people met with the spirit of the day ringing in their ears. Horns and whistles blowing, flags flying, drums beating, firecrackers deafening them. Such crowds! It certainly was no place for confidence. No place for them.
 
-They lunched at noon, then took a street car to its farthest destination where they left it and strolled far out into a woods. Allie loved this—she always did. So did Johnie—this being alone with the girl of his heart, so far from everyone else. They chatted along, laughing and joking as they went until they reached a winding stream.
+They lunched at noon, then took a streetcar to its farthest destination where they left it and strolled far out into a woods. Allie loved this—she always did. So did Johnie—this being alone with the girl of his heart, so far from everyone else. They chatted along, laughing and joking as they went until they reached a winding stream.
 
 "Oh, let's sit down here under these trees and watch the water fall. Isn't it charming out here?" and Allie clapped her hands like a little child.
 

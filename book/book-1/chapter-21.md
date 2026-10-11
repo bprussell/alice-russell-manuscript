@@ -4,11 +4,11 @@ These two enjoyed many evenings together and through the month of August they we
 
 Parepa was delighted with her birthday presents which began to arrive early in the day. From Mrs Breen came a beautiful Morocco bound set of Dickens. Uncle Will and Aunt Minnie remembered her with a gold bracelet. Mr. Wheeler's choice was a large Wedgwood vase filled with eighteen most beautiful red roses. The card read: "A rose for every year. To wish you joy, my dear," signed, Daddy Wheeler. Professor Blough sent her such a beautiful etching, Beethoven's Moonlight Sonata. Uncle George and Aunt Kate gave her a safety bicycle. Nothing came from Frances until late in the afternoon, a pair of beautifully jeweled Opera glasses nestled in a soft velvet lined leather case. "With best wishes and a fond memory of an evening with 'Uncle Tom' and you."—Frances.
 
-Aunt Kate hired a cateress and assistant to look after the serving of the dinner. Ten covers were laid, the appointments were perfect. The table was most beautiful with a dainty birthday cake as center piece. Eighteen white candles stood straight and tall from their bed of fluffy pink frosting edged with a wreath of pink roses and green foliage. The crystal, china, and silver shone and sparkled against the white linen table cloth. Dainty place cards picturing a beautiful young girl adorned with garlands of roses told each guest their place.
+Aunt Kate hired a cateress and assistant to look after the serving of the dinner. Ten covers were laid, the appointments were perfect. The table was most beautiful with a dainty birthday cake as centerpiece. Eighteen white candles stood straight and tall from their bed of fluffy pink frosting edged with a wreath of pink roses and green foliage. The crystal, china, and silver shone and sparkled against the white linen tablecloth. Dainty place cards picturing a beautiful young girl adorned with garlands of roses told each guest their place.
 
 It was arranged that between courses each of the party were to tell their first impressions of Parepa. Uncle George stood up after the fruit cocktail and said: "I believe I should have the privilege of telling you first how this little blue eyed, rosy cheeked freckled nosed, curly haired youngster came to be in our midst these last two year.
 
-"You see it was this way. I was in the habit of making my brother's home an over night stopping place once every two weeks as I drove the tea wagon through the country for over fifteen years. I took a great fancy to little Alice Parepa-Roza from a tiny baby to the day she came home with me in the tea wagon. I always called her my girl. I happened to be at brother John's when they named her. The Alice was for an eastern Aunt and the Parepa-Roza was given her more as a joke, for the time being, and not as a permanent name. You see the real Parepa-Roza was a great Prima Donna and most beautiful singer. As she was crossing the ocean in a large ship it sank. She sang to the frantic drowning crew and voyagers until she herself sank to a watery grave. This little baby here," and he reached over and patted Parepa's head, "cried so hard and all the time that her father said she had lungs that would make her a singer like the famous Parepa-Roza. It was decided to name her Parepa-Roza. That was about sixteen years ago." He gave Parepa a mischievous glance.
+"You see it was this way. I was in the habit of making my brother's home an overnight stopping place once every two weeks as I drove the tea wagon through the country for over fifteen years. I took a great fancy to little Alice Parepa-Roza from a tiny baby to the day she came home with me in the tea wagon. I always called her my girl. I happened to be at brother John's when they named her. The Alice was for an eastern Aunt and the Parepa-Roza was given her more as a joke, for the time being, and not as a permanent name. You see the real Parepa-Roza was a great Prima Donna and most beautiful singer. As she was crossing the ocean in a large ship it sank. She sang to the frantic drowning crew and voyagers until she herself sank to a watery grave. This little baby here," and he reached over and patted Parepa's head, "cried so hard and all the time that her father said she had lungs that would make her a singer like the famous Parepa-Roza. It was decided to name her Parepa-Roza. That was about sixteen years ago." He gave Parepa a mischievous glance.
 
 "She grew and grew like a weed. Seemed to be large for her age always; at fourteen she finished grade school. On her birthday two years ago I coaxed the consent of her parents to let her come home with me to stay until my return trip two weeks later. After a lot of discussion and advice they consented. I can see her yet sitting there beside me in that old covered tea wagon.
 
@@ -18,7 +18,7 @@ Mrs Slay laughed as she said: "I was so happy I could have taken the child in my
 
 Uncle George watched Parepa closely and wondered if she was going to let the evening pass without making it known that she wasn't eighteen. The next course was being served now, and a jolly group were visiting and telling jokes on each other.
 
-Uncle Will spoke for he and Aunt Minnie. "You can imagine my surprise when brother George came to me and told me that Parepa (as we all like to call her) wanted a job. We both laughed about it and decided to give her a try out at the candy store. I didn't think she would stay. Thought she would get homesick and leave for the country in a few days. However, before the first day was over I decided that if I could help it she would never leave. That first day she made herself indispensable by building a most beautiful rainbow from colored candies in one of the show cases. I'll never forget the look of triumph on her face when she showed it to me. I appreciated her love for color and realized in her a wonderful asset to our business. She has never disappointed me. We congratulate you, Parepa, and wish you many, many more happy birthdays."
+Uncle Will spoke for he and Aunt Minnie. "You can imagine my surprise when brother George came to me and told me that Parepa (as we all like to call her) wanted a job. We both laughed about it and decided to give her a try out at the candy store. I didn't think she would stay. Thought she would get homesick and leave for the country in a few days. However, before the first day was over I decided that if I could help it she would never leave. That first day she made herself indispensable by building a most beautiful rainbow from colored candies in one of the showcases. I'll never forget the look of triumph on her face when she showed it to me. I appreciated her love for color and realized in her a wonderful asset to our business. She has never disappointed me. We congratulate you, Parepa, and wish you many, many more happy birthdays."
 
 After the meat course was cleared, Mrs Breen told of the surprises she had received while teaching Parepa. "I might say she taught me nothing was too hard for her to undertake. Her sweet disposition always made me feel as if I had associated with ethereal beings. Congratulations my dear," and she made a low bow to Parepa.
 
@@ -26,7 +26,7 @@ The usual "Thank You" was Parepa's only response.
 
 Mr. Wheeler stood up and glancing around the table mischievously said: "You asked me to tell you what my first impressions were of this young lady. Well, the first time I saw her she stood at the top of these stairs in her nightie. She impressed me as a ten-year old. Surely no older. She looked sweet enough to kiss. Her hair hung over her shoulders and down her back reminding me of a picture of an angel I once saw. The next time I saw her was on the stage at the Opera House. I must say that to Parepa and her dramatic instructor are due great credit. I never saw better acting or heard a sweeter voice in a finished artist. Parepa I congratulate you on this, your eighteenth birthday."
 
-When he sat down Frances sprang up. His face aglow and his eyes sparkling. "Parepa was the first play mate I ever felt like really playing with. I have, all my life, felt a restraint which seemed impossible to overcome. The minute I saw her I knew we would be great friends forever. And we are going to be—aren't we Parepa?"
+When he sat down Frances sprang up. His face aglow and his eyes sparkling. "Parepa was the first playmate I ever felt like really playing with. I have, all my life, felt a restraint which seemed impossible to overcome. The minute I saw her I knew we would be great friends forever. And we are going to be—aren't we Parepa?"
 
 "Indeed we are," she said raising from her chair. "I hope we shall all be friends always."
 
@@ -98,7 +98,7 @@ Frances said no more but if Parepa only knew that he reaped his happiness from t
 
 "I must go, you little queen," he said kissing her again. "I'll see you again day after tomorrow. We'll spend all afternoon just roaming in the park. Will that suit you?"
 
-"Couldn't be better," she said, "but don't forget I have a new bicycle now and we'll want to take some long rides some day. Wasn't that lovely of Uncle and Auntie?"
+"Couldn't be better," she said, "but don't forget I have a new bicycle now and we'll want to take some long rides someday. Wasn't that lovely of Uncle and Auntie?"
 
 After he had gone Parepa sat and pondered. She wondered just what changes might come to her in the next two years.
 
@@ -140,7 +140,7 @@ Uncle George came into the dining room just in time to eat with them.
 
 After breakfast Parepa went for a ride on her new wheel. That afternoon they had a glorious time in the park. Parepa insisted they have their lunch on the grass down by the rustic bridge. Only she knew why she liked it better than any other place in the park. Just as they were ready to seat themselves who should appear on the bridge but Frances.
 
-At first he did not recognize them. In fact did not think of it being any one he knew. He had hoped to have that very spot all to himself that evening and when he noticed figures there he turned his back and stood looking into the water as if deep in thought. He was health, life, beauty, and to Someone; love personified. So engrossed in thought was he that he did not notice the sweet blushing Parepa slip up behind him and cover his eyes with her hands.
+At first he did not recognize them. In fact did not think of it being anyone he knew. He had hoped to have that very spot all to himself that evening and when he noticed figures there he turned his back and stood looking into the water as if deep in thought. He was health, life, beauty, and to Someone; love personified. So engrossed in thought was he that he did not notice the sweet blushing Parepa slip up behind him and cover his eyes with her hands.
 
 "Who's there?" he cried.
 
@@ -178,11 +178,11 @@ When they reached home Frances wouldn't go in, saying he'd see them tomorrow.
 
 "We'll ride up the river road to Mossville and take breakfast at Crawl's Inn," he suggested. "Daddy Wheeler and I have made it several times this summer. It's just enough sprint to give a fellow a good appetite."
 
-At five-thirty the next morning Parepa donned her new bicycle costume, which Aunt Kate had made of the prettiest dark red serge. A divided skirt and loose jacket worn with a shirt waist. Her jaunty little cap to match pulled over her tawny head, jerked a little to one side, seemed to invite the approval or disapproval of those "privileged" (as Aunt Kate considered it) to gaze on her.
+At five-thirty the next morning Parepa donned her new bicycle costume, which Aunt Kate had made of the prettiest dark red serge. A divided skirt and loose jacket worn with a shirtwaist. Her jaunty little cap to match pulled over her tawny head, jerked a little to one side, seemed to invite the approval or disapproval of those "privileged" (as Aunt Kate considered it) to gaze on her.
 
 Most girl bicyclists wore blue or grey outfits and Parepa felt quite "set up" in this attractive different suit. She was all animation and delight as she met Frances on the front steps. Uncle George and Aunt Kate glowing with pride waved them a long farewell.
 
-Frances wore a cycling suit of gray check knickers, white shirt, and an unmistakably red tie that floated over his shoulder in the breeze. His skull cap fitted tightly to his head. They were both good cyclists. Parepa had learned on Aunt Kate's old one before they had traded it in on a tandem which she and Uncle George enjoyed together.
+Frances wore a cycling suit of gray check knickers, white shirt, and an unmistakably red tie that floated over his shoulder in the breeze. His skullcap fitted tightly to his head. They were both good cyclists. Parepa had learned on Aunt Kate's old one before they had traded it in on a tandem which she and Uncle George enjoyed together.
 
 The morning air and exercise put color in these children's cheeks and sparkle in their eyes. As they sat at the little breakfast table each thought the other the most beautiful person in the world. After eating they strolled to the river and stood whispering little nothings in each other's ears until time to start home.
 
@@ -200,6 +200,6 @@ Suddenly they heard a snicker—then another—springing apart and looking in th
 
 Frances's face clouded. He stood quietly watching the ripples from the little pebbles he threw into the water. He said nothing for some time. He seemed deeply in thought. Finally he turned saying, "I expect we better start home now. I must see Daddy at eleven and then you know we are to have the afternoon in the park."
 
-The trip home was made by a quieter, more subdued couple than had passed that way earlier in the morning. The sun was hot, the road sandy, and they felt dragged out and dirty from a mixture of perspiration and dust. "You must take a few hours' rest now, Parepa," he said bidding her good bye. "I'll call for you about four."
+The trip home was made by a quieter, more subdued couple than had passed that way earlier in the morning. The sun was hot, the road sandy, and they felt dragged out and dirty from a mixture of perspiration and dust. "You must take a few hours' rest now, Parepa," he said bidding her goodbye. "I'll call for you about four."
 
 "Something is worrying him," thought Parepa as she went into the house.

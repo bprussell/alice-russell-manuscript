@@ -61,6 +61,36 @@ logged here as Phase 3 proceeds; global decisions are recorded up front.
   of the carriage; corrected wherever it appears (pp37-area of ch. I,
   p18 twice).
 
+- **Spelling of compounds modernized (decided 2026-10-11, with the
+  author's great-grandson):** the reading text uses modern American
+  spelling for words she typed split or hyphenated — "never-the-less" →
+  "nevertheless", "bath room" → "bathroom", "street car" → "streetcar",
+  "spell bound" → "spellbound", "good bye"/"good-bye" → "goodbye", "some
+  one" → "someone", "some day" → "someday", "down town" → "downtown",
+  "for awhile" → "for a while", etc. (about 230 changes across all 57
+  chapters; not logged per instance). The aim is to remove distraction
+  for today's reader; her words, grammar, and phrasing are untouched,
+  and the verbatim transcripts preserve every original form. This
+  supersedes the "era two-word forms" kept-as-voice notes in the
+  per-chapter sections below. Applied case by case, not blindly — kept
+  as two words where that is still correct or where joining would
+  change the meaning:
+  - grammatically separate uses: "any one bank", "every one of them",
+    "in any way", "for some time", "some time ago", "any more calls",
+    "rest awhile", "may be" (verb), "in to"/"on to", "every day"
+    (adverb), "her heart beat rapidly" (verb), "watch the water fall",
+    "until after noon", "a back seat", "all grown up", "some way";
+  - "Monroe Street car tracks", "high school work", "Sunday School
+    work/room", "Sunday school mate";
+  - **"girl friend(s)"** (her female friends — "girlfriend" would imply
+    romance) and **"love making"** (courtship — the modern closed form
+    means something else), plus "master mind" and "life boat" (her
+    figurative senses);
+  - open compounds that are still standard today ("living room", "ice
+    cream", "post office", "high school", "no one", "under way").
+  Hyphenation of compound adjectives ("old fashioned", "good looking")
+  was not part of this pass.
+
 ## Global typography (applied throughout, not logged per instance)
 
 Line breaks unwrapped and ⟦hyphen⟧ words rejoined; all ⟦…⟧ markers
@@ -160,9 +190,7 @@ Rulings by the author's great-grandson, 2026-10-10.
   confirmed (three-part build).
 - **Ch XXX, p162:** "I was not suspicious at the hospital" — **kept as
   typed** ("suspicious" = arousing suspicion).
-- **"Never-the-less" (global, 2026-10-11):** reaffirmed as **kept** — her
-  consistent spelling (about 13 times, never "nevertheless"), like
-  "to-morrow".
+
 
 ## Open REVIEW flags (for the family to rule on)
 

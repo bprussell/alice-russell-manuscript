@@ -24,9 +24,9 @@ Parepa-Roza seldom cared to go but would give her "turn" to an older sister, who
 
 Many times Parepa-Roza would watch until the old "rig" drawn by two old gray horses was well out of sight over the "big hill" before she would venture to try out some coveted "stunt" which had been brewing in her mind since the last Saturday.
 
-One day it was to climb high up a tall maple tree and out on a slender limb that would swing and dip and sway in the breeze. She imagined herself a bird, maybe an eagle, or maybe an oriole. Any way she was *always* something that she wasn't. "Oh, if I were only a boy. God made a great mistake," she would say. Another time it was the big swing made of hay rope that hung from the tops of two maples. If one dared try they could swing so high they could see clear over the "big hill". "One" did try real often when the folks had gone to town. Though the rule was no one was to swing past the fence.
+One day it was to climb high up a tall maple tree and out on a slender limb that would swing and dip and sway in the breeze. She imagined herself a bird, maybe an eagle, or maybe an oriole. Anyway she was *always* something that she wasn't. "Oh, if I were only a boy. God made a great mistake," she would say. Another time it was the big swing made of hay rope that hung from the tops of two maples. If one dared try they could swing so high they could see clear over the "big hill". "One" did try real often when the folks had gone to town. Though the rule was no one was to swing past the fence.
 
-Then that old trunk in the attic that Dad had before he was married. What a store of things there was in that to be investigated. Parepa knew some of them: the hard-tack like Papa had to eat when in the Civil War, one of Grandma's dresses with fringe on it, an old bracelet, some red and silver glass vases Mamma's school children had given her, and Oh, Papa's and Mamma's love letters, and so many things that she had seen but never really *felt* with her own hands. She knew the key was kept in the old Seth Thomas Clock which stood on the shelf in the dining room, where no one was supposed to even look for anything.
+Then that old trunk in the attic that Dad had before he was married. What a store of things there was in that to be investigated. Parepa knew some of them: the hardtack like Papa had to eat when in the Civil War, one of Grandma's dresses with fringe on it, an old bracelet, some red and silver glass vases Mamma's schoolchildren had given her, and Oh, Papa's and Mamma's love letters, and so many things that she had seen but never really *felt* with her own hands. She knew the key was kept in the old Seth Thomas Clock which stood on the shelf in the dining room, where no one was supposed to even look for anything.
 
 She never took anyone into her confidence. Always choosing to be alone she was exceptionally fortunate in not being caught for she planned well and took no risks.
 
@@ -34,17 +34,17 @@ She had few real chums at school for she held strictly to the rule of "Friendly 
 
 It was not always mischief that was on this child's mind. Often questions arose that were almost incredible for such a young mind. She invariably chose to figure the answers out for herself.
 
-She was a very attentive church goer, never missing a meeting 'though she with the other five Wesleys usually had to walk a mile each way unless some kind neighbor offered them a ride in their surrey, as was often the case.
+She was a very attentive churchgoer, never missing a meeting 'though she with the other five Wesleys usually had to walk a mile each way unless some kind neighbor offered them a ride in their surrey, as was often the case.
 
 They liked to question this young girl for when she answered, as one neighbor said of her, "she always says something."
 
-She grew finally to a beautiful girl of fourteen. When she finished grade school the question arose in the family just what was best to do with her. There were two sisters and one brother older and one brother and sister younger than she. The family finances, which were never quite equal to the demand, were insufficient to send her to high school. Any way she didn't care to go to high school, she wanted to earn while she learned.
+She grew finally to a beautiful girl of fourteen. When she finished grade school the question arose in the family just what was best to do with her. There were two sisters and one brother older and one brother and sister younger than she. The family finances, which were never quite equal to the demand, were insufficient to send her to high school. Anyway she didn't care to go to high school, she wanted to earn while she learned.
 
-Finally one day in August, the 17th. to be exact, an Uncle from Peoria came on his regular two weeks' trip. He drove a team to a tea wagon which it was his business to drive through the country taking orders and delivering teas, coffees, spices, soaps, and sugar to the farm and small town people. He always stayed over night at brother John's. When he learned that it was Parepa-Roza's birthday he was bound she was to go home with him for a vacation. After considerable discussion, pro and con, it was decided to let her go and stay two weeks which was the time for his regular return trip.
+Finally one day in August, the 17th. to be exact, an Uncle from Peoria came on his regular two weeks' trip. He drove a team to a tea wagon which it was his business to drive through the country taking orders and delivering teas, coffees, spices, soaps, and sugar to the farm and small town people. He always stayed overnight at brother John's. When he learned that it was Parepa-Roza's birthday he was bound she was to go home with him for a vacation. After considerable discussion, pro and con, it was decided to let her go and stay two weeks which was the time for his regular return trip.
 
 Such a hurrying around as there was; washing out and pressing this dress and that, hair ribbons, even big sister donated the use of some of her "nice things" for the trip. Though there was several years' difference in their ages Parepa had acquired the height and weight of Lavenia and could easily wear her clothes.
 
-Early the next morning Uncle George was "hitched up" and after an extra amount of advice and warnings, say nothing of the kisses and good-byes, the two of them were off for Peoria. As far back as Parepa could see she waved her hand, then down on the "other side" of the "big hill" they went out of sight to the home folks.
+Early the next morning Uncle George was "hitched up" and after an extra amount of advice and warnings, say nothing of the kisses and goodbyes, the two of them were off for Peoria. As far back as Parepa could see she waved her hand, then down on the "other side" of the "big hill" they went out of sight to the home folks.
 
 To them, Parepa was going on her vacation, the first one of John Wesley's children to ever be away from home without their folks; to Parepa she was going for a job. It had been in her mind for weeks but just how she was going to manage the "get away" had been her only worry. Now it had come about in such a natural way that Parepa pinched herself to be sure it was really she that was sitting upright on the hard rough seat of the covered tea wagon.
 
@@ -66,7 +66,7 @@ Finally Uncle George broke in with, "Now, just what do you think you could do in
 
 Uncle George's mind was busy too. "Gosh, she's a pippin', having all this tucked away in her head and never peeping a word of it to anybody. Nice little thing too, wouldn't Kate be tickled to death to have her stay with us. I can just see her now dolling her up in some of her clothes made over to fit her. Kate's handy that way."
 
-For a long way they rode in silence. Finally he drew up the reins at a farm house where he always fed his horses and got his dinner with the hospitable Jacksons.
+For a long way they rode in silence. Finally he drew up the reins at a farmhouse where he always fed his horses and got his dinner with the hospitable Jacksons.
 
 Mrs Jackson came out to the wagon for some coffee which she declared they were out of and on seeing Parepa sitting on the seat said, "Well, where did you get the girl? Did someone trade her in on coffee and spices?"
 

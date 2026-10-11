@@ -18,7 +18,7 @@ That noon when Uncle Will and she were seated at lunch he became confidential. "
 
 "Oh, Uncle Will, please don't worry about me. I'm not in the least concerned about matrimony," she said emphatically.
 
-"You shouldn't ignore the attentions of our home town boys. You refused to go again with Jerry Williams who is from one of Peoria's best families. There are no skeletons hid in their closets," he boasted.
+"You shouldn't ignore the attentions of our hometown boys. You refused to go again with Jerry Williams who is from one of Peoria's best families. There are no skeletons hid in their closets," he boasted.
 
 "I agree with you, Uncle Will, there are none hid but plenty at large. I have my own reasons for not caring for his company."
 
@@ -30,7 +30,7 @@ It was time to return now and as they neared the shop Parepa said, "Please, don'
 
 As they entered the store Frances came toward them smiling.
 
-"Uncle Will, meet my friend, Frances Emmerson," and Parepa blushed a tell tale pink which always made her irresistible.
+"Uncle Will, meet my friend, Frances Emmerson," and Parepa blushed a telltale pink which always made her irresistible.
 
 "Glad to meet you," they said in unison.
 

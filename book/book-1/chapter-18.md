@@ -1,6 +1,6 @@
 # Chapter XVIII
 
-At promptly five-thirty Frances pulled up in front of the Slay home with a beautifully matched span of coal black beauties. Parepa was ready and Aunt Kate stood on the porch and waved a long good-bye as they cantered down the shady street.
+At promptly five-thirty Frances pulled up in front of the Slay home with a beautifully matched span of coal black beauties. Parepa was ready and Aunt Kate stood on the porch and waved a long goodbye as they cantered down the shady street.
 
 "We'll have two hours before dusk," said Frances. "Which way shall we go?"
 
@@ -16,11 +16,11 @@ At promptly five-thirty Frances pulled up in front of the Slay home with a beaut
 
 "Me! Am I really a novelty then? Maybe I should have gone on the stage after all. Be in a cage, you know, and charge so much to see me," she teased.
 
-"No, you shouldn't let any one see you but me. I was so jealous the other night when everyone went crazy about you, I hardly knew how to control myself. Couldn't bear the thoughts of your making a show for the amusement of hundreds who didn't know what a sweet thing you were. You'll never do that again, will you?" he begged.
+"No, you shouldn't let anyone see you but me. I was so jealous the other night when everyone went crazy about you, I hardly knew how to control myself. Couldn't bear the thoughts of your making a show for the amusement of hundreds who didn't know what a sweet thing you were. You'll never do that again, will you?" he begged.
 
 "Did I really do so wrong? Did I cheapen myself and disgrace my friends? Really did I? I only wanted to surprise you all, but not one of my dearest friends have offered congratulations."
 
-"Your act was refined and you were wonderfully sweet. I guess that's what I hated about it. Every one got as much out of it as those who care for you."
+"Your act was refined and you were wonderfully sweet. I guess that's what I hated about it. Everyone got as much out of it as those who care for you."
 
 They were in the park now at the Perry Street entrance. Their horses fell into a walk as they ascended the hill. "Isn't this wonderful," she gasped. "Seems as if I just want to keep still and enjoy it," and he agreed.
 
@@ -28,7 +28,7 @@ They rode along side by side until they reached the crest of the hill. "Let's go
 
 "Let's get off and watch the falls," suggested Frances.
 
-"Fine! I'd love to." He took the reins and tied them to a near by tree. They had chosen a time of day when the park was most deserted. They stood watching the water trickle over the rocks for some time, neither saying a word. Finally Frances suggested they sit down on the turf near the stream and talk. "We have dreamed long enough," he said. "It's time we got better acquainted, don't you think?"
+"Fine! I'd love to." He took the reins and tied them to a nearby tree. They had chosen a time of day when the park was most deserted. They stood watching the water trickle over the rocks for some time, neither saying a word. Finally Frances suggested they sit down on the turf near the stream and talk. "We have dreamed long enough," he said. "It's time we got better acquainted, don't you think?"
 
 "I'm enjoying the beauty all around us so much that I can think of nothing else," she admitted.
 
@@ -50,9 +50,9 @@ Frances laughed aloud. "I'm sure it is dearest and I'm so happy."
 
 "Oh! Look Frances, the most beautiful sunset I ever saw. Why do you suppose I love everything that is pretty, Frances?" she asked.
 
-"Because it's just like you," he answered. "You should never have to contend with anything but the most beautiful in your life time and if I can help it you won't," he said, then added, "And I'm sure I can."
+"Because it's just like you," he answered. "You should never have to contend with anything but the most beautiful in your lifetime and if I can help it you won't," he said, then added, "And I'm sure I can."
 
-They left the park from the upper entrance. It was just twilight when they bade each other good-bye.
+They left the park from the upper entrance. It was just twilight when they bade each other goodbye.
 
 "Did you have a good time?" asked Aunt Kate.
 

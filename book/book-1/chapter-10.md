@@ -16,7 +16,7 @@ They did up the few dishes and Aunt Kate suggested they sing awhile.
 
 "All right that will be heaps of fun. You just imagine you are down in the field now."
 
-"And bare-footed," laughed the young girl. "I use to sing 'Pull for the Shore' when I waded through the creeks. The last one I learned was 'Just One Girl.'"
+"And barefooted," laughed the young girl. "I use to sing 'Pull for the Shore' when I waded through the creeks. The last one I learned was 'Just One Girl.'"
 
 Aunt Kate took her place at the piano and they sang one song after another until both their throats were tired.
 
@@ -78,7 +78,7 @@ At supper they told her they had a big surprise for her. She must guess what it 
 
 "No, but if you will be satisfied to wear what I can make over for you I believe we can make a go of it," Aunt Kate replied.
 
-"I'd like too much to try anyway," said the delighted girl. "Maybe some day I can pay you good folks back for all you are doing for me. Oh, I'm so happy!" and she kissed one and then the other until there was no doubt of her love for them.
+"I'd like too much to try anyway," said the delighted girl. "Maybe someday I can pay you good folks back for all you are doing for me. Oh, I'm so happy!" and she kissed one and then the other until there was no doubt of her love for them.
 
 We now find our heroine with the following daily schedule:
 
@@ -90,7 +90,7 @@ Sunday:
 | 10:30 | Choir         |
 | Afternoon—7:00 | Choir |
 
-Week days:
+Weekdays:
 
 |                          |                |
 | ------------------------ | -------------- |

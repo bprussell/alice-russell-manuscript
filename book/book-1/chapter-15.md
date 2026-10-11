@@ -38,14 +38,14 @@ He was introduced to Professor Blough again and asked to join in the singing. Th
 
 "Yes, I suppose so but it shouldn't be necessary for you to stay there any longer. You should enter a good finishing school this fall," he said emphatically.
 
-"Finishing school!" and Parepa laughed aloud. "Finishing School, why I've never entered a beginners' school yet. You forget the only schooling I ever had was what I got in a little old one room school house a mile across the field from our house. The last day I went to school I went barefooted, wore a pink gingham dress, and a big sunbonnet."
+"Finishing school!" and Parepa laughed aloud. "Finishing School, why I've never entered a beginners' school yet. You forget the only schooling I ever had was what I got in a little old one room schoolhouse a mile across the field from our house. The last day I went to school I went barefooted, wore a pink gingham dress, and a big sunbonnet."
 
 "Wish I'd happened along about that time, Goldie Locks," he teased. "But seriously it's time you gave all your attention to your talents."
 
 "I have the whole month of August off duty at the shop and am not going to study one thing during that month. Won't that seem funny? Just going to play and play all month," she laughed.
 
-"Yes, and I know some one that's going to play and play with you, too. That is, if you will let me," and he squeezed her hand tight.
+"Yes, and I know someone that's going to play and play with you, too. That is, if you will let me," and he squeezed her hand tight.
 
-"Alright, what will we play? Let's plan it all out. I love to ride horse back and swim and row a boat and play tennis and just stroll and stroll and stroll around in beautiful Glen Oak Park. I love everything beautiful, Frances, and I can't control my passionate love for God's flowers. Wasn't it grand of him to put so many of them in the world for us to enjoy? I'm just possessed by their beauty and fragrance."
+"Alright, what will we play? Let's plan it all out. I love to ride horseback and swim and row a boat and play tennis and just stroll and stroll and stroll around in beautiful Glen Oak Park. I love everything beautiful, Frances, and I can't control my passionate love for God's flowers. Wasn't it grand of him to put so many of them in the world for us to enjoy? I'm just possessed by their beauty and fragrance."
 
 "I love beautiful things, too, but most of all beautiful lives—like yours, you know. I'm not surprised that you love all these things. It's just what I'd expect of you."

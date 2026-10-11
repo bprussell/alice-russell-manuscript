@@ -1,6 +1,6 @@
 # Chapter XIII
 
-In these two years letters came from and went to Frances at regular intervals. Parepa always read them and deposited them in her "keep sake drawer" as she called it, never once offering them to Aunt Kate to read. Mrs Slay was amused by this little trick in her niece, that was so unlike her, but was satisfied to hear only what Parepa was willing to divulge.
+In these two years letters came from and went to Frances at regular intervals. Parepa always read them and deposited them in her "keepsake drawer" as she called it, never once offering them to Aunt Kate to read. Mrs Slay was amused by this little trick in her niece, that was so unlike her, but was satisfied to hear only what Parepa was willing to divulge.
 
 She knew from the size of the incoming and outgoing letters that there couldn't have been much left unsaid. Parepa would always say, "He sends you both his love," and Uncle George would tease, "And what did he send you?" A witty answer was always on her tongue end.
 

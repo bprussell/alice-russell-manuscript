@@ -10,9 +10,9 @@ She did not return his kiss nor did she promise. "What I wanted most to talk to 
 
 "I think from his mother before she died," answered Parepa. "I've been thinking maybe we could help you out with college funds. You would have more time for study, you know, if you didn't have to work your way through."
 
-"That's mighty kind of you, Angel, but you are mistaken if you think I'm asking help from any one, much less the husband of the only girl I ever cared for. You must remember I'm suffering every minute I'm with you darling. I never could stand it to feel I was benefited by your husband. I know you can't understand. You are so good, and no doubt this lover of yours is too, but I only wish you belonged to me as you do to him."
+"That's mighty kind of you, Angel, but you are mistaken if you think I'm asking help from anyone, much less the husband of the only girl I ever cared for. You must remember I'm suffering every minute I'm with you darling. I never could stand it to feel I was benefited by your husband. I know you can't understand. You are so good, and no doubt this lover of yours is too, but I only wish you belonged to me as you do to him."
 
-"Now, Joseph, someday you will find some one that will make you happier than I could. Anyway let's not talk any longer. I'm sorry if I've made you feel badly, I only wanted to be kind," and she rose to leave, turning to him she said, "You don't care if I ask you to leave me alone when we get to Hayward Street, do you Joseph? I want to go home alone."
+"Now, Joseph, someday you will find someone that will make you happier than I could. Anyway let's not talk any longer. I'm sorry if I've made you feel badly, I only wanted to be kind," and she rose to leave, turning to him she said, "You don't care if I ask you to leave me alone when we get to Hayward Street, do you Joseph? I want to go home alone."
 
 "Certainly not if you insist, but you are a funny girl," he said. Frances heard her say, "I know I am, Joe," then they disappeared down the walk in the park that leads to Perry Street.
 

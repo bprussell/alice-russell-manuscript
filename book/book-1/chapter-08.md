@@ -1,6 +1,6 @@
 # Chapter VIII
 
-After Parepa had left for the "candy store" the door bell gave a loud ring and in came our hero, Frances. After greetings were exchanged and the evening's experiences talked over Frances became very sober and thoughtful. He seemed to have changed from the young boy to a man of mature years and mind.
+After Parepa had left for the "candy store" the doorbell gave a loud ring and in came our hero, Frances. After greetings were exchanged and the evening's experiences talked over Frances became very sober and thoughtful. He seemed to have changed from the young boy to a man of mature years and mind.
 
 "There's something I'd like to talk to you folks about now that Parepa has gone and we have the room to ourselves." Launching into the subject at once he said, "No doubt you know all about Parepa's circumstances and whether or not her folks are able to pay for the education she should be getting at once. It's not right to have her spending one day in that candy shop. I have only a short time to stay around here and I have come to you for an earnest understanding."
 
@@ -34,9 +34,9 @@ Frances rose abruptly and started to the door hat in hand. "Thought if you don't
 
 "We'll be so glad to have you," said Mrs. Slay.
 
-He thanked them and left with a hearty "Good bye."
+He thanked them and left with a hearty "Goodbye."
 
-Aunt Kate and Uncle George stood and looked at each other spell bound. Finally Aunt Kate reprimanded her husband, "George, dear, you were too hasty in refusing to let him help with Parepa's education. You should have waited until you heard his plans."
+Aunt Kate and Uncle George stood and looked at each other spellbound. Finally Aunt Kate reprimanded her husband, "George, dear, you were too hasty in refusing to let him help with Parepa's education. You should have waited until you heard his plans."
 
 "Just what do you think of that young buck anyway?" he retorted.
 

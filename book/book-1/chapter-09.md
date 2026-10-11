@@ -24,13 +24,13 @@ Parepa couldn't eat. Neither Mr. or Mrs. Slay appeared to notice this — but th
 
 "Poor little thing — she doesn't realize the first twangs of womanly instinct are working in her heart. She's really in love with Frances but she don't know just what is the matter with her," and Aunt Kate sat down real close to Uncle George whose arm some way got 'Round her waist just as it had 'bout twenty years before. Their eyes met their lips met and once again they were "way back when."
 
-Here they sat, not speaking a word but living again the old days and the new. In memory they were in youth again. The lights were low and so wrapped were they in their own thoughts that the sharp ring of the door bell startled them into the present.
+Here they sat, not speaking a word but living again the old days and the new. In memory they were in youth again. The lights were low and so wrapped were they in their own thoughts that the sharp ring of the doorbell startled them into the present.
 
 Uncle George went to the door to find Frances and Mr Wheeler there.
 
 "Come in, come in," cordially invited Mr. Slay.
 
-"We can't stay but a minute. I couldn't leave without saying good bye and having Mr. Wheeler meet my good friends. Mrs. Slay this is Mr. Wheeler, my guardian."
+"We can't stay but a minute. I couldn't leave without saying goodbye and having Mr. Wheeler meet my good friends. Mrs. Slay this is Mr. Wheeler, my guardian."
 
 "Where's Parepa?" and Frances looked into the dining room.
 
@@ -40,7 +40,7 @@ Disappointment crossed Frances's face but he said no more about her.
 
 "Aren't you staying awhile, Mr. Wheeler?" asked Mr. Slay.
 
-"No, must leave early in the morning. How I'd love to stay a month. I'm tired of hurrying all the time. Some day I hope to have time to use just as I'd like to. With me it's *rush*, *rush*, *rush*," and Mr. Wheeler dropped into a chair overcome with that feeling of hospitality which everyone feels on entering this home.
+"No, must leave early in the morning. How I'd love to stay a month. I'm tired of hurrying all the time. Someday I hope to have time to use just as I'd like to. With me it's *rush*, *rush*, *rush*," and Mr. Wheeler dropped into a chair overcome with that feeling of hospitality which everyone feels on entering this home.
 
 "I'm sorry our niece has retired, she would have liked so much to meet you," said Aunt Kate. "She and Frances have become fast friends."
 

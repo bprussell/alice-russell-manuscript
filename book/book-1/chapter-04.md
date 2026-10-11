@@ -4,7 +4,7 @@ At 5:30 she went to the bed and stood looking down at Parepa for some time. "Our
 
 Parepa sat up sleepily rubbing her eyes with both fists as a two year old would do. "Did I go to sleep?" she asked.
 
-"Yes, dear, and Uncle George and I have the picnic lunch all packed. I'm glad you had such a fine rest. You'll beat us all at tennis for that, I suppose," she said. "Now come into the bath room and take a plunge. I've drawn your water and then I'll comb your hair and help you dress. Which dress do you think would be the best to wear tonight, Parepa?" Aunt Kate asked just to see if the girl had any idea of the propriety of dress.
+"Yes, dear, and Uncle George and I have the picnic lunch all packed. I'm glad you had such a fine rest. You'll beat us all at tennis for that, I suppose," she said. "Now come into the bathroom and take a plunge. I've drawn your water and then I'll comb your hair and help you dress. Which dress do you think would be the best to wear tonight, Parepa?" Aunt Kate asked just to see if the girl had any idea of the propriety of dress.
 
 "I'd like to wear the blue one and the tam o'shanter if you will let me," she said to Aunt Kate's surprise. She thought the pink or white would probably be the silly choice of this young inexperienced country girl.
 
@@ -22,13 +22,13 @@ Parepa obeyed and the frank young boy backed up to her and said, "Look here, Mr.
 
 "Oh, you got her beat an inch in height, but I bet she weights the most," said Uncle George.
 
-"I bet I can lift you," declared the progressive Frances and straight way proceeded to prove it.
+"I bet I can lift you," declared the progressive Frances and straightway proceeded to prove it.
 
 "Show him you can lift him too, Parepa," said Uncle George, and there was nothing else for the embarrassed girl to do but "lift."
 
-Aunt Kate appeared at the door and suggested they all take what there was to carry and start for the street car which was to take them to the park. Each carried a racket and parcel. Parepa was awkward about it so Frances took her racket and walked along side of her keeping up a continual string of questions and chatter.
+Aunt Kate appeared at the door and suggested they all take what there was to carry and start for the streetcar which was to take them to the park. Each carried a racket and parcel. Parepa was awkward about it so Frances took her racket and walked alongside of her keeping up a continual string of questions and chatter.
 
-Uncle George and Aunt Kate were amused and happy. "Couldn't have found a better companion for her. He'll soon take off the rough edges," said Uncle George. He sat in the seat behind them on the street car and noted their young smiling faces as Frances talked a stream because he wanted to and Parepa answered his questions because she had to. She was beginning to limber up some though, and he could see her shy glances toward her boy friend, the dimples playing a great part in her attractiveness. "Hanged if she ain't the prettiest thing I ever saw," he thought. "We'll keep her alright if John and Eliza can be convenienced."
+Uncle George and Aunt Kate were amused and happy. "Couldn't have found a better companion for her. He'll soon take off the rough edges," said Uncle George. He sat in the seat behind them on the streetcar and noted their young smiling faces as Frances talked a stream because he wanted to and Parepa answered his questions because she had to. She was beginning to limber up some though, and he could see her shy glances toward her boyfriend, the dimples playing a great part in her attractiveness. "Hanged if she ain't the prettiest thing I ever saw," he thought. "We'll keep her alright if John and Eliza can be convenienced."
 
 Aunt Kate sat with her eyes riveted on the picture in the seat in front of them. She too was dreaming—"Our girl! Our Maude. Parepa *must* stay and take her place."
 
@@ -38,7 +38,7 @@ By this time all eyes in the car was upon them but they didn't seem to know that
 
 By the time they reached their destination these children were as lively and alert as crickets. Parepa seemed to have lost all her restraint after the picnic lunch was over and gave herself up to the game they were teaching her. It was great fun and she proved herself an apt scholar.
 
-"We'll come over real often, so you won't forget all you've learned," said Uncle George as they waited for the street car to take them home.
+"We'll come over real often, so you won't forget all you've learned," said Uncle George as they waited for the streetcar to take them home.
 
 "You see I'll only be here two weeks unless I get a job, and maybe if I do Papa and Mamma won't let me stay," said the girl thoughtfully. "Let's look for a job tomorrow."
 
@@ -52,7 +52,7 @@ The car came now and after they were seated the conversation went back to "her j
 
 This was the first time in the boy's life he was alone to make his own friends and to do as he wanted with his time. "He must be in by ten o'clock" was his guardian's strict orders to the old people with whom he was trusted. He seldom referred to his past and when he did would halt his conversation as if he had told more than he intended to. They learned this much—that he had crossed the ocean eight times. How much time was spent on either side could only be guessed at. That he had never seen his father or mother was another fact secured on one occasion. "My father died more than eight months before I was born and my mother three minutes before," he had said then shut up like a clam.
 
-The next day Parepa was in deep thought. She wondered how any one could ever live without a father and mother. Her sympathies were aroused for this orphan boy and she determined to do all she could to make him happy. "He must have a big brother" she said to Aunt Kate, "because he said that first night that Clem scrubbed his white ponies every day."
+The next day Parepa was in deep thought. She wondered how anyone could ever live without a father and mother. Her sympathies were aroused for this orphan boy and she determined to do all she could to make him happy. "He must have a big brother" she said to Aunt Kate, "because he said that first night that Clem scrubbed his white ponies every day."
 
 Aunt Kate explained to her that the "Clem" spoken of was probably the stable man who looked after the horses.
 
@@ -68,7 +68,7 @@ Aunt Kate explained as best she could and the subject was changed.
 
 "I don't know my child but it's not a bad failing. Uncle George thought your father might not object if you are working with relatives. Uncle Will will be good to you and see that you are taught the right way to do things."
 
-The only job Parepa had even hoped to land was in some one's household and now just think—a candy store job! Wonderful! The "pretty" candies in the windows had always attracted Parepa's attention. Not that she cared to eat them—they were too "pretty" to eat.
+The only job Parepa had even hoped to land was in someone's household and now just think—a candy store job! Wonderful! The "pretty" candies in the windows had always attracted Parepa's attention. Not that she cared to eat them—they were too "pretty" to eat.
 
 The next day it was settled. Uncle Will could pay her what Parepa thought an enormous wage. Five dollars for six days per week omitting Sundays as he knew she or her folks would never consent to working on Sunday. She was to be at the store by eight in the morning and go home at five in the evening.
 

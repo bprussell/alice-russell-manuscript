@@ -14,7 +14,7 @@ The telephone rang. "That's Parepa calling to see if there's anything I want her
 
 "Yes, I suspect there is a deep mystery connected with both their lives but I can't believe they are indecent people at that," and she shook a sofa pillow hard and finally dropped down beside her husband, tired and flushed.
 
-"We mustn't forget the kids are older now and both have taken on more dignity and reserve," she went on. "You know Parepa will be eighteen the 17th of August. Of age if you please, Mr. George Slay! Our little girl will be of age. I hadn't thought of that before. Well if I do say it there isn't one in a thousand her age as well prepared to make their own living. Just think, George, in two years you and I have made it possible for this dear child to be what she alone knew she could be—a real actress—a real song bird."
+"We mustn't forget the kids are older now and both have taken on more dignity and reserve," she went on. "You know Parepa will be eighteen the 17th of August. Of age if you please, Mr. George Slay! Our little girl will be of age. I hadn't thought of that before. Well if I do say it there isn't one in a thousand her age as well prepared to make their own living. Just think, George, in two years you and I have made it possible for this dear child to be what she alone knew she could be—a real actress—a real songbird."
 
 "Yes, and there is a real surprise in store for this young chap when he sees her tonight," laughed Mr. Slay. "Let's have her sitting at the piano singing when he comes. You and she singing a duet and I'll let him in."
 
@@ -38,7 +38,7 @@ Parepa glanced sideways at Uncle George and he at her. Both knew well what the o
 
 "I'll never forget it. Her girl Ruth was sixteen, too, I believe," he chuckled.
 
-"And our little tea wagon darling is soon going to be of age. Eighteen years old, Parepa, in just one more month. Then you will be your own boss. Think of it! Not our little girl any more. Oh! Parepa, Dear little girl, it don't seem possible," and Aunt Kate really felt a tear trickling down her cheek.
+"And our little tea wagon darling is soon going to be of age. Eighteen years old, Parepa, in just one more month. Then you will be your own boss. Think of it! Not our little girl anymore. Oh! Parepa, Dear little girl, it don't seem possible," and Aunt Kate really felt a tear trickling down her cheek.
 
 "Got a long way to go yet before you are as old as we'ens," laughed Uncle George.
 

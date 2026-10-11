@@ -20,7 +20,7 @@ She took it in her hands warm from the heat of his flesh as she said, "Not just 
 
 "That's it! That's it exactly," he cried. "And to think that you could find that trait. Parepa, you are a wonder."
 
-After a long while she replaced each one on their side of the locket and clasped the glass over them. "Now what's on the other side?" she asked as if she might have been a little child interested in a scrap book.
+After a long while she replaced each one on their side of the locket and clasped the glass over them. "Now what's on the other side?" she asked as if she might have been a little child interested in a scrapbook.
 
 "That's it—my secret," he told her and she noticed he was trembling in voice and body. "Letters written by my mother to her unborn son. She wrote them from the time she knew I was to be, up to a week before her death. They are not all here, of course. So thoughtful was she of me and my future that she wrote her wishes to her old nurse who was to be my nurse too, and to Daddy Wheeler who she chose as my guardian. Everything concerning my future was planned with only one idea in view," he hesitated, made as to lift one of the letters from its hiding place when he stopped. "Do you want to read them darling?" he asked trembling.
 

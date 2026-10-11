@@ -6,7 +6,7 @@ Parepa was concerned only about Joseph. She was so sorry for him. She had enjoye
 
 Joseph turned and tossed in fevered torment trying to be brave and take his defeat like a man as he had met all other (and they were many) disappointments.
 
-After leaving the Slay home Frances as if in a dream strolled down to the river bank. He was sure he recognized the very log on which he and Parepa had sat after their wonderful boat ride on the river. He sat down on the log and tried to decide what was right to do. He found all the old love coursing through his every vein. His body surged and swayed as he sat there alone in the moonlight—the same moon—the same river—Yes, the same old log—but where is the sweet young thing he had held in his arms? Where is the golden voice—the sparkling eyes, the ruby lips, the tawny hair, and the kisses? Oh God! the kisses. Suddenly as if he had been committing some theft he sprang to his feet and ran down the shore for many blocks, then into the street where he slackened his speed until he reached the hotel.
+After leaving the Slay home Frances as if in a dream strolled down to the riverbank. He was sure he recognized the very log on which he and Parepa had sat after their wonderful boat ride on the river. He sat down on the log and tried to decide what was right to do. He found all the old love coursing through his every vein. His body surged and swayed as he sat there alone in the moonlight—the same moon—the same river—Yes, the same old log—but where is the sweet young thing he had held in his arms? Where is the golden voice—the sparkling eyes, the ruby lips, the tawny hair, and the kisses? Oh God! the kisses. Suddenly as if he had been committing some theft he sprang to his feet and ran down the shore for many blocks, then into the street where he slackened his speed until he reached the hotel.
 
 He went straight to his suite. When he was alone with his doors locked he fell upon his couch exhausted. His first impulse was to pack up and go without seeing her. That would be best. He could find out in some way who this "Joseph" is and send him money enough to finish his education and marry Parepa, too. Yes, he would do that. He would establish a $100,000 bank account for him and leave for parts unknown. He had heard Parepa promise him that if her lover had changed she would cling to him. Yes, it was better, it was better that way. They would be happy. They would have children; Parepa would be a real mother. She wanted to mother everyone from Aunt Kate to the tiniest baby.
 
@@ -44,7 +44,7 @@ The next morning Frances slept late into the day. He awoke with a start. He hadn
 
 "Where have you been Frances?" he said half scolding. "Parepa has been calling for you on the 'phone. They finally rang for me. I told her I'd have you call her at once."
 
-Frances did not know what to do. Finally he gave her number half heartedly.
+Frances did not know what to do. Finally he gave her number halfheartedly.
 
 "Hello there—"
 
@@ -52,7 +52,7 @@ Frances did not know what to do. Finally he gave her number half heartedly.
 
 "Fine! How are you and your good Auntie?"
 
-"I'm so sorry Parepa. Can I do any thing to help you, darling?" the word slipped out so naturally. "All right, I'll be there at two. Give my love to your Aunt Kate."
+"I'm so sorry Parepa. Can I do anything to help you, darling?" the word slipped out so naturally. "All right, I'll be there at two. Give my love to your Aunt Kate."
 
 "Oh, sure I'm sending you some too. Ha! Ha! All right, Bye Bye, dearest." He hung up the receiver and staggered to his chair as if in a faint.
 

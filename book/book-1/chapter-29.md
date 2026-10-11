@@ -4,7 +4,7 @@ Yes, it was. There was no doubt. The figure stood still for some time gazing ove
 
 He was talking to himself now in a low voice. She heard him say distinctly, "She must listen—I must tell her. If she won't hear me I will leave her forever, never to see her again. No real man would ask a girl that he truly loved to marry him without telling her all about his past and his plans for the future." Parepa gasped—she recognized those as the very words Joseph had repeated not half an hour ago. Had he heard?
 
-Each sat quietly for some time. Then Frances rose, drew the locket from his breast and walked to the edge of the river. There he stood silhouetted against the moon lit sheen of the water. Parepa watched him as he gazed long and thoughtfully upon the locket in his hand. Finally he replaced it and began pacing up and down the shore. His back was toward her now. As if possessed she sprang to her feet, spread her long cape with extended arms as if the wings of a huge bird were flapping wildly in the night air, she ran past him. "Catch me if you can," she repeated as she soared toward him in a dance.
+Each sat quietly for some time. Then Frances rose, drew the locket from his breast and walked to the edge of the river. There he stood silhouetted against the moonlit sheen of the water. Parepa watched him as he gazed long and thoughtfully upon the locket in his hand. Finally he replaced it and began pacing up and down the shore. His back was toward her now. As if possessed she sprang to her feet, spread her long cape with extended arms as if the wings of a huge bird were flapping wildly in the night air, she ran past him. "Catch me if you can," she repeated as she soared toward him in a dance.
 
 "Parepa! Parepa-Roza! Come to me. Come my love!" he cried.
 
@@ -16,7 +16,7 @@ Holding up the locket and kissing it she whispered, "Frances can I see what's in
 
 Her face turned to his and a long lingering kiss was her answer. They sat there a long time as if each was afraid the sweet spell would be broken.
 
-They heard the clock in the old court house strike eleven. "Must go now," said Parepa and as they walked hand in hand she asked, "You don't mind if I ask you to leave me alone when we leave Hayward Street do you Frances? I want to go home alone."
+They heard the clock in the old courthouse strike eleven. "Must go now," said Parepa and as they walked hand in hand she asked, "You don't mind if I ask you to leave me alone when we leave Hayward Street do you Frances? I want to go home alone."
 
 "Familiar words," laughed Frances. "However your wish is granted," and once more kissing her goodbye he said, "You are a funny girl, Parepa."
 
