@@ -344,6 +344,11 @@ Changes from the great-grandson's read-through of the EPUB proof.
   the compound pass had joined it, but on the day they meet Frances is a
   new friend, not a sweetheart; matches the "girl friend" ruling.
 
+- **Book II Ch IV:** "his handclasp weakening. His heart sink." →
+  **"His heart sank."** — wrong verb form; her sentence break kept.
+- **Agreement pass, read-through decisions:** see "Subject–verb
+  agreement corrected in narration" under Global decisions.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's

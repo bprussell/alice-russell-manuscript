@@ -18,7 +18,7 @@ Parepa wished he would grab her and run far far away with her. Why, oh, why was 
 
 "No, Johnie, I haven't thought anything about it. You know I'm going to teach another year. There will be time enough later," she said calmly.
 
-She could feel his arm loosening, his handclasp weakening. His heart sink. "Maybe I shouldn't have come?" he said, "maybe you would have had a better time with someone else. Tell me Allie shall I go home in the morning? I don't want to spoil your good times: really I don't. I was foolish enough to think maybe you would have some good news to tell me. I guess I'm too anxious. I really don't want to hurry you. I do so miss you, Allie, you don't know how I've missed you," and he rose from the seat and helped her to her feet.
+She could feel his arm loosening, his handclasp weakening. His heart sank. "Maybe I shouldn't have come?" he said, "maybe you would have had a better time with someone else. Tell me Allie shall I go home in the morning? I don't want to spoil your good times: really I don't. I was foolish enough to think maybe you would have some good news to tell me. I guess I'm too anxious. I really don't want to hurry you. I do so miss you, Allie, you don't know how I've missed you," and he rose from the seat and helped her to her feet.
 
 "I'm really glad you came, Johnie," she said. "I would have been lonesome too if you hadn't come. Tomorrow we will have another good visit."
 
