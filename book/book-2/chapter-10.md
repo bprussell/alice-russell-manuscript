@@ -12,7 +12,7 @@ Allie was greatly pleased but reminded him of her family, "I'd love doing it," s
 
 "Think it over," he said as they left the house. "We'll make it worth your while."
 
-Robert was nine, Richard six, and Arthur four years old now. John was fortunate in finding not too strenuous employment at once.
+Robert was nine, Richard six, and Arthur four years old now. Johnie was fortunate in finding not too strenuous employment at once.
 
 The Avery Manufacturing Company where he worked was located on North Adams Street some blocks from their home but Johnie preferred to walk to and from work saying the exercise and fresh air did him good. No doubt they did, but there was another reason. The carfare he saved helped to make the monthly payments on their home. Before they knew it they were overwhelmed with gas, electric, water, paving, sewer, and tax bills.
 

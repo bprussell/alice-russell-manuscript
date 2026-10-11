@@ -192,37 +192,49 @@ Rulings by the author's great-grandson, 2026-10-10.
   typed** ("suspicious" = arousing suspicion).
 
 
+- **Book II Ch I, p169:** typed "sometime" + blue-pencil "s"
+  ("sometimes") → **"for some time"** — confirmed.
+- **Book II Ch I, p170:** "but did she—No, she dreaded it all" → **"but
+  did she? No, she dreaded it all"** — her self-question made explicit.
+- **Book II Ch II, p173:** "no false motions in this young man's head" →
+  **"no false notions"** — one-letter slip.
+- **Book II Ch I/II/IV:** "buggie" → **"buggy"** and "scotch" →
+  **"Scotch"** — confirmed; a missed second "buggie" (Ch IV, p183,
+  "had a new buggie") also corrected.
+- **Book II Ch III, p174:** five-dash flourish → scene break
+  **confirmed**. The Markdown `* * *` is a horizontal rule (`<hr>`);
+  Phase 4 should render it as a short centered rule. (It is the only
+  scene break in the book.)
+- **Book II Ch III, p176:** "I think that will be real brittle" — **kept
+  as typed**: Parepa is punning on Harold's surname ("Mrs Crisp" →
+  "brittle"), which is why "they both laughed".
+- **Book II Ch III, p177:** "Theirs was a made love" → **"a mad love"** —
+  one-letter slip ("sweeps one off their feet").
+- **Book II Ch IV, p183:** quoted reported-narration question — **kept
+  quoted as typed**, matching the Book I Ch XIV p74 ruling.
+- **Book II Ch V, p185:** editorial "his" ("go to his room") —
+  **confirmed**.
+- **Book II Ch VI, p187:** "No extra flourishes no learned language no
+  specimen penmanship yet" → **commas supplied** ("No extra flourishes,
+  no learned language, no specimen penmanship, yet").
+- **Book II Ch VIII, p193:** "the old Parepa's love for beautiful" →
+  **"love for beautiful things"** — she writes the full phrase herself a
+  few lines later.
+- **"John" → "Johnie" in Book II narration:** the husband is "Johnie" 91
+  times but plain "John" in six narration sentences (Ch IX p196, Ch X,
+  Ch XI, Ch XIII, Ch XVI, Ch XX p244 "Robert and John"); all six →
+  **"Johnie"**, extending the global Johnie decision (and avoiding
+  confusion with her father, John Wesley). **Kept "John"** where it is
+  natural: the doctor's announcement (Ch IX, p194 — the blotted
+  character confirmed as "n"), now punctuated **"It's a boy, John, and
+  a big fellow,"** so it doesn't read as the baby's name; and the formal
+  "Mrs John Bradford" signature cards and "Mr. J.S. Bradford" alias
+  (Ch XXI/XXIII).
+
 ## Open REVIEW flags (for the family to rule on)
 
-- **Book II Ch I, p169:** blue-pencil "s" makes typed "sometimes"; printed
-  "for some time" per Book I precedent, but "for sometimes" is the
-  letter-faithful reading — rule.
-- **Book II Ch I, p170:** "but did she—No, she dreaded it all" — rule
-  whether "did she?" was intended.
-- **Book II Ch II, p173:** "no false motions in this young man's head"
-  kept — likely "notions"; rule.
-- **Book II Ch I/II:** "buggie"→"buggy" and "scotch"→"Scotch" applied —
-  revert if letter-faithful forms preferred.
-- **Book II Ch III, p174:** five-dash flourish rendered as a `* * *`
-  scene separator (scene shifts) rather than an em dash — confirm.
-- **Book II Ch III, p177:** "Theirs was a made love" kept — possibly "a
-  mad love"; rule.
-- **Book II Ch III, p176:** "I think that will be real brittle" kept —
-  odd in context; rule.
-- **Book II Ch V, p185:** editorial "his" supplied ("go to his room") —
-  confirm.
 - **Book II Ch III, p178:** "at her cousins'" possessive apostrophe —
   confirm (plural "cousins" also reads).
-- **Book II Ch IV, p183:** quoted reported-narration question kept quoted
-  as typed (same issue as Ch XIV p74) — rule.
-- **Book II Ch VI-IX, pp194/196:** the father is called "John" twice
-  ("It's a boy John"; "John was doing his best") — kept as typed; rule
-  whether "John" also normalizes to "Johnie".
-- **Book II Ch IX, p194:** blotted character resolved as "John" — confirm.
-- **Book II Ch VIII, p193:** "the old Parepa's love for beautiful" — rule
-  whether to supply "things".
-- **Book II Ch VI, p187:** "No extra flourishes no learned language no
-  specimen penmanship" comma-less list kept — rule whether to punctuate.
 - **Book II Ch X, p200:** "could hardly believe it, could be so much."
   kept — likely a dropped "it"; rule.
 - **Book II Ch XII, p203/p205:** editorial "of" ("acres instead of feet")
@@ -243,9 +255,8 @@ Rulings by the author's great-grandson, 2026-10-10.
   goes beyond the transcriber's every/ever fix; confirm.
 - **Book II Ch XIX, p237:** "Dear old Aunt Kate" lowercased — the capital
   may be affectionate emphasis; rule.
-- **Book II Ch XIX/XX, p241/p244:** "quired" → "inquired" — possibly an
-  authorial clipped form; rule. And p244 "Robert and John" extends the
-  open John/Johnie question.
+- **Book II Ch XIX/XX, p241:** "quired" → "inquired" — possibly an
+  authorial clipped form; rule.
 - **Book II Ch XX, p242/p245:** "my dear husband," comma repositioning
   and the p245 supplied comma ("said Johnie, and Robert drove") —
   confirm both.
@@ -260,9 +271,6 @@ Rulings by the author's great-grandson, 2026-10-10.
 - **Book II Ch XXI, p250:** "Donald Joseph had been called away" kept as
   typed — Book I gives "Joseph Donald"; rule whether to normalize the
   order. (An earlier draft silently inverted it; reverted to as-typed.)
-- **Book II Ch XXI/XXIII:** "Mrs John Bradford" signature cards and
-  "Mr. J.S. Bradford" alias kept as typed — extends the open John/Johnie
-  question.
 - **Book II Ch XXI-XXIV best-guess repairs:** "Nowhere had she found"
   (p250), "Her one hope" (p253), "place funds on deposit" (p253),
   "principles" (p262) — confirm each.

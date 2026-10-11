@@ -52,7 +52,7 @@ She laughed and said, "You'd laugh at me if I were to tell you. You'd think I wa
 
 "Yes, I believe it as truly as I believe anything. Only those without hope need be lonesome and everyone should have hope. If they haven't they are 'hopeless'—entirely hopeless. You get what I mean?" he asked.
 
-"I—I guess so," she answered. She realized she lacked one thing in her make up which she would give anything to acquire. That thing was understanding. Their conversation fell in less formal channels. All the old crowd was discussed. This one was going with that one, so and so had a new buggie. One old neighbor had died and his will was discussed as well as what his children would do with what they got.
+"I—I guess so," she answered. She realized she lacked one thing in her make up which she would give anything to acquire. That thing was understanding. Their conversation fell in less formal channels. All the old crowd was discussed. This one was going with that one, so and so had a new buggy. One old neighbor had died and his will was discussed as well as what his children would do with what they got.
 
 No one was forgotten. Allie asked about them all. They laughed and talked until most dark.
 

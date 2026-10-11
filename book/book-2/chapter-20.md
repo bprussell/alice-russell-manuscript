@@ -107,7 +107,7 @@ Robert had heard them talking and came down to see what it meant. "Your mother w
 
 "I've just thought of a way you can go, Mother," he said. "I have about sixty-five dollars in the Sunday School treasury box upstairs. I'll loan it to you and I have thirty-six of my own you can have. If you get lots of money out there you can pay a big interest for the use of it."
 
-"Oh, that will be fine," and she sprang out of bed and dressed for the train trip, tossing articles of wearing apparel in the open suitcase as she rushed from one place to another, while Robert and John shook the banks empty and all loose change in the house was gathered together for the trip. Johnie got the other boys out of bed and they were made to understand that Mother felt she should go to see this old friend who was so sick. These boys were not given the impression that there was any money interest in the trip. They promised not to tell anyone that their Mother had gone.
+"Oh, that will be fine," and she sprang out of bed and dressed for the train trip, tossing articles of wearing apparel in the open suitcase as she rushed from one place to another, while Robert and Johnie shook the banks empty and all loose change in the house was gathered together for the trip. Johnie got the other boys out of bed and they were made to understand that Mother felt she should go to see this old friend who was so sick. These boys were not given the impression that there was any money interest in the trip. They promised not to tell anyone that their Mother had gone.
 
 "We'll be back home before the neighbors are out of bed this morning," said Johnie, and Robert drove the old Ford at a lively rate of speed to the depot.
 

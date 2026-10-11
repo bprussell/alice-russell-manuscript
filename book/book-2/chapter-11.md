@@ -26,7 +26,7 @@ One boy followed another until the three were in bed. Mr. Rice and Mr. Brown wer
 
 After the sign was removed from the house, the fumigating done, and things back to normal Allie sat down to look the situation squarely in the face. She knew better than the Doctor or even Johnie himself that he had never regained his strength or spirit since his attack of the flu. Another thing she was sure of—her boys were growing up. Robert was ten now, and the City was no place for him. All three of these young rascals were entirely too rambunctious for their activities to be confined to a forty by one hundred and twenty foot city lot.
 
-"What they need is acres instead of feet," she thought. That afternoon John came home about three-fifteen. Allie knew without being told that he was sick.
+"What they need is acres instead of feet," she thought. That afternoon Johnie came home about three-fifteen. Allie knew without being told that he was sick.
 
 "Doctor thought I better come home and rest up the rest of the week," he said in an apologetic voice. "I'll be all right then, just tired, I guess."
 

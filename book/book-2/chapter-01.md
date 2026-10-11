@@ -62,7 +62,7 @@ By this time the humor of the situation had crawled under his skin and he emitte
 
 "All right, Papa, that will be our secret," and she went into another roar of laughter in which the whole family joined even though they had no idea what was so funny.
 
-Things went along pretty much as they use to on the farm; everyday bringing its new supply of work to be done. Allie entered into the spirit of it apparently, but did she—No, she dreaded it all as much as she had in her younger years but decided, actor as she was, not to let anyone discover this fact. She would keep her eyes open for a way of escaping but until that "way" presented itself she would be the ideal farmer lassie. She made pretty flower beds here and there, put dainty touches of color through the house, and laughed! Only the keen eye of a mother could detect the well hidden motive behind these demonstrative actions.
+Things went along pretty much as they use to on the farm; everyday bringing its new supply of work to be done. Allie entered into the spirit of it apparently, but did she? No, she dreaded it all as much as she had in her younger years but decided, actor as she was, not to let anyone discover this fact. She would keep her eyes open for a way of escaping but until that "way" presented itself she would be the ideal farmer lassie. She made pretty flower beds here and there, put dainty touches of color through the house, and laughed! Only the keen eye of a mother could detect the well hidden motive behind these demonstrative actions.
 
 "She is not contented," her mother would say to herself. "She is only acting a part."
 

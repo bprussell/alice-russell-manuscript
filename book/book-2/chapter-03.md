@@ -46,7 +46,7 @@ It was settled then and there they would be married in September. Parepa would s
 
 Day after day passed and these two lovers were the talk of the Club and campus. One fact was clear, neither was making much headway with their learning. Harold didn't volunteer any information as to his home life nor did Parepa think of it. All she thought of was this wonderful fellow that was to be her husband.
 
-Theirs was a made love—that "sweeps one off their feet" so to speak. They wasted no time. They were together always out of school hours. It was the day before Fourth of July, Parepa's cousins had invited her to spend the Fourth and weekend with them at Chenoa, Illinois. Harold was going to the southern part of the state to spend the holiday with home folks.
+Theirs was a mad love—that "sweeps one off their feet" so to speak. They wasted no time. They were together always out of school hours. It was the day before Fourth of July, Parepa's cousins had invited her to spend the Fourth and weekend with them at Chenoa, Illinois. Harold was going to the southern part of the state to spend the holiday with home folks.
 
 It was going to be a fearful separation. Just think! Four days! How would they ever stand it? The goodbyes were said at last and Harold waved from the platform of the coach as far as he could see Parepa's handkerchief in the air over her head.
 

@@ -4,7 +4,7 @@ Surely this will be a good year, they would say on counting up the day's receipt
 
 It was the first day of oat harvesting. All the family had helped to get the old binder in running order. Allie mended the drapers while the boys ran errands for repairs as Johnie directed. Helped, I said, but to no avail. It was so antiquated no wonder it felt it had served its time and refused to work any longer.
 
-John inquired the price of a new one. Two hundred and sixty-five dollars was what one cost. Impossible! at the price of oats and the poor crop. They would have to get along the best they could with the old one.
+Johnie inquired the price of a new one. Two hundred and sixty-five dollars was what one cost. Impossible! at the price of oats and the poor crop. They would have to get along the best they could with the old one.
 
 About midnight Johnie was taken suddenly sick. His suffering increased rapidly in spite of all Allie could do for him. She suspected the nature of his trouble and called a specialist from Peoria. After asking some questions he demanded he be brought at once to Peoria to the Methodist Hospital. There must be no delay. His condition was serious. In an hour he was in his room being examined by the Doctor, having made the twenty mile trip in record time.
 

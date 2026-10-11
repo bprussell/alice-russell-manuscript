@@ -4,7 +4,7 @@ They moved onto the farm and set about their new duties with a heavy heart but w
 
 The little boys were overjoyed. They got a great thrill out of caring for the pigs, calves and chickens. Their many little helpful steps made the burden of chore time lighter for their parents.
 
-It was such fun going to the timber for the cows. Their father bought a small pony for them and what sport it was to play cowboy. John went in for dairy products while Allie raised poultry and flowers—Dahlias being her specialty. Selling the bulbs in the spring through advertising. She found great pleasure in the study of plants. No time was wasted by any member of this family. Everyone was made to feel responsible for the performance of certain duties and no shirking was countenanced no matter how slight.
+It was such fun going to the timber for the cows. Their father bought a small pony for them and what sport it was to play cowboy. Johnie went in for dairy products while Allie raised poultry and flowers—Dahlias being her specialty. Selling the bulbs in the spring through advertising. She found great pleasure in the study of plants. No time was wasted by any member of this family. Everyone was made to feel responsible for the performance of certain duties and no shirking was countenanced no matter how slight.
 
 There was plenty of time for good healthy sport and these three brothers succeeded in having their share of fun together. What one couldn't think of another could. Thus, they grew into chubby healthy fellows. Their religious training was not neglected by any means. Every Sunday found the Bradford family in their pew at the Edelstein Congregational Church.
 

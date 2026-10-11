@@ -12,7 +12,7 @@ Most of the young swains had overstepped their bounds and had been more or less 
 
 He was not one bit like the rest of them. He wasn't so "up and comin'." Was more modest in his demonstrations of affection, and at times seemed almost impossible when his backwardness, yes, and awkwardness embarrassed her almost past redemption. He had several finer qualities to recommend him though and Allie was not slow to appreciate them. His genuine kindliness, his unpolished, truthful standards, his dogged perseverance in anything he undertook and his unlimited powers of endurance. He was staunch and true always. So it was that on the evening before Allie left for the State Normal University at Bloomington, Illinois, Johnie got up his courage to propose to her.
 
-His love making had nothing about it that reminded her of her first love. His was a love as natural and simple as the call of a bird to its mate. There were no false motions in this young man's head. He felt the urge of real love prompting him to reveal it to his sweetheart which he did, simply and honestly.
+His love making had nothing about it that reminded her of her first love. His was a love as natural and simple as the call of a bird to its mate. There were no false notions in this young man's head. He felt the urge of real love prompting him to reveal it to his sweetheart which he did, simply and honestly.
 
 While she had not admitted it even to herself, she had gathered great respect and appreciation for his unwavering steadfastness. She hardly believed herself in love with this unassuming young country boy. That was hardly what she'd call it. She didn't know just how to describe it even to herself. Yet there was something—what was it—anyway?
 
