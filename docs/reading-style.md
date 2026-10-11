@@ -88,6 +88,12 @@ page 248 omitting struck "info"). Apply them exactly and log them.
   written and log it as "kept".
 
 **Typography (global rules, not logged per instance):**
+- Quotation marks stay straight in `book/`; they are curled at build
+  time by `print/smartquotes.py`. A double quote nested inside dialogue
+  (she typed straight doubles for both levels) is printed as single
+  quotes — "...finding the 'missing link' in their chain..." — and
+  leading apostrophes for dropped letters ('phone, 'Twas, 'bout) curl as
+  apostrophes, not opening quotes.
 - Collapse double/triple spaces; standard single space after punctuation.
 - Dashes typed as " - ", " -- ", "---" used parenthetically become
   em dashes (—); trailing dash-flourishes at speech ends become an em
