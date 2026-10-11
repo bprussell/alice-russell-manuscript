@@ -83,7 +83,9 @@ logged here as Phase 3 proceeds; global decisions are recorded up front.
   - "Monroe Street car tracks", "high school work", "Sunday School
     work/room", "Sunday school mate";
   - **"girl friend(s)"** (her female friends — "girlfriend" would imply
-    romance) and **"love making"** (courtship — the modern closed form
+    romance), **"boy friend"** (Ch IV, p26, Frances on the day they
+    meet; first joined in this pass, restored 2026-10-11 by the same
+    reasoning) and **"love making"** (courtship — the modern closed form
     means something else), plus "master mind" and "life boat" (her
     figurative senses);
   - open compounds that are still standard today ("living room", "ice
@@ -304,6 +306,10 @@ Changes from the great-grandson's read-through of the EPUB proof.
 - **Ch II, p17:** "as well as she when crash it went to the floor" →
   **"as well as she when—crash!—it went to the floor"** — punctuation
   supplied so "crash" reads as the sound effect.
+
+- **Ch IV, p26:** "boyfriend" → **"boy friend"** restored as typed —
+  the compound pass had joined it, but on the day they meet Frances is a
+  new friend, not a sweetheart; matches the "girl friend" ruling.
 
 ## Open REVIEW flags
 
