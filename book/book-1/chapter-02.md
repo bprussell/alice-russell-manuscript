@@ -34,7 +34,7 @@ Parepa-Roza broke the silence, "And Uncle George, you'll let me help pack in the
 
 "Don't know, never been there." and Uncle George wondered what the next question would be. There was no more. Parepa-Roza was so wrapped up in her thoughts that she was most thrown from the seat again when Uncle George pulled up the reins and the horses stopped short.
 
-"Well, here we are Parepa-Roza" he said.
+"Well, here we are, Pepper-Rosie," he said.
 
 "I'm not Pepper-Rosie, I'm Alice Parepa-Roza, sixteen years old *and don't you forget it.*"
 
@@ -126,7 +126,7 @@ She will never know how she got through that meal. It was all a blur to her, but
 
 "What you drink out of, of course," and she felt quite smart at being able to tell him something.
 
-"Oh, in our English those things are the crystals. No wonder I didn't know what you were talking about, and why do you think I might break them?" and he proceeded to show her that he could wipe them as well as she when crash it went to the floor and broke in a hundred pieces.
+"Oh, in our English those things are the crystals. No wonder I didn't know what you were talking about, and why do you think I might break them?" and he proceeded to show her that he could wipe them as well as she when—crash!—it went to the floor and broke in a hundred pieces.
 
 "Smarty, smarty," said Parepa just as she would have said to her own brother. "You see you're not so smart as you think you are. Breaking Aunt Kate's CRYSTAL."
 

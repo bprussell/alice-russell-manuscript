@@ -295,6 +295,16 @@ Changes from the great-grandson's read-through of the EPUB proof.
   some time"** — the period-of-time sense takes two words; the other
   "sometime"s in the book mean "at some point" and stay one word.
 
+- **Ch II, p10:** typed '"Well, here we are Parepa-Roza" he said.' →
+  **'"Well, here we are, Pepper-Rosie," he said.'** Her retort ("I'm not
+  Pepper-Rosie, I'm Alice Parepa-Roza...") answers a name he never says
+  as typed; read as Uncle George running her name together and her
+  correcting him, so his line is written as he says it. A deliberate
+  change to spoken words — the one such change in the edition.
+- **Ch II, p17:** "as well as she when crash it went to the floor" →
+  **"as well as she when—crash!—it went to the floor"** — punctuation
+  supplied so "crash" reads as the sound effect.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
