@@ -132,6 +132,10 @@ Rulings by the author's great-grandson, 2026-10-10.
   your happiness, I'm sure."** — period after "happiness" read as a
   comma slip.
 
+- **Ch XXIV, p128:** "roughish glance" → **"roguish glance"** —
+  confirmed (coy, flirtatious context; she spells by ear — "coily",
+  "scrubing" on the same page).
+
 ## Open REVIEW flags (for the family to rule on)
 
 - **Ch XXV, p134:** garbled clause repaired as "any farther than their
@@ -143,7 +147,6 @@ Rulings by the author's great-grandson, 2026-10-10.
 - **Ch XXVI, p146:** chapter-ending two paragraphs treated as one
   continuing Parepa speech (typescript omits the closing quote) —
   confirm.
-- **Ch XXIV, p128:** "roughish glance" → "roguish glance" — confirm.
 - **Ch XXVII, p150:** "a wonderful home, Donald." kept — Joseph's full
   name is "Joseph Donald" (ch XXVI), so surname address is possible, but
   it may be a slip for "Joseph"; rule.
