@@ -286,6 +286,15 @@ Rulings by the author's great-grandson, 2026-10-10.
 - **Book II Ch XXV, p283:** "how to diagnosis" → **"how to diagnose"** —
   one-off wrong word form (unlike the thrice-used "convenienced").
 
+## Reader's-proof read-through (Phase 3.5)
+
+Changes from the great-grandson's read-through of the EPUB proof.
+
+- **Ch II, pp8-9:** typed "for sometime" (twice: "Neither said a word
+  for sometime", "They rode on in silence again for sometime") → **"for
+  some time"** — the period-of-time sense takes two words; the other
+  "sometime"s in the book mean "at some point" and stay one word.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's

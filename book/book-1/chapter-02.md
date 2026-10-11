@@ -1,6 +1,6 @@
 # Chapter II
 
-Neither said a word for sometime. Uncle George finally broke the silence by saying, "So you are Ruth's age, hey? about sixteen."
+Neither said a word for some time. Uncle George finally broke the silence by saying, "So you are Ruth's age, hey? about sixteen."
 
 "Yes," spoke up Parepa-Roza quickly, "and from now on don't you ever forget it."
 
@@ -20,7 +20,7 @@ After they had left the last place on the route she said, "Uncle George, do you 
 
 "Yes, but they *do* need them Uncle George. They need them *so* badly but they don't know it. Maybe you will be the means of finding the "missing link" in their chain of happiness (a phrase she had gathered from a book). Who knows?"
 
-They rode on in silence again for sometime. Parepa-Roza picturing little dots of beauty here and there in the many homes they had visited and Uncle George wondering how in the world he had made such a rash promise. Already he could hear the complaint of his customers at not finding the useful premiums they expected to get. Well, he'd slip in a few anyway.
+They rode on in silence again for some time. Parepa-Roza picturing little dots of beauty here and there in the many homes they had visited and Uncle George wondering how in the world he had made such a rash promise. Already he could hear the complaint of his customers at not finding the useful premiums they expected to get. Well, he'd slip in a few anyway.
 
 Parepa-Roza broke the silence, "And Uncle George, you'll let me help pack in the pretty things won't you? Let's see, we'll put in lots of those beads, they are so pretty. Do you care if I wear a string of them till we get to your house? I love those pink ones."
 
