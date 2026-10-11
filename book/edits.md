@@ -264,22 +264,27 @@ Rulings by the author's great-grandson, 2026-10-10.
   comma repositioning and the supplied comma in "said Johnie, and Robert
   drove" — **confirmed**.
 
-## Open REVIEW flags (for the family to rule on)
+- **Book II Ch XXI, p250:** "Donald Joseph had been called away" →
+  **"Joseph Donald"** — inverted name order normalized to Book I's
+  (Donald is his surname; see the Ch XXVII p150 ruling).
+- **Book II Ch XXI-XXIV best-guess repairs — all confirmed:** typed "No
+  where had seen found" → "Nowhere had she found" (p250); "H[er] one
+  hope" → "Her one hope" (p253); "to place on funds on deposit" → "to
+  place funds on deposit" (p253); "principals" → "principles" (p262).
+- **Book II Ch XXV, p277:** "git up" → **"get up"** — confirmed (Frances
+  never speaks in dialect elsewhere).
+- **Book II Ch XXV, p277:** "Oh, I did Frances." → **"Oh, I did,
+  Frances."** — vocative comma (Parepa answering Frances).
+- **Book II Ch XXV, p282-284:** typed "I have up my whole life" → "I gave
+  up my whole life" and "a few weak strained" → "a few weak strains" —
+  **both confirmed**.
+- **Book II Ch XXV, p283:** "how to diagnosis" → **"how to diagnose"** —
+  one-off wrong word form (unlike the thrice-used "convenienced").
 
-- **Book II Ch XXV, p277:** "git up" → "get up" — a dialect-voice reading
-  is defensible; rule.
-- **Book II Ch XXV, p282/p284:** best-guess repairs "I gave up my whole
-  life" and "a few weak strains" — confirm.
-- **Book II Ch XXV, p283:** "how to diagnosis" kept — rule whether
-  "diagnose".
-- **Book II Ch XXV, p277:** "Oh, I did Frances." — reviewer may prefer
-  "I did, Frances." for the speaker turn; rule.
-- **Book II Ch XXI, p250:** "Donald Joseph had been called away" kept as
-  typed — Book I gives "Joseph Donald"; rule whether to normalize the
-  order. (An earlier draft silently inverted it; reverted to as-typed.)
-- **Book II Ch XXI-XXIV best-guess repairs:** "Nowhere had she found"
-  (p250), "Her one hope" (p253), "place funds on deposit" (p253),
-  "principles" (p262) — confirm each.
+## Open REVIEW flags
+
+None. All 69 flags raised during Phase 3 were ruled on by the author's
+great-grandson on 2026-10-10/11 (see "Resolved REVIEW flags" above).
 
 ## Per-chapter corrections
 

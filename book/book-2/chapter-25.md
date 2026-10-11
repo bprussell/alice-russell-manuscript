@@ -108,7 +108,7 @@ Parepa drew her dressing gown about her and descended the stairs with the nurse.
 
 "You surely look fine. Hope you had a good rest."
 
-"Oh, I did Frances. I didn't waken once. This climate seems to agree with me," she said.
+"Oh, I did, Frances. I didn't waken once. This climate seems to agree with me," she said.
 
 "I'm glad to hear you say that. I hoped it would," she answered.
 
@@ -184,7 +184,7 @@ Daddy Wheeler entered carrying the catalogue of articles in the household. "Tomo
 
 "Yes indeed. They are very simple. She wants to be taken to a little churchyard in the country about fifty miles from here, and wants no service of any kind. She says she and her God understand each other and that is all that is necessary. I have promised to carry out her wishes to the letter. She wants no procession—only her servants and I to follow her. There must be no publicity. These three Johnsons and I were all that knew her wishes. She wants to be buried at night and hopes it will be moonlight. I suppose that sounds unchristian to you, but I have a great deal of respect for her wishes. She has a reason for them all. A better life was never lived. She has been a great blessing to humanity. Very few know from whose hand they benefited. 'The Lord knows,' she would say, 'and that is all that matters.' I gave up my whole life to her. It has been worth it. I shall never regret it." He spoke calmly as though talking of the weather.
 
-"You are both wonderful. I love you as a father, Daddy, and I'm sure no one but our God knows how to diagnosis Frances's and my love for each other."
+"You are both wonderful. I love you as a father, Daddy, and I'm sure no one but our God knows how to diagnose Frances's and my love for each other."
 
 Her maid came in from her morning walk and Daddy Wheeler left the room. Parepa lounged lazily on her couch. Her heart and mind had grown ripe and were mellowed by the turns of fate.
 
