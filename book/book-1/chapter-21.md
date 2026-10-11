@@ -140,7 +140,7 @@ Uncle George came into the dining room just in time to eat with them.
 
 After breakfast Parepa went for a ride on her new wheel. That afternoon they had a glorious time in the park. Parepa insisted they have their lunch on the grass down by the rustic bridge. Only she knew why she liked it better than any other place in the park. Just as they were ready to seat themselves who should appear on the bridge but Frances.
 
-At first he did not recognize them. In fact did not think of it being anyone he knew. He had hoped to have that very spot all to himself that evening and when he noticed figures there he turned his back and stood looking into the water as if deep in thought. He was health, life, beauty, and to Someone; love personified. So engrossed in thought was he that he did not notice the sweet blushing Parepa slip up behind him and cover his eyes with her hands.
+At first he did not recognize them. In fact did not think of it being anyone he knew. He had hoped to have that very spot all to himself that evening and when he noticed figures there he turned his back and stood looking into the water as if deep in thought. He was health, life, beauty, and to *someone*, love personified. So engrossed in thought was he that he did not notice the sweet blushing Parepa slip up behind him and cover his eyes with her hands.
 
 "Who's there?" he cried.
 

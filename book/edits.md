@@ -152,7 +152,11 @@ logged here as Phase 3 proceeds; global decisions are recorded up front.
   "Realtor" (a trademark); the verbatim gift card ("To My Dear Little
   Girl. A Rose for every year...") and the children's rhyme ("Work while
   you work, Play while you play...") as quoted. Hyphenated in passing:
-  "morocco-bound" (twice).
+  "morocco-bound" (twice). Three emphatic capitals became italics, the
+  modern way to carry the same weight: Ch XXI "to Someone; love
+  personified" → "to *someone*, love personified"; Ch XXX "Darling, I'm
+  a Girl." → "Darling, I'm a *girl*."; and plain lowercase for Ch XXX
+  "—My Dreams are Over." → "—my dreams are over."
 
 ## Global typography (applied throughout, not logged per instance)
 
