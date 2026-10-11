@@ -1,6 +1,6 @@
 # Chapter XXI
 
-It had all been so exciting from the beginning that Allie had not had time to consider the seriousness of her mission. She bought her ticket to Chicago. From there she would take a through Pullman to Tucson on the Rock Island. After goodbyes were said, and she was seated on the train she pinched herself to see if she were dreaming. Things she had forgotten to tell the home folks to do ran through her brain. She pulled a tablet and pencil from her bag and started a letter to them. Finally she chucked ten pages of letter into a shabby envelope and gave it to the porter to mail for her. She addressed it to Robert and disguised her handwriting. In that letter she told them that hereafter she would address their letters to Mr. J.S. Bradford, General Delivery, Peoria, Illinois, and that they were to go to the Peoria Post Office and call for them. She explained that she thought best not to send letters to Edelstein for a while.
+It had all been so exciting from the beginning that Allie had not had time to consider the seriousness of her mission. She bought her ticket to Chicago. From there she would take a through Pullman to Tucson on the Rock Island. After goodbyes were said, and she was seated on the train she pinched herself to see if she were dreaming. Things she had forgotten to tell the home folks to do ran through her brain. She pulled a tablet and pencil from her bag and started a letter to them. Finally she chucked ten pages of letter into a shabby envelope and gave it to the porter to mail for her. She addressed it to Robert and disguised her handwriting. In that letter she told them that hereafter she would address their letters to Mr. J.S. Bradford, General Delivery, Peoria, Illinois, and that they were to go to the Peoria post office and call for them. She explained that she thought best not to send letters to Edelstein for a while.
 
 She then worded a telegram to Daddy Wheeler. Allie laughed to herself as she took stock of the contents of her traveling bag. There were only two dresses, three pair of silk stockings which were Christmas presents, three suits of underwear, a nightgown, an old silk kimona, two under slips, a dozen handkerchiefs, a new pair of shoes which she had never worn, stamps, tablet, envelopes, comb, powder, and a copy of the latest magazine, which Johnie had thoughtfully stuck in at the last minute.
 
@@ -36,17 +36,17 @@ He gave a most elaborate order. After the waiter left he addressed his companion
 
 "Your boys?" he said as if he had caught her in a bad break.
 
-"Surely, three of them. All as big as their mother and the finest in the world. Their Daddy and I are so proud of them. How many have you got?" she quizzed.
+"Surely, three of them. All as big as their mother and the finest in the world. Their daddy and I are so proud of them. How many have you got?" she quizzed.
 
 "I'm afraid I can't tell as big a one as you have. I haven't any. Never did have." Allie thought his face saddened. She would change the subject.
 
-"Isn't this scenery beautiful, this time of the year?" she asked. "I love the Springtime."
+"Isn't this scenery beautiful, this time of the year?" she asked. "I love the springtime."
 
 "I love it too, it's my favorite season. So filled with hope and promise," he said.
 
-"Yes, but I have found that Fall don't always fulfill Spring's promise," she replied. "So I figure we should enjoy Spring while we have it."
+"Yes, but I have found that fall don't always fulfill spring's promise," she replied. "So I figure we should enjoy spring while we have it."
 
-"That's just what I set out to do on this trip," he said. "No matter what Fall might bring I'm going to enjoy the Spring." They chatted idly through the meal. When she thanked him for it he said, "The thanks should go to you. The pleasure has been mine. I'll leave you now so you can write to those three wonderful boys of yours," he chided.
+"That's just what I set out to do on this trip," he said. "No matter what fall might bring I'm going to enjoy the spring." They chatted idly through the meal. When she thanked him for it he said, "The thanks should go to you. The pleasure has been mine. I'll leave you now so you can write to those three wonderful boys of yours," he chided.
 
 "And to the best husband in the world," she added. "Goodbye."
 
@@ -56,7 +56,7 @@ She curled up on the seat and covering herself with her blanket went to sleep. S
 
 For the first time since she started on her journey had she considered the meeting with Frances and Daddy Wheeler. Would they be changed? Would they be disappointed in her? What would she do, how would she act? It wasn't going to be easy. She wished Johnie was with her. Why was a good person like Frances taken out of the world in his prime? Joseph Donald had been called away, too. Never once did her mind wonder or speculate on the financial possibilities. After all, why had she come? What impulse urged her to make this trip? Would she admit it? Yes, it was the desire to see once again her old sweetheart. Her first love of maidenhood days. Her heart beat rapidly as she remembered their innocent love. She basked in the memory of it all. The first time in her married life she allowed herself to indulge to the utmost in reminiscence of her first love. Now, Johnie knew the secret that had been hidden and guarded so safely for years in her heart. He had never dreamed of there being such a thing. Would there be an unfavorable reaction? Would he mistrust her when the excitement of present events is over? Would she lose any of her children's respect when they knew?
 
-As the train neared the end of the journey Allie was breathless with the charm of the beautiful scenery. The ride through this Spanish Western country seemed to take her into another world. The desert cactus, the irrigated orange groves, the Indian villages, the unusual enchanting picturesque scenery and great open spaces all held a gripping western appeal. The rugged, jagged mountain peaks especially interested her. It seemed she was entering a land of Romance—passing from an old world into a new.
+As the train neared the end of the journey Allie was breathless with the charm of the beautiful scenery. The ride through this Spanish western country seemed to take her into another world. The desert cactus, the irrigated orange groves, the Indian villages, the unusual enchanting picturesque scenery and great open spaces all held a gripping western appeal. The rugged, jagged mountain peaks especially interested her. It seemed she was entering a land of romance—passing from an old world into a new.
 
 Now there were deep chasms and canyons—now sunny gardens of green and gold—silver gray desert stretches—towering forms of cactus giants—and *color*! Oh the beautiful blendings of color! Could the Temple of Solomon have been grander? Nowhere had she found nature's colors so striking. Our old Parepa-Roza had come back! Here, in the same seat and even in the same body in which Allie had entered the train, was this beauty worshiper of other days. Not one aspect of enchanting charm escaped the eyes of this woman. They were saturated with its loveliness.
 

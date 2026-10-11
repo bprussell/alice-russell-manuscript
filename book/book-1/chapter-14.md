@@ -24,7 +24,7 @@ Mr. Slay left to himself sat to thinking over the day he brought Parepa from her
 
 When Parepa came home she went about her usual performances innocent of the great surprise in store for her.
 
-At the table that evening Uncle George teased, "Come now, Peppy, tell your old Uncle when the young Lochinvar is coming?"
+At the table that evening Uncle George teased, "Come now, Peppy, tell your old uncle when the young Lochinvar is coming?"
 
 "Oh, some sweet day by and by," sang Parepa. "Don't know exactly. Will let you know in time to get your 'boiled' shirt on," she laughed.
 
@@ -38,7 +38,7 @@ Parepa glanced sideways at Uncle George and he at her. Both knew well what the o
 
 "I'll never forget it. Her girl Ruth was sixteen, too, I believe," he chuckled.
 
-"And our little tea wagon darling is soon going to be of age. Eighteen years old, Parepa, in just one more month. Then you will be your own boss. Think of it! Not our little girl anymore. Oh! Parepa, Dear little girl, it don't seem possible," and Aunt Kate really felt a tear trickling down her cheek.
+"And our little tea wagon darling is soon going to be of age. Eighteen years old, Parepa, in just one more month. Then you will be your own boss. Think of it! Not our little girl anymore. Oh! Parepa, dear little girl, it don't seem possible," and Aunt Kate really felt a tear trickling down her cheek.
 
 "Got a long way to go yet before you are as old as we'ens," laughed Uncle George.
 
@@ -60,7 +60,7 @@ Parepa liked nothing better so she took her place at the piano and picked out a 
 
 "Better to hear you with," he laughed and pulling her down beside him on the sofa said, "You all look so good to me. I feel as if I had come back home."
 
-"You have, my boy, just as long as you behave yourself we'll not object to your calling this home, will we mother? The world has certainly been kind to you these last two years," said Uncle George.
+"You have, my boy, just as long as you behave yourself we'll not object to your calling this home, will we Mother? The world has certainly been kind to you these last two years," said Uncle George.
 
 "The best I ever had. Not a sick day and wonderful progress with my studies."
 
@@ -68,4 +68,4 @@ Parepa was most overcome at the sight of so handsome and well poised a young fel
 
 They spent the evening talking and laughing over "old times" (two years ago) as though it had been fifty.
 
-Finally Frances left for the hotel saying he would call them up soon and they would all go to the Opera. "He hoped it wouldn't be his luck to find Uncle Tom there. Ha! Ha!"
+Finally Frances left for the hotel saying he would call them up soon and they would all go to the opera. "He hoped it wouldn't be his luck to find Uncle Tom there. Ha! Ha!"

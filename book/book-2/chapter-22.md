@@ -4,7 +4,7 @@ As they neared the limousine she recognized the calm face of Daddy Wheeler. He w
 
 He was the picture of good health and right living, well preserved in every way. His handclasp was strong and his cheery words, "Welcome my daughter," would have been a shock to Parepa had they come from anyone else. After the driver assisted them to their seat in the car, Mr. Wheeler said, "You better give him your baggage checks and he will get it for you."
 
-Parepa blushed as she told him she had none. "This is all I brought. I can only stay a few days you know." The subject was dropped but she thought Daddy looked amused. As they rode through the City of Tucson Allie thought she never saw so much beauty. Daddy Wheeler keenly noted her surprise and delight as he pointed out to her many interesting places. Old missions, prehistoric ruins, the great Pioneer Hotel, the Pepper Tree Inn, the Eucalyptus trees, the towering peaks of the Santa Ritas and Mesa Verde Range. And the sunshine! Was she to become a Sun Worshiper too? They rode for several miles in the country, then all at once on a desert knoll there appeared an impressive structure of Spanish architecture, conforming to no very definite school of design.
+Parepa blushed as she told him she had none. "This is all I brought. I can only stay a few days you know." The subject was dropped but she thought Daddy looked amused. As they rode through the city of Tucson Allie thought she never saw so much beauty. Daddy Wheeler keenly noted her surprise and delight as he pointed out to her many interesting places. Old missions, prehistoric ruins, the great Pioneer Hotel, the Pepper Tree Inn, the eucalyptus trees, the towering peaks of the Santa Ritas and Mesa Verde Range. And the sunshine! Was she to become a sun worshiper too? They rode for several miles in the country, then all at once on a desert knoll there appeared an impressive structure of Spanish architecture, conforming to no very definite school of design.
 
 She knew without being told that this was Frances's home.
 
@@ -24,7 +24,7 @@ When they entered the long drive she noticed that all the shrubs except those in
 
 "She?" questioned Parepa and the old man knew what she meant.
 
-"Yes," he said, "when this disease fastened itself upon her five years ago we transferred all our business interests to the United States and when we arrived here she changed her sex. We immediately set about to change all financial interests into cash, sometimes at a great loss, and to place funds on deposit in the Banks of the largest cities in the United States. This was done to simplify matters in transferring it to you. Frances has planned everything. It will be an easy thing to sign it over."
+"Yes," he said, "when this disease fastened itself upon her five years ago we transferred all our business interests to the United States and when we arrived here she changed her sex. We immediately set about to change all financial interests into cash, sometimes at a great loss, and to place funds on deposit in the banks of the largest cities in the United States. This was done to simplify matters in transferring it to you. Frances has planned everything. It will be an easy thing to sign it over."
 
 "Please don't say any more about that now. I came because I wanted to see him again," she pleaded.
 

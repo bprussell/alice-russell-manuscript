@@ -18,11 +18,11 @@ This locket had been made to order. The key was attached by a small chain. It ha
 
 After he had replaced this picture he took up the next one. The same long session ensued. There was something he was looking for. No, he did not find it in this picture either. He laid it in its resting place and raised a third one. No, it wasn't there. He thought once he caught a glimmer, then it was gone. He had only imagined it.
 
-The family locket hung from the neck of each of the four women. His own mother came last. He held it long and lovingly, the expression on his face changed. He sprang to his feet crying—"She has it, she has it. My Mother had sincerity, determination, and courage." He kissed her picture over and over again as he paced the floor with it. "You were right, mother, you were right. It shall be as you wish. Our line shall be broken. I shall break it forever. I was blaming you tonight, but never again."
+The family locket hung from the neck of each of the four women. His own mother came last. He held it long and lovingly, the expression on his face changed. He sprang to his feet crying—"She has it, she has it. My mother had sincerity, determination, and courage." He kissed her picture over and over again as he paced the floor with it. "You were right, Mother, you were right. It shall be as you wish. Our line shall be broken. I shall break it forever. I was blaming you tonight, but never again."
 
 Reverently he placed this picture on the top of the others, then folding the glass over them and snapping it tightly he turned to the folded papers—messages from his mother. Silently he scanned them. The last one he held in his hand for a long time—apparently wondering what he should do with it. He slowly reached for a match, lit it and held the paper over a metal tray as he lighted one corner of it and deliberately watched it burn. A knock at the door which he knew to be Daddy Wheeler's caused him to drop the paper on the tray.
 
-After replacing the locket on his breast he opened the door to his Daddy, his comforter, his worthy counselor, his father confessor.
+After replacing the locket on his breast he opened the door to his daddy, his comforter, his worthy counselor, his father confessor.
 
 "Well, my boy, I didn't look for you in so early tonight. Wasn't Parepa home?" but Mr. Wheeler had seen a look of torment on the young face.
 
@@ -30,7 +30,7 @@ After replacing the locket on his breast he opened the door to his Daddy, his co
 
 "Has the young one changed much in the two years since we saw her?" Daddy watched the pale face before him anxiously.
 
-"She has seen a lot of sadness; her Uncle George's death and now her Aunt most ready to go, but you know it is not always in the gold days, but in the gray ones that the soul grows and the purpose of life unfolds. She's sweeter, more mature, and oh! so beautiful."
+"She has seen a lot of sadness; her Uncle George's death and now her aunt most ready to go, but you know it is not always in the gold days, but in the gray ones that the soul grows and the purpose of life unfolds. She's sweeter, more mature, and oh! so beautiful."
 
 "Has she—has she changed her mind?" and the elder man bit his lips in anger for having asked that question so abruptly.
 
@@ -38,7 +38,7 @@ After replacing the locket on his breast he opened the door to his Daddy, his co
 
 "Come, come, my boy, don't feel that you are not capable of making her happy. You know she could be the happiest woman in the world with you. I can't imagine a happier union of sympathetic souls," and Mr. Wheeler patted the miserable young fellow tenderly on the shoulder. "Better think it over again," and he left him to retire to a restless bed.
 
-Frances had fully made up his mind to leave Peoria the next day after arranging the money for Joseph Donald. He would write Parepa of his discovery and encourage her to listen to the pleadings of her Sunday School lover. He would assure her that he was convinced it was best that they never see each other again.
+Frances had fully made up his mind to leave Peoria the next day after arranging the money for Joseph Donald. He would write Parepa of his discovery and encourage her to listen to the pleadings of her Sunday school lover. He would assure her that he was convinced it was best that they never see each other again.
 
 The next morning Frances slept late into the day. He awoke with a start. He hadn't intended to go to sleep. Here it is most noon! He dressed and answered Mr. Wheeler's tap on the door.
 
@@ -50,11 +50,11 @@ Frances did not know what to do. Finally he gave her number halfheartedly.
 
 "Yes yesterday,"
 
-"Fine! How are you and your good Auntie?"
+"Fine! How are you and your good auntie?"
 
 "I'm so sorry Parepa. Can I do anything to help you, darling?" the word slipped out so naturally. "All right, I'll be there at two. Give my love to your Aunt Kate."
 
-"Oh, sure I'm sending you some too. Ha! Ha! All right, Bye Bye, dearest." He hung up the receiver and staggered to his chair as if in a faint.
+"Oh, sure I'm sending you some too. Ha! Ha! All right, bye bye, dearest." He hung up the receiver and staggered to his chair as if in a faint.
 
 Mr. Wheeler did not comment on this though his keen eye noted every move. They went to lunch together and talked about everything but Parepa. Frances became quite his old self before starting out to see her.
 
@@ -66,6 +66,6 @@ A strangling sound came from the bedroom. It was Aunt Kate. Instantly Parepa fle
 
 "Hello, Aunt Kate," he greeted but Aunt Kate didn't answer. She opened her eyes, smiled, but could not speak.
 
-"Call the Doctor, please. Call the Doctor, Frances, while I care for her.
+"Call the doctor, please. Call the doctor, Frances, while I care for her.
 
 "Number 982. Oh, hurry please!"

@@ -6,11 +6,11 @@
 
 * * *
 
-We now find our Parepa-Roza back with us again, for on the Allen Club register as well as on the record book of the University is the name A. Parepa-Roza Wesley, Sparland, Illinois.
+We now find our Parepa-Roza back with us again, for on the Allen Club register as well as on the record book of the university is the name A. Parepa-Roza Wesley, Sparland, Illinois.
 
-She found lodging in a home across the street from the Club. There were five other girls rooming there and a lovely bunch they were. Parepa soon became a favorite at the Club as well as on the campus. She arranged with the Churches of nearby towns to give dramatic entertainments weekends for which she received one third the receipts at the door. This helped the financial end of affairs greatly. Her ability as an entertainer was soon recognized by the student body. She was given leading parts in pageants and plays as well as finding herself the physical culture instructor's assistant. She proved herself champion bowler, a sport which she delighted in greatly. She was never tempted to sing even in the assembly. No one would have suspected this young girl had once possessed a voice that would rival any in the school. She guarded her secret sacredly. Never had she wanted to sing since Aunt Kate's and (as she thought of him) Frances's deaths.
+She found lodging in a home across the street from the club. There were five other girls rooming there and a lovely bunch they were. Parepa soon became a favorite at the club as well as on the campus. She arranged with the churches of nearby towns to give dramatic entertainments weekends for which she received one third the receipts at the door. This helped the financial end of affairs greatly. Her ability as an entertainer was soon recognized by the student body. She was given leading parts in pageants and plays as well as finding herself the physical culture instructor's assistant. She proved herself champion bowler, a sport which she delighted in greatly. She was never tempted to sing even in the assembly. No one would have suspected this young girl had once possessed a voice that would rival any in the school. She guarded her secret sacredly. Never had she wanted to sing since Aunt Kate's and (as she thought of him) Frances's deaths.
 
-Parepa was surrounded by admirers of the opposite sex continually. These finally simmered down to one. The smartest and most handsome young fellow in school. He had graduated with honors and had secured a position as Principal of a small town high school. He was there through the summer session to "freshen up" on a few subjects.
+Parepa was surrounded by admirers of the opposite sex continually. These finally simmered down to one. The smartest and most handsome young fellow in school. He had graduated with honors and had secured a position as principal of a small town high school. He was there through the summer session to "freshen up" on a few subjects.
 
 He had light straight hair, blue eyes, ruddy complexion, was stoutly built, an athlete from the word go. His ready wit and gusto made him a cheerful companion for Parepa and she enjoyed a happy carefree summer.
 
@@ -42,9 +42,9 @@ The next day found Parepa ill prepared for her classes. The first time in her li
 
 "Indeed we will," agreed Parepa. "I know we will be so happy."
 
-It was settled then and there they would be married in September. Parepa would send her resignation to the directors of the Kellogg school and write Johnie a kind note telling him of her change of heart—or, could she? Well, she'd see—maybe sometime soon. Not yet though; no use to hurt him yet—she'd wait until nearer time.
+It was settled then and there they would be married in September. Parepa would send her resignation to the directors of the Kellogg School and write Johnie a kind note telling him of her change of heart—or, could she? Well, she'd see—maybe sometime soon. Not yet though; no use to hurt him yet—she'd wait until nearer time.
 
-Day after day passed and these two lovers were the talk of the Club and campus. One fact was clear, neither was making much headway with their learning. Harold didn't volunteer any information as to his home life nor did Parepa think of it. All she thought of was this wonderful fellow that was to be her husband.
+Day after day passed and these two lovers were the talk of the club and campus. One fact was clear, neither was making much headway with their learning. Harold didn't volunteer any information as to his home life nor did Parepa think of it. All she thought of was this wonderful fellow that was to be her husband.
 
 Theirs was a mad love—that "sweeps one off their feet" so to speak. They wasted no time. They were together always out of school hours. It was the day before Fourth of July, Parepa's cousins had invited her to spend the Fourth and weekend with them at Chenoa, Illinois. Harold was going to the southern part of the state to spend the holiday with home folks.
 
@@ -54,6 +54,6 @@ When she returned to her room to pack for her own trip her eye fell on an envelo
 
 She read in silence for a while, then she started with an "Oh, what shall I do? What shall I do? Johnie says he's coming over here for the Fourth. He is on his way now. I can't stop him," and she wrung her hands as she walked the floor. "He will be in Bloomington tonight. I can't go off and not see him." She buried her head in her pillow and cried as a hurt child, "It's my fault! I should have told him," she cried to herself.
 
-At last she thought out a way to see him without anyone being the wiser. She didn't want the folks at the Club to know. She would wire her cousins it would be impossible to visit them before Saturday noon. She would spend Sunday with them and return Monday morning. This would give her Friday the Fourth with Johnie. She would tell him about her new love and he would understand. He would be sensible. She would meet him at the train, would stay at the Hotel too, and the girls wouldn't have to know that she wasn't at her cousins' all the time.
+At last she thought out a way to see him without anyone being the wiser. She didn't want the folks at the club to know. She would wire her cousins it would be impossible to visit them before Saturday noon. She would spend Sunday with them and return Monday morning. This would give her Friday the Fourth with Johnie. She would tell him about her new love and he would understand. He would be sensible. She would meet him at the train, would stay at the hotel too, and the girls wouldn't have to know that she wasn't at her cousins' all the time.
 
 She hurried her clothes into the suitcase and left for downtown before they came home to dinner. Thus avoiding explanations. When she arrived there she loitered in the stores, ate supper, and then met the trains until the one Johnie was on arrived.

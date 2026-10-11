@@ -1,6 +1,6 @@
 # Chapter XXVII
 
-In a few minutes the Doctor entered the room. Frances stood on one side of the narrow bed and the Doctor and Parepa on the other.
+In a few minutes the doctor entered the room. Frances stood on one side of the narrow bed and the doctor and Parepa on the other.
 
 "There's nothing we can do, the end is quite near. I didn't expect it so soon," he said.
 
@@ -10,39 +10,39 @@ Parepa fell on her knees in a dead faint.
 
 "Help me and we will get her out to the other bedroom. The child has been on an awful strain. Pluckiest young'un I ever saw," he said as they placed her on her own little bed in her own little bedroom.
 
-The Doctor worked over her for a long time before she showed any sign of recovering her senses.
+The doctor worked over her for a long time before she showed any sign of recovering her senses.
 
-"Would you call the undertaker for us? Number 772," he addressed Frances. This done the Doctor sent him to a neighbor's asking her to come with another neighbor.
+"Would you call the undertaker for us? Number 772," he addressed Frances. This done the doctor sent him to a neighbor's asking her to come with another neighbor.
 
-"This child must not get up for a few hours. Would you mind staying with her?" asked the old Doctor who was wondering all the time who this handsome young fellow could be.
+"This child must not get up for a few hours. Would you mind staying with her?" asked the old doctor who was wondering all the time who this handsome young fellow could be.
 
-"Feel better now, Parepa?" the Doctor asked.
+"Feel better now, Parepa?" the doctor asked.
 
 "Has Aunt Kate gone?" the girl asked.
 
-"Yes, brave little girlie your Aunt Kate has gone to Uncle George. You know she wanted it so much," and the sympathetic old Doctor raised her little hand and kissed it. "It's best, dearie, always best. Everything is for the best in this world though it sometimes seems cruel we must remember 'His will, Not Ours, be done.'"
+"Yes, brave little girlie your Aunt Kate has gone to Uncle George. You know she wanted it so much," and the sympathetic old doctor raised her little hand and kissed it. "It's best, dearie, always best. Everything is for the best in this world though it sometimes seems cruel we must remember 'His will, not ours, be done.'"
 
-The undertaker had come now, and the good neighbors moved quietly through the rooms. The Doctor bade Parepa and Frances goodbye telling her to lay quiet until he came back at six o'clock.
+The undertaker had come now, and the good neighbors moved quietly through the rooms. The doctor bade Parepa and Frances goodbye telling her to lay quiet until he came back at six o'clock.
 
 "Don't try to get up—just relax and rest. Remember Aunt Kate has left all her suffering behind." When he left the room Frances sat close to her bed clasping her hand in his. She smiled up at him, then closed her eyes and seemed to be sleeping as peacefully as a baby.
 
 Frances studied her face and features as he never had before. Surely the Lord had a great plan for this angel he placed on earth. I wonder if I was included in it. One of the neighbors brought him a cold drink of lemonade for which he was thankful.
 
-"Sweetest thing ever put on Earth," she said to Frances in a low voice as she looked at the sleeping child. "We call her 'Bethany's Angel,'" then she quietly left the room. After a while the white child on the bed opened her eyes smiled again at Frances and reaching out her hand to his fell asleep again. Frances sat with low bowed head, thinking over the many good times he had spent with these fine people. Relatives began to come now. Uncle Will and Aunt Minnie were the only ones known to Frances. They eyed the strange boy curiously. They stood at the foot of the bed looking at the sleeping girl and making some such remarks as—"tired to death poor child" or "this will most kill her, they fairly worshiped her—both of them."
+"Sweetest thing ever put on earth," she said to Frances in a low voice as she looked at the sleeping child. "We call her 'Bethany's Angel,'" then she quietly left the room. After a while the white child on the bed opened her eyes smiled again at Frances and reaching out her hand to his fell asleep again. Frances sat with low bowed head, thinking over the many good times he had spent with these fine people. Relatives began to come now. Uncle Will and Aunt Minnie were the only ones known to Frances. They eyed the strange boy curiously. They stood at the foot of the bed looking at the sleeping girl and making some such remarks as—"tired to death poor child" or "this will most kill her, they fairly worshiped her—both of them."
 
-Finally the Doctor came in. "How has she been resting?" he asked.
+Finally the doctor came in. "How has she been resting?" he asked.
 
 "Fine," said Frances, "she roused a little once, but hasn't spoken a word!"
 
-"Think I better waken her," and the old Doctor bent low and said, "Parepa-Roza! Parepa-Roza! Come, child, wake up," and he patted her hand gently.
+"Think I better waken her," and the old doctor bent low and said, "Parepa-Roza! Parepa-Roza! Come, child, wake up," and he patted her hand gently.
 
 "I don't—want to," she said and giving her head a toss on the pillow closed her eyes again. She was asleep.
 
 Frances leaned over her. "Goodbye, Parepa, darling," he said. "I'll come back in the morning. If you want me sooner I'll come any time."
 
-She smiled at him and he and the Doctor left the house together. As they walked down the street the Doctor asked him who he was and how he happened to be so well acquainted with the Slays. Frances told him all about it from the first.
+She smiled at him and he and the doctor left the house together. As they walked down the street the doctor asked him who he was and how he happened to be so well acquainted with the Slays. Frances told him all about it from the first.
 
-"I see now why she gives all the boys around here the 'go by,'" chuckled the old Doctor as they parted at the car line.
+"I see now why she gives all the boys around here the 'go by,'" chuckled the old doctor as they parted at the car line.
 
 Frances retired early and immediately went to sleep. The next few days were sad ones for everyone. In the evening of the day after the funeral Frances called at Uncle Will's where Parepa had gone to stay until she could make up her mind what she would do now that her home was broken up.
 

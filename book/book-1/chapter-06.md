@@ -2,7 +2,7 @@
 
 August 28th, 1898, at eight o'clock Alice Parepa-Roza Wesley was actually launched on her industrial career in a big city. She was so shy, so quiet, so charmingly sweet and attentive to her duties (which were few) that she won the love and respect of all the other employes of the shop.
 
-Carry Weber and Mattie Swanson were the "old girls" on the job and from them Parepa was to learn all the "in's and out's" of the Candy shop business.
+Carry Weber and Mattie Swanson were the "old girls" on the job and from them Parepa was to learn all the "in's and out's" of the candy shop business.
 
 "Guess we'll clean the showcases and windows first," said Mattie. "Parepa, you can remove all the candy dishes, empty them and wash them while we clean the glass and put new papers on the bottoms of the showcases and window shelves." She showed Parepa very kindly just where to put the candy removed from dishes and how to clean and dry them. Parepa wondered if all her work would be so easy. Occasionally a customer sauntered in and one of the older girls would wait on them. "Someday I'll sell candy I suppose," she said to herself. "I wonder how long before they'll let me."
 
@@ -10,7 +10,7 @@ Carry Weber and Mattie Swanson were the "old girls" on the job and from them Par
 
 "Hello there, Pretty, where did you come from?" he said speaking unmistakably to Parepa.
 
-"That'll do, that'll do," said Uncle Will who was sitting quietly in his Office cage, heretofore unnoticed. "My helpers shall not be addressed in so rude a manner," he said coming forward and the young rascal took his package and went sneaking out of the door. Parepa-Roza blushed a deep red much to the amusement of the other girls.
+"That'll do, that'll do," said Uncle Will who was sitting quietly in his office cage, heretofore unnoticed. "My helpers shall not be addressed in so rude a manner," he said coming forward and the young rascal took his package and went sneaking out of the door. Parepa-Roza blushed a deep red much to the amusement of the other girls.
 
 It was a blessing that Parepa did not realize how very attractive she was. However, Uncle Will was aware of the fact and made up his mind he would protect her from any advances made by the admiring masculine customers.
 
@@ -22,7 +22,7 @@ It was a blessing that Parepa did not realize how very attractive she was. Howev
 
 "Aunt Kate put up a lunch for me, Uncle Will," said Parepa, "she thought best for me not to go to a restaurant alone."
 
-"You won't have to, you'll go with me. Tell Aunt Kate I'll look after your welfare from eight to five," he said rather curtly and at twelve o'clock he brought Parepa's tam o'shanter to her saying: "Come on, dearie, out to lunch with your old Uncle." He appraised her luscious beauty and eyed her appreciatively.
+"You won't have to, you'll go with me. Tell Aunt Kate I'll look after your welfare from eight to five," he said rather curtly and at twelve o'clock he brought Parepa's tam o'shanter to her saying: "Come on, dearie, out to lunch with your old uncle." He appraised her luscious beauty and eyed her appreciatively.
 
 After they had gone out the two older girls stared at each other in blank amazement. "I see where our noses are broken," said Mattie, "but isn't she innocence personified? I see where those dimples and dancing eyes will bring the world to her feet, and 'great will be the fall.'"
 
@@ -44,7 +44,7 @@ Parepa didn't know just what he meant but was glad when Uncle Will started on.
 
 The afternoon was a time never to be forgotten by Parepa. The "older girls" decided to let her "dress" one of the back showcases by arranging the cheap candies to suit her own taste. They thought it would result in a panic of color without any thought of design, but much to their surprise and Uncle Will's delight the result was a dream in beautiful color arrangement. She laid out a rainbow across the case bottom which slanted slightly toward the front. She did her work deliberately and seemed to be so completely wrapped up in it that she didn't notice the others eyeing her enviously. When it was done she stood off some distance and gazed at it. Clapping her hands, her face radiant as she grabbed Uncle Will by the hand and led him up to see it.
 
-"It's beautiful, Parepa. How did you ever think to make it like That?" he asked.
+"It's beautiful, Parepa. How did you ever think to make it like that?" he asked.
 
 "Oh, I don't know only I simply love pretty things. I just crave to get my hands on anything beautiful. Sort of possessed, I guess. These candies are so pretty, Uncle Will. I'm so glad I'm here!" she said.
 
@@ -64,7 +64,7 @@ It was five-thirty now and it was planned to eat at six, rest until seven-thirty
 
 "Say, don't put up a lunch for her Kate, I'll see she gets a lunch with me. She really should go out at noon to get a little air so I told her she and I would get together. I'll pay for the meals."
 
-"Guess I'll go now, seeing George isn't home," and Parepa watched the stoutly built handsome Uncle disappear around the corner.
+"Guess I'll go now, seeing George isn't home," and Parepa watched the stoutly built handsome uncle disappear around the corner.
 
 "You are all so good to me," she said, "and I'm going to be just as good to you."
 
@@ -130,9 +130,9 @@ After they were seated and the order given he turned to Parepa and said, "Well, 
 
 Frances gave a jolly laugh and reached over and pinched Parepa's arm. She slapped at him just as she would have big brother at home.
 
-Aunt Kate watched this proceeding and wondered if it wasn't just as well that Frances's stay in the City was limited. "They are getting acquainted so fast," she thought, "but after all young people must know and have young associates and Frances's fun seems only natural for one sixteen."
+Aunt Kate watched this proceeding and wondered if it wasn't just as well that Frances's stay in the city was limited. "They are getting acquainted so fast," she thought, "but after all young people must know and have young associates and Frances's fun seems only natural for one sixteen."
 
-"Say folks," Frances was saying, "If it rains tomorrow night we'll go to a show at the Grand Opera house after dinner. I've ordered the dinner and the carriage and will be on time so don't forget."
+"Say folks," Frances was saying, "If it rains tomorrow night we'll go to a show at the Grand Opera House after dinner. I've ordered the dinner and the carriage and will be on time so don't forget."
 
 "All right," said Aunt Kate.
 
@@ -164,7 +164,7 @@ By this time the customers and other clerks stood amazed. Parepa in her exciteme
 
 "Say, sweetie, do you often take a spell like that? I wish I'd been the fellow attacked," he teased.
 
-"That's my good Uncle and he brought me some great news. Did you say gumdrops?" she asked changing the subject.
+"That's my good uncle and he brought me some great news. Did you say gumdrops?" she asked changing the subject.
 
 "No, you misunderstood me. I said kisses," he laughed.
 

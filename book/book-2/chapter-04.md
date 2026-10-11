@@ -2,9 +2,9 @@
 
 He was so surprised and happy to see her. His eyes sparkled as the love light shone in them. "'Twas mighty good of you to meet me, girlie," he said in his old sincere way. "I thought 'twould be a little late to call on you at your boarding house so I decided to stay here tonight and have a glorious day with you tomorrow."
 
-"I was going away for the Fourth but when I got your letter I decided I'd come here and meet you and stay at the Hotel myself until Saturday. Then I'll go on to Chenoa to visit. There is really nothing of interest in Normal for you to see so I thought we'd just have a better time together here in Bloomington. Tomorrow we can see the town together," and she felt that old time chumminess coming back. It was nice she thought—but—I must tell him tomorrow.
+"I was going away for the Fourth but when I got your letter I decided I'd come here and meet you and stay at the hotel myself until Saturday. Then I'll go on to Chenoa to visit. There is really nothing of interest in Normal for you to see so I thought we'd just have a better time together here in Bloomington. Tomorrow we can see the town together," and she felt that old time chumminess coming back. It was nice she thought—but—I must tell him tomorrow.
 
-They went to the Hotel and each registered for their rooms. They washed up then met in the lobby to go for a walk. They found some seats to rest in and were soon chatting away about home folks and doings both really enjoying themselves.
+They went to the hotel and each registered for their rooms. They washed up then met in the lobby to go for a walk. They found some seats to rest in and were soon chatting away about home folks and doings both really enjoying themselves.
 
 Parepa unveiling new virtues in her partner as they sat there side by side in the moonlight. It was a night that makes lovers, a night that makes dreams. Johnie was dreaming—Parepa was too. But what was she dreaming? She could feel a confusion of dreams. Finally she felt an arm around her and a hand turning her face up to—yes, it was Johnie's lips to be kissed. She sank her head on his shoulders and sat silently as she pressed her hand into his to hold. She was safe with him—
 
@@ -22,11 +22,11 @@ She could feel his arm loosening, his handclasp weakening. His heart sank. "Mayb
 
 "I'm really glad you came, Johnie," she said. "I would have been lonesome too if you hadn't come. Tomorrow we will have another good visit."
 
-They walked back to the Hotel chatting together about this one and that one at home and parted wishing each other a good night.
+They walked back to the hotel chatting together about this one and that one at home and parted wishing each other a good night.
 
 When Parepa reached her room she threw herself on her bed and wept bitter tears. She didn't know why she wept. She couldn't explain her feelings to even her own satisfaction. She knew she was madly in love, but with whom? She was afraid it was Johnie. She wasn't sure—for hours she tossed on her bed. Why was he—how could he be so patient—so willing to wait for her decision? Why didn't he urge her—force her—make her see his worthiness? Finally sleep overcame her and she lay as a punished child, sobbing as she slept.
 
-In another room of that same Hotel, a young man lay awake feeling happy in the thought he was so near to the girl he loved. She was glad he had come—she had said so—tomorrow we will have a good visit. Will she love me sometime? Of course, she will—I can wait. She must have her own time—I'll not coax her. Someday she will be my wife—I must bide my time. He dropped to sleep in a peaceful restful confident state of mind that is the possession of only such honest fair minded men as Johnie Bradford.
+In another room of that same hotel, a young man lay awake feeling happy in the thought he was so near to the girl he loved. She was glad he had come—she had said so—tomorrow we will have a good visit. Will she love me sometime? Of course, she will—I can wait. She must have her own time—I'll not coax her. Someday she will be my wife—I must bide my time. He dropped to sleep in a peaceful restful confident state of mind that is the possession of only such honest fair minded men as Johnie Bradford.
 
 The next morning at ten o'clock two young people met with the spirit of the day ringing in their ears. Horns and whistles blowing, flags flying, drums beating, firecrackers deafening them. Such crowds! It certainly was no place for confidence. No place for them.
 
@@ -66,6 +66,6 @@ The next afternoon found Parepa boarding the train for Chenoa. Her visit there w
 
 She wondered if she were really glad Harold would get back tonight. One thing she was sure of, she would not marry anyone until after her school year was finished.
 
-That evening at the Club she came in for the usual "roasting" from the "gang." They told her how sad she looked, how lonesome she was, how she had pined away these last few days for her Harold.
+That evening at the club she came in for the usual "roasting" from the "gang." They told her how sad she looked, how lonesome she was, how she had pined away these last few days for her Harold.
 
 Finally there was a commotion in the hall. One of the boys got up and hurried out.

@@ -6,9 +6,9 @@
 > Editor, Peoria Tribune  
 > Peoria, Illinois
 >
-> I am endeavoring to ascertain the present whereabouts of Alice Parepa-Roza Wesley, who resided with relatives in your City, in the vicinity of the Bethany Baptist Church during the years 1898 to 1903. At that time she studied dramatic Art with Mrs Rose Mendenhall Breen and Piano and voice with a Mrs Slay.
+> I am endeavoring to ascertain the present whereabouts of Alice Parepa-Roza Wesley, who resided with relatives in your city, in the vicinity of the Bethany Baptist Church during the years 1898 to 1903. At that time she studied dramatic art with Mrs Rose Mendenhall Breen and piano and voice with a Mrs Slay.
 >
-> Though only a young girl she earned her way and paid for her lessons by working in a candy store on Main Street opposite the Courthouse.
+> Though only a young girl she earned her way and paid for her lessons by working in a candy store on Main Street opposite the courthouse.
 >
 > I learned many years ago that her relatives died and she became a schoolteacher in the West.
 >
@@ -47,7 +47,7 @@ After he had gone a knock on the door brought Allie face to face with her old co
 
 "I can see she made no mistake in choosing her life mate," he said as he turned to leave. "Good night and the best of luck."
 
-"Thanks and Good night," they said and closed the door.
+"Thanks and good night," they said and closed the door.
 
 "Now, Mother, who in the world do you suppose this is that is looking for you and do you suppose we will get lots of money?" asked the restless young Arthur.
 
@@ -67,7 +67,7 @@ They were an excited bunch of boys as they tripped up the stairs to bed. Voices 
 
 "That depends upon the kind of people they are. Does this man Wheeler happen to be the one that gave you that Wedgwood vase for your birthday when you lived with Aunt Kate?" he asked.
 
-"Then he remembered," she thought. "Yes, the same old Daddy Wheeler. Let's see—he must be eighty-two or three years old by this time." Then patting his cheek tenderly she said, "He was Frances's guardian and Secretary then too. I'll tell you all I know if you will promise never to tell the boys or anyone else that I told you." After a long silence she said, "Do you promise?"
+"Then he remembered," she thought. "Yes, the same old Daddy Wheeler. Let's see—he must be eighty-two or three years old by this time." Then patting his cheek tenderly she said, "He was Frances's guardian and secretary then too. I'll tell you all I know if you will promise never to tell the boys or anyone else that I told you." After a long silence she said, "Do you promise?"
 
 "Yes, but I can't understand all this secrecy," he said in a voice with a quality in it she had never heard before.
 
@@ -77,7 +77,7 @@ They were an excited bunch of boys as they tripped up the stairs to bed. Voices 
 
 "Darling you know I believe you. I am wondering how you have ever stood it to go through life in the humdrum way we have when you could have had everything one could ask for in this world. Oh, wifie, I haven't been worth it. I didn't know. Forgive me, can you?"
 
-"Not everything," she said. "Everything but children," she whispered. "I am happy, You know that. No one could have made me happier even in our most discouraging times. I imagine our financial worries are over now. Frances was many times a millionaire when I knew him. You and I are going to enjoy life from now on. You are going to get well and strong and I'm going to have 'pretty things.' All I want—no limit. Ha! Ha! Our boys are going to have the education they are entitled to and 'whoopee,'" she cried tickling him until he most rolled out of bed. "Ain't we got fun?"
+"Not everything," she said. "Everything but children," she whispered. "I am happy, you know that. No one could have made me happier even in our most discouraging times. I imagine our financial worries are over now. Frances was many times a millionaire when I knew him. You and I are going to enjoy life from now on. You are going to get well and strong and I'm going to have 'pretty things.' All I want—no limit. Ha! Ha! Our boys are going to have the education they are entitled to and 'whoopee,'" she cried tickling him until he most rolled out of bed. "Ain't we got fun?"
 
 "Now we can give and give and give. We'll help others that are having the same hard time that we are. Oh, won't it be great, Johnie? Just think! After all these long years Frances had remembered me."
 
@@ -105,13 +105,13 @@ Robert had heard them talking and came down to see what it meant. "Your mother w
 
 "You must not even tell the brothers. This person that is looking for me is many times a millionaire. There is no doubt about that," she said.
 
-"I've just thought of a way you can go, Mother," he said. "I have about sixty-five dollars in the Sunday School treasury box upstairs. I'll loan it to you and I have thirty-six of my own you can have. If you get lots of money out there you can pay a big interest for the use of it."
+"I've just thought of a way you can go, Mother," he said. "I have about sixty-five dollars in the Sunday school treasury box upstairs. I'll loan it to you and I have thirty-six of my own you can have. If you get lots of money out there you can pay a big interest for the use of it."
 
-"Oh, that will be fine," and she sprang out of bed and dressed for the train trip, tossing articles of wearing apparel in the open suitcase as she rushed from one place to another, while Robert and Johnie shook the banks empty and all loose change in the house was gathered together for the trip. Johnie got the other boys out of bed and they were made to understand that Mother felt she should go to see this old friend who was so sick. These boys were not given the impression that there was any money interest in the trip. They promised not to tell anyone that their Mother had gone.
+"Oh, that will be fine," and she sprang out of bed and dressed for the train trip, tossing articles of wearing apparel in the open suitcase as she rushed from one place to another, while Robert and Johnie shook the banks empty and all loose change in the house was gathered together for the trip. Johnie got the other boys out of bed and they were made to understand that Mother felt she should go to see this old friend who was so sick. These boys were not given the impression that there was any money interest in the trip. They promised not to tell anyone that their mother had gone.
 
 "We'll be back home before the neighbors are out of bed this morning," said Johnie, and Robert drove the old Ford at a lively rate of speed to the depot.
 
-"I'm glad you have taught us how to help you cook, mother," said Richard.
+"I'm glad you have taught us how to help you cook, Mother," said Richard.
 
 "Yes, and how to do everything else in the house," added Arthur whose main activity was dishwashing.
 

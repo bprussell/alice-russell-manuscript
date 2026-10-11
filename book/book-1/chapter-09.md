@@ -22,7 +22,7 @@ Parepa couldn't eat. Neither Mr. or Mrs. Slay appeared to notice this — but th
 
 "I'll go up with you," and Aunt Kate tucked her in her bed and kissed her a loving good night and crept quietly down the stairs, glad the day was over for the young girl.
 
-"Poor little thing — she doesn't realize the first twangs of womanly instinct are working in her heart. She's really in love with Frances but she don't know just what is the matter with her," and Aunt Kate sat down real close to Uncle George whose arm some way got 'Round her waist just as it had 'bout twenty years before. Their eyes met their lips met and once again they were "way back when."
+"Poor little thing — she doesn't realize the first twangs of womanly instinct are working in her heart. She's really in love with Frances but she don't know just what is the matter with her," and Aunt Kate sat down real close to Uncle George whose arm some way got 'round her waist just as it had 'bout twenty years before. Their eyes met their lips met and once again they were "way back when."
 
 Here they sat, not speaking a word but living again the old days and the new. In memory they were in youth again. The lights were low and so wrapped were they in their own thoughts that the sharp ring of the doorbell startled them into the present.
 
@@ -58,7 +58,7 @@ Frances pulled her down beside him on the lowest step while Uncle George, Aunt K
 
 "Frances seems to be such an all-round good chap, and since Parepa has been with us, the two of them have taken off any number of years from our span," said Mr. Slay. "We'll miss him so much."
 
-"The child has had an awful shock this last year. Underwent a very sensitive operation in Glasgow last October. Don't seem to have left any bad effects, but the Doctor's orders were — perfect rest for one year. We'll go back now and I hope there will be no more interruptions in the education we have planned. Frances will then be old enough and I hope sensible enough to lay out a life's plan of work without any dictation from me." Mr. Wheeler stopped, cleared his throat and said, "Frances tells me you have a beautiful City here when you get up on the bluff. Wish I had a few days here."
+"The child has had an awful shock this last year. Underwent a very sensitive operation in Glasgow last October. Don't seem to have left any bad effects, but the doctor's orders were — perfect rest for one year. We'll go back now and I hope there will be no more interruptions in the education we have planned. Frances will then be old enough and I hope sensible enough to lay out a life's plan of work without any dictation from me." Mr. Wheeler stopped, cleared his throat and said, "Frances tells me you have a beautiful city here when you get up on the bluff. Wish I had a few days here."
 
 "Can't you make it this time?" asked Mr. Slay.
 

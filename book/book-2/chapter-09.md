@@ -2,9 +2,9 @@
 
 The time came when she was unable to help with the store duties. Her sister Iona came to help them out and was a great comfort to them both.
 
-Allie found time now to put a few dainty touches on the baby's clothes and basket. She found it hard to wait for its arrival. They were both so happy. Finally the warning was sounded and the nurse, Doctor and a neighbor lady summoned.
+Allie found time now to put a few dainty touches on the baby's clothes and basket. She found it hard to wait for its arrival. They were both so happy. Finally the warning was sounded and the nurse, doctor and a neighbor lady summoned.
 
-For hours upon hours the young mother suffered. No less a sufferer was her husband. At eleven-thirty a.m. on June the fourteenth, 1910, there burst on the ether ladened air the cry of a newborn babe. "It's a boy, John, and a big fellow," the old Doctor announced as he handed him over to the nurse.
+For hours upon hours the young mother suffered. No less a sufferer was her husband. At eleven-thirty a.m. on June the fourteenth, 1910, there burst on the ether ladened air the cry of a newborn babe. "It's a boy, John, and a big fellow," the old doctor announced as he handed him over to the nurse.
 
 It was some time before Allie realized what had happened. When she came to, a husky little red headed baby was laying by her side.
 
@@ -42,4 +42,4 @@ Things had drifted into a regular routine at the Bradford home. It was always a 
 
 These parents loved their little boys and carefully raised them as they should be raised. Nothing concerning their welfare was neglected as far as they were financially and physically able to supply it. They were not overindulgent parents. There must be a good reason for every purchase. Their food, clothing and even their playthings were discussed and their practical value to the child in question made certain before money was spent for it.
 
-These were strenuous days. Johnie was doing his best to fight off a return of his old trouble. Finally his Doctor told him he must make a change. As long as he was on the farm he would work too hard and not rest as he should. Regular hours were what he needed.
+These were strenuous days. Johnie was doing his best to fight off a return of his old trouble. Finally his doctor told him he must make a change. As long as he was on the farm he would work too hard and not rest as he should. Regular hours were what he needed.

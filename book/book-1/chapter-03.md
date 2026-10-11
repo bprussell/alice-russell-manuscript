@@ -1,6 +1,6 @@
 # Chapter III
 
-"Put on your best dress for we are going downtown to shop today," and Aunt Kate led the way to the bathroom where she carefully dressed the delighted girl. She was as pink and white as a lily and her eyes were dancing with anticipation. She had always wanted to see the pretty things in the big stores. Aunt Kate had her breakfast all fixed on the kitchen table. She was not long eating it and was soon waiting with her Aunt on the corner for a streetcar. She enjoyed the ride downtown and was sorry when it ended.
+"Put on your best dress for we are going downtown to shop today," and Aunt Kate led the way to the bathroom where she carefully dressed the delighted girl. She was as pink and white as a lily and her eyes were dancing with anticipation. She had always wanted to see the pretty things in the big stores. Aunt Kate had her breakfast all fixed on the kitchen table. She was not long eating it and was soon waiting with her aunt on the corner for a streetcar. She enjoyed the ride downtown and was sorry when it ended.
 
 First, they went to a shoe store. Aunt Kate explained to the clerk the kind of "growing girl" shoe she wanted and Parepa-Roza was ushered to a seat to be fitted. She whispered to Aunt Kate that she only had fifty cents in her pocketbook but Aunt Kate told her that she and Uncle George had laid awake last night and planned to play that she was their own Maude and to get her the things they would like to have gotten for Maude was she living.
 
@@ -10,7 +10,7 @@ Next they looked at hats. A broad brimmed leghorn with a wreath of daisies and r
 
 "She'll just wear it," said Aunt Kate and left the old cheap faded hat to be delivered. "Now let's get some new underwear," and Aunt Kate steered her into the largest store yet.
 
-Parepa saw so many things that captivated her she could hardly keep up with her Auntie. Stockings were the first things; three pair of black ones and one of white, three petticoats, three suits of underwear and then on to look at dresses. Such a pretty pink dotted swiss was chosen first, then a lace trimmed, tucked and ruffled white organdy and last a blue sailor dress with white braid on the collar, cuffs and belt. Also a red, white and blue emblem on one sleeve. A pretty checked gingham seemed necessary, too.
+Parepa saw so many things that captivated her she could hardly keep up with her auntie. Stockings were the first things; three pair of black ones and one of white, three petticoats, three suits of underwear and then on to look at dresses. Such a pretty pink dotted swiss was chosen first, then a lace trimmed, tucked and ruffled white organdy and last a blue sailor dress with white braid on the collar, cuffs and belt. Also a red, white and blue emblem on one sleeve. A pretty checked gingham seemed necessary, too.
 
 "Now for the hair ribbons," said Aunt Kate. "We will only get three today." Aunt Kate loved to "fool" with this girl's lovely wavy hair and tied a bow of ribbon to match her dress about halfway down her braid always making a few curls below the bow.
 

@@ -6,11 +6,11 @@ They were all ready now and at promptly five-thirty a carriage from the best liv
 
 "You mean his guardian," corrected Aunt Kate.
 
-"I'm afraid not," and he sobered thoughtfully. Then, as if he must not forget he was responsible for the merriment of his guests he roused himself quickly and began telling a funny story. They all laughed and then Uncle George told one. By that time they were nearing the Hotel. The driver drew up on the reins and stepped down from his seat, opened the door and helped them to the street. Parepa was so amazed at the splendor before her.
+"I'm afraid not," and he sobered thoughtfully. Then, as if he must not forget he was responsible for the merriment of his guests he roused himself quickly and began telling a funny story. They all laughed and then Uncle George told one. By that time they were nearing the hotel. The driver drew up on the reins and stepped down from his seat, opened the door and helped them to the street. Parepa was so amazed at the splendor before her.
 
 "My, this must of cost an awful lot," she whispered to Uncle George and her sparkling eyes drank in the beauty around her. She scarcely knew what they were saying as she sat entranced, glancing shyly at the beautiful masterly young boy that was seated by her side. "He seems to be used to all this," she thought. "He doesn't even notice all the pretty things around us."
 
-They were laughing and joking now but Parepa was afraid this dream would fade away and she would find herself back home eating home cured pork, dried beans, dutch cheese, and dried applesauce if she allowed herself to relax from the spell that bound her.
+They were laughing and joking now but Parepa was afraid this dream would fade away and she would find herself back home eating home cured pork, dried beans, Dutch cheese, and dried applesauce if she allowed herself to relax from the spell that bound her.
 
 The waiter was placing something before her now. Yes, it was time to eat — the rest were —
 
@@ -26,13 +26,13 @@ They were at the table more than an hour and a half; Parepa was glad when it was
 
 "To the Grand Opera House," commanded Frances as the driver closed the carriage door.
 
-Clap, clap, clap, went the horses' feet on the pavement. Parepa caught herself keeping time to them. The rain was coming faster now and the street lights made the drops glisten like diamonds. Parepa was quiet again, wrapped in the beauty of it all. "It wasn't raining rain to her — 'Twas raining pretty jewels." How does it come I never knew of all these wonderful things before, she pondered, never knew there was such — but here the horses stopped and Frances himself was laughingly lifting her into the shelter of the Opera House.
+Clap, clap, clap, went the horses' feet on the pavement. Parepa caught herself keeping time to them. The rain was coming faster now and the street lights made the drops glisten like diamonds. Parepa was quiet again, wrapped in the beauty of it all. "It wasn't raining rain to her — 'Twas raining pretty jewels." How does it come I never knew of all these wonderful things before, she pondered, never knew there was such — but here the horses stopped and Frances himself was laughingly lifting her into the shelter of the opera house.
 
 "Be here to take us home after the show," he called to the driver.
 
 They sat in a box at the side of the stage. It was Parepa's first show. Aunt Kate had told her a great deal about what to expect and had warned her to always keep in mind the fact that it was only a story and not a bit of truth in it. Uncle Tom's Cabin should be played only to the "hardened" show goer. Parepa tried so hard to keep back the tears. Time after time she closed her eyes and wished she might close her ears too. Finally the time came when no amount of blinking could keep back the flow and when once started the heavens seemed to have opened, the clouds burst and a torrent ensued.
 
-The poor girl sobbed over little Eva and Uncle Tom — until Uncle George kindly put his arm around her and drawing her head to his shoulder tried to whisper comforting things in her ear. He told her to forget they were in the Opera House and just close her eyes and try to sleep. She had no luck, however, in taking his advice and would break out spontaneously in a roar of sobs that attracted more attention than the main actor on the stage.
+The poor girl sobbed over little Eva and Uncle Tom — until Uncle George kindly put his arm around her and drawing her head to his shoulder tried to whisper comforting things in her ear. He told her to forget they were in the opera house and just close her eyes and try to sleep. She had no luck, however, in taking his advice and would break out spontaneously in a roar of sobs that attracted more attention than the main actor on the stage.
 
 "Let's take the child home, it's getting on her nerves," whispered Aunt Kate to Frances who immediately and willingly agreed.
 
@@ -52,7 +52,7 @@ At the breakfast table Uncle George kept them laughing at his jokes.
 
 Parepa practiced as she never did before. Aunt Kate and Uncle George listened intently as they pretended to be clearing the dishes.
 
-"She is simply a wonder," said Aunt Kate. "We are going to have something to be mighty proud of I'll tell you. Her voice is the sweetest and fullest I ever heard in one so young. Oh, I'm so happy George, *So* happy!"
+"She is simply a wonder," said Aunt Kate. "We are going to have something to be mighty proud of I'll tell you. Her voice is the sweetest and fullest I ever heard in one so young. Oh, I'm so happy George, *so* happy!"
 
 She threw herself into his arms and they stood kissing and hugging each other for some time.
 

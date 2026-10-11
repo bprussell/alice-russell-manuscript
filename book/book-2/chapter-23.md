@@ -20,7 +20,7 @@ Parepa rose and Daddy placed a chair for her.
 
 "It's my heart," she said. "I have to be careful." Just then a nurse came into the room. Frances introduced them and added, "This is my best girlhood chum. She has come from Illinois to see me."
 
-"That's fine. Now Miss Emmerson I'm afraid you will have to excuse yourself and take some rest." Turning to Parepa she added, "I'm sorry, Mrs Bradford, but Doctor's orders are orders you know."
+"That's fine. Now Miss Emmerson I'm afraid you will have to excuse yourself and take some rest." Turning to Parepa she added, "I'm sorry, Mrs Bradford, but doctor's orders are orders you know."
 
 "I'll see you after dinner, Parepa," and Frances was rolled through big doors into her sleeping room.
 
@@ -30,7 +30,7 @@ Parepa rose and Daddy placed a chair for her.
 
 Finally they came to a most welcome garden seat in the shade of some tall desert shrubs. "Let's set here and talk," he suggested. "There is much I must tell you though I hate to come to the subject. I know it is best to get what business we have to transact done as quickly as possible."
 
-They sat down and he turned to her saying, "The Doctors don't encourage me in thinking Frances can live more than a month or six weeks. She may go at any minute. It is her greatest desire to see you and your family well looked after, before that time comes. I think the transfers should be made tomorrow. All that is necessary is for Frances to transfer her holdings in the many banks to you. I'll see that they all go through and that everything is settled before you go home," he said almost in one breath.
+They sat down and he turned to her saying, "The doctors don't encourage me in thinking Frances can live more than a month or six weeks. She may go at any minute. It is her greatest desire to see you and your family well looked after, before that time comes. I think the transfers should be made tomorrow. All that is necessary is for Frances to transfer her holdings in the many banks to you. I'll see that they all go through and that everything is settled before you go home," he said almost in one breath.
 
 Parepa sat silent.
 
@@ -38,15 +38,15 @@ Finally he asked, "Do you understand, Parepa?"
 
 "Yes," she said, "but I have only allowed myself two weeks here."
 
-"That will be long enough. We will fix it up tomorrow. Frances will not have to worry over it anymore. She will be so happy to know you will be looked out for. It has given her lots of pleasure getting things in shape for you. These investments are not due for fifteen and twenty years. They pay four percent and are nonassessable. They are as safe as anything in the world. She has some in the capital Cities of every State in the Union and in some of the other large Cities. We thought best not to invest much in any one bank. Not to put too many eggs in one basket you know," he chuckled as he saw Parepa's eyes open when large amounts were mentioned.
+"That will be long enough. We will fix it up tomorrow. Frances will not have to worry over it anymore. She will be so happy to know you will be looked out for. It has given her lots of pleasure getting things in shape for you. These investments are not due for fifteen and twenty years. They pay four percent and are nonassessable. They are as safe as anything in the world. She has some in the capital cities of every state in the Union and in some of the other large cities. We thought best not to invest much in any one bank. Not to put too many eggs in one basket you know," he chuckled as he saw Parepa's eyes open when large amounts were mentioned.
 
 "You don't mean that Frances has that much money," she gasped.
 
-"Yes, and lots left for herself, should she need it. I am to dispose of it to Charities after she is through with it. Come, now, it's most dinnertime," and they strolled into the house.
+"Yes, and lots left for herself, should she need it. I am to dispose of it to charities after she is through with it. Come, now, it's most dinnertime," and they strolled into the house.
 
 Parepa and Daddy ate together in the beautifully appointed dining room, with all the service accompanying a formal dinner. Parepa was very tired. She hoped she could gracefully retire early.
 
-This wish was quite naturally granted as Frances was only allowed to visit one half hour after dinner. She went to her sitting room and took from the writing desk daintily perfumed stationery. She wrote a long, long letter to her loved ones at home telling them of the beauty of the country, of Frances's condition and assured them of her own good health. After she had sealed the envelope her maid sent it to the Post Office with a servant.
+This wish was quite naturally granted as Frances was only allowed to visit one half hour after dinner. She went to her sitting room and took from the writing desk daintily perfumed stationery. She wrote a long, long letter to her loved ones at home telling them of the beauty of the country, of Frances's condition and assured them of her own good health. After she had sealed the envelope her maid sent it to the post office with a servant.
 
 There was lots of good reading on her table but she was so tired. "I believe I'll retire now," she told her maid. After a shower and brisk rub she slipped into her nightgown and after her prayers were said got into the most luxurious bed she had ever seen.
 
@@ -70,7 +70,7 @@ They all three laughed heartily over the joke. It really seemed to them now as i
 
 "It is best that you didn't. I have had a lesson in real life that is priceless. If you really want me to have this money I am sure I have a better idea of how to use it in a way that will do the most people the good, for having felt the need of it myself," she assured him.
 
-"You taught me many years ago that 'The Earth is the Lord's and the fullness thereof.' I never forgot the many tales you and I had together on this subject. Being convinced that you were right, I have used my surplus income from this money each year for Charities. So far as possible I have made these gifts anonymous. I have been so happy in doing this that I feel no reproach against the life my mother chose for me. Our line will soon be broken Parepa. It is best that it should be. You are the one I have chosen to carry on for me. I am giving you this money for your own, to do as you wish with it. I have only one request. That is that you first build for yourself a home such as you and I talked of thirty years ago. I want this home to cost you at least five hundred thousand dollars. It is the only monument I want—just your home. That may seem extravagant to you but you will find it easy to use that much on grounds and buildings and don't forget our lake, our rose arbors, our wonderful trees. I have never forgotten your love for them all," and again they sat silently holding hands. Their memory chasing over the past years together.
+"You taught me many years ago that 'The earth is the Lord's and the fullness thereof.' I never forgot the many tales you and I had together on this subject. Being convinced that you were right, I have used my surplus income from this money each year for charities. So far as possible I have made these gifts anonymous. I have been so happy in doing this that I feel no reproach against the life my mother chose for me. Our line will soon be broken Parepa. It is best that it should be. You are the one I have chosen to carry on for me. I am giving you this money for your own, to do as you wish with it. I have only one request. That is that you first build for yourself a home such as you and I talked of thirty years ago. I want this home to cost you at least five hundred thousand dollars. It is the only monument I want—just your home. That may seem extravagant to you but you will find it easy to use that much on grounds and buildings and don't forget our lake, our rose arbors, our wonderful trees. I have never forgotten your love for them all," and again they sat silently holding hands. Their memory chasing over the past years together.
 
 "I'll try to carry out your every wish, darling," and Parepa kissed the hand she held tenderly. "But what is there in this world I can do for you in return?" she asked.
 

@@ -34,7 +34,7 @@ They rode along side by side until they reached the crest of the hill. "Let's go
 
 "And I'm enjoying the most beautiful thing in the park until I can't think of anything else," he said. "That's you."
 
-"Now Frances, don't be silly and spoil everything by talking foolish," and she sank down beside him half curious to hear what he wanted to say. She thought of Uncle Will's advice: "Learn more about him before it's too late," he had said. She settled herself to listen to his story more as a duty to her Uncle than because she really cared to know. In fact she felt herself afraid to hear his story.
+"Now Frances, don't be silly and spoil everything by talking foolish," and she sank down beside him half curious to hear what he wanted to say. She thought of Uncle Will's advice: "Learn more about him before it's too late," he had said. She settled herself to listen to his story more as a duty to her uncle than because she really cared to know. In fact she felt herself afraid to hear his story.
 
 "Parepa do you know I can't bear to think we are going to be separated by the big ocean again for two years. There wasn't an hour in the past two years I didn't see you in my mind's eye, and now that I've found you even more beautiful and good I simply can't stand it. Do you feel one bit like that about me, Parepa?" and he kissed the hand he had been holding. "Tell me, dearest, please tell me you do."
 

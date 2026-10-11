@@ -125,6 +125,35 @@ logged here as Phase 3 proceeds; global decisions are recorded up front.
   broach, and two rings". Pronoun agreement ("each... their") is not
   part of this rule.
 
+- **Capitalization modernized (decided 2026-10-11, with the author's
+  great-grandson):** she capitalized ordinary nouns she thought
+  important ("went to Church", "the City", "the Doctor") — common in
+  personal writing of her day, though publishers already lowercased
+  them. The reading text now follows modern down style, in narration
+  and dialogue alike (about 255 changes; found by a full read of every
+  chapter, each case reviewed). **Lowercased:** church, city, hotel,
+  opera/opera house, club, university, normal school, bank, post office,
+  charities, the seasons, "Sunday school", job titles used as
+  descriptions (doctor — 70 times — superintendent, principal, pastor,
+  secretary, treasurer, manager), family words after a possessive or
+  article ("her uncle and aunt", "their mother", "a spectacular daddy"),
+  short forms of named places ("the club" for the Allen Club, "the
+  hotel", "the opera house"), and stray emphatic capitals ("the Fire",
+  "Peace and Quiet and Growth", "a Prince of men", "Oh" mid-sentence →
+  "oh"). **Capitalized:** proper names she typed lowercase (Bethany
+  Baptist Church, Bradley College, Glen Oak Park, Grand Opera House,
+  Peoria Methodist Hospital, Kellogg School), "Dutch", "Fourth of
+  July", "the West" as a region, and "Mother"/"Mamma" used as a name in
+  direct address. **Kept:** proper names; titles before a name; family
+  words used as names ("Uncle and Auntie found...", "Daddy" for Mr.
+  Wheeler, "Mother felt she should go"); "Doctor" used as a name ("I'll
+  do my best, Doctor", the nurse's "maybe Doctor will let you"); God,
+  Lord, Heaven and pronouns for God exactly as she wrote them;
+  "Realtor" (a trademark); the verbatim gift card ("To My Dear Little
+  Girl. A Rose for every year...") and the children's rhyme ("Work while
+  you work, Play while you play...") as quoted. Hyphenated in passing:
+  "morocco-bound" (twice).
+
 ## Global typography (applied throughout, not logged per instance)
 
 Line breaks unwrapped and ⟦hyphen⟧ words rejoined; all ⟦…⟧ markers

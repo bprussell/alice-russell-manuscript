@@ -1,18 +1,18 @@
 # Chapter XXI
 
-These two enjoyed many evenings together and through the month of August they were almost inseparable. For Parepa's birthday Aunt Kate and Uncle George planned a six o'clock dinner party. Mr. Wheeler had returned from his business trip to the west and would be their guest that evening. Uncle Will and Aunt Minnie were invited too. Mrs Breen, a widow, and Mr. and Mrs. Professor Blough completed the party.
+These two enjoyed many evenings together and through the month of August they were almost inseparable. For Parepa's birthday Aunt Kate and Uncle George planned a six o'clock dinner party. Mr. Wheeler had returned from his business trip to the West and would be their guest that evening. Uncle Will and Aunt Minnie were invited too. Mrs Breen, a widow, and Mr. and Mrs. Professor Blough completed the party.
 
-Parepa was delighted with her birthday presents which began to arrive early in the day. From Mrs Breen came a beautiful Morocco bound set of Dickens. Uncle Will and Aunt Minnie remembered her with a gold bracelet. Mr. Wheeler's choice was a large Wedgwood vase filled with eighteen most beautiful red roses. The card read: "A rose for every year. To wish you joy, my dear," signed, Daddy Wheeler. Professor Blough sent her such a beautiful etching, Beethoven's Moonlight Sonata. Uncle George and Aunt Kate gave her a safety bicycle. Nothing came from Frances until late in the afternoon, a pair of beautifully jeweled Opera glasses nestled in a soft velvet lined leather case. "With best wishes and a fond memory of an evening with 'Uncle Tom' and you."—Frances.
+Parepa was delighted with her birthday presents which began to arrive early in the day. From Mrs Breen came a beautiful morocco-bound set of Dickens. Uncle Will and Aunt Minnie remembered her with a gold bracelet. Mr. Wheeler's choice was a large Wedgwood vase filled with eighteen most beautiful red roses. The card read: "A rose for every year. To wish you joy, my dear," signed, Daddy Wheeler. Professor Blough sent her such a beautiful etching, Beethoven's Moonlight Sonata. Uncle George and Aunt Kate gave her a safety bicycle. Nothing came from Frances until late in the afternoon, a pair of beautifully jeweled opera glasses nestled in a soft velvet lined leather case. "With best wishes and a fond memory of an evening with 'Uncle Tom' and you."—Frances.
 
 Aunt Kate hired a cateress and assistant to look after the serving of the dinner. Ten covers were laid, the appointments were perfect. The table was most beautiful with a dainty birthday cake as centerpiece. Eighteen white candles stood straight and tall from their bed of fluffy pink frosting edged with a wreath of pink roses and green foliage. The crystal, china, and silver shone and sparkled against the white linen tablecloth. Dainty place cards picturing a beautiful young girl adorned with garlands of roses told each guest their place.
 
 It was arranged that between courses each of the party was to tell their first impressions of Parepa. Uncle George stood up after the fruit cocktail and said: "I believe I should have the privilege of telling you first how this little blue eyed, rosy cheeked freckled nosed, curly haired youngster came to be in our midst these last two year.
 
-"You see it was this way. I was in the habit of making my brother's home an overnight stopping place once every two weeks as I drove the tea wagon through the country for over fifteen years. I took a great fancy to little Alice Parepa-Roza from a tiny baby to the day she came home with me in the tea wagon. I always called her my girl. I happened to be at brother John's when they named her. The Alice was for an eastern Aunt and the Parepa-Roza was given her more as a joke, for the time being, and not as a permanent name. You see the real Parepa-Roza was a great Prima Donna and most beautiful singer. As she was crossing the ocean in a large ship it sank. She sang to the frantic drowning crew and voyagers until she herself sank to a watery grave. This little baby here," and he reached over and patted Parepa's head, "cried so hard and all the time that her father said she had lungs that would make her a singer like the famous Parepa-Roza. It was decided to name her Parepa-Roza. That was about sixteen years ago." He gave Parepa a mischievous glance.
+"You see it was this way. I was in the habit of making my brother's home an overnight stopping place once every two weeks as I drove the tea wagon through the country for over fifteen years. I took a great fancy to little Alice Parepa-Roza from a tiny baby to the day she came home with me in the tea wagon. I always called her my girl. I happened to be at brother John's when they named her. The Alice was for an eastern aunt and the Parepa-Roza was given her more as a joke, for the time being, and not as a permanent name. You see the real Parepa-Roza was a great prima donna and most beautiful singer. As she was crossing the ocean in a large ship it sank. She sang to the frantic drowning crew and voyagers until she herself sank to a watery grave. This little baby here," and he reached over and patted Parepa's head, "cried so hard and all the time that her father said she had lungs that would make her a singer like the famous Parepa-Roza. It was decided to name her Parepa-Roza. That was about sixteen years ago." He gave Parepa a mischievous glance.
 
 "She grew and grew like a weed. Seemed to be large for her age always; at fourteen she finished grade school. On her birthday two years ago I coaxed the consent of her parents to let her come home with me to stay until my return trip two weeks later. After a lot of discussion and advice they consented. I can see her yet sitting there beside me in that old covered tea wagon.
 
-"She chattered along right friendly for several miles, then she seemed to prefer silence on my part as well as her own. She was deep in thought but I couldn't penetrate her mind. I just supposed she was getting homesick and wished she hadn't come. Finally I ventured to say, 'I wish you were our little girl. Aunt Kate and I would just love to have you live with us always,' and to my surprise she turned her shining face up to mine and said: 'Oh, Uncle George, do you really mean it? Would you really keep me?' I had not looked for this and I hardly knew what to say. Then the little minx begged, 'and then can I work?' I laughed aloud. Her work! What could she do? As we rode along she grew real talkative on the work proposition and confessed she had hoped she could work out and earn some money to study on. Young as she was she had a business head on her as old as her Uncle beside her. She knew it took money to make dreams come true and she was willing to earn it. We all know the success she has won. Now, Mrs Slay tell them what you thought of her when you found I had brought her bag and baggage home to you."
+"She chattered along right friendly for several miles, then she seemed to prefer silence on my part as well as her own. She was deep in thought but I couldn't penetrate her mind. I just supposed she was getting homesick and wished she hadn't come. Finally I ventured to say, 'I wish you were our little girl. Aunt Kate and I would just love to have you live with us always,' and to my surprise she turned her shining face up to mine and said: 'Oh, Uncle George, do you really mean it? Would you really keep me?' I had not looked for this and I hardly knew what to say. Then the little minx begged, 'and then can I work?' I laughed aloud. Her work! What could she do? As we rode along she grew real talkative on the work proposition and confessed she had hoped she could work out and earn some money to study on. Young as she was she had a business head on her as old as her uncle beside her. She knew it took money to make dreams come true and she was willing to earn it. We all know the success she has won. Now, Mrs Slay tell them what you thought of her when you found I had brought her bag and baggage home to you."
 
 Mrs Slay laughed as she said: "I was so happy I could have taken the child in my arms and rocked her to sleep. I know it was the happiest day I had seen since the death of our own little Maude who would have been eighteen now. Parepa has been the life of us both and we are so proud of her. She has done us both great honor by making the best of the opportunities made possible by us. Now our little girl is eighteen—of age—her own boss—Can you imagine that? Congratulations darling," and she sank down into her chair, a tear in her eye.
 
@@ -22,9 +22,9 @@ Uncle Will spoke for he and Aunt Minnie. "You can imagine my surprise when broth
 
 After the meat course was cleared, Mrs Breen told of the surprises she had received while teaching Parepa. "I might say she taught me nothing was too hard for her to undertake. Her sweet disposition always made me feel as if I had associated with ethereal beings. Congratulations my dear," and she made a low bow to Parepa.
 
-The usual "Thank You" was Parepa's only response.
+The usual "Thank you" was Parepa's only response.
 
-Mr. Wheeler stood up and glancing around the table mischievously said: "You asked me to tell you what my first impressions were of this young lady. Well, the first time I saw her she stood at the top of these stairs in her nightie. She impressed me as a ten-year old. Surely no older. She looked sweet enough to kiss. Her hair hung over her shoulders and down her back reminding me of a picture of an angel I once saw. The next time I saw her was on the stage at the Opera House. I must say that to Parepa and her dramatic instructor are due great credit. I never saw better acting or heard a sweeter voice in a finished artist. Parepa I congratulate you on this, your eighteenth birthday."
+Mr. Wheeler stood up and glancing around the table mischievously said: "You asked me to tell you what my first impressions were of this young lady. Well, the first time I saw her she stood at the top of these stairs in her nightie. She impressed me as a ten-year old. Surely no older. She looked sweet enough to kiss. Her hair hung over her shoulders and down her back reminding me of a picture of an angel I once saw. The next time I saw her was on the stage at the opera house. I must say that to Parepa and her dramatic instructor are due great credit. I never saw better acting or heard a sweeter voice in a finished artist. Parepa I congratulate you on this, your eighteenth birthday."
 
 When he sat down Frances sprang up. His face aglow and his eyes sparkling. "Parepa was the first playmate I ever felt like really playing with. I have, all my life, felt a restraint which seemed impossible to overcome. The minute I saw her I knew we would be great friends forever. And we are going to be—aren't we Parepa?"
 
@@ -76,7 +76,7 @@ She sat perfectly still and did not answer.
 
 "I promise I couldn't forget them to the end of life," he said squeezing her hand.
 
-"When I come back, Parepa, you must expect to take up a new course of study. I will be your tutor. You must know all about Sociology, social science in other words. You will be old enough to understand life's problems better then."
+"When I come back, Parepa, you must expect to take up a new course of study. I will be your tutor. You must know all about sociology, social science in other words. You will be old enough to understand life's problems better then."
 
 "I'd love it," she said, always eager to learn anything.
 
@@ -88,7 +88,7 @@ She sat perfectly still and did not answer.
 
 "Listen," she said and they heard him coughing, coughing, such a hacking cough.
 
-"Aunt Kate don't want me to tell but I'll tell you. The Doctor is afraid of consumption. He has quit the tea company job and is going to see if a rest won't help him. He may have to have a change of climate. Now don't let on I told you for he is very sensitive about it."
+"Aunt Kate don't want me to tell but I'll tell you. The doctor is afraid of consumption. He has quit the tea company job and is going to see if a rest won't help him. He may have to have a change of climate. Now don't let on I told you for he is very sensitive about it."
 
 "I won't, but I'm sorry. Can I do anything to help? You know what I mean, with money you know. It's expensive, traveling for one's health, you know. I'd love to foot the bills, just as friend to friend."
 
@@ -120,7 +120,7 @@ Aunt Kate came in smiling. "Well how does it feel to step back two years of your
 
 "Where had you thought of going?" she asked.
 
-"The Doctor mentioned Las Vegas, Nevada. That's a long way. Of course, we'll all three go," and Aunt Kate smoothed her dress nervously.
+"The doctor mentioned Las Vegas, Nevada. That's a long way. Of course, we'll all three go," and Aunt Kate smoothed her dress nervously.
 
 "I will go if I can be a comfort to you, Auntie, you know that, but if you don't need me I'd rather stay here and work. You know it takes a lot of money to travel," she spoke as one of experience and not as a girl of sixteen.
 
@@ -168,7 +168,7 @@ Frances excused himself and went inside, coming out with a waiter carrying four 
 
 "I thought that pull up the hill after lunch was tiresome for you both," he said and hated himself for letting them know he had noticed it.
 
-"Guess we'll have to admit we aren't as young as we use to be won't we, mother?" and Uncle George chucked her under the chin.
+"Guess we'll have to admit we aren't as young as we use to be won't we, Mother?" and Uncle George chucked her under the chin.
 
 When they reached home Frances wouldn't go in, saying he'd see them tomorrow.
 

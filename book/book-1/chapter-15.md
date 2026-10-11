@@ -20,7 +20,7 @@ She told him it was choir rehearsal tonight.
 
 That night Aunt Kate begged off and stayed home from practice.
 
-"I always go early to rehearse my solo before the others get there," she told him as they strolled toward the Church.
+"I always go early to rehearse my solo before the others get there," she told him as they strolled toward the church.
 
 "You don't mean to say you are singing solos already?" He stopped still and looked at her. She was only a child, sweet and innocent as a rose and so talented. She was a picture to him—a perfect picture. The picture of youth and life and—love.
 
@@ -38,7 +38,7 @@ He was introduced to Professor Blough again and asked to join in the singing. Th
 
 "Yes, I suppose so but it shouldn't be necessary for you to stay there any longer. You should enter a good finishing school this fall," he said emphatically.
 
-"Finishing school!" and Parepa laughed aloud. "Finishing School, why I've never entered a beginners' school yet. You forget the only schooling I ever had was what I got in a little old one room schoolhouse a mile across the field from our house. The last day I went to school I went barefooted, wore a pink gingham dress, and a big sunbonnet."
+"Finishing school!" and Parepa laughed aloud. "Finishing school, why I've never entered a beginners' school yet. You forget the only schooling I ever had was what I got in a little old one room schoolhouse a mile across the field from our house. The last day I went to school I went barefooted, wore a pink gingham dress, and a big sunbonnet."
 
 "Wish I'd happened along about that time, Goldie Locks," he teased. "But seriously it's time you gave all your attention to your talents."
 

@@ -90,6 +90,10 @@ page 248 omitting struck "info"). Apply them exactly and log them.
   written and log it as "kept".
 
 **Typography (global rules, not logged per instance):**
+- Capitalization follows modern down style: ordinary nouns lowercase
+  (church, city, doctor, the seasons, "Sunday school"); names, titles
+  before names, and family words used as names keep capitals. See
+  "Capitalization modernized" in book/edits.md.
 - Quotation marks stay straight in `book/`; they are curled at build
   time by `print/smartquotes.py`. A double quote nested inside dialogue
   (she typed straight doubles for both levels) is printed as single

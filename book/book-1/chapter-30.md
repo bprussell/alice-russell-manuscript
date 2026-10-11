@@ -2,7 +2,7 @@
 
 Frances called Parepa by 'phone the next forenoon and arranged for a trip to the park. They went directly to the slope of the hill where they had sat together two years ago.
 
-"There it is! There's the place!" cried Parepa almost running to it and throwing her cape on the grass she turned to Frances and said, "Welcome Home my dear one, thou hast come at last!" in a most dramatic way.
+"There it is! There's the place!" cried Parepa almost running to it and throwing her cape on the grass she turned to Frances and said, "Welcome home my dear one, thou hast come at last!" in a most dramatic way.
 
 Frances laughed as they sat down on the soft grass in the shade of the large elm tree. For a long time they sat in silent understanding and peace.
 
@@ -12,7 +12,7 @@ She took it in her hands warm from the heat of his flesh as she said, "Not just 
 
 "If I was to tell you you could not understand. You must see for yourself," and taking the locket from her he placed the key into the lock and turned it once forward twice backward and five clicks forward. It sprang open and Frances said, "We'll look at the photos first." He laid them in a row before her.
 
-"Oh!" she cried. "They all have on the locket." As she picked each one up and scrutinized it carefully she commented on their features, attire, and hairdress. Growing serious and laughing heartily at times. She asked many questions about them as Frances introduced each one. "I love this one, Frances," she said as she raised it to her lips and kissed it. "Because it's your Mother and because she has a quality expressed in her features that is not so distinct in the others."
+"Oh!" she cried. "They all have on the locket." As she picked each one up and scrutinized it carefully she commented on their features, attire, and hairdress. Growing serious and laughing heartily at times. She asked many questions about them as Frances introduced each one. "I love this one, Frances," she said as she raised it to her lips and kissed it. "Because it's your mother and because she has a quality expressed in her features that is not so distinct in the others."
 
 "What do you mean, darling? What is it you see there so plainly?" he almost shouted. So happy that she too discovered it.
 
@@ -34,7 +34,7 @@ She could not answer for they sat in a tense embrace. Then as if suddenly remind
 
 "Oh, and is he your father?" exclaimed Parepa almost happily.
 
-"No, I'm sorry to say he was not. Mr. Wheeler was ten years older than my mother and for that reason he would not confess the true love he had for her. As his love for her grew he decided to go to Germany and study music. While he was gone his father, who was my mother's guardian, placed my mother in a finishing school in the west.
+"No, I'm sorry to say he was not. Mr. Wheeler was ten years older than my mother and for that reason he would not confess the true love he had for her. As his love for her grew he decided to go to Germany and study music. While he was gone his father, who was my mother's guardian, placed my mother in a finishing school in the West.
 
 "She imagined herself in love with a dashing young fellow handsome in face and manner. They sinned—my mother had forgotten her vow that she never would fall as her mothers before her had done. Such was the weakness of the flesh. The sins of the parents visit upon their children in this way. When my mother found her weakness and realized how impossible it was when born in the blood to overcome it she determined to end her disgraceful line, by bringing into the world a son. All the time she carried me near her heart she thought of me only as her son. She wrote to me and talked of me to her intimates (who were few) planning for her son a life of goodness, helpfulness, and purity. She seemed to realize from the first that it would be impossible for us both to survive and she bravely reconciled herself to the fact. Her family for years had accumulated vast fortunes in turpentine. It was her wish that my identity be lost but the fortune kept intact by my guardian that I might when old enough use it where it would do humanity the most good. This was to be my mission in life.
 

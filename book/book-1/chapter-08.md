@@ -26,11 +26,11 @@ After Parepa had left for the "candy store" the doorbell gave a loud ring and in
 
 "You are the fellow that will be changed," accused Uncle George, pointing a finger at Frances. "The next five or six years of your life will be years of continual changes. I doubt if you will even think of us after you are gone from here."
 
-"I give you both my promise — as long as I live I shall never forget you and your hospitality. Do you know, or can you believe, that I was never in a real home before in my life? I mean a home where there was a husband and wife. All my life I have lived in hotels or on my private estates where everything is done so formally by servants and caretakers. My guardian is the only real "heart" friend I have. He is a Prince of men. No mother could have left her child in better hands. He is carrying out her dying requests to the letter; he lives for me and me only. It's a shame, you see his grandfather was my grandmother's guardian, his father was my mother's guardian, and now he is my guardian. I love him more than life itself. He and I are working out a great plan by which we can be most helpful in the world." He stopped short as if to apologize. "I beg your pardon — I didn't intend to burden you with this story of myself. I must ask you never to tell what I have told you. I never talk about myself. I don't know how I come to let it out."
+"I give you both my promise — as long as I live I shall never forget you and your hospitality. Do you know, or can you believe, that I was never in a real home before in my life? I mean a home where there was a husband and wife. All my life I have lived in hotels or on my private estates where everything is done so formally by servants and caretakers. My guardian is the only real "heart" friend I have. He is a prince of men. No mother could have left her child in better hands. He is carrying out her dying requests to the letter; he lives for me and me only. It's a shame, you see his grandfather was my grandmother's guardian, his father was my mother's guardian, and now he is my guardian. I love him more than life itself. He and I are working out a great plan by which we can be most helpful in the world." He stopped short as if to apologize. "I beg your pardon — I didn't intend to burden you with this story of myself. I must ask you never to tell what I have told you. I never talk about myself. I don't know how I come to let it out."
 
 "That's just all right my boy and if it is any comfort to you to "let loose" don't worry about our letting your secrets pass our lips," said Mr. Slay wishing he would dump all the beans now that he had aroused their curiosity.
 
-Frances rose abruptly and started to the door hat in hand. "Thought if you don't mind I'd go to Church with you in the morning," he said.
+Frances rose abruptly and started to the door hat in hand. "Thought if you don't mind I'd go to church with you in the morning," he said.
 
 "We'll be so glad to have you," said Mrs. Slay.
 
@@ -54,13 +54,13 @@ At dinner he spoke again of Frances. "He is such a fine, jolly young fellow — 
 
 "Oh, sure it is, sure it is," said her husband, "guess I'm over curious."
 
-Sunday morning found the four of them in their pew at Church. Many eyes turned on the young stranger and especially those belonging to the younger generation. After services several of these whom Parepa had met gathered round to speak to her and to be introduced to the dashing young gallant by her side.
+Sunday morning found the four of them in their pew at church. Many eyes turned on the young stranger and especially those belonging to the younger generation. After services several of these whom Parepa had met gathered round to speak to her and to be introduced to the dashing young gallant by her side.
 
 She was real generous and glad to have them meet him. Finally the choir director came toward them. Aunt Kate used to sing under his direction and he always begged her to continue singing as he said, "No voice has ever taken the place of yours." Now he was shaking hands with them. "And who are these fine children you have with you, Mrs Slay?"
 
 Uncle George beamed on them as he introduced them.
 
-"Couldn't I interest them in my Junior Choir? We need their voices so much."
+"Couldn't I interest them in my junior choir? We need their voices so much."
 
 "I shall be leaving Peoria soon," said Frances, "'Twould hardly be worth starting now."
 
@@ -74,7 +74,7 @@ Frances sat with them on the porch for some time that afternoon. Uncle George wa
 
 "Then what will I do for someone to play with?" said Parepa.
 
-"Oh, you will get acquainted fast now that you are going to sing in the Junior Choir," he returned. "I wish I were going to be here."
+"Oh, you will get acquainted fast now that you are going to sing in the junior choir," he returned. "I wish I were going to be here."
 
 "We wish you were too," said Aunt Kate, "we'll all miss you so much. But, of course, you'll write to us."
 

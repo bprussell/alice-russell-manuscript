@@ -4,7 +4,7 @@
 
 "No!" exclaimed the surprised girl. She had not expected Uncle George's health to be the important subject of this confidential talk. She recovered her surprise and said, "Is he really coughing much Aunt Kate?"
 
-"Yes, dear, he is. He has tried to hide it. He has been doctoring for several months and now the Doctor thinks it advisable for him to give up his work and devote all his time to getting well. It may be advisable for him to change climate."
+"Yes, dear, he is. He has tried to hide it. He has been doctoring for several months and now the doctor thinks it advisable for him to give up his work and devote all his time to getting well. It may be advisable for him to change climate."
 
 "Why Aunt Kate! I never dreamed of such a thing. How could I have been so blind!" she cried.
 

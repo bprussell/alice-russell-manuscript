@@ -76,4 +76,4 @@ Frances turned and faced him, "Did you change your mind about my mother?"
 
 There were only two days left before they would leave Peoria. Tomorrow he must see Parepa but today he must make Daddy happy. They played awhile and then decided to go on a boat excursion. They succeeded in making themselves happy by succeeding in making themselves think they had succeeded in making the other happy. Frances had never known the love of an own father but he was given the fineness and beauty and companionship of a real daddy and did not miss that indescribable sector from life itself.
 
-Daddy Wheeler was his Pal. He was not a spectacular Daddy—just an everyday clean, strong, gentle and noble Daddy. Setting the best example of uprightness and sincerity for this young life left to his care through the workings of fate.
+Daddy Wheeler was his pal. He was not a spectacular daddy—just an everyday clean, strong, gentle and noble daddy. Setting the best example of uprightness and sincerity for this young life left to his care through the workings of fate.

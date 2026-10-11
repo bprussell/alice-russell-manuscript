@@ -64,7 +64,7 @@ Aunt Kate rushed in laughing and helped the very much mortified and subdued girl
 
 "Guess I'll let you fix the salad," said Aunt Kate, smiling.
 
-"You'll have to show me how but I'll like doing it." She remembered seeing a salad at the Church supper once and it looked pretty but she didn't risk eating it for fear she wouldn't handle it just right. Now she was actually going to fix one.
+"You'll have to show me how but I'll like doing it." She remembered seeing a salad at the church supper once and it looked pretty but she didn't risk eating it for fear she wouldn't handle it just right. Now she was actually going to fix one.
 
 "All right," said Aunt Kate, "we'll make the one your Uncle George likes best. It won't take long. First, you can cut up these two apples into small pieces, wash them first; then cut this celery in just as small pieces. You see I've had it washed and in this clean bag on the ice so it will be nice and crisp. Open this little can of tuna fish, salt, and mix them all together by putting them into this white bowl and tossing about with this wooden fork. Then mix in this salad dressing. After that is done you can put a lettuce leaf on each salad plate and put some salad on the leaf. I always put some of the dressing on the table in this mayonnaise bowl so if anyone cares for more they can help themselves."
 
@@ -178,7 +178,7 @@ Uncle George had heard her singing while she was milking and had told Aunt Kate 
 
 "Kate, better put our little girl to bed, she's had a hard day of it."
 
-"Come along then," said Aunt Kate but Uncle George held his hand out and caught Parepa as she was going to the stairs. "Have to kiss your old Uncle good night my girl" he said as he gave her a rousing smack.
+"Come along then," said Aunt Kate but Uncle George held his hand out and caught Parepa as she was going to the stairs. "Have to kiss your old uncle good night my girl" he said as he gave her a rousing smack.
 
 Parepa was so mortified she blushed all over but managed to mount the steps by Aunt Kate's side.
 

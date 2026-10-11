@@ -1,22 +1,22 @@
 # Chapter XXV
 
-Days, weeks, months and to Parepa ages went rolling away in the two years that followed. It was a hard two years for Parepa as Uncle George's death left Aunt Kate in a broken condition of health. It had been necessary for them to sell the home which they so loved in order to keep Uncle George in the hospital and continue the services of the best Doctors. They moved into a little cottage of four rooms near the Bethany Baptist church which cornered on Hayward and Madison Streets.
+Days, weeks, months and to Parepa ages went rolling away in the two years that followed. It was a hard two years for Parepa as Uncle George's death left Aunt Kate in a broken condition of health. It had been necessary for them to sell the home which they so loved in order to keep Uncle George in the hospital and continue the services of the best doctors. They moved into a little cottage of four rooms near the Bethany Baptist Church which cornered on Hayward and Madison Streets.
 
-Parepa became much interested in this Church and the Sunday School work to say nothing of the young man Joseph Donald by name who taught a class of boys just opposite her class of girls. Oh, of course, Parepa wouldn't have admitted she was interested in this smart industrious young fellow any farther than their class interests threw them together but nevertheless there was a little "hankerin" for each other's company just the same. The young man was earning his way through Bradley college and had won several scholarships that made him all the more determined to succeed even though the profession he had chosen for himself would cost him most of his time and all his earnings.
+Parepa became much interested in this church and the Sunday school work to say nothing of the young man Joseph Donald by name who taught a class of boys just opposite her class of girls. Oh, of course, Parepa wouldn't have admitted she was interested in this smart industrious young fellow any farther than their class interests threw them together but nevertheless there was a little "hankerin" for each other's company just the same. The young man was earning his way through Bradley College and had won several scholarships that made him all the more determined to succeed even though the profession he had chosen for himself would cost him most of his time and all his earnings.
 
 How he wished he could afford to take Parepa out and show her a good time—just once—but no, he needed every penny if he was to succeed. He had a fair voice and they both sang in the choir. After evening services he would stroll home with her, the half block, and then sometimes would "come in a minute" and sometimes he would "just sit on the porch a minute." Parepa admired this young fellow so much. He had such a strong purpose in life and such a strong will to carry out that purpose.
 
 He could not even think of marriage, so dispensed it from his mind, or tried to. Nevertheless there were telltale glances passed between these two which the "church people" diagnosed as "love messages." Neither the young girl or man bothered to define them.
 
-Reverend Reynolds, Pastor, as well as the older members of the church fell to calling Parepa-Roza "Bethany's Angel" in respect for her sweet voice and helpfulness in the church.
+Reverend Reynolds, pastor, as well as the older members of the church fell to calling Parepa-Roza "Bethany's Angel" in respect for her sweet voice and helpfulness in the church.
 
-Aunt Kate had fallen heir to the dreaded malady which claimed her husband and she begged for the day to come when she might join him. Parepa took every care of her Aunt refusing the aid of a nurse as she knew the limit of the Slay finances. Parepa had saved a small amount from the recitals and Uncle George's insurance helped some.
+Aunt Kate had fallen heir to the dreaded malady which claimed her husband and she begged for the day to come when she might join him. Parepa took every care of her aunt refusing the aid of a nurse as she knew the limit of the Slay finances. Parepa had saved a small amount from the recitals and Uncle George's insurance helped some.
 
-Now the time had come for Frances to return. Parepa had not told him of their change of address but had let the Post Office Clerk hunt her out and forward his letters to her. She didn't want him to know how badly they had needed money.
+Now the time had come for Frances to return. Parepa had not told him of their change of address but had let the post office clerk hunt her out and forward his letters to her. She didn't want him to know how badly they had needed money.
 
 Frances's letters were so filled with the joy of their meeting again and Parepa and Aunt Kate could hardly wait. Only a few days now and he would be here.
 
-On Sunday mornings a kind neighbor stayed with Aunt Kate while Parepa went to Sunday School and Church services. She went to the church early in order to put some drawings on her blackboard. As usual Joseph was there too. He had some maps to draw on his blackboard. Their conversation floated from one side of the room to the other. Their maps didn't receive much personal thought as each of them sketched line after line between sentences and glances.
+On Sunday mornings a kind neighbor stayed with Aunt Kate while Parepa went to Sunday school and church services. She went to the church early in order to put some drawings on her blackboard. As usual Joseph was there too. He had some maps to draw on his blackboard. Their conversation floated from one side of the room to the other. Their maps didn't receive much personal thought as each of them sketched line after line between sentences and glances.
 
 Neither saw the figure of a handsome young man enter and stand watching the two through the crack in the door. The conversation between the two was going something like this:
 
@@ -28,7 +28,7 @@ Joseph—"Slow—no money—no progress you know."
 
 Parepa—"Don't I know though. I'm looking for a dear friend of mine about tomorrow that is so rich he don't know what to do with it all. He aims to do a lot of good with it though. Just go about helping wherever he finds a need for it. Wouldn't that be a grand life though?"
 
-Joseph—"Yes, but I'd rather be a Doctor."
+Joseph—"Yes, but I'd rather be a doctor."
 
 Parepa—"I'm going to tell you something Joe." Drawing the last line on her board and walking over to his side of the room. "This fellow wants me to help him spend it."
 
@@ -50,11 +50,11 @@ The sound of the children's voices came floating through the room and found each
 
 "In as much as ye do it unto one of the least of these ye do it also unto me," he repeated to himself and turning he left the building.
 
-When Parepa came home from Church Mrs Field, who had stayed with Aunt Kate, said, "And did the handsome young fellow find you at the Church, Parepa?"
+When Parepa came home from church Mrs Field, who had stayed with Aunt Kate, said, "And did the handsome young fellow find you at the church, Parepa?"
 
 "What handsome young fellow?" asked Parepa.
 
-"Yer Aunt Kate thought it must be the young man you've been expecting. I told him he'd find you at the Church."
+"Yer Aunt Kate thought it must be the young man you've been expecting. I told him he'd find you at the church."
 
 "No, I didn't see anyone. Expect he changed his mind about coming. I wonder where he is now."
 
@@ -92,11 +92,11 @@ Frances saw him turn and watch her go into the light. He watched her until she w
 
 "Yes, Joseph—I promise." He grabbed her into his arms and covered her face, her neck, her hair, her very eyelids with kisses. She did not resist, she felt sorry for him. She wanted to comfort him—but—how? He held her in silence for a long time then, loosening his grasp and springing to his feet he said, "Goodbye darling of my heart, I will never kiss you again unless you ask it."
 
-"Goodbye, my good friend, Goodbye," and as he went through the gate she threw herself on the porch cushions and sobbed and sobbed. Frances's heart was breaking for this wonderful woman whose love he had captured four years ago when she was a mere child.
+"Goodbye, my good friend, goodbye," and as he went through the gate she threw herself on the porch cushions and sobbed and sobbed. Frances's heart was breaking for this wonderful woman whose love he had captured four years ago when she was a mere child.
 
-"Is it right, Oh God, answer. Is it right?" and he turned his face upward as he uttered the most earnest prayer to his God in Heaven that had ever crossed his lips.
+"Is it right, oh God, answer. Is it right?" and he turned his face upward as he uttered the most earnest prayer to his God in Heaven that had ever crossed his lips.
 
-Finally Parepa sat up and raised her arms to the sky. "Dearest Lord Jesus, help me to know and do what is right always, Amen." Then she rose and entered the house singing as if gay. "Savior Like a shepherd lead Us much we need thy tenderest care."
+Finally Parepa sat up and raised her arms to the sky. "Dearest Lord Jesus, help me to know and do what is right always, Amen." Then she rose and entered the house singing as if gay. "Savior like a shepherd lead us much we need thy tenderest care."
 
 Frances listened—it was Aunt Kate saying, "I know why my little girl is so happy. Her lover is coming."
 

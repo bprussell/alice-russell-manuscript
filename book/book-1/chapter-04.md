@@ -80,4 +80,4 @@ Parepa was so happy she hardly knew what to do. "A job and music lessons both at
 
 "Just be a *good*, *good* girl always and we shall feel as if we had been more than repaid," and Aunt Kate patted her tawny head lovingly.
 
-This girl had everything to learn. Her simple trust in people, her untarnished character, her winsome ways and sweet disposition together with a quick alert mind had completely won the hearts of her middle aged Uncle and Aunt. She was so unspoiled in every way and was beginning to disclose a very witty and jovial temperament.
+This girl had everything to learn. Her simple trust in people, her untarnished character, her winsome ways and sweet disposition together with a quick alert mind had completely won the hearts of her middle aged uncle and aunt. She was so unspoiled in every way and was beginning to disclose a very witty and jovial temperament.

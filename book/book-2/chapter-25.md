@@ -24,7 +24,7 @@ Frances gasped—"You are beautiful, Parepa, as beautiful as ever you were."
 
 "If I hadn't lost my voice, Frances. You know I have never sang since we parted. But you are beautiful too, my old lover. Time has been kind to you. You are just as clever too. How did you dare to do this? Your physician; does he know?" she asked.
 
-"Yes, she knows. You are my physician. You are making me well," and he reached across the table for her hand. She had not noticed the little jewel box he held. "There," he said, "are the jewels I bought for you in France and expected to give them to you on our wedding day. Then—when I looked into your Sunday School room and saw and heard a real natural love laid at your feet I knew I wasn't right. It mustn't be. Joseph Donald truly loved you, Parepa," he added. "I was hiding beside Aunt Kate's porch the night he gave you up to me. It was brave characters like his and yours that made me strong to live my life as I was born to live it. I'm not complaining. I am happy. Oh, so happy. And so are you, I know you are."
+"Yes, she knows. You are my physician. You are making me well," and he reached across the table for her hand. She had not noticed the little jewel box he held. "There," he said, "are the jewels I bought for you in France and expected to give them to you on our wedding day. Then—when I looked into your Sunday school room and saw and heard a real natural love laid at your feet I knew I wasn't right. It mustn't be. Joseph Donald truly loved you, Parepa," he added. "I was hiding beside Aunt Kate's porch the night he gave you up to me. It was brave characters like his and yours that made me strong to live my life as I was born to live it. I'm not complaining. I am happy. Oh, so happy. And so are you, I know you are."
 
 "Yes, Frances, I am happy. Knowing you has never lessened my happiness. I think it has helped me a great deal. You were real clever about this surprise. How did you happen to plan it?" she asked.
 
@@ -34,7 +34,7 @@ Frances gasped—"You are beautiful, Parepa, as beautiful as ever you were."
 
 "Poor Uncle George! How he tried to comfort me," she laughed.
 
-"Yes, and how I wished I was in his place going home; holding you in his arms. And do you remember the night on the river, and old Glen Oak park? And—you, and the sunsets? I live them over and over. Parepa, dearest, it's been the very life of me." He rang for the next course.
+"Yes, and how I wished I was in his place going home; holding you in his arms. And do you remember the night on the river, and old Glen Oak Park? And—you, and the sunsets? I live them over and over. Parepa, dearest, it's been the very life of me." He rang for the next course.
 
 As they sat waiting, Parepa opened the jewel box. There was a necklace, bracelet, broach, and two rings all of platinum set with diamonds. They were of unusual design, and when Parepa raved over their delicate filigree, Frances said, "Do you recognize anyone's name there?"
 
@@ -202,7 +202,7 @@ Her maid thought she was still dreaming but Parepa knew better. She could sing.
 
 "What a beautiful woman you grew to be, Parepa. Only a good woman could be so truly charming. Refinement, truth, love, courage, faith, yes, and charity all shine from your countenance," he said as they walked together to the dining room.
 
-"I try to be all of that Daddy dear, but the charity has all come my way. I'm going to tell you something to laugh about Daddy," she said as she was seated at the table. "Do you know that we didn't have the money for my trip out here and I borrowed it from the Sunday School collection box? My boy is Treasurer. I worried all the way here about how I'd pay it back. I'll double it now," she laughed.
+"I try to be all of that Daddy dear, but the charity has all come my way. I'm going to tell you something to laugh about Daddy," she said as she was seated at the table. "Do you know that we didn't have the money for my trip out here and I borrowed it from the Sunday school collection box? My boy is treasurer. I worried all the way here about how I'd pay it back. I'll double it now," she laughed.
 
 "Yes, and I'll double it too," he said. They lingered long at the table. Daddy was his jolly self and being much traveled and very well educated he interested Parepa greatly.
 

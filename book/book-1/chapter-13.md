@@ -28,7 +28,7 @@ Parepa coming down the stairs laughed and said, "He sends both of you his love. 
 
 "We want to know more than that. When's he going to get here?" asked Uncle George.
 
-"Don't know yet. Sometime though, Mr. Wheeler is coming with him. They have business that will detain them indefinitely where they are," and she set about helping with the supper, singing as she worked. She has proved herself a musical genius as well as a born actress. The pride that swelled the hearts of these two older people to almost bursting was excusable for to them was due all the credit for "opening this chestnut Burr."
+"Don't know yet. Sometime though, Mr. Wheeler is coming with him. They have business that will detain them indefinitely where they are," and she set about helping with the supper, singing as she worked. She has proved herself a musical genius as well as a born actress. The pride that swelled the hearts of these two older people to almost bursting was excusable for to them was due all the credit for "opening this chestnut burr."
 
 The time was now at hand when Parepa must go forward. A higher course in music and dramatic art must be arranged for her before the fall terms opened. What could be done about it—we'll see.
 

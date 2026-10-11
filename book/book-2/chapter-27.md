@@ -1,6 +1,6 @@
 # Chapter XXVII
 
-That night Parepa slept like a child. At nine o'clock the next morning a tap on the door and her maid announced Daddy Wheeler. He looked composed and well groomed. Parepa thought perhaps he was going to suggest a shopping trip to the City this beautiful morning. He greeted her with a smile and a kiss.
+That night Parepa slept like a child. At nine o'clock the next morning a tap on the door and her maid announced Daddy Wheeler. He looked composed and well groomed. Parepa thought perhaps he was going to suggest a shopping trip to the city this beautiful morning. He greeted her with a smile and a kiss.
 
 "Are you as fine as the day my dear?" he asked drawing her close in his arms.
 

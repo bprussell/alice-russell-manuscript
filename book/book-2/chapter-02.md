@@ -4,9 +4,9 @@ Allie was surprised that she should stand any show at all. She had received no e
 
 Nevertheless the first Monday in September found her unlocking the door of the old Kellogg schoolhouse where her father had attended school when a youngster and where her sister Isabel had "served time" before her.
 
-It was a small school of only eight pupils but it kept the teacher busy just the same. She realized more and more how little she knew. She boarded in a home that joined the school ground. Worked for part of her board bill. Her wages were thirty five dollars a month. Her schoolroom soon took on a "pretty" look. The Superintendent commented favorably on it, saying he wished all his teachers were as artistic.
+It was a small school of only eight pupils but it kept the teacher busy just the same. She realized more and more how little she knew. She boarded in a home that joined the school ground. Worked for part of her board bill. Her wages were thirty five dollars a month. Her schoolroom soon took on a "pretty" look. The superintendent commented favorably on it, saying he wished all his teachers were as artistic.
 
-She was determined to save every cent she could that she might attend Normal School that summer one way or another.
+She was determined to save every cent she could that she might attend normal school that summer one way or another.
 
 Most of the young swains had overstepped their bounds and had been more or less honorably discharged. The only one left that Allie really cared for was the son of a Scotch family living just south of the schoolhouse. Allie never could figure out why it should have been he who was to fall prey to her "Endearing Young Charms."
 

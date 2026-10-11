@@ -20,7 +20,7 @@ Look! She is returning to the stage in different attire. This time to sing an en
 
 In a few minutes she was joining them in the box. After greetings were exchanged she took her place beside Frances who at once grabbed her hand and held it. That act telling her more than words could have done. She sat as calm as if nothing had happened, listening to the rest of the program.
 
-When they were leaving the Opera several reporters confronted them but Uncle George and Mr. Wheeler convenienced them that an interview was impossible. Mr. Wheeler left them at the corner saying he would come out some evening and have a good visit.
+When they were leaving the opera several reporters confronted them but Uncle George and Mr. Wheeler convenienced them that an interview was impossible. Mr. Wheeler left them at the corner saying he would come out some evening and have a good visit.
 
 As they waited for the streetcar Uncle George took Parepa's chin in his hand and tipped her face up to his. "Now see here young lady you put one over on the old folks this time and you were a queen, but remember this—never again."
 
@@ -34,23 +34,23 @@ As they waited for the streetcar Uncle George took Parepa's chin in his hand and
 
 The streetcar was coming now and they boarded it for home. On leaving them at the door of their home Frances promised to call for Parepa to go for a horseback ride some evening the next week.
 
-"You remember we go to Church tomorrow," she reminded him.
+"You remember we go to church tomorrow," she reminded him.
 
 "You bet! I'll see you there," and he was off.
 
 Parepa was unshaken by the applause and attention given her, nor did she tell Aunt Kate of the flattering offer received from the manager of the show after leaving the stage that evening.
 
-The next morning at the breakfast table Uncle George held the paper up before Aunt Kate's eyes. She read aloud: "Young actress brings down the house with her wonderful acting and beautiful voice. Turns down offer of large salary made by manager. Is little country lass earning her dramatic and vocal lessons by working in her Uncle's candy store at 313 Main Street. Makes her home with Uncle and Aunt, Mr. and Mrs. George Slay to whom she gives all credit for her success.
+The next morning at the breakfast table Uncle George held the paper up before Aunt Kate's eyes. She read aloud: "Young actress brings down the house with her wonderful acting and beautiful voice. Turns down offer of large salary made by manager. Is little country lass earning her dramatic and vocal lessons by working in her uncle's candy store at 313 Main Street. Makes her home with Uncle and Aunt, Mr. and Mrs. George Slay to whom she gives all credit for her success.
 
-"Miss Alice Parepa-Roza Wesley of the Sparland vicinity came to make her home with her Uncle and Aunt just two years ago. Mrs Slay having been before her marriage famous in grand Opera recognized in this slip of a girl the possibilities which she proved so positively were hers. Mrs Slay taught her music and placed her under the tutorage of Mrs Rose Mendenhall Breen, dramatic instructor. The child made such startling advancement that her teacher has trusted her with evening entertainments.
+"Miss Alice Parepa-Roza Wesley of the Sparland vicinity came to make her home with her uncle and aunt just two years ago. Mrs Slay having been before her marriage famous in grand opera recognized in this slip of a girl the possibilities which she proved so positively were hers. Mrs Slay taught her music and placed her under the tutorage of Mrs Rose Mendenhall Breen, dramatic instructor. The child made such startling advancement that her teacher has trusted her with evening entertainments.
 
-"She is soloist in one of the large Churches of this city. Though her voice is still childish it is all the more appealing. In refusing the astonishing offer made her by L.M. Parker, Manager, Miss Wesley stated that she was not desirous of a stage career and that no flattering offer would tempt her to follow the footlights."
+"She is soloist in one of the large churches of this city. Though her voice is still childish it is all the more appealing. In refusing the astonishing offer made her by L.M. Parker, manager, Miss Wesley stated that she was not desirous of a stage career and that no flattering offer would tempt her to follow the footlights."
 
 Mr. Slay put down the paper and stared at Parepa. "Is it possible you are so sensible, little one? Such a success as you were last night, would turn any girl's head."
 
 "Not our girl—remember, George dear, she is an exception to the rule," smiled Aunt Kate so proud she could hardly contain herself.
 
-"Dear Auntie and Uncle, do you think I could be so heartless as to leave you now? Remember you were the making of me. I'll never forget. Now let's get the dishes done and ready for Church."
+"Dear Auntie and Uncle, do you think I could be so heartless as to leave you now? Remember you were the making of me. I'll never forget. Now let's get the dishes done and ready for church."
 
 When she entered the choir loft she smiled at Frances who was surrounded by a group of young men and women.
 

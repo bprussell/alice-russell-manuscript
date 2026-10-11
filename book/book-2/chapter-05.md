@@ -18,7 +18,7 @@ The girls all rushed to help her. They laid her on Mrs Allen's bed and called a 
 
 "He is such a fine smart fellow when he is sober, but a regular demon when he is drunk."
 
-Parepa "came to" enough to hear this much of the conversation then lapsed into unconsciousness again. The Doctor gave them strict orders not to let her meet the young man again for several days. It was an hour before Parepa was able to be moved to her own room across the street. Loving hands did everything that could be done for her physical comfort and kind words breathed tenderly into her ears the heartfelt messages of true girl friends. They all loved her. She was so good.
+Parepa "came to" enough to hear this much of the conversation then lapsed into unconsciousness again. The doctor gave them strict orders not to let her meet the young man again for several days. It was an hour before Parepa was able to be moved to her own room across the street. Loving hands did everything that could be done for her physical comfort and kind words breathed tenderly into her ears the heartfelt messages of true girl friends. They all loved her. She was so good.
 
 She remained in her room the next day. Harold was back to his old self again and missed his sweetheart. Some of the "spunky" girls told him what he had done and how he had broken Parepa's heart. They were merciless in their condemnation. He flinched under the lash of their words.
 

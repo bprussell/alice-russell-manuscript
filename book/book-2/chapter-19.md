@@ -102,7 +102,7 @@ Allie heard the coins tinkle into the 'phone box. She hoped no one was going to 
 
 "I'm so glad to hear from you again. I often think of those good old Bethany days," she found herself living again in her excitement with dear old Aunt Kate.
 
-"Come down and renew acquaintances. I'll ring off now, Goodbye, Parepa, and good luck."
+"Come down and renew acquaintances. I'll ring off now, goodbye, Parepa, and good luck."
 
 "Thank you. Good night Frank."
 

@@ -12,7 +12,7 @@ Allie (being the actor that she was) fooled the people into thinking she was hav
 
 Her company was sought by Tom, Dick, and Harry and she drew no line. The first come the first served was her devilish slogan and they all come; having discovered that the early bird catches the worm each tried to be early. The result was that more than one pair of steeds reined high and hitched to a brand new buggy and driven by (if we were to judge by his posture) an upright and determined young man, pranced up the lane to the "house of Wesley."
 
-The older Wesley girls had "Steadies" and Allie was sure she recognized familiar "symptoms" in their demeanor.
+The older Wesley girls had "steadies" and Allie was sure she recognized familiar "symptoms" in their demeanor.
 
 "Well," she said to Parepa-Roza, "it's all right—I'm sure there's no chain and locket around Will's and Harry's necks."
 
@@ -24,7 +24,7 @@ When he stopped for his breath Allie said calmly, "You forget Papa that they did
 
 "That shows they have an idea all they got to do is drive in any old time and you will go with them. No man that respects a girl would call without asking first. Now, I tell you once and for all, this thing shall not happen again," and he slammed the door shut and went to the barn.
 
-"Alice Parepa-Roza" stood still for a moment ready to cry—then her sense of humor came to her rescue and as she sliced the potatoes to fry for breakfast she said to Parepa-Roza, "Poor old Papa, I'm afraid he's got a naughty, naughty girl on his hands. I'll make her be good after this, I will," and she fried the ham and eggs while mamma skimmed the milk and Lavena mixed the bread. Isabel prepared to go to her boarding place as she did every Monday morning. Little Iona came in with the familiar milk pail by her side.
+"Alice Parepa-Roza" stood still for a moment ready to cry—then her sense of humor came to her rescue and as she sliced the potatoes to fry for breakfast she said to Parepa-Roza, "Poor old Papa, I'm afraid he's got a naughty, naughty girl on his hands. I'll make her be good after this, I will," and she fried the ham and eggs while Mamma skimmed the milk and Lavena mixed the bread. Isabel prepared to go to her boarding place as she did every Monday morning. Little Iona came in with the familiar milk pail by her side.
 
 "Old Roanie k-k-kicked and upset the milk and p-p-Papa sc-scolded me," she sobbed. Allie's heart went out to this little sister. Well did she remember when such things had happened to her. She kissed Iona, and washed the bucket and went to the barn to finish milking Iona's cows herself. She found Father John Wesley laboriously milking the cow with the limber pedal appendages. Bang! It kicked the bucket and spilled all his milk! (covering his face and body with milk and froth).
 
@@ -36,7 +36,7 @@ Allie got up from her stool and standing behind the long row of cows gave vent t
 
 "Well," said Allie hanging her bucket on the hook behind the cows, "I guess I'll have to go to the house then, for I just can't quit laughing. It's so funny," and she left the barn in a convulsion of laughter.
 
-At the "House of Wesley" the meals were never eaten until every member of the family was seated in their place at the table. This morning the lone milkman held up the breakfast hour.
+At the "house of Wesley" the meals were never eaten until every member of the family was seated in their place at the table. This morning the lone milkman held up the breakfast hour.
 
 "You shouldn't have laughed at him, Allie," said her mother kindly. "You know your father has financial worries on his mind that make him easily irritated. He worries day and night over how he will pay the interest on the mortgage. These four years you have been away have been hard ones for us, dearie. Times have been bad and although we have all worked hard it has been impossible to keep up the interest."
 
@@ -68,4 +68,4 @@ Things went along pretty much as they use to on the farm; everyday bringing its 
 
 Allie had taken a great interest in Iona's schoolwork. She helped her every evening with the seventh and eighth years' work which she was putting through in one. She also learned all she could by helping Isabel correct her pupils' papers. No one knew why she was so interested but Parepa herself.
 
-The next summer, however, when teachers' Institute and teacher's examinations were held at Lacon, Illinois, Allie was among those present. She passed a successful examination and received her teacher's certificate, and found herself with the refusal of the two country schools where she had placed her application.
+The next summer, however, when teachers' institute and teacher's examinations were held at Lacon, Illinois, Allie was among those present. She passed a successful examination and received her teacher's certificate, and found herself with the refusal of the two country schools where she had placed her application.
