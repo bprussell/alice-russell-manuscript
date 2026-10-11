@@ -48,4 +48,6 @@ annotation conventions used in the verbatim transcripts.
       in book/edits.md; all 69 open judgment calls since ruled on by the
       family, and split/hyphenated compounds modernized — see its
       "Resolved REVIEW flags" and "Global decisions" sections)
+- [ ] Phase 3.5 — Reader's proof: full read-through of the EPUB
+      (print/proof/readers-proof.epub, built by print/epub/build.sh)
 - [ ] Phase 4 — Typesetting and print PDF

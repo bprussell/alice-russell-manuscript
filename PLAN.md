@@ -96,6 +96,16 @@ Every single change is logged in `book/edits.md` as
 `page → original → corrected → reason`, so the editing is fully auditable
 against the archival layer and reversible.
 
+## Phase 3.5 — Reader's proof (EPUB)
+
+Before any typesetting, the edited text is built into an EPUB
+(`print/epub/build.sh` → `print/proof/readers-proof.epub`) and read
+straight through, start to finish, on a phone, tablet or e-reader.
+This catches anything the flag-by-flag review couldn't — a word that
+jars in context, a spelling to modernize, a name to normalize. Changes
+found go into `book/` (and `book/edits.md`) and the proof is rebuilt;
+Phase 4 begins only once the read-through is done.
+
 ## Phase 4 — Typesetting and print
 
 - Typeset with Pandoc + LaTeX (or Typst) from the `book/` chapters into a

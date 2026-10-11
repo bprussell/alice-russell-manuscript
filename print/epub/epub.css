@@ -1,0 +1,9 @@
+body { font-family: Georgia, "Times New Roman", serif; line-height: 1.5; }
+h1 { text-align: center; margin: 3em 0 0.5em; font-weight: normal; }
+h2 { text-align: center; font-weight: normal; letter-spacing: 0.05em; margin: 2em 0 1.5em; }
+p { margin: 0; text-indent: 1.5em; text-align: justify; }
+h1 + p, h2 + p, hr + p, blockquote + p { text-indent: 0; }
+blockquote { margin: 1em 2em; font-style: italic; }
+blockquote p { text-indent: 0; text-align: left; }
+hr { width: 25%; margin: 1.5em auto; border: 0; border-top: 1px solid currentColor; }
+.proof-note p { text-indent: 0; margin-bottom: 0.8em; text-align: left; }
