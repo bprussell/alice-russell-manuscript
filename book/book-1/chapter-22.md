@@ -2,7 +2,7 @@
 
 That afternoon found two young people sitting on a slope of the hill in a secluded spot of the park, thoroughly oblivious of the sighing of the breeze, the song of the birds, the beauty of the flowers, the trickling of the waters, or the distant strains of music wafting over the hill. These two lovers were alone. It was heavenly to be together; neither could ask more. They dreamed silently as if words were frail instruments of expression. Why bother with them? Just to sit with hands clasped, heads together, hearts beating as one. Why couldn't it always be this? The shadows were falling now, and the darkness seemed to beckon confidence.
 
-"Parepa, dar, won't you listen to my story now? I *must* tell you for your sake and my sake. Come, darling, won't you listen?" His voice was trembling.
+"Parepa, dear, won't you listen to my story now? I *must* tell you for your sake and my sake. Come, darling, won't you listen?" His voice was trembling.
 
 "Please, oh please," she said, "Frances my lover, I am so happy why let your secret worry you? It doesn't worry me. Let's both forget there is a secret," and she pulled his face down to hers and pressed her lips to his.
 
@@ -74,6 +74,6 @@ Frances turned and faced him, "Did you change your mind about my mother?"
 
 "No, but run along now and dress for tennis. We'll have a good time today," and he waved Frances out of his room.
 
-There were only two days left before they would leave Peoria. Tomorrow he must see Parepa but today he must make Daddy happy. They played awhile and then decided to go on a boat excursion. They succeeded in making themselves happy by succeeding in making themselves think they had succeeded in making the other happy. Frances had never known the love of an own father but he was given the fineness and beauty and companionship of a real daddy and did not miss that indescribable sector from life its self.
+There were only two days left before they would leave Peoria. Tomorrow he must see Parepa but today he must make Daddy happy. They played awhile and then decided to go on a boat excursion. They succeeded in making themselves happy by succeeding in making themselves think they had succeeded in making the other happy. Frances had never known the love of an own father but he was given the fineness and beauty and companionship of a real daddy and did not miss that indescribable sector from life itself.
 
 Daddy Wheeler was his Pal. He was not a spectacular Daddy—just an everyday clean, strong, gentle and noble Daddy. Setting the best example of uprightness and sincerity for this young life left to his care through the workings of fate.

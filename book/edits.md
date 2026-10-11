@@ -110,18 +110,30 @@ Rulings by the author's great-grandson, 2026-10-10.
   "giving whole evening dramatic entertainments"; only the apostrophe
   is editorial).
 
+- **Ch XXI, p104/p111:** editorial "a" ("visited a while", "wore a
+  cycling suit") — **confirmed**.
+- **Ch XXI, p112:** "ad he put" → **"as he put"** — confirmed.
+- **Ch XXII, p114:** editorial "all" ("know all there is to know") —
+  **confirmed**.
+- **Ch XXII, p114:** "Parepa, dar," → **"Parepa, dear,"** — typing slip
+  corrected.
+- **Ch XXII, p117:** "terrible one/" → **"one!"** — confirmed.
+- **Ch XXII, p119:** "sector" — **kept as typed**; and "life its self" →
+  **"life itself"** (the author writes "itself" closed everywhere else,
+  nine times, so the split form is a one-off typing slip).
+- **Ch XXIII, p122:** "I felt for Germany" → **"I left for Germany"** —
+  confirmed; "(child though he seems) is better posted" → **"(child
+  though he seems) he is better posted"** — missing subject supplied.
+- **Ch XXIV, p126:** "as few of the facts" → **"a few of the facts"** —
+  confirmed.
+- **Ch XXIV, p131:** '"Frances—" she hesitated—' dash treatment —
+  **confirmed**.
+- **Ch XXIV, p133:** "wish you your happiness. I'm sure." → **"wish you
+  your happiness, I'm sure."** — period after "happiness" read as a
+  comma slip.
+
 ## Open REVIEW flags (for the family to rule on)
 
-- **Ch XXII, p114:** editorial "all" supplied ("know all there is to
-  know") — confirm.
-- **Ch XXII, p114:** "dar" kept — rule whether it is a slip for "dear".
-- **Ch XXII, p117:** "And it's a terrible one/" rendered "one!" — the
-  slash could equally be a period; rule.
-- **Ch XXII, p119:** "sector" kept — rule whether to emend to "segment".
-- **Ch XXI, p104/p111:** editorial "a" supplied twice ("visited a
-  while", "wore a cycling suit") — confirm or revert to as-typed.
-- **Ch XXI, p112:** "ad he put" resolved as "as he put"; "and he put"
-  equally possible — rule.
 - **Ch XXV, p134:** garbled clause repaired as "any farther than their
   class interests threw them together" — best guess, confirm.
 - **Ch XXV, p136-137:** the Joseph—/Parepa— play-script dialogue is
@@ -131,16 +143,7 @@ Rulings by the author's great-grandson, 2026-10-10.
 - **Ch XXVI, p146:** chapter-ending two paragraphs treated as one
   continuing Parepa speech (typescript omits the closing quote) —
   confirm.
-- **Ch XXIII, p122:** "I felt for Germany" → "I left for Germany"
-  (departure verb required) — confirm; and "(child though he seems) is
-  better posted" kept, possibly missing "he" — rule.
-- **Ch XXIV, p126:** "as few of the facts" → "a few of the facts" —
-  confirm.
 - **Ch XXIV, p128:** "roughish glance" → "roguish glance" — confirm.
-- **Ch XXIV, p131:** broken '"Frances—" she hesitated—' dash treatment —
-  confirm.
-- **Ch XXIV, p133:** "wish you your happiness. I'm sure." kept — rule
-  whether "happiness, I'm sure." was intended.
 - **Ch XXVII, p150:** "a wonderful home, Donald." kept — Joseph's full
   name is "Joseph Donald" (ch XXVI), so surname address is possible, but
   it may be a slip for "Joseph"; rule.

@@ -124,4 +124,4 @@ They walked home hand in hand. When they reached the house Parepa recognized the
 
 "Just a slight stroke," he told Aunt Kate. "He will come out of it all right."
 
-Parepa slipped out to where the boy was standing and told him what she had heard. They went out on the porch and said their rather sad goodbyes. Mrs Slay came to the door with the Doctor and bade Frances goodbye. "I'm sorry George isn't able to see you. You know how much we all love you and wish you your happiness. I'm sure."
+Parepa slipped out to where the boy was standing and told him what she had heard. They went out on the porch and said their rather sad goodbyes. Mrs Slay came to the door with the Doctor and bade Frances goodbye. "I'm sorry George isn't able to see you. You know how much we all love you and wish you your happiness, I'm sure."
