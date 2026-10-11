@@ -38,7 +38,7 @@ Her kitchen was made as pretty as was possible. There being no modern mechanical
 
 The boys were old enough now to bring young company to their home. They were proud of it. Their parents encouraged young company. They all enjoyed the sports of the day, too.
 
-Allie treasured the companionship of her many friends in the Church, Delphian Society, Woman's Club and Home Bureau. Johnie never feeling quite up to keeping in step with the men of his age in their many activities was in sympathy with all movements that made for a better community. His quiet genial nature made a friend for him of every acquaintance. Sickness, hard luck, and worry had taken their toll from both husband and wife. Their staunch sticktuitiveness and refusal to be beaten down was most astonishing. The successive comebacks after each serious illness was little short of miraculous.
+Allie treasured the companionship of her many friends in the Church, Delphian Society, Woman's Club and Home Bureau. Johnie never feeling quite up to keeping in step with the men of his age in their many activities was in sympathy with all movements that made for a better community. His quiet genial nature made a friend for him of every acquaintance. Sickness, hard luck, and worry had taken their toll from both husband and wife. Their staunch sticktuitiveness and refusal to be beaten down were most astonishing. The successive comebacks after each serious illness were little short of miraculous.
 
 "Life is so sweet even at its worst," Johnie would say, "I'm going to hang on to it as long as I can."
 

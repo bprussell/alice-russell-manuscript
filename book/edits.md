@@ -93,6 +93,38 @@ logged here as Phase 3 proceeds; global decisions are recorded up front.
   Hyphenation of compound adjectives ("old fashioned", "good looking")
   was not part of this pass.
 
+- **Subject–verb agreement corrected in narration (decided 2026-10-11,
+  with the author's great-grandson):** agreement slips in the narration
+  are corrected; **dialogue is left as people talk** ("he don't", "it
+  don't seem possible", "You, my dear husband, was my reward"). Found by
+  a full read of all 57 chapters; each case reviewed individually.
+  Corrected (17 + one typo found in the same pass):
+  - Book I: Ch I "there were only funds"; Ch IV "all eyes in the car
+    were upon them"; Ch X "[six scenes]... were portraited"; Ch XVI
+    "Her dancing and acting were perfect" and "The expression... changed
+    but was noncommittal" (supersedes the earlier keep-as-typed ruling);
+    Ch XXI "each of the party was to tell"; Ch XXIV "each was deep in
+    their own thoughts"; Ch XXIX "his intentions toward the girl were";
+    Ch XXV typo "this world's good" → "goods" (quoted correctly a line
+    earlier).
+  - Book II: Ch I "There were the usual ice cream 'sociables'" and
+    "every member of the family was seated"; Ch III "Her heart and mind
+    were too full"; Ch IX "Regular hours were what he needed"; Ch XIII
+    "there, by the barn, stand her husband and his three fine sons"; Ch
+    XIV "sticktuitiveness and refusal... were most astonishing" and "The
+    successive comebacks... were little short of miraculous"; Ch XVI "as
+    far as the return from the garden was concerned"; Ch XX "After the
+    lights were out"; Ch XXI "there were deep chasms and canyons".
+  Reviewed and **kept**: Book I Ch II "milking the five cows which was
+  her usual allotment" (the milking was her allotment); Ch IV '"He must
+  be in by ten o'clock" was his guardian's strict orders'; Ch VII "the
+  glitter and show that attracts"; Ch XII "There was always a noticeable
+  rush and scuffle"; Ch XXIV "as if neither of them were thinking"; Ch
+  XXVI "Where is the golden voice—the sparkling eyes..."; Book II Ch XIII
+  "It was discouraging times"; Ch XXV "There was a necklace, bracelet,
+  broach, and two rings". Pronoun agreement ("each... their") is not
+  part of this rule.
+
 ## Global typography (applied throughout, not logged per instance)
 
 Line breaks unwrapped and ⟦hyphen⟧ words rejoined; all ⟦…⟧ markers
@@ -128,7 +160,8 @@ Rulings by the author's great-grandson, 2026-10-10.
   be his luck... Ha! Ha!") — **kept quoted as typed** (reads as
   half-quoted speech).
 - **Ch XVI, p78:** "The expression... changed but were non-committal" —
-  **kept as typed** (grammar quirk).
+  **kept as typed** (grammar quirk). *Superseded 2026-10-11 by the
+  narration agreement rule: now "was noncommittal".*
 - **Ch XVI, p78:** "getting through what she had undertaken" — minimal
   repair **confirmed**.
 - **Ch XVII, p83:** "real metal" → **"real mettle"** — sound-alike

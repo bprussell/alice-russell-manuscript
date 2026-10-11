@@ -32,7 +32,7 @@ When they reached home they sat for some time on the porch in the shade of a kin
 
 After Parepa went to bed she felt the pangs of love twitching at her heartstrings. Couldn't it be she was truly in love again? Yes, she knew she was.
 
-The next day found Parepa ill prepared for her classes. The first time in her life she had failed. She knew the reason. Her heart and mind was too full of Harold. She could think of nothing else. It was no use. She *was* in love. Head over heels in love again. The day was long. When evening came two lovers were hunting a secluded place to make plans for their future.
+The next day found Parepa ill prepared for her classes. The first time in her life she had failed. She knew the reason. Her heart and mind were too full of Harold. She could think of nothing else. It was no use. She *was* in love. Head over heels in love again. The day was long. When evening came two lovers were hunting a secluded place to make plans for their future.
 
 "I will get a salary that will support us handsomely," he said. "And you my lady shall be the wife of Professor H. A. Crisp. How do you like that, Mrs Crisp?" he laughed squeezing her hand.
 

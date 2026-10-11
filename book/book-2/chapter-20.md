@@ -63,7 +63,7 @@ Johnie said nothing.
 
 "Now let's all go to bed and wait until we hear from this strange person. Maybe he wants to give us a five dollar bill, who knows? Wouldn't that be kind of him? Anyway we'll just all wait and see, won't we?"
 
-They were an excited bunch of boys as they tripped up the stairs to bed. Voices could be heard calling back and forth across the hall to each other for an hour. After the lights was out and they were in bed Allie asked, "Do you think it's right for me to write to this Mr. Wheeler, Johnie?"
+They were an excited bunch of boys as they tripped up the stairs to bed. Voices could be heard calling back and forth across the hall to each other for an hour. After the lights were out and they were in bed Allie asked, "Do you think it's right for me to write to this Mr. Wheeler, Johnie?"
 
 "That depends upon the kind of people they are. Does this man Wheeler happen to be the one that gave you that Wedgwood vase for your birthday when you lived with Aunt Kate?" he asked.
 

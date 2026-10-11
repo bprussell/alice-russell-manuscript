@@ -26,7 +26,7 @@ Aunt Kate took her place at the piano and they sang one song after another until
 
 "Oh, speak some of your pieces now," begged Aunt Kate. "I didn't know you could do anything like that."
 
-Parepa launched out with "How Sockery Set a Hen" followed by "The Inventor's Wife," "The Stolen Watermelon," and then to Aunt Kate's surprise she gave a most wonderful presentation of "Flying Jim's Last Leap." This dramatic reading brought tears to Aunt Kate's eyes. The hungry beggar scene, the fight between Little Flossie's father and the tramp, the Fire, The saving of Little Flossie's life by "Flying Jim," the tramp and the death scene of Flying Jim as Flossie's father begged his forgiveness was portraited so clearly by this beautiful young girl that Aunt Kate knew at once that Parepa was right. She should be a public speaker.
+Parepa launched out with "How Sockery Set a Hen" followed by "The Inventor's Wife," "The Stolen Watermelon," and then to Aunt Kate's surprise she gave a most wonderful presentation of "Flying Jim's Last Leap." This dramatic reading brought tears to Aunt Kate's eyes. The hungry beggar scene, the fight between Little Flossie's father and the tramp, the Fire, The saving of Little Flossie's life by "Flying Jim," the tramp and the death scene of Flying Jim as Flossie's father begged his forgiveness were portraited so clearly by this beautiful young girl that Aunt Kate knew at once that Parepa was right. She should be a public speaker.
 
 "I love to speak and the more people there are to listen the better I speak."
 

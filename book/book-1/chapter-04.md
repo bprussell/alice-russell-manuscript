@@ -34,7 +34,7 @@ Aunt Kate sat with her eyes riveted on the picture in the seat in front of them.
 
 Now Parepa was volunteering a whole sentence. Not in answer to a question but was actually making a statement telling Frances something she wanted him to know. Her face was all animation and she was motioning to make it more impressive. He was laughing with her and when she had finished they both gave vent to a loud giggle.
 
-By this time all eyes in the car was upon them but they didn't seem to know that even Uncle and Auntie were watching, so wrapped were they in their own enjoyment.
+By this time all eyes in the car were upon them but they didn't seem to know that even Uncle and Auntie were watching, so wrapped were they in their own enjoyment.
 
 By the time they reached their destination these children were as lively and alert as crickets. Parepa seemed to have lost all her restraint after the picnic lunch was over and gave herself up to the game they were teaching her. It was great fun and she proved herself an apt scholar.
 

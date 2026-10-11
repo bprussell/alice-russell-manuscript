@@ -62,7 +62,7 @@ Aunt Kate and Parepa ate their lunch talking all the time, about Frances and wha
 
 Parepa went to church that evening as usual. She sang a solo and a duet with Joseph. She did not notice Frances slip quietly into a back seat. He sat as one fastened there—immovable as his eyes followed the glances of the two young people.
 
-*That* is *real* love. Love as it should be. Love—his face is shining with a fire that only a real mate's love can kindle. The song Parepa sang was so sweet and she so charming no wonder this normal young chap had fallen in love with her. She was his kind. She should be his wife—I'll not interfere. He sat quietly in his seat, having made his decision and listened to the sermon. "Be not overanxious for this world's goods" was the text. What do all this world's good amount to? Nothing, thought Frances.
+*That* is *real* love. Love as it should be. Love—his face is shining with a fire that only a real mate's love can kindle. The song Parepa sang was so sweet and she so charming no wonder this normal young chap had fallen in love with her. She was his kind. She should be his wife—I'll not interfere. He sat quietly in his seat, having made his decision and listened to the sermon. "Be not overanxious for this world's goods" was the text. What do all this world's goods amount to? Nothing, thought Frances.
 
 As soon as the benediction was pronounced Frances crept out of the church and into the street. He decided to go to Parepa's home and wait for her. He would not let her know he had been to church. When he reached the porch he dropped down on the step completely exhausted. Yes, he was beaten—and rightly. The other chap had no chain around his neck—he did.
 

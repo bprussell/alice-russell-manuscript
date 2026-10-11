@@ -62,7 +62,7 @@ This was enough of a promise for now. Parepa-Roza could wait now that the subjec
 
 Finally Uncle George broke in with, "Now, just what do you think you could do in a big city?"
 
-"I could learn to do most anything if I got paid for it." And Parepa-Roza's thoughts went back to all the pretty things she had wanted in her young life but there was only funds for the bare necessities and no extras for anyone.
+"I could learn to do most anything if I got paid for it." And Parepa-Roza's thoughts went back to all the pretty things she had wanted in her young life but there were only funds for the bare necessities and no extras for anyone.
 
 Uncle George's mind was busy too. "Gosh, she's a pippin', having all this tucked away in her head and never peeping a word of it to anybody. Nice little thing too, wouldn't Kate be tickled to death to have her stay with us. I can just see her now dolling her up in some of her clothes made over to fit her. Kate's handy that way."
 

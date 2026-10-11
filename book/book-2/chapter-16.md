@@ -1,6 +1,6 @@
 # Chapter XVI
 
-Surely this will be a good year, they would say on counting up the day's receipts. It was as far as the return from the garden were concerned but it was not a good crop year. The early part of the season was too wet; the later part too dry.
+Surely this will be a good year, they would say on counting up the day's receipts. It was as far as the return from the garden was concerned but it was not a good crop year. The early part of the season was too wet; the later part too dry.
 
 It was the first day of oat harvesting. All the family had helped to get the old binder in running order. Allie mended the drapers while the boys ran errands for repairs as Johnie directed. Helped, I said, but to no avail. It was so antiquated no wonder it felt it had served its time and refused to work any longer.
 

@@ -72,7 +72,7 @@ Frances laughed outright at this young girl's frankness. "And what did your fine
 
 "Wasn't that a queer way to be Frances? I don't believe any other youngster ever had dreams like mine. My sisters always dreamed too, but they always had lovers and husbands and babies—lots of them."
 
-Frances and Parepa both fell into silence each were deep in their own thoughts.
+Frances and Parepa both fell into silence each was deep in their own thoughts.
 
 Finally Frances broke the spell by saying: "Do you know, Parepa darling, you can have every one of those dreams come true if you want to."
 

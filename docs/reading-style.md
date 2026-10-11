@@ -82,8 +82,10 @@ page 248 omitting struck "info"). Apply them exactly and log them.
   "never-the-less", "bath room", "street car" are no longer kept —
   they take modern closed spelling; see "Spelling of compounds
   modernized" in book/edits.md for the rule and its exceptions.)
-- Her sentence rhythms, comma splices, and grammatical quirks ("was you",
-  "them things", singular/plural slips in dialogue).
+- Her sentence rhythms, comma splices, and grammatical quirks in
+  dialogue ("was you", "them things", "he don't", singular/plural slips).
+  (Subject–verb agreement slips in *narration* are corrected — see
+  "Subject–verb agreement corrected in narration" in book/edits.md.)
 - When genuinely unsure whether something is voice or slip: keep it as
   written and log it as "kept".
 

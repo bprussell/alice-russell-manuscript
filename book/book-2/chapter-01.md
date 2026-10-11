@@ -6,7 +6,7 @@ Isabel, the eldest child of the Wesley family was teaching a country school. Lav
 
 Little Iona the baby of the family was now twelve years old and to her "Allie's" heart went out at dishwashing and milking time. "Allie" was none other than Alice Parepa-Roza. The "Allie" was the nickname for Alice, given her at home by her parents when she was still in "tothood." The only time the full name of Alice Parepa-Roza was used at home was when it was necessary to make it forceful—as it was in the first lines written in this story. The family in general as well as the home neighborhood knew her as Allie, the "different" Wesley girl. The neighborhood hadn't missed her much, these four years—"she was rather odd you know"—and so her advent into the community again was unheralded and unsung. She crept into the scheme of things just as she would have chosen to do had she her choice.
 
-There was the usual ice cream "sociables" on the lawns or, I would say "in the yard" of some more fortunate church member who possessed a lawn mower and a generous disposition at the same time.
+There were the usual ice cream "sociables" on the lawns or, I would say "in the yard" of some more fortunate church member who possessed a lawn mower and a generous disposition at the same time.
 
 Allie (being the actor that she was) fooled the people into thinking she was having the time of her life. She threw herself into the spirit of the games, laughed and joked and worked her dimples in the most effective way and succeeded in charming the unsuspecting young fellows of the countryside into an almost delirious state of restlessness. She wasn't home many weeks until things began to happen.
 
@@ -36,7 +36,7 @@ Allie got up from her stool and standing behind the long row of cows gave vent t
 
 "Well," said Allie hanging her bucket on the hook behind the cows, "I guess I'll have to go to the house then, for I just can't quit laughing. It's so funny," and she left the barn in a convulsion of laughter.
 
-At the "House of Wesley" the meals were never eaten until every member of the family were seated in their place at the table. This morning the lone milkman held up the breakfast hour.
+At the "House of Wesley" the meals were never eaten until every member of the family was seated in their place at the table. This morning the lone milkman held up the breakfast hour.
 
 "You shouldn't have laughed at him, Allie," said her mother kindly. "You know your father has financial worries on his mind that make him easily irritated. He worries day and night over how he will pay the interest on the mortgage. These four years you have been away have been hard ones for us, dearie. Times have been bad and although we have all worked hard it has been impossible to keep up the interest."
 

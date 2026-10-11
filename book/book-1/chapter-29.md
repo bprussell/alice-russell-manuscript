@@ -38,6 +38,6 @@ Uncle Will pulled her down on his lap and said teasingly, "Are you sure you are 
 
 "Stranger! He is not a stranger. I know him better than I know myself," she sprang to her feet and said again, "Good night, dear Uncle Will."
 
-After she had gone up the stairs Uncle Will sat for a long time in deep thought. He saw her as she was that first day in his candy shop. He recalled her birthday party. The tender care she gave Aunt Kate. Now she was alone at eighteen years of age. He resolved to have a talk with this young Emmerson and find out for himself just what his intentions toward the girl was.
+After she had gone up the stairs Uncle Will sat for a long time in deep thought. He saw her as she was that first day in his candy shop. He recalled her birthday party. The tender care she gave Aunt Kate. Now she was alone at eighteen years of age. He resolved to have a talk with this young Emmerson and find out for himself just what his intentions toward the girl were.
 
 At last he went to bed greatly worked up over nothing that really justified his concern.
