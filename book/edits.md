@@ -231,10 +231,12 @@ Rulings by the author's great-grandson, 2026-10-10.
   "Mrs John Bradford" signature cards and "Mr. J.S. Bradford" alias
   (Ch XXI/XXIII).
 
+- **Book II Ch III, p178:** "at her cousins'" — plural possessive
+  **confirmed** (she visits several cousins: "with them", "Her cousins
+  were a jolly lot").
+
 ## Open REVIEW flags (for the family to rule on)
 
-- **Book II Ch III, p178:** "at her cousins'" possessive apostrophe —
-  confirm (plural "cousins" also reads).
 - **Book II Ch X, p200:** "could hardly believe it, could be so much."
   kept — likely a dropped "it"; rule.
 - **Book II Ch XII, p203/p205:** editorial "of" ("acres instead of feet")
