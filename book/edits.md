@@ -385,6 +385,12 @@ Changes from the great-grandson's read-through of the EPUB proof.
 - **Ch VI, p33:** "in's and out's" → **"ins and outs"** — apostrophes
   dropped from the plural (her quotation marks around the phrase kept).
 
+- **Book I Ch VI and Book II Ch XXI:** "toilet" in its period sense of
+  dressing and grooming ("the finishing touches to her toilet", "time
+  with her toilet on the train") → **"toilette"**, the French spelling
+  that still carries that meaning, so readers don't picture plumbing.
+  The bathroom-fixture "toilet" in Book I Ch II stays.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's

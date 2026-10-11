@@ -68,4 +68,4 @@ It was three-thirty o'clock in the afternoon when she left the train. She was ju
 
 "Well, Mr. Wheeler is waiting for you in the car," he said, and taking her shabby looking bag from her hand added, "Come with me."
 
-She was glad she had taken a good deal of time with her toilet on the train. She really looked quite presentable. Her cheeks wore the natural flush which gave a sparkle to her eyes. Her dimples were the same as when a child. She was excited and animated adding to her attractiveness.
+She was glad she had taken a good deal of time with her toilette on the train. She really looked quite presentable. Her cheeks wore the natural flush which gave a sparkle to her eyes. Her dimples were the same as when a child. She was excited and animated adding to her attractiveness.

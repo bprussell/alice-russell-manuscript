@@ -182,6 +182,6 @@ He told Aunt Kate about it after they went home from the store. "Don't think we 
 
 It was starting to rain now and this was the night Frances was going to take them out to dinner. Parepa was half glad for now she could wear the pretty pink frock and big leghorn hat for which heretofore no opportunity had presented itself.
 
-"I bet Frances will like it," she said as Aunt Kate straightened the ruffles, tied the long pink satin sash in a bow, and put the finishing touches to her toilet.
+"I bet Frances will like it," she said as Aunt Kate straightened the ruffles, tied the long pink satin sash in a bow, and put the finishing touches to her toilette.
 
 Parepa had acquired a grace of carriage that was astonishing in so short a time. No one to look at this perfectly formed, correctly dressed, young beauty would have guessed that she was only a few weeks removed from the farm.
