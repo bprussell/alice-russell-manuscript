@@ -407,6 +407,10 @@ Changes from the great-grandson's read-through of the EPUB proof.
   thank you all...") reads as her continuing speech, per the usual
   convention (typed closed, which signals a new speaker).
 
+- **Book I Ch XXI, p112:** "te-he-he we saw you spoonin'." →
+  **"Te-he-he, we saw you spoonin'."** — capital to open the speech,
+  comma after the giggle (her "spoonin'" kept).
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's

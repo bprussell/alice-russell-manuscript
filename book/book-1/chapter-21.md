@@ -192,7 +192,7 @@ Suddenly they heard a snicker—then another—springing apart and looking in th
 
 "You little rascals," said Frances.
 
-"te-he-he we saw you spoonin'. Te-he-he," they laughed.
+"Te-he-he, we saw you spoonin'. Te-he-he," they laughed.
 
 "Here take this and go home," said Frances as he put a coin in each chubby hand. They scampered off hand in hand up the sandy path toward the village store.
 
