@@ -397,6 +397,11 @@ Changes from the great-grandson's read-through of the EPUB proof.
   that still carries that meaning, so readers don't picture plumbing.
   The bathroom-fixture "toilet" in Book I Ch II stays.
 
+- **Book I Ch XXI, p100:** Uncle George's "these last two year" →
+  **"these last two years"** (first kept as voice) — he says "these last
+  two years" elsewhere and speaks no such dialect; read as a letter lost
+  at the line break.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
@@ -844,7 +849,7 @@ they may", "Nope", "awful late", "use to", attribution comma splices,
   flags); "he through" → "he threw"; "then had passed" → "than had
   passed"; "hours rest" → "hours' rest"
 
-Kept as voice (sample): "these last two year", "cateress", "From that
+Kept as voice (sample): "cateress", "From that
 on", "try as she may", "spoonin'", "te-he-he", "SIXTEEN" caps, "He was
 health, life, beauty, and to Someone; love personified", comma splices,
 era two-word forms.
