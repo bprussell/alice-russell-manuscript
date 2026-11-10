@@ -10,7 +10,7 @@
 
 Parepa slowly ascended the stairs and on entering her living room saw on the table a letter from home. Its sides fairly bulged with its messages. Her maid stood waiting. "I'll rest an hour then dress for luncheon," she told her and taking her letter from its envelope she laughed as she recognized the handwriting of four of her kingdom. Each had added their bit to assure her she need not worry about them. She kissed each one then slipping into her kimona she relaxed on the lounge.
 
-The doings of the forenoon had no room in the thoughts of this woman. Tears crept into her eyes as she read over and over each of her family's messages. She was homesick. Yes, there was no doubt about it. She gave way to a torrent of tears. Try as she would she could not control them. Her maid asked timidly, "Are you sick, Mrs Bradford?"
+The doings of the forenoon had no room in the thoughts of this woman. Tears crept into her eyes as she read over and over each of her family's messages. She was homesick. Yes, there was no doubt about it. She gave way to a torrent of tears. Try as she would she could not control them. Her maid asked timidly, "Are you sick, Mrs. Bradford?"
 
 "Oh, so sick," she answered. "The worse sickness in the world. Homesick," and again she shook with sobs. "I'll tell you what to do," suggested the maid. "Let me give you a thorough conditioning," and she passed into the dressing room.
 

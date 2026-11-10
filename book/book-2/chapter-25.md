@@ -8,7 +8,7 @@
 
 "It is one-forty-five now and you are due for luncheon at two. Just let me change your pumps," so saying she slipped the new nude pumps on Parepa's feet. The messenger was clearing the room of what boxes were there and the modistes were leaving.
 
-"You must wear the hat to match, Mrs Bradford. She wants you to," and so saying pulled the soft filmy thing over her beautifully dressed white hair. Touching a little soft powder to her face she said, "There now, you are ready. May I go down with you? I would like to witness Miss Emmerson's pleasure," she pleaded.
+"You must wear the hat to match, Mrs. Bradford. She wants you to," and so saying pulled the soft filmy thing over her beautifully dressed white hair. Touching a little soft powder to her face she said, "There now, you are ready. May I go down with you? I would like to witness Miss Emmerson's pleasure," she pleaded.
 
 "Of course you can," and taking her maid's arm they descended the stair. Before they reached the second step Parepa noticed the forms of two men standing at the foot looking up. One was Daddy Wheeler, the other—Could it be possible—was Frances! Dressed and looking like his old self. His eyes shining, his cheeks flushed.
 
@@ -78,7 +78,7 @@ Taking his place at the table again he said, "Because there was room for more of
 
 "I'm sorry to have to interrupt now, but don't you think it best for you to change your theatrical garb and take your rest? You know you haven't taken a dozen steps a day for six weeks. If you don't abuse yourself maybe Doctor will let you try it again soon."
 
-As Frances hesitated she said, "Come now, I know Mrs Bradford will excuse you."
+As Frances hesitated she said, "Come now, I know Mrs. Bradford will excuse you."
 
 "Oh, certainly I will. It's been wonderful to have been together so long." She rose to go to her room. Stooping to kiss Frances she said, "Goodbye until tomorrow. Get a good rest and be ready for a new day. Thanks for our good time. Can I take my hat off now?" she laughed.
 
@@ -98,7 +98,7 @@ When she finished her letter she slipped into one of her beautiful new silk bed 
 
 The sun was streaming in at the windows of her airy chamber when she awoke the next morning. Nanettezen gave her a shower and massage. She felt wonderful. Her breakfast was irresistible. She was ashamed to send back empty dishes every morning but she seemed ravenous. A tap at the door. It was one of the nurses.
 
-"Could you come to Miss Emmerson's room Mrs Bradford?" she said. "She wishes to see you."
+"Could you come to Miss Emmerson's room Mrs. Bradford?" she said. "She wishes to see you."
 
 Parepa drew her dressing gown about her and descended the stairs with the nurse. "Is she not so well?" Parepa asked.
 
@@ -134,17 +134,17 @@ When Daddy left the room Frances turned to Parepa and said, "I'll make it plain 
 
 "Worries? Why Parepa this is the greatest pleasure I have. Please let me indulge in it. I can see your home in my mind's eye, all surrounded by roses and trees and beauty."
 
-Daddy Wheeler brought Mrs Johnson, the housekeeper, in first.
+Daddy Wheeler brought Mrs. Johnson, the housekeeper, in first.
 
-"Mrs Johnson I want you to meet your new mistress—Mrs Bradford. I know you will love her and she you," said Frances.
+"Mrs. Johnson I want you to meet your new mistress—Mrs. Bradford. I know you will love her and she you," said Frances.
 
-Mrs Johnson bowed and smiled.
+Mrs. Johnson bowed and smiled.
 
 "I'm sure I shall," said Parepa as she rose to take her hand.
 
-"I have told her of the arrangements you and I have made for your staying here as long as she needs you," said Frances. "And Mrs Johnson please remember this. I have given to Mrs Bradford everything I own on this place and in the house. It's hers to do as she likes with. She has been my very best friend for thirty years and I want you to remember that I give her everything."
+"I have told her of the arrangements you and I have made for your staying here as long as she needs you," said Frances. "And Mrs. Johnson please remember this. I have given to Mrs. Bradford everything I own on this place and in the house. It's hers to do as she likes with. She has been my very best friend for thirty years and I want you to remember that I give her everything."
 
-"I surely will Miss Emmerson. I'm glad she will be the mistress of 'Kashema.' I'll do everything I can to please her. I hope you will spend a great deal of time here, Mrs Bradford," she said turning to Parepa.
+"I surely will Miss Emmerson. I'm glad she will be the mistress of 'Kashema.' I'll do everything I can to please her. I hope you will spend a great deal of time here, Mrs. Bradford," she said turning to Parepa.
 
 "Thank you. I think I shall," she answered.
 
@@ -156,13 +156,13 @@ The yard man came in. He was apparently twenty-four years of age.
 
 "So glad to meet you, Jimmie," and Parepa crossed the room, hand extended. "Are you a son of these two?" she said indicating the housekeeper and butler.
 
-"Yes, Mrs Bradford, they are my parents," and his very voice was filled with pride.
+"Yes, Mrs. Bradford, they are my parents," and his very voice was filled with pride.
 
 "I'm so glad you are all of a family. It will be much easier. I see now why this home is conducted so smoothly. Efficiency is written all over you. I assure you all I'm very happy that Miss Emmerson has been so thoughtful as to have arranged for you to stay permanently," said Parepa.
 
 "Now, we better look over the agreement together," suggested Daddy Wheeler. "So there can be no misunderstanding." He opened a drawer and drew out the papers. The original of each for Parepa and a duplicate copy for each of the three. After handing each their copy Daddy read from Parepa's. It was a simple form of arrangement yet it seemed complete in every detail. Parepa wondered at the matter-of-fact way they discussed affairs pertaining to Frances's departure from this life.
 
-"Now, I want this to be plainly understood by all here. Parepa, I mean Mrs Bradford, here, is right now the owner and full possessor of this estate and everything, omitting nothing, that I have owned. I have given it all to her. Is that plain to you all?" asked Frances.
+"Now, I want this to be plainly understood by all here. Parepa, I mean Mrs. Bradford, here, is right now the owner and full possessor of this estate and everything, omitting nothing, that I have owned. I have given it all to her. Is that plain to you all?" asked Frances.
 
 "I suppose you mean all household goods, too," said Jimmy.
 

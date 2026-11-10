@@ -50,7 +50,7 @@ The sound of the children's voices came floating through the room and found each
 
 "In as much as ye do it unto one of the least of these ye do it also unto me," he repeated to himself and turning he left the building.
 
-When Parepa came home from church Mrs Field, who had stayed with Aunt Kate, said, "And did the handsome young fellow find you at the church, Parepa?"
+When Parepa came home from church Mrs. Field, who had stayed with Aunt Kate, said, "And did the handsome young fellow find you at the church, Parepa?"
 
 "What handsome young fellow?" asked Parepa.
 

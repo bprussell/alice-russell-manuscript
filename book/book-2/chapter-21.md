@@ -62,7 +62,7 @@ Now there were deep chasms and canyons—now sunny gardens of green and gold—s
 
 It was wonderful. Her thoughts traveled homeward to her husband. How he would have enjoyed this trip. How he loved the Colorado Mountains. "Well, someday," she said to herself, "we will take this trip together." She took her tablet from her bag, wrote her last long letter en route to her home folks.
 
-It was three-thirty o'clock in the afternoon when she left the train. She was just entering the depot when a young man dressed in livery stepped to her side and touching her on the arm asked, "Are you Mrs Bradford from Illinois?"
+It was three-thirty o'clock in the afternoon when she left the train. She was just entering the depot when a young man dressed in livery stepped to her side and touching her on the arm asked, "Are you Mrs. Bradford from Illinois?"
 
 "I am," she answered.
 

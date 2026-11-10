@@ -26,9 +26,9 @@ As they waited for the streetcar Uncle George took Parepa's chin in his hand and
 
 "You were wonderful, Parepa, but I never want to suffer in suspense as I did tonight. I was so afraid you'd—well, you would fail," said Aunt Kate.
 
-"Fail! Why Aunt Kate, I never thought of that," she answered. "When they asked Mrs Breen to substitute for the actress that is sick, she sent them to me, telling them I was fully capable of giving a full evening's program if need be. She called me at the store about one fifteen this afternoon and told me the manager was on his way to see me and that I must do it. I told him I would and Mrs Breen and I went through the whole thing this afternoon. I felt gorgeous in those fine clothes of the sick lady's. Really though I'm so sorry if I hurt you good folks. I thought it would be a grand surprise for you all."
+"Fail! Why Aunt Kate, I never thought of that," she answered. "When they asked Mrs. Breen to substitute for the actress that is sick, she sent them to me, telling them I was fully capable of giving a full evening's program if need be. She called me at the store about one fifteen this afternoon and told me the manager was on his way to see me and that I must do it. I told him I would and Mrs. Breen and I went through the whole thing this afternoon. I felt gorgeous in those fine clothes of the sick lady's. Really though I'm so sorry if I hurt you good folks. I thought it would be a grand surprise for you all."
 
-"So it was," said Frances, "and a grand shock too. I had no idea you could do it. I say, Mr. Slay, you and Mrs Slay have a fine piece of workmanship here. Congratulations to you both!"
+"So it was," said Frances, "and a grand shock too. I had no idea you could do it. I say, Mr. Slay, you and Mrs. Slay have a fine piece of workmanship here. Congratulations to you both!"
 
 "They deserve *all* the credit. They have made me what I am. If *I* am a success then *they* are a success." And she grabbed both of their hands and kissed them. "I love them both more than my own life."
 
@@ -42,7 +42,7 @@ Parepa was unshaken by the applause and attention given her, nor did she tell Au
 
 The next morning at the breakfast table Uncle George held the paper up before Aunt Kate's eyes. She read aloud: "Young actress brings down the house with her wonderful acting and beautiful voice. Turns down offer of large salary made by manager. Is little country lass earning her dramatic and vocal lessons by working in her uncle's candy store at 313 Main Street. Makes her home with Uncle and Aunt, Mr. and Mrs. George Slay to whom she gives all credit for her success.
 
-"Miss Alice Parepa-Roza Wesley of the Sparland vicinity came to make her home with her uncle and aunt just two years ago. Mrs Slay having been before her marriage famous in grand opera recognized in this slip of a girl the possibilities which she proved so positively were hers. Mrs Slay taught her music and placed her under the tutorage of Mrs Rose Mendenhall Breen, dramatic instructor. The child made such startling advancement that her teacher has trusted her with evening entertainments.
+"Miss Alice Parepa-Roza Wesley of the Sparland vicinity came to make her home with her uncle and aunt just two years ago. Mrs. Slay having been before her marriage famous in grand opera recognized in this slip of a girl the possibilities which she proved so positively were hers. Mrs. Slay taught her music and placed her under the tutorage of Mrs. Rose Mendenhall Breen, dramatic instructor. The child made such startling advancement that her teacher has trusted her with evening entertainments.
 
 "She is soloist in one of the large churches of this city. Though her voice is still childish it is all the more appealing. In refusing the astonishing offer made her by L.M. Parker, manager, Miss Wesley stated that she was not desirous of a stage career and that no flattering offer would tempt her to follow the footlights."
 

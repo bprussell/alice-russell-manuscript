@@ -10,7 +10,7 @@ After Parepa had left for the "candy store" the doorbell gave a loud ring and in
 
 "No! Absolutely no!" said Mr. George Slay and Frances said no more on the subject.
 
-"How long will you be in Peoria?" asked Mrs Slay timidly.
+"How long will you be in Peoria?" asked Mrs. Slay timidly.
 
 "Only a week or so if things come around alright. My guardian had a great deal of business to attend to in America and it will depend upon his success in getting it straightened up, when we leave. We will not come across again for two years."
 
@@ -56,7 +56,7 @@ At dinner he spoke again of Frances. "He is such a fine, jolly young fellow — 
 
 Sunday morning found the four of them in their pew at church. Many eyes turned on the young stranger and especially those belonging to the younger generation. After services several of these whom Parepa had met gathered round to speak to her and to be introduced to the dashing young gallant by her side.
 
-She was real generous and glad to have them meet him. Finally the choir director came toward them. Aunt Kate used to sing under his direction and he always begged her to continue singing as he said, "No voice has ever taken the place of yours." Now he was shaking hands with them. "And who are these fine children you have with you, Mrs Slay?"
+She was real generous and glad to have them meet him. Finally the choir director came toward them. Aunt Kate used to sing under his direction and he always begged her to continue singing as he said, "No voice has ever taken the place of yours." Now he was shaking hands with them. "And who are these fine children you have with you, Mrs. Slay?"
 
 Uncle George beamed on them as he introduced them.
 

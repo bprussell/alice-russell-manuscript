@@ -68,14 +68,14 @@ Uncle George's mind was busy too. "Gosh, she's a pippin', having all this tucked
 
 For a long way they rode in silence. Finally he drew up the reins at a farmhouse where he always fed his horses and got his dinner with the hospitable Jacksons.
 
-Mrs Jackson came out to the wagon for some coffee which she declared they were out of and on seeing Parepa sitting on the seat said, "Well, where did you get the girl? Did someone trade her in on coffee and spices?"
+Mrs. Jackson came out to the wagon for some coffee which she declared they were out of and on seeing Parepa sitting on the seat said, "Well, where did you get the girl? Did someone trade her in on coffee and spices?"
 
 "No, that's my girl," said Uncle George.
 
 Parepa didn't correct him for she had begun to imagine herself as partly Uncle George's girl anyway and was so hungry for some dinner and a rest from riding that the small matter of who she belonged to was nothing in comparison.
 
-Mrs Jackson called to her seventeen year old daughter to show Parepa where she could "wash up" and at once they were chattering away like they had always known each other. At the dinner table Mrs Jackson said, "I should judge your girl and our Ruth are about the same age, Ruth's sixteen."
+Mrs. Jackson called to her seventeen year old daughter to show Parepa where she could "wash up" and at once they were chattering away like they had always known each other. At the dinner table Mrs. Jackson said, "I should judge your girl and our Ruth are about the same age, Ruth's sixteen."
 
 "Just about," said Uncle George and changed the subject. Score one, thought Parepa-Roza. "From now on I'm sixteen."
 
-The meal progressed with the usual bantering and jokes between Uncle George and Mrs Jackson. Parepa-Roza was quiet. She had "reclined within herself" as big brother use to say when she closed her mouth and ears to those around her. After Mrs Jackson had traded in her "tea tickets" for a kettle and a tin cup the two mounted the seat and were off on their last stretch homeward.
+The meal progressed with the usual bantering and jokes between Uncle George and Mrs. Jackson. Parepa-Roza was quiet. She had "reclined within herself" as big brother use to say when she closed her mouth and ears to those around her. After Mrs. Jackson had traded in her "tea tickets" for a kettle and a tin cup the two mounted the seat and were off on their last stretch homeward.

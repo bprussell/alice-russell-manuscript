@@ -38,7 +38,7 @@ When Thursday evening came Charles Blough called for them to go to choir practic
 
 The professor greeted Aunt Kate, and while Parepa was being introduced to the others, she and he discussed Parepa's possibilities.
 
-"You could be a great help to me, Mrs Slay, if you could come with Parepa every night," he said.
+"You could be a great help to me, Mrs. Slay, if you could come with Parepa every night," he said.
 
 "I'd love to," she said and kept her word.
 
@@ -50,7 +50,7 @@ The next day Aunt Kate called her brother-in-law, Mr. Wm Slay, to her home for a
 
 "Mrs. Rose Mendenhall Breen is the best private instructor in the state," said Uncle Will. "If I were you I'd go and see her at once."
 
-On Saturday morning after Parepa had gone to the shop Uncle George and Aunt Kate started out to find a suitable teacher for Parepa. They found Mrs Breen much interested in taking her but the lessons would have to be given twice a week in one hour periods. They were to cost two dollars per lesson. She was to be given a complete course which would require a great deal of home study. They went home to talk it over with Parepa before deciding.
+On Saturday morning after Parepa had gone to the shop Uncle George and Aunt Kate started out to find a suitable teacher for Parepa. They found Mrs. Breen much interested in taking her but the lessons would have to be given twice a week in one hour periods. They were to cost two dollars per lesson. She was to be given a complete course which would require a great deal of home study. They went home to talk it over with Parepa before deciding.
 
 At supper they told her they had a big surprise for her. She must guess what it is.
 
@@ -110,6 +110,6 @@ Weekdays:
 
 The only break in the above schedule came on lesson days and choir practice. It was a busy happy girl that hurried from one duty to another always finding time to smile and brighten those about her with her ready wit which was fast manifesting itself as she became better acquainted.
 
-"It's worth the price of the lessons just to have her around," Mrs Breen confided to Mrs. Slay when she had called to inquire about her progress.
+"It's worth the price of the lessons just to have her around," Mrs. Breen confided to Mrs. Slay when she had called to inquire about her progress.
 
 "She is a natural actress and no doubt about that."

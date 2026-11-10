@@ -10,7 +10,7 @@ At each place they stopped to sell their wares Parepa-Roza tried not to be notic
 
 The only thing about Uncle George's business that really interested Parepa-Roza was watching the customers "pick out" their premiums for their "tea tickets."
 
-After they had left the last place on the route she said, "Uncle George, do you know not one of those women took a pretty thing. They all chose ugly old kettles, wash-pans, or mop-sticks? Why don't you suppose they take pretty things when they are getting them for nothing? Just think how pretty Mrs Jackson's shelf would look with Ruth's picture in one of those pretty celluloid frames and her dinner table would have been so beautiful with a bouquet of those petunias in one of these pretty vases. I could see that third one back really wanted that pretty matting rug for her tickets and I felt so sorry for her when she put it back and took the homeliest thing you had, that horrid old spittoon for her husband to spit in and I'll bet she will be the one that will have to empty it too. Uncle George, I want you to promise me something. Will you?"
+After they had left the last place on the route she said, "Uncle George, do you know not one of those women took a pretty thing. They all chose ugly old kettles, wash-pans, or mop-sticks? Why don't you suppose they take pretty things when they are getting them for nothing? Just think how pretty Mrs. Jackson's shelf would look with Ruth's picture in one of those pretty celluloid frames and her dinner table would have been so beautiful with a bouquet of those petunias in one of these pretty vases. I could see that third one back really wanted that pretty matting rug for her tickets and I felt so sorry for her when she put it back and took the homeliest thing you had, that horrid old spittoon for her husband to spit in and I'll bet she will be the one that will have to empty it too. Uncle George, I want you to promise me something. Will you?"
 
 "Now what are you up to? I've already added two years to your age, isn't that enough for one day?"
 
@@ -116,9 +116,9 @@ Parepa-Roza could have squeezed him for that, seemed as if he always said the ri
 
 "Oh, yes, I've always wished I could see a picnic — or be at one." She hesitated, knowing she had said the wrong thing. Her cheeks turned a deep crimson and she could feel herself slipping. The rest of them kept up a round of chatter but our heroine didn't risk another sentence during the meal. She was actually sweating now and Uncle George knew she was laboring harder to get done with that meal than she ever did milking the five cows which was her usual allotment each morning and evening.
 
-She will never know how she got through that meal. It was all a blur to her, but when Aunt Kate said as they rose from the table, "Parepa-Roza and I will do up the dishes and then we'll be out on the porch with you," she thought that for a few moments at least she would be away from the eyes and ears of this strange boy. No such luck. "Let me help you Mrs Slay? I can wash dishes as well as a woman so let me prove it?" said the unsuspecting Frances as he gathered his hands full of dirty dishes. "Right this way my ladies" and he bowed a low bow into the kitchen.
+She will never know how she got through that meal. It was all a blur to her, but when Aunt Kate said as they rose from the table, "Parepa-Roza and I will do up the dishes and then we'll be out on the porch with you," she thought that for a few moments at least she would be away from the eyes and ears of this strange boy. No such luck. "Let me help you Mrs. Slay? I can wash dishes as well as a woman so let me prove it?" said the unsuspecting Frances as he gathered his hands full of dirty dishes. "Right this way my ladies" and he bowed a low bow into the kitchen.
 
-"Oh! do the dishwashers get to finish up the salads and stuff," he said as his eyes fell on the remainder of "Parepa's first." "Really I thought that was the best salad I ever ate. How did you make it Mrs Slay?" Parepa wished she wasn't there to hear Aunt Kate tell him she made it, but she was and when he grabbed her two hands in his and swung her around saying, "Hurrah for the champion salad maker" she felt her awkwardness more than ever.
+"Oh! do the dishwashers get to finish up the salads and stuff," he said as his eyes fell on the remainder of "Parepa's first." "Really I thought that was the best salad I ever ate. How did you make it Mrs. Slay?" Parepa wished she wasn't there to hear Aunt Kate tell him she made it, but she was and when he grabbed her two hands in his and swung her around saying, "Hurrah for the champion salad maker" she felt her awkwardness more than ever.
 
 "Now you two can wipe and I'll wash," said Aunt Kate as she handed each a tea towel. Uncle George puffed at his cigar amused at the girl's discomfort. Parepa was really beginning to feel a little more at home now. Something in the "feel" of the tea towel was familiar to her and she ventured to say, "I better wipe the tumblers, you might break them" to Frances.
 
@@ -130,7 +130,7 @@ She will never know how she got through that meal. It was all a blur to her, but
 
 "Smarty, smarty," said Parepa just as she would have said to her own brother. "You see you're not so smart as you think you are. Breaking Aunt Kate's CRYSTAL."
 
-"I'm so sorry," he said picking up the pieces. "Is it an open stock pattern, Mrs Slay?"
+"I'm so sorry," he said picking up the pieces. "Is it an open stock pattern, Mrs. Slay?"
 
 I wonder what he's talking about, "open stock pattern" thought Parepa as Aunt Kate was telling him where she bought them and all about the name of the pattern, etc.
 
@@ -170,7 +170,7 @@ Uncle George had heard her singing while she was milking and had told Aunt Kate 
 
 "Yes," she answered, "but I haven't the least idea how it's played."
 
-"She'll never say that after tomorrow night, will she Mrs Slay?" he answered her.
+"She'll never say that after tomorrow night, will she Mrs. Slay?" he answered her.
 
 "I expect she'll be beating us all!" said Uncle George. After he left Uncle George couldn't help teasing Parepa a little so he said, "Pretty nice little fellow, eh, Parepa?"
 

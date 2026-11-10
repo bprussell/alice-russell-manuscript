@@ -8,7 +8,7 @@
 
 "Of course, this child must be raised a real boy, no sissy ways for him. His pleasures, his exercise, his associates must be of the kind that make for the better man. With this end in view I have followed a carefully planned schedule all these years. You can see what the result has been. A bright, alert, well proportioned and well balanced youngster, twenty years old the same day Parepa was sixteen."
 
-"Why didn't you tell us, Mr. Wheeler, and we would have had two birthday cakes," asked Mrs Slay.
+"Why didn't you tell us, Mr. Wheeler, and we would have had two birthday cakes," asked Mrs. Slay.
 
 "We did not intend ever to tell you but since these two are so wrapped up in each other I felt I should come to you before we leave and tell you, who have been so kind to this young girl, a few of the facts as they exist."
 
@@ -44,7 +44,7 @@ Aunt Kate set about preparing lunch for the four of them. She was just ready to 
 
 "I made it then and I made it now. Have I improved any?" the girl questioned laughingly.
 
-"Can't say you have—a salad such as that could never be improved upon. Many a time the memory of that salad has come to me as I claw over the hotel salads trying to relish them!" Turning to Mrs Slay he said, "I suggest you give this girl two years' training in domestic science while I'm away."
+"Can't say you have—a salad such as that could never be improved upon. Many a time the memory of that salad has come to me as I claw over the hotel salads trying to relish them!" Turning to Mrs. Slay he said, "I suggest you give this girl two years' training in domestic science while I'm away."
 
 "Nothing doing!" cried Parepa. "Of all things on earth I detest it's anything that has to do with housework. Sometimes I think I'm not domesticated at all. When I get married I'm going to marry a man that can afford to hire all that done for us. You'll never find this kid cooking and washing and scrubbing—not much-e-e-e. I'm going to be a wife whose duty alone is to allure and charm her husband," and she placed her elbows on the table, folded her long slender fingers and coyly laid her head on her hands turning a roguish glance on Frances.
 
@@ -114,7 +114,7 @@ He kissed her hair again and again. "No, I wouldn't harm one hair on this head,"
 
 Again they sat silently basking in their love for one another. Finally Frances said, "What are your plans for study these next two years?"
 
-"I haven't any," she said frankly. "I am going to spend my time helping Uncle George and Aunt Kate. You know I couldn't be an expense to them now that he has had to give up work. Mrs Breen has great plans for she and I to go about giving recitals over the nearby country. She is booking dates for us now. She will be my accompanist when I sing and we will both give readings and short sketches for two. Won't it be fun? I can still keep my job at the candy store."
+"I haven't any," she said frankly. "I am going to spend my time helping Uncle George and Aunt Kate. You know I couldn't be an expense to them now that he has had to give up work. Mrs. Breen has great plans for she and I to go about giving recitals over the nearby country. She is booking dates for us now. She will be my accompanist when I sing and we will both give readings and short sketches for two. Won't it be fun? I can still keep my job at the candy store."
 
 Again they sat silent Parepa picturing herself on the platform of small town churches or halls while Frances was trying to plan out a way of leaving a bank account for this independent young thing that she might keep on with her music lessons at least. It was growing dusk now and Parepa sprang from her seat with an "Up! Up! my lad! 'Tis time to flee."
 
@@ -124,4 +124,4 @@ They walked home hand in hand. When they reached the house Parepa recognized the
 
 "Just a slight stroke," he told Aunt Kate. "He will come out of it all right."
 
-Parepa slipped out to where the boy was standing and told him what she had heard. They went out on the porch and said their rather sad goodbyes. Mrs Slay came to the door with the doctor and bade Frances goodbye. "I'm sorry George isn't able to see you. You know how much we all love you and wish you your happiness, I'm sure."
+Parepa slipped out to where the boy was standing and told him what she had heard. They went out on the porch and said their rather sad goodbyes. Mrs. Slay came to the door with the doctor and bade Frances goodbye. "I'm sorry George isn't able to see you. You know how much we all love you and wish you your happiness, I'm sure."

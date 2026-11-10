@@ -14,7 +14,7 @@ Parepa beat him off and all the boys at the table rose to her defense and drug h
 
 "You mean—you mean he gets drunk?" and she fell forward. She had fainted.
 
-The girls all rushed to help her. They laid her on Mrs Allen's bed and called a doctor. "It was a terrible shock to the child," Mrs Allen told him. "Harold has told the boys they are to be married at the end of the term."
+The girls all rushed to help her. They laid her on Mrs. Allen's bed and called a doctor. "It was a terrible shock to the child," Mrs. Allen told him. "Harold has told the boys they are to be married at the end of the term."
 
 "He is such a fine smart fellow when he is sober, but a regular demon when he is drunk."
 

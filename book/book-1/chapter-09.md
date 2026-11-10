@@ -26,7 +26,7 @@ Parepa couldn't eat. Neither Mr. or Mrs. Slay appeared to notice this — but th
 
 Here they sat, not speaking a word but living again the old days and the new. In memory they were in youth again. The lights were low and so wrapped were they in their own thoughts that the sharp ring of the doorbell startled them into the present.
 
-Uncle George went to the door to find Frances and Mr Wheeler there.
+Uncle George went to the door to find Frances and Mr. Wheeler there.
 
 "Come in, come in," cordially invited Mr. Slay.
 

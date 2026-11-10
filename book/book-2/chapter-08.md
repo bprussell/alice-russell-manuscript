@@ -8,7 +8,7 @@ Then turning to Allie asked, "Do you think you can take care of him or shall I c
 
 "I'll do my best Doctor but if you think I'm not capable we'll get a nurse," and she smiled her most sincere smile at her pale husband laying before her.
 
-"You will be all right if you can stand it. It is going to take strenuous treatment for some time, Mrs Bradford. The ice cap must be kept over his heart, a complete record kept of everything going in and coming out of his body, and accurate temperature and respiration report kept, his medicine must be given as directed day and night without a miss, beside the many other duties that are bound to present themselves." The doctor looked at Allie as if he expected her to turn the job over to a nurse but he was mistaken.
+"You will be all right if you can stand it. It is going to take strenuous treatment for some time, Mrs. Bradford. The ice cap must be kept over his heart, a complete record kept of everything going in and coming out of his body, and accurate temperature and respiration report kept, his medicine must be given as directed day and night without a miss, beside the many other duties that are bound to present themselves." The doctor looked at Allie as if he expected her to turn the job over to a nurse but he was mistaken.
 
 "I can do all that I'm sure," she said, and was rewarded by the relieved expression on her husband's face.
 

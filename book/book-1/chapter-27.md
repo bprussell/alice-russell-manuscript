@@ -48,9 +48,9 @@ Frances retired early and immediately went to sleep. The next few days were sad 
 
 "She went out about half hour ago. Said she wanted to be alone and that she would not be in until late," said Mrs. Wm. Slay in answer to Frances's question.
 
-"The girl has got a great deal on her mind and I don't blame her for wanting to have some time to herself. Everyone tries to tell her what she should do and where she should go and who she should marry and why, until the poor child is most distracted. Take a chair, Mr. Emmerson and let's have a good visit. No use for you to hurry away," and Mrs Slay pulled out a comfortable looking chair for him.
+"The girl has got a great deal on her mind and I don't blame her for wanting to have some time to herself. Everyone tries to tell her what she should do and where she should go and who she should marry and why, until the poor child is most distracted. Take a chair, Mr. Emmerson and let's have a good visit. No use for you to hurry away," and Mrs. Slay pulled out a comfortable looking chair for him.
 
-"I thank you Mrs Slay very much, but I am in somewhat of a hurry myself. Was going to take Parepa with me but since she is not here I must hurry on. Thanks just the same." The fact was Frances didn't care to chat confidentially with anyone. He walked to the park, sat down in the summerhouse at the head of the Perry Street entrance.
+"I thank you Mrs. Slay very much, but I am in somewhat of a hurry myself. Was going to take Parepa with me but since she is not here I must hurry on. Thanks just the same." The fact was Frances didn't care to chat confidentially with anyone. He walked to the park, sat down in the summerhouse at the head of the Perry Street entrance.
 
 This place held no memories of times spent with Parepa. It was heavily foliaged by trees and vines which overhung it. Here was a quiet place to think. As he sat there, head in hands, earnestly trying to be fair to Parepa and himself he was startled by the approaching footsteps of two figures—a girl and a boy, evidently lovers.
 

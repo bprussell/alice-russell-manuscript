@@ -6,7 +6,7 @@
 > Editor, Peoria Tribune  
 > Peoria, Illinois
 >
-> I am endeavoring to ascertain the present whereabouts of Alice Parepa-Roza Wesley, who resided with relatives in your city, in the vicinity of the Bethany Baptist Church during the years 1898 to 1903. At that time she studied dramatic art with Mrs Rose Mendenhall Breen and piano and voice with a Mrs Slay.
+> I am endeavoring to ascertain the present whereabouts of Alice Parepa-Roza Wesley, who resided with relatives in your city, in the vicinity of the Bethany Baptist Church during the years 1898 to 1903. At that time she studied dramatic art with Mrs. Rose Mendenhall Breen and piano and voice with a Mrs. Slay.
 >
 > Though only a young girl she earned her way and paid for her lessons by working in a candy store on Main Street opposite the courthouse.
 >
@@ -27,7 +27,7 @@
 
 Allie handed the paper to her husband and sat down in a chair by the table.
 
-"Do you know who this man is, Mrs Bradford?" the reporter asked.
+"Do you know who this man is, Mrs. Bradford?" the reporter asked.
 
 "I can think of no man who would be so interested in me and my family," she answered. "I must ask you to refrain from questioning me further. I do not care to discuss this thing with anyone but my family at present. I thank you for your interest in me, and if you will leave your name I will gladly give you the story when there is anything to tell. Believe me sincere when I tell you I have answered your questions honestly," she rose as if to show him out.
 

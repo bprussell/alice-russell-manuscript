@@ -4,9 +4,9 @@ Their farm was sold and with the little money realized above the first mortgage 
 
 It was great fun furnishing this new home. Allie studied long over draperies, and floor coverings. She had to be so very careful not to overstep her limited funds allotted for this purpose. However, when the job was done it proved the artistic nature of this homemaker and mother. Every room showed definite planning.
 
-When the man came from the drapery department of Peoria's largest store to hang the living room drapes he showed his surprise and pleasure at the wonderful color combinations throughout the house. "You are primarily an artist, Mrs Bradford," he told her. "Do you mind my bringing our manager to look this over?"
+When the man came from the drapery department of Peoria's largest store to hang the living room drapes he showed his surprise and pleasure at the wonderful color combinations throughout the house. "You are primarily an artist, Mrs. Bradford," he told her. "Do you mind my bringing our manager to look this over?"
 
-She consented and the next morning they arrived. The manager was genuinely enthusiastic over the "completed picture" as he called it. "It is unusual indeed to find such harmony throughout the whole house. Would you consider an offer from us, Mrs Bradford? We are greatly in need of someone like you who understands color and its effect. I'm sure we could make you an interesting proposition."
+She consented and the next morning they arrived. The manager was genuinely enthusiastic over the "completed picture" as he called it. "It is unusual indeed to find such harmony throughout the whole house. Would you consider an offer from us, Mrs. Bradford? We are greatly in need of someone like you who understands color and its effect. I'm sure we could make you an interesting proposition."
 
 Allie was greatly pleased but reminded him of her family, "I'd love doing it," she said, "but you know three lively boys keep me busy. It would be out of the question."
 

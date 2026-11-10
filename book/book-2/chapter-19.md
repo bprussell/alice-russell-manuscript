@@ -6,7 +6,7 @@ Allie took the receiver shakingly in her hand.
 
 "Hello," she said.
 
-"This is a reporter for the Peoria Tribune speaking Mrs Bradford. Were you, before your marriage, Miss Alice Parepa-Roza Wesley?" the voice inquired.
+"This is a reporter for the Peoria Tribune speaking Mrs. Bradford. Were you, before your marriage, Miss Alice Parepa-Roza Wesley?" the voice inquired.
 
 "I was," she answered calmly.
 
@@ -14,7 +14,7 @@ Allie took the receiver shakingly in her hand.
 
 "I did," was her answer.
 
-"I want to advise you Mrs Bradford that we received a communication from a party in Arizona whose name I will withhold for the present, asking us to make an effort to locate you."
+"I want to advise you Mrs. Bradford that we received a communication from a party in Arizona whose name I will withhold for the present, asking us to make an effort to locate you."
 
 "Thank you very much," was her only reply.
 
@@ -64,7 +64,7 @@ Allie recognized the voice of an old schoolmate whom she knew to have developed 
 
 "Oh, it seems as if someone who knew me when I went to the Bethany Church in Peoria is trying to locate me again," she said as she turned to answer the 'phone which was ringing frantically. The following conversation took place:
 
-"This is Mrs Bradford?"
+"This is Mrs. Bradford?"
 
 "Peoria is calling you, hold the line," said the operator.
 
@@ -106,9 +106,9 @@ Allie heard the coins tinkle into the 'phone box. She hoped no one was going to 
 
 "Thank you. Good night Frank."
 
-Without turning from the 'phone she called central. "Hello, operator? This is Mrs Bradford. If there are any more long distance calls come in for me, will you kindly inform them I cannot answer any more calls tonight?"
+Without turning from the 'phone she called central. "Hello, operator? This is Mrs. Bradford. If there are any more long distance calls come in for me, will you kindly inform them I cannot answer any more calls tonight?"
 
-"All right, Mrs Bradford. I'll see that you are not bothered anymore."
+"All right, Mrs. Bradford. I'll see that you are not bothered anymore."
 
 "Now maybe I can talk to my family," she said seating herself at her place at the table. Her eyes fell on the locket outlined on the cloth. Quickly she turned away. Why should that haunt her so tonight? "Now I'll try to tell you all I have heard. The first 'phone call was from the Peoria Tribune office. He said they had a letter from someone living in Arizona wanting them to put forth an effort to locate me."
 

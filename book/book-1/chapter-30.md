@@ -67,7 +67,7 @@ Thus it was that from birth this child of yesterday was "shattered to bits" and 
 
 Parepa sat again as if petrified listening to this strange confession. Then turning her face to his and searching his eyes for a minute she said, "Are Mr. Wheeler, yourself, and I the only ones living who know your story, Frances?"
 
-"Yes," he answered, "we are. Mr Wheeler's father knew and my nurse knew but they both died with their lips sealed."
+"Yes," he answered, "we are. Mr. Wheeler's father knew and my nurse knew but they both died with their lips sealed."
 
 "Then I shall never tell, never even unto death."
 

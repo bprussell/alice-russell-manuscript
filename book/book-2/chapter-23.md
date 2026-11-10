@@ -20,7 +20,7 @@ Parepa rose and Daddy placed a chair for her.
 
 "It's my heart," she said. "I have to be careful." Just then a nurse came into the room. Frances introduced them and added, "This is my best girlhood chum. She has come from Illinois to see me."
 
-"That's fine. Now Miss Emmerson I'm afraid you will have to excuse yourself and take some rest." Turning to Parepa she added, "I'm sorry, Mrs Bradford, but doctor's orders are orders you know."
+"That's fine. Now Miss Emmerson I'm afraid you will have to excuse yourself and take some rest." Turning to Parepa she added, "I'm sorry, Mrs. Bradford, but doctor's orders are orders you know."
 
 "I'll see you after dinner, Parepa," and Frances was rolled through big doors into her sleeping room.
 
@@ -50,7 +50,7 @@ This wish was quite naturally granted as Frances was only allowed to visit one h
 
 There was lots of good reading on her table but she was so tired. "I believe I'll retire now," she told her maid. After a shower and brisk rub she slipped into her nightgown and after her prayers were said got into the most luxurious bed she had ever seen.
 
-"I'll be in this room, Mrs Bradford," said her maid, "should you need me just push this button. Good night."
+"I'll be in this room, Mrs. Bradford," said her maid, "should you need me just push this button. Good night."
 
 "Good night dear," and Parepa sank into a restful slumber. She did not waken through the night. It was nine o'clock the next morning before she dressed. Her breakfast was brought to her sitting room. She relished every morsel of it.
 
@@ -80,4 +80,4 @@ Daddy Wheeler entered the room with a stack of official looking envelopes in his
 
 "Now, Parepa, we will go over these together so you will understand the business perfectly," and Daddy Wheeler drew his chair closer to hers. He explained to her the process of transferring the bank deposits from Frances's name into hers. "You won't have a bit of trouble taking care of them. The interest on each is payable yearly and they are divided up so some are due the first of every month. The banker will forward you a draft for the interest and you can deposit them wherever you care to. Your income will amount to a great deal per year. It is her wish that you be not restricted in any way. It is yours to do as you like with. However, she has put to your checking account in four banks the amounts of two hundred and fifty thousand dollars for your immediate needs. Here are the bank books and checks. You can use them immediately. They are already in your name."
 
-He had her sign signature cards to accompany each transfer so there could be no question as to her identity. It was a long tiresome job and as she eyed the stack of cards with plainly written Mrs John Bradford on each, she heaved a sigh of relief that it was finished. "How can this money be in my name, now?" she questioned. "How could the bank books be in my name?"
+He had her sign signature cards to accompany each transfer so there could be no question as to her identity. It was a long tiresome job and as she eyed the stack of cards with plainly written Mrs. John Bradford on each, she heaved a sigh of relief that it was finished. "How can this money be in my name, now?" she questioned. "How could the bank books be in my name?"

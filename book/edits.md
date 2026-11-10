@@ -158,6 +158,12 @@ logged here as Phase 3 proceeds; global decisions are recorded up front.
   a Girl." → "Darling, I'm a *girl*."; and plain lowercase for Ch XXX
   "—My Dreams are Over." → "—my dreams are over."
 
+- **"Mrs" and "Mr" take a period (decided 2026-11-10, with the author's
+  great-grandson):** she typed "Mrs" without a period 73 times and with
+  one 15 times, and "Mr" almost always with one; the reading text uses
+  American "Mrs." and "Mr." throughout (75 periods added). Extends the
+  earlier "Mr Rice" → "Mr. Rice" ruling (Book II Ch X).
+
 ## Global typography (applied throughout, not logged per instance)
 
 Line breaks unwrapped and ⟦hyphen⟧ words rejoined; all ⟦…⟧ markers

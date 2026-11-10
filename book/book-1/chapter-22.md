@@ -56,7 +56,7 @@ Mr. Wheeler came into his room to plan the day's program, and noticed a tired wo
 
 "Now, my lad, get dressed and we'll have breakfast. Then we are going to go into my room and have a long, long talk. It's time we have a conference such as we have not had for years."
 
-Before going to Mr. Wheeler's private rooms, Frances called Mrs. Slay by 'phone and learned that Parepa was much better and had gone for a walk. "She and Mrs Breen are spending the afternoon and evening together," Aunt Kate said.
+Before going to Mr. Wheeler's private rooms, Frances called Mrs. Slay by 'phone and learned that Parepa was much better and had gone for a walk. "She and Mrs. Breen are spending the afternoon and evening together," Aunt Kate said.
 
 Mr. Wheeler was sitting tipped back in his chair looking out of his window in a deep study. Frances did not disturb him at first, for he thought he was probably trying to figure out a most effective prescription for him.
 
