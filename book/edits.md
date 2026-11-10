@@ -402,6 +402,11 @@ Changes from the great-grandson's read-through of the EPUB proof.
   two years" elsewhere and speaks no such dialect; read as a letter lost
   at the line break.
 
+- **Book I Ch XXI, p103:** closing quote dropped after Parepa's "I hope
+  we shall all be friends always." so her next paragraph ("I want to
+  thank you all...") reads as her continuing speech, per the usual
+  convention (typed closed, which signals a new speaker).
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's

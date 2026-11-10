@@ -28,7 +28,7 @@ Mr. Wheeler stood up and glancing around the table mischievously said: "You aske
 
 When he sat down Frances sprang up. His face aglow and his eyes sparkling. "Parepa was the first playmate I ever felt like really playing with. I have, all my life, felt a restraint which seemed impossible to overcome. The minute I saw her I knew we would be great friends forever. And we are going to be—aren't we Parepa?"
 
-"Indeed we are," she said raising from her chair. "I hope we shall all be friends always."
+"Indeed we are," she said raising from her chair. "I hope we shall all be friends always.
 
 "I want to thank you all for the many nice things you have said about me tonight and for the many unkind things you might truthfully have said that you didn't mention. Now, Uncle George, I am going to ask you if you won't please tell these good people the part of our conversation on the way to Peoria in the tea wagon that you avoided telling them before. The part that will make a difference in the number of candles on my birthday cake and the number of roses in Mr. Wheeler's bouquet."
 
