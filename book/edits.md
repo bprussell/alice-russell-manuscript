@@ -411,6 +411,10 @@ Changes from the great-grandson's read-through of the EPUB proof.
   **"Te-he-he, we saw you spoonin'."** — capital to open the speech,
   comma after the giggle (her "spoonin'" kept).
 
+- **Book I Ch XXIV, p132:** "Up! Up! my lad! 'Tis time to flee." →
+  **"Up! Up! My lad!"** — capitalized to match the second "Up!" and
+  "'Tis" after the other exclamation points.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's

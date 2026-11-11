@@ -116,7 +116,7 @@ Again they sat silently basking in their love for one another. Finally Frances s
 
 "I haven't any," she said frankly. "I am going to spend my time helping Uncle George and Aunt Kate. You know I couldn't be an expense to them now that he has had to give up work. Mrs. Breen has great plans for she and I to go about giving recitals over the nearby country. She is booking dates for us now. She will be my accompanist when I sing and we will both give readings and short sketches for two. Won't it be fun? I can still keep my job at the candy store."
 
-Again they sat silent Parepa picturing herself on the platform of small town churches or halls while Frances was trying to plan out a way of leaving a bank account for this independent young thing that she might keep on with her music lessons at least. It was growing dusk now and Parepa sprang from her seat with an "Up! Up! my lad! 'Tis time to flee."
+Again they sat silent Parepa picturing herself on the platform of small town churches or halls while Frances was trying to plan out a way of leaving a bank account for this independent young thing that she might keep on with her music lessons at least. It was growing dusk now and Parepa sprang from her seat with an "Up! Up! My lad! 'Tis time to flee."
 
 They walked home hand in hand. When they reached the house Parepa recognized the neighborhood doctor hurrying into their house.
 
