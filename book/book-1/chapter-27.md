@@ -38,7 +38,7 @@ Finally the doctor came in. "How has she been resting?" he asked.
 
 "Think I better waken her," and the old doctor bent low and said, "Parepa-Roza! Parepa-Roza! Come, child, wake up," and he patted her hand gently.
 
-"I don't—want to," she said and giving her head a toss on the pillow closed her eyes again. She was asleep.
+"I don't—want to," she said and, giving her head a toss on the pillow, closed her eyes again. She was asleep.
 
 Frances leaned over her. "Goodbye, Parepa, darling," he said. "I'll come back in the morning. If you want me sooner I'll come any time."
 

@@ -437,6 +437,11 @@ Changes from the great-grandson's read-through of the EPUB proof.
   white child on the bed opened her eyes, smiled again at Frances, and,
   reaching out her hand to his, fell asleep again."
 
+- **Book I Ch XXVII:** commas around "giving her head a toss on the
+  pillow" ('"I don't—want to," she said and, giving her head a toss on
+  the pillow, closed her eyes again.'), as with "and, smiling, passed
+  on."
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
