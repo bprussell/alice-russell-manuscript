@@ -456,6 +456,10 @@ Changes from the great-grandson's read-through of the EPUB proof.
   added after the name in direct address ("Take a chair, Mr. Emmerson,
   and let's have a good visit").
 
+- **book-1/chapter-29.md:** "Seating herself closely beside him, she cuddled up to him,
+  pulling from his breast the long chain and locket." — two commas
+  added.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's

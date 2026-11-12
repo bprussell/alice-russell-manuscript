@@ -8,7 +8,7 @@ Each sat quietly for some time. Then Frances rose, drew the locket from his brea
 
 "Parepa! Parepa-Roza! Come to me. Come my love!" he cried.
 
-She circled nearer and nearer him and, throwing her cape over his head, led him to the old log. Seating herself closely beside him she cuddled up to him pulling from his breast the long chain and locket. His arms were tightly around her now and he was kissing her hot lips.
+She circled nearer and nearer him and, throwing her cape over his head, led him to the old log. Seating herself closely beside him, she cuddled up to him, pulling from his breast the long chain and locket. His arms were tightly around her now and he was kissing her hot lips.
 
 Holding up the locket and kissing it, she whispered, "Frances can I see what's in it tomorrow?" she asked. "I really want to know."
 
