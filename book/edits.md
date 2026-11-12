@@ -496,14 +496,22 @@ Changes from the great-grandson's read-through of the EPUB proof.
   years old, and to her..." — three commas added (her quoted "Allie's"
   kept).
 
-- **Comma pass, pilot (2026-11-12): Book II Ch I–II.** Clear fixes only,
-  commas only, no words changed — Ch I 32 places, Ch II 9 (one stray
-  comma removed: "She kissed Iona, and washed the bucket"). Same rules
-  as the Book I Ch XXX pass: introductory clauses, asides and
-  descriptions, direct address, series commas (her usual style), and
-  joins between long clauses; her comma splices, fragments and
-  optional short-opener commas left alone. Pending the family's verdict
-  before the rest of the book.
+- **Comma pass, whole book (2026-11-12, approved after a pilot on Book
+  II Ch I–II):** clear comma fixes throughout both books, commas only,
+  no words changed (machine-verified). Pilot: 41 places; Book I Ch XXX:
+  34; remaining 54 chapters: 1,264 (1,249 clear fixes plus 15 flagged
+  items settled by the same rules, e.g. "Christian, Lutheran, and
+  Presbyterian", "the long, long hills", "his great, great grandmother",
+  "ask a girl that he really and truly loved to marry him" to match its
+  Ch XXIX echo). About 17 stray commas removed. Rules: introductory
+  clauses, asides and descriptions, names in direct address, series
+  commas, commas before "and/but" joining two long clauses, coordinate
+  adjectives; left alone: comma splices, fragments, short openers,
+  verse, the Ch XVI newspaper decks, the Book II Ch XX letter, and four
+  run-on lines read as her rhythm (Book I Ch I "work out would miss",
+  Ch IV "you see Papa won't let me stay I know", Ch XIX "a heartless
+  creature never to have noticed", Ch XXIV "fell into silence each was
+  deep"). Six judgment calls put to the family (see below).
 
 ## Open REVIEW flags
 
