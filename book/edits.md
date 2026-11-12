@@ -468,6 +468,10 @@ Changes from the great-grandson's read-through of the EPUB proof.
   understand." → comma between the doubled "you"s ("If I was to tell
   you, you could not..."); "was" kept (dialogue).
 
+- **Book I Ch XXX, p160:** "a dashing young fellow handsome in face and
+  manner" → comma after "fellow"; "as her mothers before her" kept
+  (plural = her foremothers, as elsewhere in the confession).
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
