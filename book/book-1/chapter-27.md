@@ -4,7 +4,7 @@ In a few minutes the doctor entered the room. Frances stood on one side of the n
 
 "There's nothing we can do, the end is quite near. I didn't expect it so soon," he said.
 
-Aunt Kate rallied a little and smiling took Frances's hand in hers and then weakly reaching for Parepa's placed it in Frances's. She laid her own thin hand over the two younger ones and smiling passed on.
+Aunt Kate rallied a little and, smiling, took Frances's hand in hers and then weakly reaching for Parepa's placed it in Frances's. She laid her own thin hand over the two younger ones and, smiling, passed on.
 
 Parepa fell on her knees in a dead faint.
 

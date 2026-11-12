@@ -415,6 +415,11 @@ Changes from the great-grandson's read-through of the EPUB proof.
   **"Up! Up! My lad!"** — capitalized to match the second "Up!" and
   "'Tis" after the other exclamation points.
 
+- **Book I Ch XXVII, p147:** commas set off "smiling" twice at Aunt
+  Kate's death — "rallied a little and, smiling, took Frances's hand"
+  and "laid her own thin hand over the two younger ones and, smiling,
+  passed on."
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
