@@ -8,7 +8,7 @@ Frances laughed as they sat down on the soft grass in the shade of the large elm
 
 "Would you like to see what's in the locket now, darling?" and, pulling it from his breast, dangled it before her eyes.
 
-She took it in her hands warm from the heat of his flesh as she said, "Not just now Frances, I want to ask you a few questions, first. Why, do you insist upon my knowing?" and she turned her honest blue eyes to his.
+She took it in her hands warm from the heat of his flesh as she said, "Not just now Frances, I want to ask you a few questions, first. Why do you insist upon my knowing?" and she turned her honest blue eyes to his.
 
 "If I was to tell you you could not understand. You must see for yourself," and, taking the locket from her, he placed the key into the lock and turned it once forward twice backward and five clicks forward. It sprang open and Frances said, "We'll look at the photos first." He laid them in a row before her.
 

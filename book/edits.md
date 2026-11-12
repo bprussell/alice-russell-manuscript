@@ -460,6 +460,10 @@ Changes from the great-grandson's read-through of the EPUB proof.
   pulling from his breast the long chain and locket." — two commas
   added.
 
+- **Book I Ch XXX, p157:** "Why, do you insist upon my knowing?" → **"Why
+  do you insist upon my knowing?"** — she is asking his reason (he
+  answers with one), so "Why" is the question word, not an exclamation.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
