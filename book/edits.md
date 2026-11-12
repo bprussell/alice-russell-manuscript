@@ -464,6 +464,10 @@ Changes from the great-grandson's read-through of the EPUB proof.
   do you insist upon my knowing?"** — she is asking his reason (he
   answers with one), so "Why" is the question word, not an exclamation.
 
+- **Book I Ch XXX, p157:** "If I was to tell you you could not
+  understand." → comma between the doubled "you"s ("If I was to tell
+  you, you could not..."); "was" kept (dialogue).
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's

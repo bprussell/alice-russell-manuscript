@@ -10,7 +10,7 @@ Frances laughed as they sat down on the soft grass in the shade of the large elm
 
 She took it in her hands warm from the heat of his flesh as she said, "Not just now Frances, I want to ask you a few questions, first. Why do you insist upon my knowing?" and she turned her honest blue eyes to his.
 
-"If I was to tell you you could not understand. You must see for yourself," and, taking the locket from her, he placed the key into the lock and turned it once forward twice backward and five clicks forward. It sprang open and Frances said, "We'll look at the photos first." He laid them in a row before her.
+"If I was to tell you, you could not understand. You must see for yourself," and, taking the locket from her, he placed the key into the lock and turned it once forward twice backward and five clicks forward. It sprang open and Frances said, "We'll look at the photos first." He laid them in a row before her.
 
 "Oh!" she cried. "They all have on the locket." As she picked each one up and scrutinized it carefully she commented on their features, attire, and hairdress. Growing serious and laughing heartily at times. She asked many questions about them as Frances introduced each one. "I love this one, Frances," she said as she raised it to her lips and kissed it. "Because it's your mother and because she has a quality expressed in her features that is not so distinct in the others."
 
