@@ -496,6 +496,15 @@ Changes from the great-grandson's read-through of the EPUB proof.
   years old, and to her..." — three commas added (her quoted "Allie's"
   kept).
 
+- **Comma pass, pilot (2026-11-12): Book II Ch I–II.** Clear fixes only,
+  commas only, no words changed — Ch I 32 places, Ch II 9 (one stray
+  comma removed: "She kissed Iona, and washed the bucket"). Same rules
+  as the Book I Ch XXX pass: introductory clauses, asides and
+  descriptions, direct address, series commas (her usual style), and
+  joins between long clauses; her comma splices, fragments and
+  optional short-opener commas left alone. Pending the family's verdict
+  before the rest of the book.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
