@@ -511,7 +511,15 @@ Changes from the great-grandson's read-through of the EPUB proof.
   run-on lines read as her rhythm (Book I Ch I "work out would miss",
   Ch IV "you see Papa won't let me stay I know", Ch XIX "a heartless
   creature never to have noticed", Ch XXIV "fell into silence each was
-  deep"). Six judgment calls put to the family (see below).
+  deep"). Six judgment calls ruled on by the family: Book II Ch VIII
+  "the sunsets or charming moonlight, which always held her spellbound"
+  (both held her spellbound); Ch X "came home delighted. Kissing his
+  wife, he announced..." (comma splice split into two sentences, the
+  family's wording); Ch XIV "in kind old Uncle George's arms, riding
+  home from the show, disgraced."; Ch XXVII "the soft velvet night,
+  saturated with ... star studded sky, seemed to soften..."; kept as
+  typed: Book I Ch XXV "so sweet and she so charming no wonder" and
+  Book II Ch XIII "The shutters which hung by one or more hinges".
 
 ## Open REVIEW flags
 

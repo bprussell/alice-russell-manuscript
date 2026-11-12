@@ -42,7 +42,7 @@ If they had dared to believe store keeping was going to be an easy job, they wer
 
 Allie didn't care what its sex, just so it was alright. Her whole mind was on this live thing near her heart. It was nearly five years since they were married. Happy, trying years. Years of sacrifice and suffering.
 
-There had been nothing with which to satisfy the old Parepa's love for beautiful things. No time or money for pretty gardens, dainty fancy work, beautiful literature, or even the time to enjoy the sunsets, or charming moonlight which always held her spellbound. Nevertheless, she had not lost her love for beautiful things. Now and then she caught herself gazing into the bygone past. She could see the gardens, the lake, the beautiful mansion among the trees. The wide walks, the stables, with their fine steeds. But never did she see a husband, never did she warm to the approach of one man in these dreams. Never did she see her children playing in the nursery.
+There had been nothing with which to satisfy the old Parepa's love for beautiful things. No time or money for pretty gardens, dainty fancy work, beautiful literature, or even the time to enjoy the sunsets or charming moonlight, which always held her spellbound. Nevertheless, she had not lost her love for beautiful things. Now and then she caught herself gazing into the bygone past. She could see the gardens, the lake, the beautiful mansion among the trees. The wide walks, the stables, with their fine steeds. But never did she see a husband, never did she warm to the approach of one man in these dreams. Never did she see her children playing in the nursery.
 
 Frances had said, "Someday you will be a real mother, a proud one. I hope there will be lots of boys."
 

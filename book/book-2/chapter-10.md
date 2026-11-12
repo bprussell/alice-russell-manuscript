@@ -32,6 +32,6 @@ Butter was seventy-five cents a pound, sugar, if you could get it at all, was "o
 
 They were all a healthy, happy family. Month after month passed.
 
-One evening Johnie came home delighted, kissing his wife he announced the fact that he had been given a generous raise. Evidently his boss had recognized his sterling worth and steadfastness. Allie could hardly believe it could be so much. Shop work was so new to him, she had thought it would be a long time before he would be given a more remunerative position. His new duties were not so strenuous, but there was more responsibility connected with it.
+One evening Johnie came home delighted. Kissing his wife, he announced the fact that he had been given a generous raise. Evidently his boss had recognized his sterling worth and steadfastness. Allie could hardly believe it could be so much. Shop work was so new to him, she had thought it would be a long time before he would be given a more remunerative position. His new duties were not so strenuous, but there was more responsibility connected with it.
 
 Everything ran smoothly these days. Allie had joined the Athenian Delphian Society, was enjoying the social duties connected with the Arcadia Presbyterian Church and the Parent Teacher's Association of the Columbia School. She guided her children carefully through the confusing lower grades and was a real companion to them. No question, however intricate, was passed off unanswered. In this way they grew through boyhood with no mysteries of life tormenting their mentalities.

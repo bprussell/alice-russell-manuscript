@@ -14,7 +14,7 @@ The plans were made and every wish was carried out.
 
 As Parepa-Roza took her place beside Daddy Wheeler and the little procession moved slowly from the sobered "Kashema," the setting sun tinted the skies with a thousand hues of red, gold, and purple. Then the night—the desert moon and stars swing like hanging lamps—so near to the earth that they seemed almost to touch the thorny fingers of the stately old mountains that stood as watchmen of the dunes.
 
-The beauty and sublimity of the soft velvet night saturated with the perfume ladened air of the desert beneath the mysterious expanse of its star studded sky seemed to soften the sorrow and loneliness in the hearts and minds of the earthly companions of the departed one as the funeral cortege passed into the little graveyard.
+The beauty and sublimity of the soft velvet night, saturated with the perfume ladened air of the desert beneath the mysterious expanse of its star studded sky, seemed to soften the sorrow and loneliness in the hearts and minds of the earthly companions of the departed one as the funeral cortege passed into the little graveyard.
 
 Reverently, as though a throng of mourners were weeping beside the bier, the body of one whose life had blessed the earth was laid to rest.
 

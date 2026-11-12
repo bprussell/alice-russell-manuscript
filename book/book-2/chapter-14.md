@@ -22,7 +22,7 @@ In the bottom of that box were the diaries of those four years which Uncle Georg
 
 A card fell on her lap. She read it: Dear Parepa-Roza: "With best wishes for your future happiness and a fond memory of an evening with 'Uncle Tom' and you."—Frances.
 
-She raised the glasses to her eyes and in memory saw the picture of a young girl so happy and free, dressed in a fluffy pink dress and a large leghorn hat with flowers around the crown and hanging from the brim over her shoulder. The picture changed! Now the same face was tear stained, the pretty pink dress wet and mussed. She was laying in kind old Uncle George's arms riding home from the show disgraced.
+She raised the glasses to her eyes and in memory saw the picture of a young girl so happy and free, dressed in a fluffy pink dress and a large leghorn hat with flowers around the crown and hanging from the brim over her shoulder. The picture changed! Now the same face was tear stained, the pretty pink dress wet and mussed. She was laying in kind old Uncle George's arms, riding home from the show, disgraced.
 
 She replaced the glasses, and suddenly she clasped the lid shut and laid it in the box beside the other gifts, as a child would have done had he been caught prying into places he had no business to be. "I will never peek at them again," she told herself. All these years I have refrained from opening that box. I must never do it again.
 
