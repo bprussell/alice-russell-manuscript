@@ -1,6 +1,6 @@
 # Chapter XXIX
 
-Yes, it was. There was no doubt. The figure stood still for some time gazing over the water as if in a dream. Parepa felt a strong impulse to spring to her feet, rush to his arms and live again the ecstasy that was theirs two years ago. He turned, and coming closer to the log, sat down on the opposite end from which Parepa was sitting near.
+Yes, it was. There was no doubt. The figure stood still for some time gazing over the water as if in a dream. Parepa felt a strong impulse to spring to her feet, rush to his arms and live again the ecstasy that was theirs two years ago. He turned and, coming closer to the log, sat down on the opposite end from which Parepa was sitting near.
 
 He was talking to himself now in a low voice. She heard him say distinctly, "She must listen—I must tell her. If she won't hear me I will leave her forever, never to see her again. No real man would ask a girl that he truly loved to marry him without telling her all about his past and his plans for the future." Parepa gasped—she recognized those as the very words Joseph had repeated not half an hour ago. Had he heard?
 
@@ -8,9 +8,9 @@ Each sat quietly for some time. Then Frances rose, drew the locket from his brea
 
 "Parepa! Parepa-Roza! Come to me. Come my love!" he cried.
 
-She circled nearer and nearer him and throwing her cape over his head led him to the old log. Seating herself closely beside him she cuddled up to him pulling from his breast the long chain and locket. His arms were tightly around her now and he was kissing her hot lips.
+She circled nearer and nearer him and, throwing her cape over his head, led him to the old log. Seating herself closely beside him she cuddled up to him pulling from his breast the long chain and locket. His arms were tightly around her now and he was kissing her hot lips.
 
-Holding up the locket and kissing it she whispered, "Frances can I see what's in it tomorrow?" she asked. "I really want to know."
+Holding up the locket and kissing it, she whispered, "Frances can I see what's in it tomorrow?" she asked. "I really want to know."
 
 "Yes, my darling, you can. In the meantime I want you to prepare to be true to yourself—to him and to me after hearing my secret. Will you promise?" Those words were familiar. Now she was sure he had heard.
 

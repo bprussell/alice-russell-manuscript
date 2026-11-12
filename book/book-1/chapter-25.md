@@ -48,7 +48,7 @@ Joseph—"Oh God! I hope he is changed."
 
 The sound of the children's voices came floating through the room and found each teacher at their board drawing. The children came in at a side door. Each little girl ran to Parepa with a small bunch of flowers for her. She took each child into her arms and kissed them. Frances was sure she was an angel—and a—mother.
 
-"In as much as ye do it unto one of the least of these ye do it also unto me," he repeated to himself and turning he left the building.
+"In as much as ye do it unto one of the least of these ye do it also unto me," he repeated to himself and, turning, he left the building.
 
 When Parepa came home from church Mrs. Field, who had stayed with Aunt Kate, said, "And did the handsome young fellow find you at the church, Parepa?"
 
@@ -90,7 +90,7 @@ Frances saw him turn and watch her go into the light. He watched her until she w
 
 "Parepa will you promise me that if this fellow has changed and you don't care for him so much, that you will come right to me? I know I haven't a thing to offer you yet, but I'm going to have someday. Will you promise, darling?" he asked feverishly.
 
-"Yes, Joseph—I promise." He grabbed her into his arms and covered her face, her neck, her hair, her very eyelids with kisses. She did not resist, she felt sorry for him. She wanted to comfort him—but—how? He held her in silence for a long time then, loosening his grasp and springing to his feet he said, "Goodbye darling of my heart, I will never kiss you again unless you ask it."
+"Yes, Joseph—I promise." He grabbed her into his arms and covered her face, her neck, her hair, her very eyelids with kisses. She did not resist, she felt sorry for him. She wanted to comfort him—but—how? He held her in silence for a long time then, loosening his grasp and springing to his feet, he said, "Goodbye darling of my heart, I will never kiss you again unless you ask it."
 
 "Goodbye, my good friend, goodbye," and as he went through the gate she threw herself on the porch cushions and sobbed and sobbed. Frances's heart was breaking for this wonderful woman whose love he had captured four years ago when she was a mere child.
 

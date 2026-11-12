@@ -2,15 +2,15 @@
 
 Frances called Parepa by 'phone the next forenoon and arranged for a trip to the park. They went directly to the slope of the hill where they had sat together two years ago.
 
-"There it is! There's the place!" cried Parepa almost running to it and throwing her cape on the grass she turned to Frances and said, "Welcome home my dear one, thou hast come at last!" in a most dramatic way.
+"There it is! There's the place!" cried Parepa almost running to it and, throwing her cape on the grass, she turned to Frances and said, "Welcome home my dear one, thou hast come at last!" in a most dramatic way.
 
 Frances laughed as they sat down on the soft grass in the shade of the large elm tree. For a long time they sat in silent understanding and peace.
 
-"Would you like to see what's in the locket now, darling?" and pulling it from his breast dangled it before her eyes.
+"Would you like to see what's in the locket now, darling?" and, pulling it from his breast, dangled it before her eyes.
 
 She took it in her hands warm from the heat of his flesh as she said, "Not just now Frances, I want to ask you a few questions, first. Why, do you insist upon my knowing?" and she turned her honest blue eyes to his.
 
-"If I was to tell you you could not understand. You must see for yourself," and taking the locket from her he placed the key into the lock and turned it once forward twice backward and five clicks forward. It sprang open and Frances said, "We'll look at the photos first." He laid them in a row before her.
+"If I was to tell you you could not understand. You must see for yourself," and, taking the locket from her, he placed the key into the lock and turned it once forward twice backward and five clicks forward. It sprang open and Frances said, "We'll look at the photos first." He laid them in a row before her.
 
 "Oh!" she cried. "They all have on the locket." As she picked each one up and scrutinized it carefully she commented on their features, attire, and hairdress. Growing serious and laughing heartily at times. She asked many questions about them as Frances introduced each one. "I love this one, Frances," she said as she raised it to her lips and kissed it. "Because it's your mother and because she has a quality expressed in her features that is not so distinct in the others."
 
@@ -24,11 +24,11 @@ After a long while she replaced each one on their side of the locket and clasped
 
 "That's it—my secret," he told her and she noticed he was trembling in voice and body. "Letters written by my mother to her unborn son. She wrote them from the time she knew I was to be, up to a week before her death. They are not all here, of course. So thoughtful was she of me and my future that she wrote her wishes to her old nurse who was to be my nurse too, and to Daddy Wheeler who she chose as my guardian. Everything concerning my future was planned with only one idea in view," he hesitated, made as to lift one of the letters from its hiding place when he stopped. "Do you want to read them darling?" he asked trembling.
 
-"Do you want me to? I'll do whatever you say," and reaching over while saying it she closed the locket and taking the key from the lock snapped it locked. Replacing it in its familiar place she said, "Tell it to me, dearest, if you love me. Tell it to me with your own lips. I'd rather know it that way."
+"Do you want me to? I'll do whatever you say," and, reaching over while saying it, she closed the locket and, taking the key from the lock, snapped it locked. Replacing it in its familiar place she said, "Tell it to me, dearest, if you love me. Tell it to me with your own lips. I'd rather know it that way."
 
-It was growing dusk now and throwing her long cape over both their shoulders, cuddling up close in his arms with her head on his shoulder she said, "Do—do you love me?"
+It was growing dusk now and, throwing her long cape over both their shoulders, cuddling up close in his arms with her head on his shoulder, she said, "Do—do you love me?"
 
-He took her chin in his hand and turning her face to his he said, "Look in my eyes, dearest—what do you see?"
+He took her chin in his hand and, turning her face to his, he said, "Look in my eyes, dearest—what do you see?"
 
 She could not answer for they sat in a tense embrace. Then as if suddenly reminded of his duty he said, "Parepa, my mother was a brave woman, much braver than her child. She knew the shame her ancestors as well as she herself had brought upon the name of Emmerson and society. Her mother had tried to correct it and resist the temptations that lead to disgrace. She had not the strength of character to overcome her weakness. Then my mother fell in love with Daddy Wheeler—"
 
@@ -42,7 +42,7 @@ She could not answer for they sat in a tense embrace. Then as if suddenly remind
 
 "She left letters for me to open on my birthday from the sixth one up to the fourteenth. Each one was written to interest a boy of that age. I was given the locket to wear on my fourteenth birthday. It has been a part of me ever since. The 'secret' was in it. Parepa, dearest, have you guessed it? Can you believe me?" and he whispered the truth in her ear. "Darling, I'm a *girl*."
 
-Up to this moment the girl had sat quietly, his arms around her, cheek against cheek as if afraid to stir for fear he might not go on with his story. Now she gave a start and a little cry of surprise. Then as if her whole being was enveloped in that most precious of all gifts—sympathy—she turned her lips to his and throwing her arms around his neck kissed him tenderly. "I love you—you are mine—mine forever in spite of fate."
+Up to this moment the girl had sat quietly, his arms around her, cheek against cheek as if afraid to stir for fear he might not go on with his story. Now she gave a start and a little cry of surprise. Then as if her whole being was enveloped in that most precious of all gifts—sympathy—she turned her lips to his and, throwing her arms around his neck, kissed him tenderly. "I love you—you are mine—mine forever in spite of fate."
 
 Frances did not speak, he could not speak. He hated himself, hated all his blood, hated life, for the first time in his life he knew the true meaning of hate. But—there was one thing he did not hate. That was Parepa. Would he, should he keep on loving this human thing in his arms? Was it right? Was it right?
 
@@ -50,7 +50,7 @@ Frances did not speak, he could not speak. He hated himself, hated all his blood
 
 "Let me answer that prayer, Frances, dear," said "Bethany's Angel." "Yes, for my sake—for your sake—and for his sake keep on loving me."
 
-Then straightening up and facing him kindly she seemed to have survived the shock completely. "Do you remember, that nearly one thousand years ago, a Persian poet, Omar Khayyam wrote this poem:
+Then, straightening up and facing him kindly, she seemed to have survived the shock completely. "Do you remember, that nearly one thousand years ago, a Persian poet, Omar Khayyam wrote this poem:
 
 > "Ah, Love could you and I with fate conspire,  
 > &nbsp;&nbsp;&nbsp;&nbsp;To grasp this sorry scheme of things entire;  
@@ -65,7 +65,7 @@ Thus it was that from birth this child of yesterday was "shattered to bits" and 
 
 "I did not know until I was fourteen years old that I was born a girl. The nurse and Mr. Wheeler were always so kind to me. I have never wanted to be a girl. Have never been suspected of being one or thought of myself as one. Having been raised a boy may or may not have been responsible for the refusal of nature to take its course, and at seventeen years of age it was necessary for me to submit to an operation ridding my body of female organs which were peculiarly formed and could not function. For three months I dressed as a girl at that time. My name being either girl or boy I was not suspicious at the hospital. It was while I was still recovering from this operation that I came to Peoria. After this operation my voice changed and became more masculine. After a year's shaving and the generous use of hair grower I had quite a growth of whiskers. I am masculine in every thought and action, dearest. I'm sure you understand now why I can never be the father of your children."
 
-Parepa sat again as if petrified listening to this strange confession. Then turning her face to his and searching his eyes for a minute she said, "Are Mr. Wheeler, yourself, and I the only ones living who know your story, Frances?"
+Parepa sat again as if petrified listening to this strange confession. Then, turning her face to his and searching his eyes for a minute, she said, "Are Mr. Wheeler, yourself, and I the only ones living who know your story, Frances?"
 
 "Yes," he answered, "we are. Mr. Wheeler's father knew and my nurse knew but they both died with their lips sealed."
 

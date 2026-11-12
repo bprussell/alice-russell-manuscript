@@ -16,7 +16,7 @@ The waiter was placing something before her now. Yes, it was time to eat — the
 
 "Button, button, who's got the button," and Frances shook her arm. "Are you asleep or only dreaming?" he asked laughing at her. "You haven't said a word since we came in here."
 
-"Oh, everything is so pretty I just had to keep looking at it," and then feeling the urge to amend her indifference to him she added, "And I think you are the prettiest thing here." Uncle George and he roared at this and she knew her remark must have been a flat one.
+"Oh, everything is so pretty I just had to keep looking at it," and then, feeling the urge to amend her indifference to him, she added, "And I think you are the prettiest thing here." Uncle George and he roared at this and she knew her remark must have been a flat one.
 
 "So you really think I'm prettier than the knives and forks?" he laughed. "This is the first time my beauty has been matched with the upholstered furniture, draperies, and decoration of a hotel dining room," he joked.
 
@@ -32,7 +32,7 @@ Clap, clap, clap, went the horses' feet on the pavement. Parepa caught herself k
 
 They sat in a box at the side of the stage. It was Parepa's first show. Aunt Kate had told her a great deal about what to expect and had warned her to always keep in mind the fact that it was only a story and not a bit of truth in it. Uncle Tom's Cabin should be played only to the "hardened" show goer. Parepa tried so hard to keep back the tears. Time after time she closed her eyes and wished she might close her ears too. Finally the time came when no amount of blinking could keep back the flow and when once started the heavens seemed to have opened, the clouds burst and a torrent ensued.
 
-The poor girl sobbed over little Eva and Uncle Tom — until Uncle George kindly put his arm around her and drawing her head to his shoulder tried to whisper comforting things in her ear. He told her to forget they were in the opera house and just close her eyes and try to sleep. She had no luck, however, in taking his advice and would break out spontaneously in a roar of sobs that attracted more attention than the main actor on the stage.
+The poor girl sobbed over little Eva and Uncle Tom — until Uncle George kindly put his arm around her and, drawing her head to his shoulder, tried to whisper comforting things in her ear. He told her to forget they were in the opera house and just close her eyes and try to sleep. She had no luck, however, in taking his advice and would break out spontaneously in a roar of sobs that attracted more attention than the main actor on the stage.
 
 "Let's take the child home, it's getting on her nerves," whispered Aunt Kate to Frances who immediately and willingly agreed.
 

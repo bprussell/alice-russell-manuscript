@@ -56,7 +56,7 @@ Frances retired early and immediately went to sleep. The next few days were sad 
 
 This place held no memories of times spent with Parepa. It was heavily foliaged by trees and vines which overhung it. Here was a quiet place to think. As he sat there, head in hands, earnestly trying to be fair to Parepa and himself he was startled by the approaching footsteps of two figures—a girl and a boy, evidently lovers.
 
-Sensing the fact that they were searching out a place to bill and coo he rose and taking his place beside a huge tree trunk found himself an unintentional listener. It was Joseph and Parepa.
+Sensing the fact that they were searching out a place to bill and coo he rose and, taking his place beside a huge tree trunk, found himself an unintentional listener. It was Joseph and Parepa.
 
 "Really it was good of you to let me walk along tonight, Parepa. I felt as if I were imposing when I asked if I might," said Joseph.
 

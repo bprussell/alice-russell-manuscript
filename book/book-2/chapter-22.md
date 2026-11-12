@@ -34,6 +34,6 @@ The car stopped beside the step and they were let into the house by a porter. A 
 
 "I'm afraid I haven't but two dresses to be pressed," she confessed. "You see I came on a moment's notice and threw what few things I could grab into my bag in a hurry."
 
-"Oh," she said and taking the travel soiled dress which Parepa drew from the bag left the room. She soon returned and drawing aside the curtains that separate the bath from her dressing room motioned Parepa to the tub and gave her the most enjoyable bath she ever had. It was scientifically done. After that was over she massaged her thoroughly from her feet to her very scalp. Her hands were manicured, her hair beautifully dressed, her body perfumed and powdered, and after an hour and a half of renovating she was ready to be presented to her first love.
+"Oh," she said and, taking the travel soiled dress which Parepa drew from the bag, left the room. She soon returned and, drawing aside the curtains that separate the bath from her dressing room, motioned Parepa to the tub and gave her the most enjoyable bath she ever had. It was scientifically done. After that was over she massaged her thoroughly from her feet to her very scalp. Her hands were manicured, her hair beautifully dressed, her body perfumed and powdered, and after an hour and a half of renovating she was ready to be presented to her first love.
 
 Daddy Wheeler waited at the foot of the stairs for her. He took her by the arm and led her into a large living room at the far end of which reclining on a luxurious lounge lay Frances.

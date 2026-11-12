@@ -46,11 +46,11 @@ Disappointment crossed Frances's face but he said no more about her.
 
 "Yes, he was telling me all about her. I'm so thankful for all the nice times you have given him. This child has had an unusual life, and something really human is worth more to him than the wealth of the whole world."
 
-They heard a step on the stairway and looking up saw a vision which was never forgotten in two people's lives. These people were Mr. J.C. Wheeler and Frances LaVerne Emmerson. The figure stood still, clothed only in a long nightie, hair hanging loosely over her shoulders, cheeks flushed, eyes shining, one plump dimpled hand on the banister, and pink toes peeking from under the hem of her gown. She looked like a fairy standing, as if hesitating on the threshold of a mystic flight. She descended three steps and hesitated.
+They heard a step on the stairway and, looking up, saw a vision which was never forgotten in two people's lives. These people were Mr. J.C. Wheeler and Frances LaVerne Emmerson. The figure stood still, clothed only in a long nightie, hair hanging loosely over her shoulders, cheeks flushed, eyes shining, one plump dimpled hand on the banister, and pink toes peeking from under the hem of her gown. She looked like a fairy standing, as if hesitating on the threshold of a mystic flight. She descended three steps and hesitated.
 
 "She must be walking in her sleep, don't startle her — she may fall," said Aunt Kate.
 
-With that Frances gave one spring past her and running up the steps grabbed both Parepa's hands and kissed them. "Come on down and meet Daddy Wheeler, Parepa." And down the steps they came together his arm about her. She forgot she was in her gown. In fact she had not yet realized it. "Here, Daddy, is Alice Parepa-Roza," the young gallant announced.
+With that Frances gave one spring past her and, running up the steps, grabbed both Parepa's hands and kissed them. "Come on down and meet Daddy Wheeler, Parepa." And down the steps they came together his arm about her. She forgot she was in her gown. In fact she had not yet realized it. "Here, Daddy, is Alice Parepa-Roza," the young gallant announced.
 
 Mr. Wheeler put his arm around her and kissed her. "So this is the kind angel that has made this scamp so happy during my absence, hm? Well, little girl that was mighty nice of you."
 

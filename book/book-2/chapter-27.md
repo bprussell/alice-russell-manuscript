@@ -6,7 +6,7 @@ That night Parepa slept like a child. At nine o'clock the next morning a tap on 
 
 "Yes, Daddy, I wouldn't know how to act if I felt any better," she laughed.
 
-"That's good," and helping her to a chair he drew another closer. Reaching for her hand he said, "Frances left us this morning, Parepa. She has gone to her God. All is well. All is well."
+"That's good," and, helping her to a chair, he drew another closer. Reaching for her hand he said, "Frances left us this morning, Parepa. She has gone to her God. All is well. All is well."
 
 Parepa could only stare at this wonderfully poised old man. This man who was resignation personified. Could she control herself as this fine example before her? Yes, she would. Frances would want her to. It was her way. She must live up to the standard set by this bereft old gentleman. Strangely enough Parepa had no desire to weep again.
 

@@ -2,7 +2,7 @@
 
 "We are going for a long ride tomorrow Parepa. I'm sure I'm able now. You have brought strength to me. I feel so strong today."
 
-"Oh, that is grand. You'll be your old self yet," and saying this Parepa stooped and kissed the flushed cheek of her first love.
+"Oh, that is grand. You'll be your old self yet," and, saying this, Parepa stooped and kissed the flushed cheek of her first love.
 
 "Tell me all about your husband and boys. Business matters have taken up much of our time. I know they are the best in the world but I want to know the intimate homey things about them," and Frances smiled up at her as her face beamed with the pride she felt for her family.
 

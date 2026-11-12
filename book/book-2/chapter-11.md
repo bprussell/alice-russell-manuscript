@@ -1,6 +1,6 @@
 # Chapter XI
 
-One afternoon about three o'clock Allie was surprised to see Johnie come swaying into the house. "I'm so sick," he said and throwing himself on the couch he cried, "Call the doctor quick." Before the doctor arrived Allie had helped him to his bed.
+One afternoon about three o'clock Allie was surprised to see Johnie come swaying into the house. "I'm so sick," he said and, throwing himself on the couch, he cried, "Call the doctor quick." Before the doctor arrived Allie had helped him to his bed.
 
 "It's the 'flu,' that wicked flu," said the doctor handing Allie the thermometer to read. It stood at 105 degrees. He gave strict orders for his treatment and left with a grave face. "Call me at once if he shows any signs of being worse," he said as he left.
 
@@ -20,7 +20,7 @@ It was spring now and the doctor who had been keeping a close watch on Johnie's 
 
 Allie was tired out. "I'm well, but so tired," she would tell folks when they spoke of their alarm for her. One bright morning in May the boys were playing in the backyard when Allie thought Robert looked flushed in the face. He was crimson. She brought him in and although he declared he wasn't sick she called the doctor.
 
-"Nothing else but the measles," he said casting a sympathetic look at Allie. "Must go to bed, young man," he said and remembering what a laughing hilarious bunch of boys they were added, "And I'll dish you up some giggle pills."
+"Nothing else but the measles," he said casting a sympathetic look at Allie. "Must go to bed, young man," he said and, remembering what a laughing hilarious bunch of boys they were, added, "And I'll dish you up some giggle pills."
 
 One boy followed another until the three were in bed. Mr. Rice and Mr. Brown were unable to stay at the Bradford home during this siege so decided to return to their homes in Boston. This worried Allie greatly as she was concerned about the doctor bills, etc. that had accumulated the last few months. She knew full well it would be some time before they would get boarders like that again.
 

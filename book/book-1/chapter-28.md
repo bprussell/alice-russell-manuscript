@@ -16,7 +16,7 @@ She did not return his kiss nor did she promise. "What I wanted most to talk to 
 
 "Certainly not if you insist, but you are a funny girl," he said. Frances heard her say, "I know I am, Joe," then they disappeared down the walk in the park that leads to Perry Street.
 
-Parepa hurried down the five blocks of Hayward Street to the river. She was lonesome for the memories of the night she had spent two years ago with Frances on the river. She was a little chilly now and throwing her long blue cape around her shoulders she crouched down beside the big log on which she was sure she and Frances had sat in the light of the moon and stars that night of mad love which Parepa held dearest of all.
+Parepa hurried down the five blocks of Hayward Street to the river. She was lonesome for the memories of the night she had spent two years ago with Frances on the river. She was a little chilly now and, throwing her long blue cape around her shoulders, she crouched down beside the big log on which she was sure she and Frances had sat in the light of the moon and stars that night of mad love which Parepa held dearest of all.
 
 It all came back to her now. The boat ride, the moon, the songs they sang, the love pledges, this log on which they sat when first she saw the mysterious locket. "Frances! Oh, Frances!" she cried in a low murmur, "I love you, I love you."
 

@@ -154,7 +154,7 @@ Since her stay with them Aunt Kate was often surprised and pleased at the superi
 
 The next day was an anxious one for Parepa. She could hardly wait until time to go home and hear Uncle George's message from home.
 
-It was four-thirty now and turning her eyes from the clock they fell directly upon Uncle George.
+It was four-thirty now and, turning her eyes from the clock, they fell directly upon Uncle George.
 
 "Hello, dear, I couldn't wait until you came home. Just had to come for you tonight to let you know you are to stay with us."
 

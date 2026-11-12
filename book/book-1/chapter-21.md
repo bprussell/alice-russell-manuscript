@@ -24,7 +24,7 @@ After the meat course was cleared, Mrs. Breen told of the surprises she had rece
 
 The usual "Thank you" was Parepa's only response.
 
-Mr. Wheeler stood up and glancing around the table mischievously said: "You asked me to tell you what my first impressions were of this young lady. Well, the first time I saw her she stood at the top of these stairs in her nightie. She impressed me as a ten-year old. Surely no older. She looked sweet enough to kiss. Her hair hung over her shoulders and down her back reminding me of a picture of an angel I once saw. The next time I saw her was on the stage at the opera house. I must say that to Parepa and her dramatic instructor are due great credit. I never saw better acting or heard a sweeter voice in a finished artist. Parepa I congratulate you on this, your eighteenth birthday."
+Mr. Wheeler stood up and, glancing around the table mischievously, said: "You asked me to tell you what my first impressions were of this young lady. Well, the first time I saw her she stood at the top of these stairs in her nightie. She impressed me as a ten-year old. Surely no older. She looked sweet enough to kiss. Her hair hung over her shoulders and down her back reminding me of a picture of an angel I once saw. The next time I saw her was on the stage at the opera house. I must say that to Parepa and her dramatic instructor are due great credit. I never saw better acting or heard a sweeter voice in a finished artist. Parepa I congratulate you on this, your eighteenth birthday."
 
 When he sat down Frances sprang up. His face aglow and his eyes sparkling. "Parepa was the first playmate I ever felt like really playing with. I have, all my life, felt a restraint which seemed impossible to overcome. The minute I saw her I knew we would be great friends forever. And we are going to be—aren't we Parepa?"
 
@@ -44,7 +44,7 @@ Mr. Wheeler escorted Mrs. Breen home in a carriage he had called from the livery
 
 They were all gone now but Frances.
 
-Aunt Kate and Uncle George excused themselves and kissing their little girl goodnight, went to bed.
+Aunt Kate and Uncle George excused themselves and, kissing their little girl goodnight, went to bed.
 
 Frances pulled the flushed and smiling girl down beside him on the sofa. "Dearie, can you ever forgive me for asking a life's promise from a mere child? You are not old enough to know your mind, darling. You may wish to change it many times in the next two years. It was bad enough for me to expect an eighteen year old girl to realize what it meant. Please forget it and let's begin where we were two years ago."
 
@@ -188,7 +188,7 @@ The morning air and exercise put color in these children's cheeks and sparkle in
 
 "It's been a wonderful morning, Parepa; just being alone with you. I'll think of it many times when we are so far apart. Darling, I love you more than I ever thought it possible for a boy to love a girl." He grabbed her to him with eagerness which Parepa knew was prompted only by pure unadulterated affection. She turned her sweet face to his and they stood in one long embrace.
 
-Suddenly they heard a snicker—then another—springing apart and looking in the direction from which it came they saw the beaming laughing faces of a little girl and boy. One peeping from each side of the big old tree in the shade of which the young lovers were cooing.
+Suddenly they heard a snicker—then another—springing apart and looking in the direction from which it came, they saw the beaming laughing faces of a little girl and boy. One peeping from each side of the big old tree in the shade of which the young lovers were cooing.
 
 "You little rascals," said Frances.
 

@@ -10,9 +10,9 @@ Time went on—the crops were in and up. Prospects were good up to the middle of
 
 Allie's garden suffered many casualties through the summer that would try the sturdiest heart. In spite of this fact she managed by the kindly thoughtfulness of dear friends who donated to her all their surplus blooms, to satisfactorily fill all orders.
 
-The debts which they had hoped to pay with crop returns must remain unpaid another year. Johnie and Allie sat on their back-porch this beautiful fall evening trying to think out the best way to face the matter, when all at once Allie jumped to her feet with an exclamation of joy, and taking Johnie's head between her two hands she turned his face toward the west. "Look," she cried, "look at that beautiful sunset after this gloomy, rainy day. Isn't it wonderful?"
+The debts which they had hoped to pay with crop returns must remain unpaid another year. Johnie and Allie sat on their back-porch this beautiful fall evening trying to think out the best way to face the matter, when all at once Allie jumped to her feet with an exclamation of joy, and, taking Johnie's head between her two hands, she turned his face toward the west. "Look," she cried, "look at that beautiful sunset after this gloomy, rainy day. Isn't it wonderful?"
 
-Johnie pulled her down on his lap and kissing her said, in his kindly way, "Yes, wifie, it is beautiful. Do you suppose our gloomy rainy life will end in a sunset as glorious as that?"
+Johnie pulled her down on his lap and, kissing her, said, in his kindly way, "Yes, wifie, it is beautiful. Do you suppose our gloomy rainy life will end in a sunset as glorious as that?"
 
 "Oh, surely it will, dear," she said stroking his fast graying hair and patting his cheek confidently. "You know it's a long road that has no turning."
 

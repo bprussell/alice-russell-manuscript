@@ -8,9 +8,9 @@ Fall came—the ripened corn hung from its husks on the tall stalks in the field
 
 Each day as they worked side by side she noticed a decided decrease in pep and vim, both in his actions and conversation. There was an unmistakable "slowing up" of everything. Something terrible is on his mind, thought Allie as she glanced sideways at him slowly pulling the husks from the corn.
 
-"Johnie!" she cried as she realized the truth. "Johnie! What do you mean by keeping this from me? You are ill, so ill you can hardly stand up." As she said this he staggered toward the wagon and leaning against it said, "I was anxious to get through first," then he dropped in a heap on the ground.
+"Johnie!" she cried as she realized the truth. "Johnie! What do you mean by keeping this from me? You are ill, so ill you can hardly stand up." As she said this he staggered toward the wagon and, leaning against it, said, "I was anxious to get through first," then he dropped in a heap on the ground.
 
-"Oh, Allie! I am so sick, dearie, so sick." After he rested awhile she helped him into the wagon and taking the lines in her hands drove the team to the barn. She helped him to bed and called the doctor. Before he arrived Johnie told her how he had known for days that something was holding him back. Shortness of breath, dizziness, etc. At first he had hoped to wear it off. He did so want to finish the corn picking. Then he could rest all winter.
+"Oh, Allie! I am so sick, dearie, so sick." After he rested awhile she helped him into the wagon and, taking the lines in her hands, drove the team to the barn. She helped him to bed and called the doctor. Before he arrived Johnie told her how he had known for days that something was holding him back. Shortness of breath, dizziness, etc. At first he had hoped to wear it off. He did so want to finish the corn picking. Then he could rest all winter.
 
 Allie scolded him for not telling her and scolded herself for not suspecting.
 

@@ -164,6 +164,16 @@ logged here as Phase 3 proceeds; global decisions are recorded up front.
   American "Mrs." and "Mr." throughout (75 periods added). Extends the
   earlier "Mr Rice" → "Mr. Rice" ruling (Book II Ch X).
 
+- **Commas around "-ing" phrases (decided 2026-11-12, with the author's
+  great-grandson):** where an "-ing" phrase sits between "and"/"then"
+  and the main verb ("and drawing her head to his shoulder tried to
+  whisper..."), it is set off with commas ("and, drawing her head to his
+  shoulder, tried to whisper..."). 56 places (28 per book), found by
+  reviewing all 147 "and/then/but + -ing" sentences; commas only, no
+  words changed. Earlier read-through fixes of the same kind (Ch XXVII
+  "and, smiling, passed on", etc.) are listed under the read-through
+  section.
+
 ## Global typography (applied throughout, not logged per instance)
 
 Line breaks unwrapped and ⟦hyphen⟧ words rejoined; all ⟦…⟧ markers

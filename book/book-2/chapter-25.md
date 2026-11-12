@@ -10,7 +10,7 @@
 
 "You must wear the hat to match, Mrs. Bradford. She wants you to," and so saying pulled the soft filmy thing over her beautifully dressed white hair. Touching a little soft powder to her face she said, "There now, you are ready. May I go down with you? I would like to witness Miss Emmerson's pleasure," she pleaded.
 
-"Of course you can," and taking her maid's arm they descended the stair. Before they reached the second step Parepa noticed the forms of two men standing at the foot looking up. One was Daddy Wheeler, the other—Could it be possible—was Frances! Dressed and looking like his old self. His eyes shining, his cheeks flushed.
+"Of course you can," and, taking her maid's arm, they descended the stair. Before they reached the second step Parepa noticed the forms of two men standing at the foot looking up. One was Daddy Wheeler, the other—Could it be possible—was Frances! Dressed and looking like his old self. His eyes shining, his cheeks flushed.
 
 "Frances! Can it be you? Can it be you are able to do this—this joke?" she said, wondering what her maid would think, but Nanettezen had turned and was going to her room.
 
@@ -54,17 +54,17 @@ Parepa studied the pattern for some time. "Yes," she cried, "Here is my name wov
 
 "Yes, Frances, I will wear them today for old times' sake."
 
-He rose to his feet and coming to her side said, "Please, Parepa, let me put them on you just as I had planned to do—then?"
+He rose to his feet and, coming to her side, said, "Please, Parepa, let me put them on you just as I had planned to do—then?"
 
 She let him have his way. He put the ring having two diamonds cuddled closely together on her finger first. When she offered her left hand for this he said, "No that is your heart hand. That belongs to your husband alone. It is your blood hand. My rings cannot grace those fingers now. I will put them on your friendship finger." As she slipped the guard ring, encircled with small diamonds on next to the first, he said, "This one represents the care and protection I intended to give you." He slipped the bracelet over her hand saying, "To protect your pulse," and laughed.
 
-Next, he took the broach from its cozy nest and pinned it in place. Lifting the sparkling necklace he said, "I like this the best of all. Do you know why?" and fastening it about her neck he stopped and kissed her.
+Next, he took the broach from its cozy nest and pinned it in place. Lifting the sparkling necklace he said, "I like this the best of all. Do you know why?" and, fastening it about her neck, he stopped and kissed her.
 
 "I haven't the least idea," she confessed.
 
 Taking his place at the table again he said, "Because there was room for more of our good times together on it. Each diamond represents a memory of things that made us dear to each other." "Here," he said, drawing a small beautifully bound booklet from his pocket, "is the history of our gems. I give it to you. It has been a great comfort to me these years. Now it is yours."
 
-"Oh, Frances! You have had all these things most thirty years! How wonderful! I shall be so glad to have them for the sentiment they hold. Thanks a hundred times." They rose to leave the table. "There is one more thing," he said and placing his hand on his breast, "It's the locket. Would you care for it?"
+"Oh, Frances! You have had all these things most thirty years! How wonderful! I shall be so glad to have them for the sentiment they hold. Thanks a hundred times." They rose to leave the table. "There is one more thing," he said and, placing his hand on his breast, "It's the locket. Would you care for it?"
 
 "Of course I do if you want me to have it, but I wonder if you shouldn't wear it. You are the last link in your chain. Why not keep it with you? I think that would be better," she said convincingly.
 

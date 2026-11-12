@@ -14,7 +14,7 @@ After paying for her ticket she had exactly twenty-one dollars and fourteen cent
 
 She read over and over the pages of her magazine more to have her mind employed than because it was interesting. She did not care to become communicative with those around her though they tried every way within propriety to get better acquainted with her.
 
-The second day she found herself being really annoyed by a portly, red faced gentleman who insisted upon waiting on her in every way possible. He followed closely by her side to the dining car and showed her a seat taking the one across from her. Their conversation was not interesting to Allie. When the waiter came to their table the stranger said, "I'm giving this order for two," and smiling at Allie added, "Have you a choice?"
+The second day she found herself being really annoyed by a portly, red faced gentleman who insisted upon waiting on her in every way possible. He followed closely by her side to the dining car and showed her a seat taking the one across from her. Their conversation was not interesting to Allie. When the waiter came to their table the stranger said, "I'm giving this order for two," and, smiling at Allie, added, "Have you a choice?"
 
 "None at all, thank you," she answered not caring to argue with him.
 
@@ -52,7 +52,7 @@ He gave a most elaborate order. After the waiter left he addressed his companion
 
 After she was seated she thought over the doings of her last hour. It had been unavoidable without making a scene. She hoped he would not repeat it. She took her writing material from her bag and wrote a long letter home. She felt a bit lonely but was too brave to acknowledge it.
 
-She curled up on the seat and covering herself with her blanket went to sleep. She did not care for the evening meal, so remained in her seat. Another day was past and she welcomed the night. She wished her trip was over.
+She curled up on the seat and, covering herself with her blanket, went to sleep. She did not care for the evening meal, so remained in her seat. Another day was past and she welcomed the night. She wished her trip was over.
 
 For the first time since she started on her journey had she considered the meeting with Frances and Daddy Wheeler. Would they be changed? Would they be disappointed in her? What would she do, how would she act? It wasn't going to be easy. She wished Johnie was with her. Why was a good person like Frances taken out of the world in his prime? Joseph Donald had been called away, too. Never once did her mind wonder or speculate on the financial possibilities. After all, why had she come? What impulse urged her to make this trip? Would she admit it? Yes, it was the desire to see once again her old sweetheart. Her first love of maidenhood days. Her heart beat rapidly as she remembered their innocent love. She basked in the memory of it all. The first time in her married life she allowed herself to indulge to the utmost in reminiscence of her first love. Now, Johnie knew the secret that had been hidden and guarded so safely for years in her heart. He had never dreamed of there being such a thing. Would there be an unfavorable reaction? Would he mistrust her when the excitement of present events is over? Would she lose any of her children's respect when they knew?
 
@@ -62,10 +62,10 @@ Now there were deep chasms and canyons—now sunny gardens of green and gold—s
 
 It was wonderful. Her thoughts traveled homeward to her husband. How he would have enjoyed this trip. How he loved the Colorado Mountains. "Well, someday," she said to herself, "we will take this trip together." She took her tablet from her bag, wrote her last long letter en route to her home folks.
 
-It was three-thirty o'clock in the afternoon when she left the train. She was just entering the depot when a young man dressed in livery stepped to her side and touching her on the arm asked, "Are you Mrs. Bradford from Illinois?"
+It was three-thirty o'clock in the afternoon when she left the train. She was just entering the depot when a young man dressed in livery stepped to her side and, touching her on the arm, asked, "Are you Mrs. Bradford from Illinois?"
 
 "I am," she answered.
 
-"Well, Mr. Wheeler is waiting for you in the car," he said, and taking her shabby looking bag from her hand added, "Come with me."
+"Well, Mr. Wheeler is waiting for you in the car," he said, and, taking her shabby looking bag from her hand, added, "Come with me."
 
 She was glad she had taken a good deal of time with her toilette on the train. She really looked quite presentable. Her cheeks wore the natural flush which gave a sparkle to her eyes. Her dimples were the same as when a child. She was excited and animated adding to her attractiveness.

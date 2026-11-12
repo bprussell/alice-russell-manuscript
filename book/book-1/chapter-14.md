@@ -58,7 +58,7 @@ Parepa liked nothing better so she took her place at the piano and picked out a 
 
 "And what big ears you've got," she said pinching one of them coyly.
 
-"Better to hear you with," he laughed and pulling her down beside him on the sofa said, "You all look so good to me. I feel as if I had come back home."
+"Better to hear you with," he laughed and, pulling her down beside him on the sofa, said, "You all look so good to me. I feel as if I had come back home."
 
 "You have, my boy, just as long as you behave yourself we'll not object to your calling this home, will we Mother? The world has certainly been kind to you these last two years," said Uncle George.
 

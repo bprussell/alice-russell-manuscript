@@ -28,7 +28,7 @@ When he stopped for his breath Allie said calmly, "You forget Papa that they did
 
 "Old Roanie k-k-kicked and upset the milk and p-p-Papa sc-scolded me," she sobbed. Allie's heart went out to this little sister. Well did she remember when such things had happened to her. She kissed Iona, and washed the bucket and went to the barn to finish milking Iona's cows herself. She found Father John Wesley laboriously milking the cow with the limber pedal appendages. Bang! It kicked the bucket and spilled all his milk! (covering his face and body with milk and froth).
 
-Allie got up from her stool and standing behind the long row of cows gave vent to a long peal of laughter such as she had never engaged in before. She laughed 'til she bent double. The tears ran down her cheeks as she laughed, while her poor mortified old father dripping wet tied the legs of "the brute" so he could finish milking her.
+Allie got up from her stool and, standing behind the long row of cows, gave vent to a long peal of laughter such as she had never engaged in before. She laughed 'til she bent double. The tears ran down her cheeks as she laughed, while her poor mortified old father dripping wet tied the legs of "the brute" so he could finish milking her.
 
 "That's just what you scolded little Iona for," she laughed. "I ought to send you to the house, you naughty boy, making the cows kick that way."
 
