@@ -492,6 +492,10 @@ Changes from the great-grandson's read-through of the EPUB proof.
   changed. Her comma splices ("Frances did not speak, he could not
   speak") were left as her rhythm.
 
+- **Book II Ch I:** "Little Iona, the baby of the family, was now twelve
+  years old, and to her..." — three commas added (her quoted "Allie's"
+  kept).
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
