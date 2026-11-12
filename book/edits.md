@@ -483,6 +483,15 @@ Changes from the great-grandson's read-through of the EPUB proof.
   fortune kept intact by my guardian, that I might, when old enough, use
   it where it would do humanity the most good." — four commas added.
 
+- **Book I Ch XXX, comma pass (2026-11-12):** at the family's request the
+  rest of Frances's confession chapter was read for clear comma fixes —
+  34 places (introductory clauses, asides, names in direct address,
+  lists such as "once forward, twice backward, and five clicks
+  forward", and three stray commas removed: "questions, first",
+  "Do you remember, that", "for me, to the one"). Commas only; no words
+  changed. Her comma splices ("Frances did not speak, he could not
+  speak") were left as her rhythm.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
