@@ -28,7 +28,9 @@ The undertaker had come now, and the good neighbors moved quietly through the ro
 
 Frances studied her face and features as he never had before. Surely the Lord had a great plan for this angel he placed on earth. *I wonder if I was included in it.*
 
-One of the neighbors brought him a cold drink of lemonade for which he was thankful. "Sweetest thing ever put on earth," she said to Frances in a low voice as she looked at the sleeping child. "We call her 'Bethany's Angel,'" then she quietly left the room. After a while the white child on the bed opened her eyes smiled again at Frances and reaching out her hand to his fell asleep again. Frances sat with low bowed head, thinking over the many good times he had spent with these fine people. Relatives began to come now. Uncle Will and Aunt Minnie were the only ones known to Frances. They eyed the strange boy curiously. They stood at the foot of the bed looking at the sleeping girl and making some such remarks as—"tired to death poor child" or "this will most kill her, they fairly worshiped her—both of them."
+One of the neighbors brought him a cold drink of lemonade for which he was thankful. "Sweetest thing ever put on earth," she said to Frances in a low voice as she looked at the sleeping child. "We call her 'Bethany's Angel,'" then she quietly left the room.
+
+After a while, the white child on the bed opened her eyes, smiled again at Frances, and, reaching out her hand to his, fell asleep again. Frances sat with low bowed head, thinking over the many good times he had spent with these fine people. Relatives began to come now. Uncle Will and Aunt Minnie were the only ones known to Frances. They eyed the strange boy curiously. They stood at the foot of the bed looking at the sleeping girl and making some such remarks as—"tired to death poor child" or "this will most kill her, they fairly worshiped her—both of them."
 
 Finally the doctor came in. "How has she been resting?" he asked.
 

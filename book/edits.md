@@ -432,6 +432,11 @@ Changes from the great-grandson's read-through of the EPUB proof.
   said...'); Frances's unspoken thought set in italics: *I wonder if I
   was included in it.* No words changed.
 
+- **Book I Ch XXVII, p148:** new paragraph at "After a while..." (time
+  moves on after the neighbor leaves), with commas: "After a while, the
+  white child on the bed opened her eyes, smiled again at Frances, and,
+  reaching out her hand to his, fell asleep again."
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
