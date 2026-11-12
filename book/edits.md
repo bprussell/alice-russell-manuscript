@@ -425,6 +425,13 @@ Changes from the great-grandson's read-through of the EPUB proof.
   neighbor's, asking her..."** — commas after the opening phrase and
   before "asking".
 
+- **Book I Ch XXVII, p148:** paragraphing adjusted so the neighbor is
+  introduced where she speaks — "One of the neighbors brought him a
+  cold drink of lemonade..." moved from the end of Frances's paragraph
+  to the start of the next ('"Sweetest thing ever put on earth," she
+  said...'); Frances's unspoken thought set in italics: *I wonder if I
+  was included in it.* No words changed.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
