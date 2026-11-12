@@ -12,7 +12,7 @@ Parepa fell on her knees in a dead faint.
 
 The doctor worked over her for a long time before she showed any sign of recovering her senses.
 
-"Would you call the undertaker for us? Number 772," he addressed Frances. This done the doctor sent him to a neighbor's asking her to come with another neighbor.
+"Would you call the undertaker for us? Number 772," he addressed Frances. This done, the doctor sent him to a neighbor's, asking her to come with another neighbor.
 
 "This child must not get up for a few hours. Would you mind staying with her?" asked the old doctor who was wondering all the time who this handsome young fellow could be.
 

@@ -420,6 +420,11 @@ Changes from the great-grandson's read-through of the EPUB proof.
   and "laid her own thin hand over the two younger ones and, smiling,
   passed on."
 
+- **Book I Ch XXVII, p147:** "This done the doctor sent him to a
+  neighbor's asking her..." → **"This done, the doctor sent him to a
+  neighbor's, asking her..."** — commas after the opening phrase and
+  before "asking".
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
