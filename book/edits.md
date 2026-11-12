@@ -472,6 +472,13 @@ Changes from the great-grandson's read-through of the EPUB proof.
   manner" → comma after "fellow"; "as her mothers before her" kept
   (plural = her foremothers, as elsewhere in the confession).
 
+- **Book I Ch XXX:** "...how impossible it was when born in the blood to
+  overcome it she determined to end her disgraceful line, by bringing
+  into the world a son." → "...how impossible it was, when born in the
+  blood, to overcome it, she determined to end her disgraceful line by
+  bringing into the world a son." — commas around the aside and before
+  the main clause; stray comma before "by" removed.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
