@@ -452,6 +452,10 @@ Changes from the great-grandson's read-through of the EPUB proof.
   the pillow, closed her eyes again.'), as with "and, smiling, passed
   on."
 
+- **Book I Ch XXVII:** "Take a chair, Mr. Emmerson and let's..." → closing comma
+  added after the name in direct address ("Take a chair, Mr. Emmerson,
+  and let's have a good visit").
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
