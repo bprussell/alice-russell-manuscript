@@ -479,6 +479,10 @@ Changes from the great-grandson's read-through of the EPUB proof.
   bringing into the world a son." — commas around the aside and before
   the main clause; stray comma before "by" removed.
 
+- **Book I Ch XXX:** "It was her wish that my identity be lost, but the
+  fortune kept intact by my guardian, that I might, when old enough, use
+  it where it would do humanity the most good." — four commas added.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
