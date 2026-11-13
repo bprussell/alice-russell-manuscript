@@ -565,7 +565,9 @@ Changes from the great-grandson's read-through of the EPUB proof.
 
 - **Book II Ch XVI:** Allie's unspoken thought set in italics — "*How
   could he stand another operation?* she wondered" — matching Frances's
-  "*I wonder if I was included in it.*" (Book I Ch XXVII).
+  "*I wonder if I was included in it.*" (Book I Ch XXVII). Then a new sentence:
+  "she wondered. Then, remembering the superhuman endurance..., she took
+  heart again."
 
 ## Open REVIEW flags
 
