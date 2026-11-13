@@ -558,6 +558,11 @@ Changes from the great-grandson's read-through of the EPUB proof.
   "They are my lovely daughters! ... My gifts—to my God." And she
   "Thanked God For a Garden!"' No words changed.
 
+- **Book II Ch XIII:** "two rare gifts, honest upright men, beautiful,
+  understanding flowers" → "two rare gifts: honest, upright men;
+  beautiful, understanding flowers" — colon introduces the list,
+  semicolon separates the two gifts.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
