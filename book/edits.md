@@ -526,6 +526,10 @@ Changes from the great-grandson's read-through of the EPUB proof.
   her "Of course I will" / "Of course you can"; the comma stays where
   "of course" concedes ("Of course, I can't buy a home yet").
 
+- **Book I Ch XXX, p160:** "Frances LaVern Emmerson" → **"LaVerne"**
+  (dominant-form rule: "LaVerne" in Book I Ch IX and twice in Book II Ch
+  IX, where Allie gives the name to her son Richard LaVerne).
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
