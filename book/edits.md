@@ -521,6 +521,11 @@ Changes from the great-grandson's read-through of the EPUB proof.
   typed: Book I Ch XXV "so sweet and she so charming no wonder" and
   Book II Ch XIII "The shutters which hung by one or more hinges".
 
+- **Book II Ch IV, p181:** typed "Of course, she will—I can wait." →
+  **"Of course she will"** — emphatic answer to his own question, like
+  her "Of course I will" / "Of course you can"; the comma stays where
+  "of course" concedes ("Of course, I can't buy a home yet").
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
