@@ -563,6 +563,10 @@ Changes from the great-grandson's read-through of the EPUB proof.
   beautiful, understanding flowers" — colon introduces the list,
   semicolon separates the two gifts.
 
+- **Book II Ch XVI:** Allie's unspoken thought set in italics — "*How
+  could he stand another operation?* she wondered" — matching Frances's
+  "*I wonder if I was included in it.*" (Book I Ch XXVII).
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
