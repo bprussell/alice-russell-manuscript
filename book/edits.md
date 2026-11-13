@@ -553,6 +553,11 @@ Changes from the great-grandson's read-through of the EPUB proof.
   working", "more mature, and oh! so beautiful", "cry take me! take!
   and keep me".
 
+- **Book II Ch XIII:** Allie's unquoted outburst at the window put in
+  quotation marks as spoken aloud — '"My garden! My flowers!" she cried.
+  "They are my lovely daughters! ... My gifts—to my God." And she
+  "Thanked God For a Garden!"' No words changed.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
