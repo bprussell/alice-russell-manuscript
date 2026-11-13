@@ -530,6 +530,11 @@ Changes from the great-grandson's read-through of the EPUB proof.
   (dominant-form rule: "LaVerne" in Book I Ch IX and twice in Book II Ch
   IX, where Allie gives the name to her son Richard LaVerne).
 
+- **Book II Ch XI:** the doctor's "It's the 'flu,' that wicked flu" —
+  her single quotes around the then-new word "flu" now print as a
+  proper quote within the quote (‘flu,’); the quote-curling step had
+  treated the opening mark as a dropped-letter apostrophe.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's

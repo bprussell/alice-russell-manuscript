@@ -18,7 +18,7 @@ import sys
 # Words she types with a leading apostrophe for dropped letters
 # ('phone, 'bout, 'Twas ...): these take an apostrophe, not an opening quote.
 ELISIONS = {"phone", "phoned", "bout", "twas", "tis", "twould", "till", "til",
-            "though", "em", "cross", "flu", "round", "ologies", "kerchiefs"}
+            "though", "em", "cross", "round", "ologies", "kerchiefs"}
 
 OPENERS = set(" \t\n—–-([*") | {"“", "‘"}
 
