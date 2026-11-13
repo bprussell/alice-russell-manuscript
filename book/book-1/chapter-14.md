@@ -2,7 +2,7 @@
 
 The telephone rang. "That's Parepa calling to see if there's anything I want her to bring home."
 
-"Hello! Oh, is it? So glad to hear your voice. Where are you? Oh! that would be great fun. No, I'll not tell her. Yes, will look for you at eight."
+"Hello! Oh, is it? So glad to hear your voice. Where are you? Oh! That would be great fun. No, I'll not tell her. Yes, will look for you at eight."
 
 "That was Frances. He's at the Hotel Fey. Wants to surprise Parepa tonight. Said he'd be out about eight o'clock. She surely will be surprised."
 

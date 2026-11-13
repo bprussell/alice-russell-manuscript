@@ -64,7 +64,7 @@ Aunt Kate explained as best she could, and the subject was changed.
 
 "Your Uncle George is going to see about one for you. He thinks Uncle Will will be able to take you into his candy store. Would you like that?" asked Aunt Kate, smiling. "They sell candy, ice cream, and sodas there."
 
-"Oh! do you really think I could learn to do that?" she asked, clapping her hands for joy. "I'd love it. The candies are so pretty. Aunt Kate, why do you suppose I always love pretty things? If anything is pretty, that's all I care."
+"Oh! Do you really think I could learn to do that?" she asked, clapping her hands for joy. "I'd love it. The candies are so pretty. Aunt Kate, why do you suppose I always love pretty things? If anything is pretty, that's all I care."
 
 "I don't know, my child, but it's not a bad failing. Uncle George thought your father might not object if you are working with relatives. Uncle Will will be good to you and see that you are taught the right way to do things."
 

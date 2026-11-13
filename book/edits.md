@@ -535,6 +535,15 @@ Changes from the great-grandson's read-through of the EPUB proof.
   proper quote within the quote (‘flu,’); the quote-curling step had
   treated the opening mark as a dropped-letter apostrophe.
 
+- **Book II Ch XIII:** "Yes, she was alone, there, by the barn, stand her
+  husband and his three fine sons which she had given him, talking..." →
+  "Yes, she was alone. There, by the barn, stand her husband and his
+  three fine sons, which she had given him, talking..." (run-on split;
+  aside set off).
+- **"Oh!" + lowercase (5 places):** her older convention of treating
+  "Oh!" as inside the sentence ("Oh! that would...", "Oh! now she finds
+  her garden spot") → next word capitalized, modern style.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
