@@ -16,7 +16,7 @@ It was a proud pair that descended the stairs some minutes later.
 
 She placed herself proudly, book in hand, in a large chair on the porch, but if one had observed her closely, they would have noticed that her eyes cast toward the big house on the corner across the street. She knew she was most as "pretty" as any of the children her age that passed the house, and she was really anxious for Frances to see her before she got "mussed up." She twisted her handkerchief in her fingers thoughtlessly. Finally she saw him coming. What was that he had in his hand? He had on a blue suit, too, and a cap something like hers!
 
-"Hello, Mr. Slay, Hello, Parepa-Roza. Gee! Whiz! but you're pretty," he said as he pulled her book away from her. "Stand up, and let's see how big you are."
+"Hello, Mr. Slay, Hello, Parepa-Roza. Gee! Whiz! But you're pretty," he said as he pulled her book away from her. "Stand up, and let's see how big you are."
 
 Parepa obeyed, and the frank young boy backed up to her and said, "Look here, Mr. Slay, who's the tallest?" Parepa blushed a deep red, but it had no effect on our hero.
 

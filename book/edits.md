@@ -544,6 +544,15 @@ Changes from the great-grandson's read-through of the EPUB proof.
   "Oh!" as inside the sentence ("Oh! that would...", "Oh! now she finds
   her garden spot") → next word capitalized, modern style.
 
+- **Capital after "!" where a new sentence starts (5 more places):** "My
+  garden! My flowers!" (Book II Ch XIII), "OH! What's that, Uncle
+  George?" (Book I Ch II), "Gee! Whiz! But you're pretty" (Ch IV), "Oh
+  God! The kisses." (Ch XXVI), "Impossible! At the price of oats" (Book
+  II Ch XVI). Kept lowercase where the exclamation sits inside a
+  continuing sentence: "tomorrow, oh happy day! she was to start
+  working", "more mature, and oh! so beautiful", "cry take me! take!
+  and keep me".
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's

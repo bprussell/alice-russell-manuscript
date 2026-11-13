@@ -26,7 +26,7 @@ Parepa-Roza broke the silence, "And Uncle George, you'll let me help pack in the
 
 "Sure, put 'em on," and he reached back in a box and drew forth a long strand of the cheapest glass beads one could imagine.
 
-"Oh, aren't they beautiful? And, Uncle George, we'll put in a lot of those pretty pictures for the walls and curtains, and sofa pillows, and vases! Lots of vases for flowers and those dear little lace collars to make their dresses pretty, and where you've got a spittoon, let's put those comb and brush sets for ladies, and, OH! what's that, Uncle George?" and Parepa-Roza most fell off the seat, she was so delighted with what met her eyes.
+"Oh, aren't they beautiful? And, Uncle George, we'll put in a lot of those pretty pictures for the walls and curtains, and sofa pillows, and vases! Lots of vases for flowers and those dear little lace collars to make their dresses pretty, and where you've got a spittoon, let's put those comb and brush sets for ladies, and, OH! What's that, Uncle George?" and Parepa-Roza most fell off the seat, she was so delighted with what met her eyes.
 
 "Oh, that's Glen Oak Park," said Uncle George in a most casual way.
 
