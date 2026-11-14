@@ -594,6 +594,10 @@ Changes from the great-grandson's read-through of the EPUB proof.
   ("It was meant for a younger woman, she thought"), are unchanged. No
   words changed.
 
+- **Book II Ch XVI:** "something which could never die; a pity and
+  compassion..." → colon (what follows names the "something"; a
+  semicolon needs a full clause after it).
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
