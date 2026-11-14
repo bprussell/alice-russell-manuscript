@@ -102,6 +102,6 @@ all 288 original pages, the word-for-word transcription, and the full log
 of edits are kept together online at
 github.com/bprussell/alice-russell-manuscript.
 
-[Closing paragraph from the family: who prepared this edition and for
-whom (e.g., "This edition was prepared by her great-grandson for her
-grandchildren, so that her book might finally be read.") and the year.]
+This edition was prepared in 2026 by her great-grandson Brad Russell,
+William's son, for William and his siblings and for all of Alice's
+family, so that her book might at last be read as she meant it to be.
