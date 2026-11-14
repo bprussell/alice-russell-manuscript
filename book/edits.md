@@ -624,6 +624,11 @@ Changes from the great-grandson's read-through of the EPUB proof.
   it!" → period after "once" (the capital W shows a new sentence was
   meant); her "!" kept.
 
+- **Book II Ch XX:** '"Then he remembered," she thought.' → italics for
+  the thought only; "Yes, the same old Daddy Wheeler..." stays in
+  quotation marks as her spoken answer to Johnie's question about the
+  Wedgwood vase (family reading).
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's

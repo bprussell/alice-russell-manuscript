@@ -67,7 +67,7 @@ They were an excited bunch of boys as they tripped up the stairs to bed. Voices 
 
 "That depends upon the kind of people they are. Does this man Wheeler happen to be the one that gave you that Wedgwood vase for your birthday when you lived with Aunt Kate?" he asked.
 
-"Then he remembered," she thought. "Yes, the same old Daddy Wheeler. Let's see—he must be eighty-two or three years old by this time." Then, patting his cheek tenderly, she said, "He was Frances's guardian and secretary then too. I'll tell you all I know if you will promise never to tell the boys or anyone else that I told you." After a long silence, she said, "Do you promise?"
+*Then he remembered,* she thought. "Yes, the same old Daddy Wheeler. Let's see—he must be eighty-two or three years old by this time." Then, patting his cheek tenderly, she said, "He was Frances's guardian and secretary then too. I'll tell you all I know if you will promise never to tell the boys or anyone else that I told you." After a long silence, she said, "Do you promise?"
 
 "Yes, but I can't understand all this secrecy," he said in a voice with a quality in it she had never heard before.
 
