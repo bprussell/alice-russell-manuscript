@@ -24,30 +24,43 @@ Book II 35,153. Her "100,000" was a round-number estimate about 20% high,
 typical of the era's estimate-by-page method; the declaration sits on
 Book I's first page but evidently covers both books.
 
-## The author's family (from the family and public records, 2026-11)
+## The author's family
 
-- **Alice Reynolds Russell** married **John S. Russell**. Their son
-  **Robert F. Russell** was born **14 June 1910 in Speer, Illinois**, and
-  died 9 Dec 1998 in Peoria (obituary, Peoria *Journal Star*, 10 Dec 1998:
-  "Born June 14, 1910, in Speer to John S. and Alice Reynolds Russell";
-  survived by "one brother, Arthur of Edelstein"; one brother preceded
-  him in death).
-- Sons: **Robert F.**, **Richard**, **Arthur** (Arthur Russell of
-  Chillicothe, d. 1 Jan 2001, buried Lawn Ridge Cemetery, Edelstein — per
-  the Marshall Co. ILGenWeb burial list; very likely the same Arthur).
+Source: "the Russell book" (a family history; chapter 16, p. 82, entry
+R287, "John Sidney Russell 1879–1961 / Alice Parapa-Rosa Reynolds
+1881–1975"; photo in docs/russell-book-bio.heic), plus Robert F.
+Russell's obituary (Peoria *Journal Star*, 10 Dec 1998) and public
+burial lists.
+
+- **Alice Parapa-Rosa Reynolds, 1881–1975**, daughter of **John and Eliza
+  (Bonham) Reynolds**. Called "Allie." Taught at the **Kellogg school**,
+  where she met her husband.
+- **John Sidney Russell, 24 May 1879 – 1961**, seventh child of John and
+  Sarah (Horn) Russell, born on the homestead farm; schooled at the
+  Kellogg school. Married Alice **21 June 1905**.
+- Farmed after marriage; when his health failed they bought the **General
+  Store in Speer** (south side of Main Street, next to the hotel) and ran
+  it a few years. In 1912 back to farming and livestock; he also
+  delivered milk on an Edelstein route. In 1926 moved to a farm just
+  north of Edelstein, known as "Russellville," with an airplane beacon
+  light on one corner.
+- Sons: **Robert Francis** (b. 14 Jun 1910, Speer; d. 9 Dec 1998, Peoria),
+  **Richard LaVerne** (b. 1913), **Arthur Emerson** (b. 1915; very likely
+  the Arthur Russell of Chillicothe d. 1 Jan 2001, buried Lawn Ridge
+  Cemetery). All attended Centerville grade school and Princeville High
+  School.
 - The manuscript was kept by her grandson **William Russell, Richard's
   son**.
-- Possibly John S.'s parents: Alexander Russell of Speer (d. 8 Jun 1944)
-  and Mrs. Lucy Russell of Speer (d. 9 Nov 1946), both buried Lawn Ridge
-  Cemetery — unconfirmed.
-- Birth and death years for Alice and John S.: not yet found.
 
-**Book II is closely autobiographical.** Allie (Alice) marries Johnie
-(John), son of a Scotch family, whose alias is "Mr. J.S. Bradford"; her
-first son Robert — named Robert Frances in the book; the real Robert is
-"Robert F." — is born "at eleven-thirty a.m. on June the fourteenth,
-1910," the real Robert's birth date; her other sons are Richard (LaVerne)
-and Arthur, as in life.
+**How closely the novel follows her life:** the heroine is Alice
+Parepa-Roza — the author's own name; Parepa's parents are "John and
+Eliza" (her parents' real names); Allie teaches at "the old Kellogg
+schoolhouse" and marries Johnie, son of a Scotch family, alias "J.S.
+Bradford" (John Sidney); Johnie's health fails; they run a store; her
+first son Robert is born "on June the fourteenth, 1910"; her sons are
+Robert, Richard and Arthur. And the sons' real middle names — Robert
+**Francis**, Richard **LaVerne**, Arthur **Emerson** — together spell the
+name of the novel's first love, **Frances LaVerne Emmerson**.
 
 ## The title
 
