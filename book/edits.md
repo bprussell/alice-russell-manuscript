@@ -569,6 +569,11 @@ Changes from the great-grandson's read-through of the EPUB proof.
   "she wondered. Then, remembering the superhuman endurance..., she took
   heart again."
 
+- **Book II Ch XVI:** "It wasn't a soft well manicured hand, instead a
+  calloused rough one." → "It wasn't a soft, well-manicured hand—instead,
+  a calloused, rough one." (commas between paired adjectives, dash for
+  the contrast, hyphen in "well-manicured").
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's

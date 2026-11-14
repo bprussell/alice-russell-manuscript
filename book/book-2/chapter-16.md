@@ -14,7 +14,7 @@ Allie most collapsed. *How could he stand another operation?* she wondered. Then
 
 A review of their whole life together passed through her mind. She studied her husband's features carefully. The world would not call them beautiful, yet Allie knew the moulding of every line of expression on that kindly face had been sculptured there by love's chisel. He did not dwell on his troubles, blunders, losses, or suffering long enough to permit a plastic impression of these unhappy things to be carved into his countenance. About his lips played the sure curves of strength and purpose. He was just a clean gentle everyday man who did his work gladly and happily each day. He had not a college trained mind but an educated heart and a graceful bravery which so many lack.
 
-He turned his head on his pillow now and, opening his eyes, smiled faintly at Allie. Then, putting his hand in hers, he fell to sleep again. It wasn't a soft well manicured hand, instead a calloused rough one. The hand of one who cultivates and creates from the soil. Fingers of love and understanding were stretched out to touch her own, that better courage come to her. As she sat quietly thinking, these old familiar words came to her.
+He turned his head on his pillow now and, opening his eyes, smiled faintly at Allie. Then, putting his hand in hers, he fell to sleep again. It wasn't a soft, well-manicured hand—instead, a calloused, rough one. The hand of one who cultivates and creates from the soil. Fingers of love and understanding were stretched out to touch her own, that better courage come to her. As she sat quietly thinking, these old familiar words came to her.
 
 > "Oh, love, could you and I with fate conspire,  
 > &nbsp;&nbsp;&nbsp;&nbsp;To grasp this sorry scheme of things entire;  
