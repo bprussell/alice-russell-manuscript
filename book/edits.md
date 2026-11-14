@@ -656,6 +656,9 @@ Changes from the great-grandson's read-through of the EPUB proof.
   follow-up search for other tags (silently, inwardly, vowed, prayed,
   resolved...) found no further unmarked thoughts.
 
+- **Book II Ch XXIV:** '"This is my house, what will I do with it?"'
+  after "the thought came to her" → italics (thought, not speech).
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
