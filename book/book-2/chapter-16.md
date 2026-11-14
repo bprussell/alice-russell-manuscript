@@ -21,7 +21,7 @@ He turned his head on his pillow now and, opening his eyes, smiled faintly at Al
 > Would we not shatter it to bits and then,  
 > &nbsp;&nbsp;&nbsp;&nbsp;Remould it, nearer to the heart's desire?"
 
-Why couldn't we shatter all the pain and suffering in the world? Why must we take whatever fate deals out to us in this world? she protested in her mind. Johnie opened his eyes again, "Don't worry, wifie, I'll be all right," he said and went to sleep again.
+*Why couldn't we shatter all the pain and suffering in the world? Why must we take whatever fate deals out to us in this world?* she protested in her mind. Johnie opened his eyes again, "Don't worry, wifie, I'll be all right," he said and went to sleep again.
 
 Morning light was streaming into the room now. A nurse offered Allie a place to rest. "I'll call you when he wakens," she promised. The minute her head touched the pillow, she was asleep. She was simply exhausted from the labor of the day before and the anxiety of the night.
 

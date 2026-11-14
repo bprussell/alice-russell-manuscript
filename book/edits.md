@@ -574,6 +574,11 @@ Changes from the great-grandson's read-through of the EPUB proof.
   a calloused, rough one." (commas between paired adjectives, dash for
   the contrast, hyphen in "well-manicured").
 
+- **Book II Ch XVI:** Allie's silent protest set in italics — "*Why
+  couldn't we shatter all the pain and suffering in the world? Why must
+  we take whatever fate deals out to us in this world?* she protested in
+  her mind."
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
