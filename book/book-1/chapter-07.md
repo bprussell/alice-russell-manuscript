@@ -8,7 +8,7 @@ They were all ready now, and at promptly five-thirty, a carriage from the best l
 
 "I'm afraid not," and he sobered thoughtfully. Then, as if he must not forget he was responsible for the merriment of his guests, he roused himself quickly and began telling a funny story. They all laughed and then Uncle George told one. By that time they were nearing the hotel. The driver drew up on the reins and stepped down from his seat, opened the door, and helped them to the street. Parepa was so amazed at the splendor before her.
 
-"My, this must of cost an awful lot," she whispered to Uncle George, and her sparkling eyes drank in the beauty around her. She scarcely knew what they were saying as she sat entranced, glancing shyly at the beautiful masterly young boy that was seated by her side. "He seems to be used to all this," she thought. "He doesn't even notice all the pretty things around us."
+"My, this must of cost an awful lot," she whispered to Uncle George, and her sparkling eyes drank in the beauty around her. She scarcely knew what they were saying as she sat entranced, glancing shyly at the beautiful masterly young boy that was seated by her side. *He seems to be used to all this,* she thought. *He doesn't even notice all the pretty things around us.*
 
 They were laughing and joking now, but Parepa was afraid this dream would fade away and she would find herself back home eating home cured pork, dried beans, Dutch cheese, and dried applesauce, if she allowed herself to relax from the spell that bound her.
 

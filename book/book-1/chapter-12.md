@@ -16,4 +16,4 @@ Aunt Kate and Parepa strolled to the conservatory each visit to make the acquain
 
 Sometimes after an especially happy day with young friends, Parepa would lay awake and think over the little intimacies that made it memorable. The romances she dreamed were singularly clean. Of sex she knew little and cared less. It took many years and much living to undo her early impressions as to the relationships of boys and girls.
 
-Aunt Kate studied Parepa carefully. "She has the play spirit, but she thoroughly loves her work," she thought. Great-hearted, generous, wise Aunt Kate. How kind she was, how stimulating, how interested in every step of Parepa's progress.
+Aunt Kate studied Parepa carefully. *She has the play spirit, but she thoroughly loves her work,* she thought. Great-hearted, generous, wise Aunt Kate. How kind she was, how stimulating, how interested in every step of Parepa's progress.

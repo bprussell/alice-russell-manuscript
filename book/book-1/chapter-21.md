@@ -202,4 +202,4 @@ Frances's face clouded. He stood quietly watching the ripples from the little pe
 
 The trip home was made by a quieter, more subdued couple than had passed that way earlier in the morning. The sun was hot, the road sandy, and they felt dragged out and dirty from a mixture of perspiration and dust. "You must take a few hours' rest now, Parepa," he said, bidding her goodbye. "I'll call for you about four."
 
-"Something is worrying him," thought Parepa as she went into the house.
+*Something is worrying him,* thought Parepa as she went into the house.

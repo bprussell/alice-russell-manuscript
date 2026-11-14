@@ -71,7 +71,7 @@ They were an excited bunch of boys as they tripped up the stairs to bed. Voices 
 
 "Yes, but I can't understand all this secrecy," he said in a voice with a quality in it she had never heard before.
 
-"Can he be jealous?" she thought. She began at the beginning. The first night she met Frances at Aunt Kate's supper table. She took him through the five years of their acquaintance. Of their love and devotion, then the fact that Frances could never be the father to her children, and the parting never to meet again. She had never told this before. Then, kissing her husband as she lay in his arms, she could feel his muscles, which had been taut, relax.
+*Can he be jealous?* she thought. She began at the beginning. The first night she met Frances at Aunt Kate's supper table. She took him through the five years of their acquaintance. Of their love and devotion, then the fact that Frances could never be the father to her children, and the parting never to meet again. She had never told this before. Then, kissing her husband as she lay in his arms, she could feel his muscles, which had been taut, relax.
 
 "You, my dear husband, was my reward for doing the right thing. You and our fine boys, I ask no other. All the money I might get from this source would never change me. You believe me, don't you, dear?" And she squeezed his hand.
 

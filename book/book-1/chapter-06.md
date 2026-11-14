@@ -4,7 +4,7 @@ August 28th, 1898, at eight o'clock Alice Parepa-Roza Wesley was actually launch
 
 Carry Weber and Mattie Swanson were the "old girls" on the job, and from them Parepa was to learn all the "ins and outs" of the candy shop business.
 
-"Guess we'll clean the showcases and windows first," said Mattie. "Parepa, you can remove all the candy dishes, empty them, and wash them while we clean the glass and put new papers on the bottoms of the showcases and window shelves." She showed Parepa very kindly just where to put the candy removed from dishes and how to clean and dry them. Parepa wondered if all her work would be so easy. Occasionally a customer sauntered in, and one of the older girls would wait on them. "Someday I'll sell candy, I suppose," she said to herself. "I wonder how long before they'll let me."
+"Guess we'll clean the showcases and windows first," said Mattie. "Parepa, you can remove all the candy dishes, empty them, and wash them while we clean the glass and put new papers on the bottoms of the showcases and window shelves." She showed Parepa very kindly just where to put the candy removed from dishes and how to clean and dry them. Parepa wondered if all her work would be so easy. Occasionally a customer sauntered in, and one of the older girls would wait on them. *Someday I'll sell candy, I suppose,* she said to herself. *I wonder how long before they'll let me.*
 
 "Say, who's the new 'candy kid'?" said a young swain who had been chatting with Carry as she boxed a pound of chocolates for him.
 
@@ -130,7 +130,7 @@ After they were seated and the order given, he turned to Parepa and said, "Well,
 
 Frances gave a jolly laugh and reached over and pinched Parepa's arm. She slapped at him just as she would have big brother at home.
 
-Aunt Kate watched this proceeding and wondered if it wasn't just as well that Frances's stay in the city was limited. "They are getting acquainted so fast," she thought, "but after all, young people must know and have young associates and Frances's fun seems only natural for one sixteen."
+Aunt Kate watched this proceeding and wondered if it wasn't just as well that Frances's stay in the city was limited. *They are getting acquainted so fast,* she thought, *but after all, young people must know and have young associates and Frances's fun seems only natural for one sixteen.*
 
 "Say, folks," Frances was saying, "If it rains tomorrow night, we'll go to a show at the Grand Opera House after dinner. I've ordered the dinner and the carriage and will be on time, so don't forget."
 

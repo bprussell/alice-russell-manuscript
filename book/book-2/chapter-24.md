@@ -30,7 +30,7 @@ At two o'clock she and Daddy dined together in a little portico. Parepa was deli
 
 "That's just like you. Wanting to mother me," he laughed, then added, "Thank you. I appreciate your thoughtfulness, but I have my plans all made, dear. After Frances leaves me, I am going to turn everything I own over to charities—all but a few million which I shall give to an old people's home, where I expect to reside the remainder of my days. My duty to this world will have been fulfilled at Frances's death. I shall remain inactive thereafter. It is my wish that it be this way."
 
-Parepa marveled at the calm and unaffected way in which both Frances and Daddy talked of their passing. Never a fear or worry entered into it. She was sure they were both anxious to go. "What a strange way to feel," she thought. They were through eating now, she took Daddy's arm and they went in the library to find, to their surprise, Frances sitting at the table ready to sign the legal papers which Daddy had prepared.
+Parepa marveled at the calm and unaffected way in which both Frances and Daddy talked of their passing. Never a fear or worry entered into it. She was sure they were both anxious to go. *What a strange way to feel,* she thought. They were through eating now, she took Daddy's arm and they went in the library to find, to their surprise, Frances sitting at the table ready to sign the legal papers which Daddy had prepared.
 
 "Are you sure you are able to sit up like that, darling?" asked Daddy.
 

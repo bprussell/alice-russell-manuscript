@@ -629,6 +629,20 @@ Changes from the great-grandson's read-through of the EPUB proof.
   quotation marks as her spoken answer to Johnie's question about the
   Wedgwood vase (family reading).
 
+- **Quoted thoughts set in italics (2026-11-14, family ruling):** so that
+  quotation marks always mean spoken words, the thoughts she had put in
+  quotation marks are now italic too — 22 passages, e.g. Uncle George's
+  "*Hanged if she ain't the prettiest thing I ever saw,* he thought",
+  Parepa's "*I must help them all I can,* she thought", Allie's "*What
+  they need is acres instead of feet,* she thought" — plus two unquoted
+  thoughts the first pass missed because they contain a quoted phrase
+  ("*I wonder what he's talking about, "open stock pattern,"* thought
+  Parepa"; "*Wonder why Frances calls him "dad,"* pondered Mrs. Slay").
+  This supersedes the two quotation-mark extensions made in the earlier
+  italics pass. Kept in quotation marks because voiced: Aunt Kate's
+  "Our Maude would have been sixteen now," said "half aloud", and
+  Allie's "It's my fault!..." cried into her pillow. No words changed.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's

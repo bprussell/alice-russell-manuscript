@@ -32,7 +32,7 @@ Parepa threw her arms around Aunt Kate and burst into a torrent of tears. "I've 
 
 "Now, let's go to bed, dearie, and I hope you will dream sweet dreams. Good night," and with a tender kiss she left her.
 
-That night Parepa had lots to think about. Her love for Frances was balanced by her anxiety for Uncle George. "I must help them all I can," she thought. "They have spent lots of money on me, and I must pay it back. I can do it only by giving entertainments. That's what I'll do," she decided. "I'll begin after Frances goes away in September. Mrs. Breen will help me get the engagements, I know." This settled in her mind, she fell asleep.
+That night Parepa had lots to think about. Her love for Frances was balanced by her anxiety for Uncle George. *I must help them all I can,* she thought. *They have spent lots of money on me, and I must pay it back. I can do it only by giving entertainments. That's what I'll do,* she decided. *I'll begin after Frances goes away in September. Mrs. Breen will help me get the engagements, I know.* This settled in her mind, she fell asleep.
 
 The month of July passed with only a few evenings with Frances. He and Mr. Wheeler had business out of town and were gone several days at a time.
 

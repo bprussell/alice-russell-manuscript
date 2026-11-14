@@ -60,7 +60,7 @@ As the train neared the end of the journey, Allie was breathless with the charm 
 
 Now there were deep chasms and canyons—now sunny gardens of green and gold—silver gray desert stretches—towering forms of cactus giants—and *color*! Oh, the beautiful blendings of color! Could the Temple of Solomon have been grander? Nowhere had she found nature's colors so striking. Our old Parepa-Roza had come back! Here, in the same seat and even in the same body in which Allie had entered the train, was this beauty worshiper of other days. Not one aspect of enchanting charm escaped the eyes of this woman. They were saturated with its loveliness.
 
-It was wonderful. Her thoughts traveled homeward to her husband. How he would have enjoyed this trip. How he loved the Colorado Mountains. "Well, someday," she said to herself, "we will take this trip together." She took her tablet from her bag, wrote her last long letter en route to her home folks.
+It was wonderful. Her thoughts traveled homeward to her husband. How he would have enjoyed this trip. How he loved the Colorado Mountains. *Well, someday,* she said to herself, *we will take this trip together.* She took her tablet from her bag, wrote her last long letter en route to her home folks.
 
 It was three-thirty o'clock in the afternoon when she left the train. She was just entering the depot when a young man dressed in livery stepped to her side and, touching her on the arm, asked, "Are you Mrs. Bradford from Illinois?"
 

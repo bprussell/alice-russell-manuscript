@@ -8,7 +8,7 @@ The telephone rang. "That's Parepa calling to see if there's anything I want her
 
 "Well, how are we going to contain ourselves until that time comes is what I want to know. Is the 'boss' coming too?" asked Mr. Slay.
 
-"You mean Mr. Wheeler? Oh, he is tired and won't come this time, he said. I'm glad of it myself," confided Mrs. Slay. Wonder why Frances calls him "dad," pondered Mrs. Slay.
+"You mean Mr. Wheeler? Oh, he is tired and won't come this time, he said. I'm glad of it myself," confided Mrs. Slay. *Wonder why Frances calls him "dad,"* pondered Mrs. Slay.
 
 "Oh, just natural for him, I suppose, being with him all his life and never knowing any other dad. You know I feel mighty sorry for that young chap, even if he has got all the money he can use," and Mr. Slay lit a cigar and seated himself on the sofa. "Wheeler must have a lonely life, too. I asked Frances once if his guardian had never married, and he avoided a direct answer. They seem to be keeping each other's secrets pretty well guarded."
 

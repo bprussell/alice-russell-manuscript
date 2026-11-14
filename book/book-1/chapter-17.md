@@ -46,6 +46,6 @@ As they entered the store, Frances came toward them, smiling.
 
 "I guess so, but be careful, my girlie. All is not gold that glitters." And he went into his office.
 
-"Poor Uncle Will," thought Parepa, "he means all right."
+*Poor Uncle Will,* thought Parepa, *he means all right.*
 
 That evening proved to be one never to be forgotten by either Parepa or Frances.
