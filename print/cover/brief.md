@@ -36,8 +36,8 @@ into the bleed.
   spine 0.938 · front cover 6.375 · fold 0.25 · front flap 3.25
   (= 20.688 in). Check bleed and safe lines against Lulu's downloaded
   template before export.
-- Linen: green, gold foil. Spine stamping (42 characters max each):
-  title `SEALED SECRETS & KASHEMA`, author `ALICE REYNOLDS RUSSELL`.
+- Linen: green, gold foil. Spine stamping (42 characters combined):
+  title `SEALED SECRETS & KASHEMA`, author `RUSSELL`.
 
 ## Look
 
