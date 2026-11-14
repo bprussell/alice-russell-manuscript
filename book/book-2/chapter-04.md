@@ -14,7 +14,7 @@ What did she know about Harold's past? Nothing—but, of course, he is good too�
 
 Finally Johnie asked, "Have you been thinking real hard about what we were talking about the last time we were together, Allie?" And he gave her a hug and squeezed her hand lovingly.
 
-Parepa wished he would grab her and run far, far away with her. Why, oh, why was he so slow? She found herself on fire at his slightest touch. Why couldn't he see! Why couldn't he feel, and she turned her head from him when she really wanted to throw herself into his arms and cry take me! take! and keep me. He was so dear, so disturbing.
+Parepa wished he would grab her and run far, far away with her. Why, oh, why was he so slow? She found herself on fire at his slightest touch. Why couldn't he see! Why couldn't he feel, and she turned her head from him when she really wanted to throw herself into his arms and cry *take me! take! and keep me.* He was so dear, so disturbing.
 
 "No, Johnie, I haven't thought anything about it. You know I'm going to teach another year. There will be time enough later," she said calmly.
 
@@ -26,7 +26,7 @@ They walked back to the hotel chatting together about this one and that one at h
 
 When Parepa reached her room, she threw herself on her bed and wept bitter tears. She didn't know why she wept. She couldn't explain her feelings to even her own satisfaction. She knew she was madly in love, but with whom? She was afraid it was Johnie. She wasn't sure—for hours she tossed on her bed. Why was he—how could he be so patient—so willing to wait for her decision? Why didn't he urge her—force her—make her see his worthiness? Finally sleep overcame her, and she lay as a punished child, sobbing as she slept.
 
-In another room of that same hotel, a young man lay awake, feeling happy in the thought he was so near to the girl he loved. She was glad he had come—she had said so—tomorrow we will have a good visit. Will she love me sometime? Of course she will—I can wait. She must have her own time—I'll not coax her. Someday she will be my wife—I must bide my time. He dropped to sleep in a peaceful, restful, confident state of mind that is the possession of only such honest, fair minded men as Johnie Bradford.
+In another room of that same hotel, a young man lay awake, feeling happy in the thought he was so near to the girl he loved. She was glad he had come—she had said so—*tomorrow we will have a good visit. Will she love me sometime? Of course she will—I can wait. She must have her own time—I'll not coax her. Someday she will be my wife—I must bide my time.* He dropped to sleep in a peaceful, restful, confident state of mind that is the possession of only such honest, fair minded men as Johnie Bradford.
 
 The next morning at ten o'clock, two young people met with the spirit of the day ringing in their ears. Horns and whistles blowing, flags flying, drums beating, firecrackers deafening them. Such crowds! It certainly was no place for confidence. No place for them.
 

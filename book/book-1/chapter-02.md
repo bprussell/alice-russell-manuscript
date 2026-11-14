@@ -192,7 +192,7 @@ When Parepa arose, she kissed Aunt Kate and told her how nice she was. "I'm tire
 
 "Now you must sleep as long as you can in the morning because you are all worn out from your long ride, and you know we are going to have lots of fun tomorrow."
 
-After the light was snapped out and Parepa left alone, she reviewed the day's happenings. I didn't suppose so much could happen in so short a time. I must ask Aunt Kate tomorrow what country pedigreed horses are from and what they look like. Hope Uncle George won't kiss me tomorrow night. Wonder if I'll make the salad to--m--o--rr--ow but the child was asleep, not to awaken until the sun was high in the sky. She couldn't believe she had slept so late.
+After the light was snapped out and Parepa left alone, she reviewed the day's happenings. *I didn't suppose so much could happen in so short a time. I must ask Aunt Kate tomorrow what country pedigreed horses are from and what they look like. Hope Uncle George won't kiss me tomorrow night. Wonder if I'll make the salad to--m--o--rr--ow* but the child was asleep, not to awaken until the sun was high in the sky. She couldn't believe she had slept so late.
 
 Aunt Kate heard her and came running upstairs calling out, "Sleepyhead, sleepyhead," and as she entered the room Parepa noticed she was dressed to go out.
 

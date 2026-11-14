@@ -662,6 +662,22 @@ Changes from the great-grandson's read-through of the EPUB proof.
 - **book-2/chapter-24.md:** untagged present-tense thought set in italics — "*And
   to think this place is mine.* It was beginning to dawn on her now."
 
+- **Untagged thoughts set in italics (2026-11-14):** a search of the
+  narration (outside quotes and italics) for first-person words found
+  these character thoughts, now italic: Parepa drifting off to sleep
+  ("*I didn't suppose so much could happen... Wonder if I'll make the
+  salad to–m–o–rr–ow* but the child was asleep", Book I Ch II);
+  Frances's night of argument ("*She and I could 'go about doing
+  good'... but—she must know first.*", Ch XXII); Frances in church
+  ("*She should be his wife—I'll not interfere.*" and "*What do all this
+  world's goods amount to? Nothing,* thought Frances", Ch XXV); Allie's
+  inner cry ("*take me! take! and keep me.*", Book II Ch IV); Johnie
+  lying awake ("*tomorrow we will have a good visit... I must bide my
+  time.*", Ch IV); and "*And to think this place is mine.*" (Ch XXIV).
+  The narrator's own asides ("our heroine", "I would say 'in the
+  yard'", "Helped, I said", "we use to call them corsets") are not
+  thoughts and are unchanged.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
