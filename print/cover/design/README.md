@@ -21,3 +21,8 @@ before exporting.
 jacket**, not a casewrap. The panels here need re-laying onto Lulu's
 dust-jacket template (back flap, back, spine, front, front flap); see
 `../brief.md` for what goes where.
+
+**Built jacket:** `print/cover/build.sh` lays these panels onto Lulu's
+dust-jacket template (`print/cover/make_jacket.py`, geometry measured
+from `print/book/yv69v4d-cover-template.pdf`) and writes
+`print/cover/jacket.pdf`, the file uploaded to Lulu.
