@@ -2,7 +2,7 @@
 
 He was so surprised and happy to see her. His eyes sparkled as the love light shone in them. "'Twas mighty good of you to meet me, girlie," he said in his old sincere way. "I thought 'twould be a little late to call on you at your boarding house, so I decided to stay here tonight and have a glorious day with you tomorrow."
 
-"I was going away for the Fourth, but when I got your letter, I decided I'd come here and meet you and stay at the hotel myself until Saturday. Then I'll go on to Chenoa to visit. There is really nothing of interest in Normal for you to see, so I thought we'd just have a better time together here in Bloomington. Tomorrow we can see the town together," and she felt that old time chumminess coming back. It was nice, she thought—but—I must tell him tomorrow.
+"I was going away for the Fourth, but when I got your letter, I decided I'd come here and meet you and stay at the hotel myself until Saturday. Then I'll go on to Chenoa to visit. There is really nothing of interest in Normal for you to see, so I thought we'd just have a better time together here in Bloomington. Tomorrow we can see the town together," and she felt that old time chumminess coming back. *It was nice,* she thought—*but—I must tell him tomorrow.*
 
 They went to the hotel and each registered for their rooms. They washed up then met in the lobby to go for a walk. They found some seats to rest in and were soon chatting away about home folks and doings, both really enjoying themselves.
 

@@ -32,7 +32,7 @@ Allie, with her keen eye for beauty, realized the possibilities here. In the fir
 
 Oh! Now she finds her garden spot. A level space laying north of the lawn and extending to the roadside. Right now she could see it ablaze with color. Yes, she was happy! This was the dream garden of her childhood. She could see it all now—how kind of fate to hold it back until her riper years.
 
-There was the place for the rock garden and there would be the lily pool, of course, there would be lots of birds. And what is that way down the hill west of the house? A pond—my lake! She almost cried, clapping her hands. She turned and was about to run to find Johnie and the boys in her glee. Then she stopped—they wouldn't see it—they wouldn't understand, she said to herself. They are all men.
+There was the place for the rock garden and there would be the lily pool, of course, there would be lots of birds. And what is that way down the hill west of the house? *A pond—my lake!* She almost cried, clapping her hands. She turned and was about to run to find Johnie and the boys in her glee. Then she stopped—they wouldn't see it—they wouldn't understand, she said to herself. *They are all men.*
 
 For the first time in her life, she was overcome with lonesomeness. Lonesome for something—she didn't quite know what. They were all men—that was it. She was alone after all—after all these years—alone. Where were the twin girls of her dream days—*her* girls?
 

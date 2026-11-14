@@ -102,7 +102,7 @@ Frances said no more, but if Parepa only knew that he reaped his happiness from 
 
 After he had gone, Parepa sat and pondered. She wondered just what changes might come to her in the next two years.
 
-The next morning, when she awoke, the sunlight was streaming through the open windows into her room. She felt grand! She slipped into a pink morning gown and descended the stairs. The perfume of the roses drew her to the living room. Oh, how lovely of Mr. Wheeler, she thought as she buried her face in them. Everyone is so good to me. "Daddy Wheeler," she laughed as she looked at the card again. "Don't that sound funny, though?"
+The next morning, when she awoke, the sunlight was streaming through the open windows into her room. She felt grand! She slipped into a pink morning gown and descended the stairs. The perfume of the roses drew her to the living room. *Oh, how lovely of Mr. Wheeler,* she thought as she buried her face in them. *Everyone is so good to me.* "Daddy Wheeler," she laughed as she looked at the card again. "Don't that sound funny, though?"
 
 Aunt Kate came in smiling. "Well, how does it feel to step back two years of your life, my dear?"
 

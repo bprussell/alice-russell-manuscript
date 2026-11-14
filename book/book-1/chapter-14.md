@@ -20,7 +20,7 @@ The telephone rang. "That's Parepa calling to see if there's anything I want her
 
 "Fine! We'll do that, and then we will all see the fun. Well, I must get us a bite to eat now," and she hurried to the kitchen, all excited.
 
-Mr. Slay, left to himself, sat to thinking over the day he brought Parepa from her country home in that old tea wagon. He could see the cunning freckles on her nose as she turned her face to his and said, "Yes, and from now on don't you ever forget it, I'm sixteen years old." And I promised her I'd never tell, he mused. And I never have, not even the best friend the child could ever have, my wife. I wonder if I have done wrong. Frances, too, thinks she will be of age. I believe the girl believes it herself. Anyway, she has never referred to it to me.
+Mr. Slay, left to himself, sat to thinking over the day he brought Parepa from her country home in that old tea wagon. He could see the cunning freckles on her nose as she turned her face to his and said, "Yes, and from now on don't you ever forget it, I'm sixteen years old." *And I promised her I'd never tell,* he mused. *And I never have, not even the best friend the child could ever have, my wife. I wonder if I have done wrong. Frances, too, thinks she will be of age. I believe the girl believes it herself. Anyway, she has never referred to it to me.*
 
 When Parepa came home, she went about her usual performances, innocent of the great surprise in store for her.
 

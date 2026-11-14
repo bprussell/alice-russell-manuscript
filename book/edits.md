@@ -579,6 +579,21 @@ Changes from the great-grandson's read-through of the EPUB proof.
   we take whatever fate deals out to us in this world?* she protested in
   her mind."
 
+- **Unquoted thoughts set in italics (2026-11-14, family request):** every
+  thought-tag in both books ("she thought", "she pondered", "he mused",
+  "she said to herself"...) was checked; direct thoughts she left
+  unmarked are now italic, e.g. "*I wonder who Frances is,* she thought"
+  (Book I Ch II), Uncle George's "*And I promised her I'd never tell,*
+  he mused..." (Ch XIV), "*Oh, how lovely of Mr. Wheeler,* she thought"
+  (Ch XXI), "*It was nice,* she thought—*but—I must tell him tomorrow*"
+  and "*A pond—my lake!*" / "*They are all men.*" (Book II Ch IV, XIII).
+  Where she had quoted the first half of a thought and left the rest
+  bare, the quotation marks were extended instead (Book I Ch II "Maybe
+  I'll learn...", Book II Ch XIV "All these years I have refrained...").
+  Thoughts she already put in quotation marks, and reported thoughts
+  ("It was meant for a younger woman, she thought"), are unchanged. No
+  words changed.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's

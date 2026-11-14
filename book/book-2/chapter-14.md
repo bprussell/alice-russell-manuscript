@@ -24,7 +24,7 @@ A card fell on her lap. She read it: Dear Parepa-Roza: "With best wishes for you
 
 She raised the glasses to her eyes and in memory saw the picture of a young girl so happy and free, dressed in a fluffy pink dress and a large leghorn hat with flowers around the crown and hanging from the brim over her shoulder. The picture changed! Now the same face was tear stained, the pretty pink dress wet and mussed. She was laying in kind old Uncle George's arms, riding home from the show, disgraced.
 
-She replaced the glasses, and suddenly she clasped the lid shut and laid it in the box beside the other gifts, as a child would have done had he been caught prying into places he had no business to be. "I will never peek at them again," she told herself. All these years I have refrained from opening that box. I must never do it again.
+She replaced the glasses, and suddenly she clasped the lid shut and laid it in the box beside the other gifts, as a child would have done had he been caught prying into places he had no business to be. "I will never peek at them again," she told herself. "All these years I have refrained from opening that box. I must never do it again."
 
 She took the Wedgwood vase, the picture, and the Dickens works downstairs and proudly displayed them and their cards to her boys and husband. The card, still tied to the handle of the vase, was inspected by her husband: "To My Dear Little Girl. A Rose for every year. To wish you joy, my Dear—Daddy Wheeler."
 

@@ -26,7 +26,7 @@ They were at the table more than an hour and a half; Parepa was glad when it was
 
 "To the Grand Opera House," commanded Frances as the driver closed the carriage door.
 
-Clap, clap, clap, went the horses' feet on the pavement. Parepa caught herself keeping time to them. The rain was coming faster now and the street lights made the drops glisten like diamonds. Parepa was quiet again, wrapped in the beauty of it all. "It wasn't raining rain to her — 'Twas raining pretty jewels." How does it come I never knew of all these wonderful things before, she pondered, never knew there was such — but here the horses stopped, and Frances himself was laughingly lifting her into the shelter of the opera house.
+Clap, clap, clap, went the horses' feet on the pavement. Parepa caught herself keeping time to them. The rain was coming faster now and the street lights made the drops glisten like diamonds. Parepa was quiet again, wrapped in the beauty of it all. "It wasn't raining rain to her — 'Twas raining pretty jewels." *How does it come I never knew of all these wonderful things before,* she pondered, *never knew there was such* — but here the horses stopped, and Frances himself was laughingly lifting her into the shelter of the opera house.
 
 "Be here to take us home after the show," he called to the driver.
 
