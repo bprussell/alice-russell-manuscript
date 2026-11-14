@@ -16,3 +16,8 @@ the canvas; export the PDF from there.
 **Size is an estimate** (285 pp, spine ≈ 0.94 in, 0.75 in wrap →
 14.44 × 10.5 in). Replace with the numbers from Lulu's cover template
 before exporting.
+
+**Format change:** the book will be a linen hardcover with a **dust
+jacket**, not a casewrap. The panels here need re-laying onto Lulu's
+dust-jacket template (back flap, back, spine, front, front flap); see
+`../brief.md` for what goes where.
