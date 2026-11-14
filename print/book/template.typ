@@ -65,8 +65,8 @@
 
 #set page(width: 6in, height: 9in, binding: left,
   margin: (inside: 0.9in, outside: 0.65in, top: 0.85in, bottom: 0.85in),
-  header: running-head, header-ascent: 40%,
-  footer: folio, footer-descent: 40%)
+  header: running-head, header-ascent: 0.2in,
+  footer: folio, footer-descent: 0.15in)
 
 // --- Headings -------------------------------------------------------------
 // Level 1 = a book (part) title page; level 2 = chapter or front-matter section.
