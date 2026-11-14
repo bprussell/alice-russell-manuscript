@@ -36,6 +36,9 @@ typst_raw() { printf '\n```{=typst}\n%s\n```\n\n' "$1"; }
 } > "$tmp/body.md"
 
 "$PANDOC" "$tmp/body.md" --from markdown-smart --to typst -o "$tmp/body.typ"
+# The schedule tables (Book One ch. X) get shared fixed column widths so the
+# Sunday and weekday lists line up on the same tab stops.
+sed -i 's/^    columns: 2,$/    columns: (1.75in, 1.1in),/' "$tmp/body.typ"
 cat print/book/template.typ "$tmp/body.typ" > "$tmp/main.typ"
 cp -r print/book/images "$tmp/images"
 python3 - "$tmp" <<'PY'
