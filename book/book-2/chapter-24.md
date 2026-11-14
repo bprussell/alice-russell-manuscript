@@ -38,7 +38,7 @@ Parepa marveled at the calm and unaffected way in which both Frances and Daddy t
 
 "Are you sure you are not trying to show off?" laughed Parepa as she kissed her cheek tenderly.
 
-"Sure as the world. Now let's get busy." Daddy witnessed the signature to each officially, Parepa watched the proceeding with sadness in her heart. Why must such good people as these be taken from this world? Their every desire is to do good for others. I'll try my best to carry on for them, she vowed silently as Daddy declared, "That is the last one."
+"Sure as the world. Now let's get busy." Daddy witnessed the signature to each officially, Parepa watched the proceeding with sadness in her heart. *Why must such good people as these be taken from this world? Their every desire is to do good for others. I'll try my best to carry on for them,* she vowed silently as Daddy declared, "That is the last one."
 
 They were each placed in an addressed envelope and sealed. "I'll take them right into town and get them on their way," he said, rising and bidding them goodbye. "They will all be returned in ten days or two weeks."
 

@@ -649,6 +649,13 @@ Changes from the great-grandson's read-through of the EPUB proof.
   "who was to be Parepa's maid" (Ch XXII), who is otherwise unnamed
   until here.
 
+- **Book II Ch XXIV:** missed by the italics passes ("vowed silently" was
+  not among the searched tags): "*Why must such good people as these be
+  taken from this world? Their every desire is to do good for others.
+  I'll try my best to carry on for them,* she vowed silently". A
+  follow-up search for other tags (silently, inwardly, vowed, prayed,
+  resolved...) found no further unmarked thoughts.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
