@@ -643,6 +643,12 @@ Changes from the great-grandson's read-through of the EPUB proof.
   "Our Maude would have been sixteen now," said "half aloud", and
   Allie's "It's my fault!..." cried into her pillow. No words changed.
 
+- **Book II Ch XXIV, p264:** editorial "her maid," supplied where the
+  name first appears — "When she had sealed her letter, her maid,
+  Nanettezen, took it to a servant" — tying the name to the French girl
+  "who was to be Parepa's maid" (Ch XXII), who is otherwise unnamed
+  until here.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's

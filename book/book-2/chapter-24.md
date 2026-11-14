@@ -18,7 +18,7 @@ Parepa heard the water running in the bathroom. She knew she was going to be bet
 
 "Now you look as sweet and fresh as though you hadn't been sick," she laughed.
 
-"Thank you, that's nice of you to say that. Now I think I'll write a letter home," she said and sat about it. It was a long, loving letter. She did not think it important to tell them of the financial transactions of the morning. "Frances has looked out for our future finances abundantly," was her only reference to it. When she had sealed her letter, Nanettezen took it to a servant, and it was sent at once to the post office.
+"Thank you, that's nice of you to say that. Now I think I'll write a letter home," she said and sat about it. It was a long, loving letter. She did not think it important to tell them of the financial transactions of the morning. "Frances has looked out for our future finances abundantly," was her only reference to it. When she had sealed her letter, her maid, Nanettezen, took it to a servant, and it was sent at once to the post office.
 
 At two o'clock she and Daddy dined together in a little portico. Parepa was delighted with the lightheartedness of her companion. He joked and laughed with her as one many years his junior. Finally he asked, "Do you like it here, Parepa?"
 
