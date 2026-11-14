@@ -67,7 +67,10 @@ Where her people speak plainly — "it don't seem possible," "ain't you,
 honey?" — they speak as she wrote them. Words that were ordinary in her day
 and have since grown unfamiliar, such as *cateress*, *bier*, and
 *gasolene*, are left as she used them. Every change made between her pages
-and these is recorded, so that nothing she wrote is lost.
+and these is recorded, so that nothing she wrote is lost. Photographs of
+all 288 original pages, the word-for-word transcription, and the full log
+of edits are kept together online at
+github.com/bprussell/alice-russell-manuscript.
 
 [Closing paragraph from the family: who prepared this edition and for
 whom — e.g., "This edition was prepared by her great-grandson for her

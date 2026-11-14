@@ -1,35 +1,42 @@
-# Book Digitizer
+# The Locket of Family Secrets & The Heir of the Broken Chain
 
-Digitizing a typewritten manuscript from the early 1900s — a book written by
-the author's great-grandmother — into an archival transcription and a
-print-ready edition to be given as a gift.
+**A novel in two books by Alice Reynolds Russell of Edelstein, Illinois,
+written in the early twentieth century and preserved by her family as a
+288-page typescript.**
 
-## Goals
+This repository is the permanent record behind the family's printed
+edition of her book. It holds everything needed to check the printed text
+against what she actually typed:
 
-1. **Archival layer** — a faithful, verbatim transcription of every page:
-   typos preserved, pencil corrections recorded as annotations, underlines and
-   tables captured.
-2. **Reading layer** — a lightly edited text: obvious typos corrected and
-   pencil corrections applied, with **no substantive changes to meaning**.
-3. **Print layer** — a typeset, print-ready PDF suitable for a
-   print-on-demand service (Lulu, Blurb, KDP), plus an EPUB as a bonus.
+| What | Where |
+|---|---|
+| Photographs of every original page | [`pages/originals/`](pages/originals/) (`page-001.jpg` … `page-288.jpg`), and the manuscript in its box: [`pages/box-photo.jpg`](pages/box-photo.jpg) |
+| Word-for-word transcription of each page — her typing, strikeovers and pencil corrections exactly as they appear | [`transcript/`](transcript/) |
+| The edited reading text, chapter by chapter | [`book/book-1/`](book/book-1/), [`book/book-2/`](book/book-2/) |
+| A log of every change made between her pages and the printed text, and why | [`book/edits.md`](book/edits.md) |
+| What we know about the manuscript and the author | [`docs/manuscript-notes.md`](docs/manuscript-notes.md) |
+| Typesetting sources, fonts and the print and e-book files | [`print/`](print/) |
 
-## Repository layout
+Book One was titled by the family (the original title was erased; only
+"OF" and "SECRETS" survive). Book Two's title was recovered from the
+impression the erased type left in the paper. See
+[`docs/manuscript-notes.md`](docs/manuscript-notes.md).
 
-```
-pages/originals/   Photos of the manuscript pages (page-001.jpg … page-288.jpg)
-pages/box-photo.jpg  Keepsake photo of the manuscript in its box
-transcript/        Verbatim per-page transcriptions (archival layer)
-transcript/REVIEW.md  Pages needing a human look at the physical manuscript
-book/              Edited, continuous text organized by chapter (reading layer)
-book/edits.md      Log of every correction made between the two layers
-print/             Typesetting sources and the final print-ready PDF
-docs/              Project documentation and conventions
-```
+## How the text was prepared
 
-See [PLAN.md](PLAN.md) for the full pipeline plan and
-[docs/transcription-format.md](docs/transcription-format.md) for the
-annotation conventions used in the verbatim transcripts.
+1. **Transcription:** every page was transcribed exactly as typed, with
+   pencil marks, strikeovers and underlines recorded as annotations (see
+   [`docs/transcription-format.md`](docs/transcription-format.md)), then
+   checked a second time against the photograph.
+2. **Reading text:** typing slips corrected and her own pencil corrections
+   applied; spelling, capitalization and punctuation brought to modern
+   American usage; a few grammatical slips in the narration set right;
+   unspoken thoughts set in italics. Her words, phrasing and dialogue are
+   her own. Every change is listed in [`book/edits.md`](book/edits.md).
+3. **Print edition:** typeset in Sorts Mill Goudy at 6″ × 9″ (see
+   [`print/book/`](print/book/)); an EPUB is built from the same text.
+
+The working plan for the project is in [PLAN.md](PLAN.md).
 
 ## Status
 
