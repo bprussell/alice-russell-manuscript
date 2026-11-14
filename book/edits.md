@@ -607,6 +607,10 @@ Changes from the great-grandson's read-through of the EPUB proof.
   then she sat quietly thinking') → new sentence, capitalized ('"Fine!"
   And he took the oars'). Speech tags ('"Fine!" he said') are unchanged.
 
+- **book-2/chapter-17.md:** "She loved each one better than her life; yet she
+  seemed so helpless..." → comma before "yet" (a joining word between
+  two clauses takes a comma; a semicolon would need no "yet").
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
