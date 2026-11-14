@@ -25,4 +25,6 @@ The last link in the Emmerson chain was broken. They had taken their long ride.
 > Would we not shatter it to bits and then,  
 > &nbsp;&nbsp;&nbsp;&nbsp;Remould it nearer to the heart's desire?"
 
+::: {.the-end}
 THE END
+:::

@@ -1,4 +1,4 @@
-# The Locket of Family Secrets & The Heir of the Broken Chain
+# Sealed Secrets & Kashema
 
 **A novel in two books by Alice Reynolds Russell of Edelstein, Illinois,
 written in the early twentieth century and preserved by her family as a
@@ -17,9 +17,9 @@ against what she actually typed:
 | What we know about the manuscript and the author | [`docs/manuscript-notes.md`](docs/manuscript-notes.md) |
 | Typesetting sources, fonts and the print and e-book files | [`print/`](print/) |
 
-Book One was titled by the family (the original title was erased; only
-"OF" and "SECRETS" survive). Book Two's title was recovered from the
-impression the erased type left in the paper. See
+The two books' titles, *Sealed Secrets* and *Kashema*, are those the
+Russell family history records. The titles first typed on the manuscript
+were later erased by the author; see
 [`docs/manuscript-notes.md`](docs/manuscript-notes.md).
 
 ## How the text was prepared
@@ -47,9 +47,7 @@ The working plan for the project is in [PLAN.md](PLAN.md).
 - [x] Phase 2 — Verification pass (288/288 pages verified against source
       photos, and the ~50-item review queue subsequently worked to zero in
       a physical-page review with the family — see transcript/REVIEW.md.
-      The two erased book titles are permanently unrecoverable; the
-      reading edition will carry editor-composed titles, disclosed in the
-      foreword — see book/edits.md)
+      The book titles come from the family history — see book/edits.md)
 - [x] Phase 3 — Edited reading text (all 57 chapters — Book I: 30, Book II:
       27 — in book/book-1/ and book/book-2/, with every correction logged
       in book/edits.md; all 69 open judgment calls since ruled on by the

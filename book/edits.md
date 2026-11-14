@@ -17,30 +17,20 @@ logged here as Phase 3 proceeds; global decisions are recorded up front.
   struck typed "Johnnie" back to "Johnie" twice (once in blue pencil),
   so "Johnie" reads as her settled choice.
 
-- **Book titles (decided 2026-07-08/09, with the author's great-grandson):**
-  the manuscript's original titles were erased by the author. Both title
-  blocks share a three-line centered "X / OF / Y" shape.
-  - **Book I (page 1): "The Locket of Family Secrets" — composed.** The
-    erased block survives only as "_____ / OF / _____ SECRETS" (the "OF"
-    and "SECRETS" recovered by contrast enhancement; ghost-line width
-    shows a ~5-7 letter word preceded "SECRETS"; the first line is fully
-    lost). "The Locket" and "Family" are editorial choices fitted around
-    the recovered fragments — the locket being the story's literal vessel
-    of the Emmerson family's secrets. This is the edition's one truly
-    invented title element, to be disclosed in the foreword.
-  - **Book II (page 165): "The Heir of the Broken Chain" — reconstructed.**
-    During the physical-page review the family recovered partial letters
-    from the erased block: "____IR / __ / TH_ BR____ C__IN". The last
-    line reads "THE BROKEN CHAIN" letter-for-letter — matching the
-    manuscript's closing line ("The last link in the Emmerson chain was
-    broken.") and page 162's vow that the child "shall break this line of
-    weakness and shame." The first line's "...IR" ending fits "THE HEIR"
-    (and Allie is Emmerson's heir in the plot). "THE BROKEN CHAIN" is
-    treated as solidly recovered; "THE HEIR" as probable reconstruction.
-  - The **foreword will explain** both cases: the originals were erased,
-    Book II's title was substantially recovered from ghost impressions,
-    and Book I's was composed around its two recovered words — the
-    edition's one truly editorial invention.
+- **Book titles (revised 2026-11, superseding the 2026-07 decision):**
+  **Book I "Sealed Secrets", Book II "Kashema"** — the titles recorded in
+  the Russell family history (ch. 16, p. 84: "divided into two parts
+  tantalizingly entitled, 'Sealed Secrets' and 'Kashema'"; p. 83 lists her
+  books as "Sealed Secrets," "Kshema," …). "Kashema" follows the
+  manuscript's own spelling of the estate name (5×). The erased typed
+  titles on pages 1 and 165 were evidently earlier drafts:
+  - Page 1's erased block reads "_____ / OF / _____ SECRETS"; the ~5-7
+    letter word before "SECRETS" fits "SEALED".
+  - Page 165's erased block was read from ghost impressions as
+    "____IR / __ / TH_ BR____ C__IN" = "The Heir of the Broken Chain".
+  - The previously composed Book I title ("The Locket of Family Secrets")
+    and the reconstructed Book II title are retired; the foreword explains
+    the erased titles and the family-recorded ones.
 
 - **Surname "Slay" normalized:** the one "Mr. Saly" (p26) is corrected to
   "Mr. Slay", the spelling used everywhere else in the manuscript.
@@ -878,7 +868,9 @@ forms, "Alright"/"All right" variation.
   "too much"; "dail schedule" → "daily schedule"; question mark added
   ("buy my clothes on that?")
 - p62-63 daily-schedule table rendered as two Markdown tables, values
-  verbatim
+  verbatim. The Sunday rows, typed time-first ("9:30 Sunday school"), are
+  set activity-first to match the weekday rows, so the times share a
+  column (family decision, 2026-11).
 - p63 "from on duty" → "from one duty"; "acqua inted" → "acquainted"
 
 ### Book I, Chapter XI (page 64)

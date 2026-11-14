@@ -49,6 +49,19 @@ burial lists.
   the Arthur Russell of Chillicothe d. 1 Jan 2001, buried Lawn Ridge
   Cemetery). All attended Centerville grade school and Princeville High
   School.
+- Later: the Hodge farm (Valley Township, Stark County); John worked for
+  the Bemis Bag Co. in Peoria; then Peoria, first Mt. Hawley Rd. (now
+  Knoxville Ave.), then 1218 N. Sheridan, where Allie ran a flower
+  business, "The Russell Flower Garden"; she lectured on flowers and her
+  button collection; matron at Caterpillar; member of Edelstein
+  Congregational Church, Toastmistress Club, Little Garden Club, Retired
+  Teachers Association. John d. 13 Oct 1961 (82); Allie d. 5 May 1975
+  (93); both buried Swan Lake Memorial Gardens, Peoria.
+- A newspaper clipping credits her with five books: "Sealed Secrets,"
+  "Kshema," "'Tis Our God Rules Over All," "Then What," and "Button,
+  Button, Who Gave the Button?" Only this manuscript is known to survive.
+- Her middle name "Parapa-Rosa": she said it was that of a famous Italian
+  opera singer; her father liked the name (the novel tells this too).
 - The manuscript was kept by her grandson **William Russell, Richard's
   son**.
 
@@ -97,13 +110,14 @@ of page 162's vow ("He shall break this line of weakness and shame").
 The first line's "...IR" fits **"THE HEIR"** — and Allie is Emmerson's
 heir in the plot. Probable original: **"THE HEIR OF THE BROKEN CHAIN"**.
 
-**Titles for the reading edition (recorded in book/edits.md):**
-
-- Book I: **"The Locket of Family Secrets"** — composed around the
-  recovered "...OF ...SECRETS"; the edition's one truly editorial
-  invention, disclosed in the foreword.
-- Book II: **"The Heir of the Broken Chain"** — reconstruction from the
-  recovered letters ("THE BROKEN CHAIN" solid, "THE HEIR" probable).
+**Titles for the reading edition (revised 2026-11; see book/edits.md):**
+the Russell family history (p. 84) records the two parts as **"Sealed
+Secrets"** and **"Kashema"** — the titles used. "SEALED" fits the ~6-letter
+gap before "SECRETS" on page 1, so the erased Book I block probably read
+"[?] / OF / SEALED SECRETS" or similar; "The Heir of the Broken Chain" was
+evidently an earlier title for Book II, later replaced by "Kashema" (the
+name of the house in the story). The earlier composed title "The Locket of
+Family Secrets" is retired.
 
 ## The story (as of pages 1–2)
 
@@ -115,9 +129,9 @@ drives, battles). The family: six children, a farm, Saturday trading trips to
 the story is set in the author's own countryside. Given that the heroine
 shares the author's first name, this may be autobiographical fiction.
 
-(The heroine's unusual name echoes Euphrosyne Parepa-Rosa, a famous
-19th-century opera soprano whose troupe toured the American Midwest — a
-plausible namesake a musical family might have chosen. Speculation only.)
+(The heroine's unusual name is the author's own middle name, after the
+opera soprano Euphrosyne Parepa-Rosa; the family history confirms she
+claimed the singer as its source.)
 
 ## Completeness and page numbering
 

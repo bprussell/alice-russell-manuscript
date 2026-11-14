@@ -7,3 +7,4 @@ blockquote { margin: 1em 2em; font-style: italic; }
 blockquote p { text-indent: 0; text-align: left; }
 hr { width: 25%; margin: 1.5em auto; border: 0; border-top: 1px solid currentColor; }
 .proof-note p { text-indent: 0; margin-bottom: 0.8em; text-align: left; }
+.the-end p { text-indent: 0; text-align: center; margin-top: 1.5em; letter-spacing: 0.2em; }

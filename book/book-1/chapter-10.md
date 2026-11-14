@@ -84,11 +84,11 @@ We now find our heroine with the following daily schedule:
 
 Sunday:
 
-|       |               |
-| ----- | ------------- |
-| 9:30  | Sunday school |
-| 10:30 | Choir         |
-| Afternoon—7:00 | Choir |
+|               |                |
+| ------------- | -------------- |
+| Sunday school | 9:30           |
+| Choir         | 10:30          |
+| Choir         | Afternoon—7:00 |
 
 Weekdays:
 
