@@ -124,7 +124,7 @@
 #pagebreak()
 
 // Frontispiece (verso, facing the title page)
-#plate("images/alice-and-john.jpg", width: 74%)[Alice Parepa-Roza Reynolds and
+#plate("images/alice-and-john.jpg", width: 74%)[Alice Parepa-Rosa Reynolds and
   John Sidney Russell, about the time of their marriage in 1905]
 #pagebreak()
 

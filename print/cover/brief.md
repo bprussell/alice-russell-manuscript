@@ -60,7 +60,7 @@ background color and the image run into the bleed.
 (`print/book/images/alice-and-john.jpg`) or the 50th-anniversary photo
 (`docs/allie-and-johnie.heic`), with:
 
-> Alice Parepa-Roza Reynolds Russell (1881–1975) taught at the Kellogg
+> Alice Parepa-Rosa Reynolds Russell (1881–1975) taught at the Kellogg
 > school, raised three sons on farms around Edelstein, and lectured across central Illinois on her flowers and her button
 > collection. She wrote five books; these two are the only ones known
 > to survive.

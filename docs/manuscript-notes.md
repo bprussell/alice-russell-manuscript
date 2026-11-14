@@ -32,7 +32,7 @@ R287, "John Sidney Russell 1879–1961 / Alice Parapa-Rosa Reynolds
 Russell's obituary (Peoria *Journal Star*, 10 Dec 1998) and public
 burial lists.
 
-- **Alice Parepa-Roza Reynolds, 1881–1975**, daughter of **John and Eliza
+- **Alice Parepa-Rosa Reynolds, 1881–1975**, daughter of **John and Eliza
   (Bonham) Reynolds**. Called "Allie." Taught at the **Kellogg school**,
   where she met her husband.
 - **John Sidney Russell, 24 May 1879 – 1961**, seventh child of John and
@@ -64,10 +64,10 @@ burial lists.
   she claimed it was that of a famous Italian opera singer, whose name her
   father liked (the novel tells this too). The singer was Euphrosyne
   Parepa-Rosa (1836–1874), so "Parapa" is taken as a misspelling. This
-  edition uses **Parepa-Roza** for the author, her own spelling of the
-  name in the typescript, where the heroine (herself) is "Parepa-Roza"
-  throughout (family decision, 2026-11). No primary record of the middle
-  name has been found.
+  edition (family decision, 2026-11) spells the real woman's name like
+  the singer's, **Parepa-Rosa**, and keeps the heroine's as typed,
+  **Parepa-Roza**; the afterword explains the difference. No primary
+  record of the middle name has been found.
 - The manuscript was kept by her grandson **William Russell, Richard's
   son**.
 
