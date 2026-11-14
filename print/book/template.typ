@@ -25,7 +25,15 @@
     set par(first-line-indent: 0pt, justify: false)
     it.body
   }))
-#show table: set text(size: 9.5pt)
+// The one table in the book (her daily schedule, Book One ch. X): no rules,
+// left-aligned like a typed list, and free to run onto the next page.
+#show table: set text(size: 10pt)
+#set table(stroke: none, inset: (x: 0.8em, y: 0.26em))
+#show table.cell: set align(left)
+#show figure.where(kind: table): set block(breakable: true, above: 0.7em, below: 0.9em)
+// "Weekdays:" follows the Sunday table, so it would lose its paragraph
+// indent; give it back so it lines up with "Sunday:".
+#show "Weekdays:": it => h(1.3em) + it
 
 // --- Page furniture ---------------------------------------------------------
 // Running heads and folios start with the foreword, and are left off pages
