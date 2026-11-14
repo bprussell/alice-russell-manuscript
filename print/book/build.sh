@@ -2,6 +2,8 @@
 # Builds the print-ready interior PDF from book/ (Phase 4).
 # Needs pandoc and the typst Python package; set PANDOC / PYTHONPATH if they
 # are not on the default paths. Output: print/book/interior.pdf
+# Optional: FONT="Libre Caslon Text" FONT_SIZE=10 (font files in print/fonts
+# or in FONT_DIRS), OUT=path.pdf
 set -euo pipefail
 cd "$(dirname "$0")/../.."
 PANDOC="${PANDOC:-pandoc}"
@@ -34,7 +36,11 @@ cat print/book/template.typ "$tmp/body.typ" > "$tmp/main.typ"
 python3 - "$tmp" <<'PY'
 import sys, typst
 tmp = sys.argv[1]
-typst.compile(f"{tmp}/main.typ", output="print/book/interior.pdf",
-              font_paths=["print/fonts"], root=tmp)
+import os
+inputs = {k: v for k, v in (("font", os.environ.get("FONT")),
+                            ("size", os.environ.get("FONT_SIZE"))) if v}
+typst.compile(f"{tmp}/main.typ", output=os.environ.get("OUT", "print/book/interior.pdf"),
+              font_paths=["print/fonts"] + os.environ.get("FONT_DIRS", "").split(":"),
+              root=tmp, sys_inputs=inputs)
 PY
 echo "Wrote print/book/interior.pdf"

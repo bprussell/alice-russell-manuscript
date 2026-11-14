@@ -6,7 +6,9 @@
 #let title-two = "The Heir of the Broken Chain"
 
 #set document(title: title-one + " & " + title-two, author: author)
-#set text(font: "EB Garamond", size: 11.5pt, lang: "en", hyphenate: true)
+#let body-font = sys.inputs.at("font", default: "EB Garamond")
+#let body-size = float(sys.inputs.at("size", default: "11.5")) * 1pt
+#set text(font: body-font, size: body-size, lang: "en", hyphenate: true)
 #set par(justify: true, leading: 0.62em, spacing: 0.62em,
          first-line-indent: (amount: 1.3em, all: false))
 #show heading: set text(weight: "regular")
@@ -124,7 +126,7 @@
   two surviving words.
 
   #v(0.5em)
-  Set in EB Garamond.
+  Set in #body-font.
 ]
 #set par(first-line-indent: (amount: 1.3em, all: false))
 #pagebreak(to: "odd")
