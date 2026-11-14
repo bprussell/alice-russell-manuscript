@@ -1,0 +1,564 @@
+From 2c893dca12d4821cdfde0b23a37f3a1edbc728d2 Mon Sep 17 00:00:00 2001
+From: Brad Russell <brad.russell@e-gineering.com>
+Date: Sat, 14 Nov 2026 18:29:43 +0000
+Subject: [PATCH] Add cover design source (locket, Sorts Mill Goudy, casewrap
+ spread)
+
+Front, back and spine artboards from the Claude Design canvas, plus the
+generated locket SVG. Spread size is estimated until Lulu's template is in.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01J9j8vfLjHxJ88LAHuY3J4k
+---
+ print/cover/brief.md                  |  16 ++-
+ print/cover/design/BackPanel.dc.html  |  42 ++++++++
+ print/cover/design/FrontPanel.dc.html | 142 ++++++++++++++++++++++++++
+ print/cover/design/Main.dc.html       |  40 ++++++++
+ print/cover/design/README.md          |  18 ++++
+ print/cover/design/canvas.json        |  51 +++++++++
+ print/cover/design/locket.py          |  59 +++++++++++
+ print/cover/design/locket.svg         | 103 +++++++++++++++++++
+ 8 files changed, 462 insertions(+), 9 deletions(-)
+ create mode 100644 print/cover/design/BackPanel.dc.html
+ create mode 100644 print/cover/design/FrontPanel.dc.html
+ create mode 100644 print/cover/design/Main.dc.html
+ create mode 100644 print/cover/design/README.md
+ create mode 100644 print/cover/design/canvas.json
+ create mode 100644 print/cover/design/locket.py
+ create mode 100644 print/cover/design/locket.svg
+
+diff --git a/print/cover/brief.md b/print/cover/brief.md
+index c0dfaf4..c14217c 100644
+--- a/print/cover/brief.md
++++ b/print/cover/brief.md
+@@ -48,21 +48,19 @@ background color and the image run into the bleed.
+ 
+ **Back cover** (or front flap, if there is a jacket); spoiler-free:
+ 
+-> Two novels, bound together in a single typescript, by Alice Reynolds
+-> Russell of Edelstein, Illinois. *Sealed Secrets* follows a dreamy,
+-> freckle-faced farm girl, Alice Parepa-Roza Wesley, from her father's
+-> farm to her aunt and uncle's home in Peoria. *Kashema* returns to her
+-> years later.
++> *Sealed Secrets* follows a dreamy, freckle-faced farm girl, Alice
++> Parepa-Roza Wesley, from her father's farm to her aunt and uncle's home
++> in Peoria. *Kashema* returns to her years later.
+ >
+-> Written in the early twentieth century, kept for a hundred years in a
+-> box of loose typewritten pages, and set in type for the first time for
+-> her family.
++> Written by Alice Reynolds Russell of Edelstein, Illinois, early in the
++> twentieth century, kept for a hundred years in a box of loose
++> typewritten pages, and set in type for the first time for her family.
+ 
+ **Back flap, or lower back cover** (optional): the frontispiece photo
+ (`print/book/images/alice-and-john.jpg`) or the 50th-anniversary photo
+ (`docs/allie-and-johnie.heic`), with:
+ 
+-> Alice Parapa-Rosa Reynolds Russell (1881–1975) taught at the Kellogg
++> Alice Parepa-Roza Reynolds Russell (1881–1975) taught at the Kellogg
+ > school, raised three sons on farms around Edelstein and in Peoria, and
+ > lectured across central Illinois on her flowers and her button
+ > collection. She wrote five books; these two are the only ones known
+diff --git a/print/cover/design/BackPanel.dc.html b/print/cover/design/BackPanel.dc.html
+new file mode 100644
+index 0000000..baf79b4
+--- /dev/null
++++ b/print/cover/design/BackPanel.dc.html
+@@ -0,0 +1,42 @@
++<!doctype html>
++<html lang="en">
++<head>
++<meta charset="utf-8">
++<title>Back cover</title>
++<script src="./support.js"></script>
++</head>
++<body>
++<x-dc>
++<helmet>
++<style>
++@font-face{font-family:"Sorts Mill Goudy";src:url(/_blob/d8a961f1a77ac0eadaed6962eec49e8c) format("truetype");font-style:normal;font-weight:400}
++@font-face{font-family:"Sorts Mill Goudy";src:url(/_blob/9641f69d96dbeb014629305653a4e5ee) format("truetype");font-style:italic;font-weight:400}
++body{margin:0}
++</style>
++</helmet>
++<div style="width: 576px; height: 864px; position: relative; box-sizing: border-box; padding: 84px 60px 60px; background: {{ground}}; font-family: &quot;Sorts Mill Goudy&quot;, Georgia, serif; color: #EFE6D2; display: flex; flex-direction: column; gap: 36px">
++<div style="display: flex; flex-direction: column; gap: 16px; font-size: 18px; line-height: 1.55; text-wrap: pretty">
++<p style="margin: 0"><i>Sealed Secrets</i> follows a dreamy, freckle-faced farm girl, Alice Parepa-Roza Wesley, from her father’s farm to her aunt and uncle’s home in Peoria. <i>Kashema</i> returns to her years later.</p>
++<p style="margin: 0">Written by Alice Reynolds Russell of Edelstein, Illinois, early in the twentieth century, kept for a hundred years in a box of loose typewritten pages, and set in type for the first time for her family.</p>
++</div>
++<div style="display: flex; justify-content: center">
++<svg width="120" height="14" viewBox="0 0 120 14" aria-hidden="true" style="display: block; color: {{gold}}"><line x1="0" y1="7" x2="48" y2="7" stroke="currentColor" stroke-width="1"></line><path d="M60 1 L66 7 L60 13 L54 7 Z" fill="none" stroke="currentColor" stroke-width="1.2"></path><circle cx="60" cy="7" r="1.6" fill="currentColor"></circle><line x1="72" y1="7" x2="120" y2="7" stroke="currentColor" stroke-width="1"></line></svg>
++</div>
++<div style="display: flex; gap: 26px; align-items: center">
++<div style="flex: none; width: 150px; height: 212px; border-radius: 30px; padding: 5px; border: 1.5px solid {{gold}}; box-sizing: content-box">
++<img src="/_blob/cde47c87ca6ca7551cb27f64be457c45" alt="Alice and John Russell, wedding portrait" style="width: 150px; height: 212px; border-radius: 25px; object-fit: cover; object-position: 50% 0%; display: block; filter: sepia(0.35) contrast(1.05)">
++</div>
++<p style="margin: 0; font-size: 16px; line-height: 1.5; text-wrap: pretty">Alice Parepa-Roza Reynolds Russell (1881–1975) taught at the Kellogg school, raised three sons on farms around Edelstein and in Peoria, and lectured across central Illinois on her flowers and her button collection. She wrote five books; these two are the only ones known to survive.</p>
++</div>
++</div>
++</x-dc>
++<script type="text/x-dc" data-dc-script data-props='{"ground":{"editor":"color","default":"#1F3A2E","options":["#1F3A2E","#4A1C1E","#1D2A42","#2E2A24"]},"gold":{"editor":"color","default":"#C9A961","options":["#C9A961","#B8914A","#D8C79A"]},"$preview":{"width":576,"height":864}}'>
++class Component extends DCLogic {
++renderVals() {
++const g = this.props.gold ?? '#C9A961';
++return { ground: this.props.ground ?? '#1F3A2E', gold: g };
++}
++}
++</script>
++</body>
++</html>
+diff --git a/print/cover/design/FrontPanel.dc.html b/print/cover/design/FrontPanel.dc.html
+new file mode 100644
+index 0000000..35dd911
+--- /dev/null
++++ b/print/cover/design/FrontPanel.dc.html
+@@ -0,0 +1,142 @@
++<!doctype html>
++<html lang="en">
++<head>
++<meta charset="utf-8">
++<title>Front cover</title>
++<script src="./support.js"></script>
++</head>
++<body>
++<x-dc>
++<helmet>
++<style>
++@font-face{font-family:"Sorts Mill Goudy";src:url(/_blob/d8a961f1a77ac0eadaed6962eec49e8c) format("truetype");font-style:normal;font-weight:400}
++@font-face{font-family:"Sorts Mill Goudy";src:url(/_blob/9641f69d96dbeb014629305653a4e5ee) format("truetype");font-style:italic;font-weight:400}
++body{margin:0}
++</style>
++</helmet>
++<div style="width: 576px; height: 864px; position: relative; background: {{ground}}; font-family: &quot;Sorts Mill Goudy&quot;, Georgia, serif; color: #EFE6D2">
++<div style="position: absolute; left: 128px; top: 50px; width: 320px; height: 420px">
++<svg width="320" height="420" viewBox="0 0 320 420" aria-hidden="true" style="display:block; overflow: visible">
++<defs>
++<pattern id="hatch" width="4" height="4" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><line x1="0" y1="0" x2="0" y2="4" stroke="#4E3818" stroke-width="1.1"/></pattern>
++<mask id="shade"><ellipse cx="160" cy="255" rx="100" ry="125" fill="#fff"/><ellipse cx="146" cy="239" rx="94" ry="117" fill="#000"/></mask>
++<mask id="hl"><ellipse cx="160" cy="255" rx="96" ry="121" fill="#fff"/><ellipse cx="172" cy="269" rx="96" ry="119" fill="#000"/></mask>
++</defs>
++<path d="M96 -90 Q136.0 30 155 103" fill="none" stroke="#7A5B2A" stroke-width="4.2" stroke-linecap="round" stroke-dasharray="5 3.2"/>
++<path d="M96 -90 Q136.0 30 155 103" fill="none" stroke="#D9BE82" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="5 3.2" stroke-dashoffset="4.1"/>
++<path d="M224 -90 Q184.0 30 165 103" fill="none" stroke="#7A5B2A" stroke-width="4.2" stroke-linecap="round" stroke-dasharray="5 3.2"/>
++<path d="M224 -90 Q184.0 30 165 103" fill="none" stroke="#D9BE82" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="5 3.2" stroke-dashoffset="4.1"/>
++<ellipse cx="160" cy="112" rx="9" ry="12" fill="none" stroke="#7A5B2A" stroke-width="5"/>
++<ellipse cx="160" cy="112" rx="9" ry="12" fill="none" stroke="#B8914A" stroke-width="2.6"/>
++<path d="M149 122 h22 a4 4 0 0 1 4 4 v6 h-30 v-6 a4 4 0 0 1 4 -4 z" fill="#B8914A" stroke="#4E3818" stroke-width="1.4"/>
++<ellipse cx="160" cy="134" rx="18" ry="5" fill="#B8914A" stroke="#4E3818" stroke-width="1.4"/>
++<rect x="255" y="224" width="11" height="17" rx="4" fill="#B8914A" stroke="#4E3818" stroke-width="1.3"/>
++<rect x="255" y="246" width="11" height="17" rx="4" fill="#B8914A" stroke="#4E3818" stroke-width="1.3"/>
++<rect x="255" y="268" width="11" height="17" rx="4" fill="#B8914A" stroke="#4E3818" stroke-width="1.3"/>
++<ellipse cx="160" cy="255" rx="100" ry="125" fill="#B8914A" stroke="#4E3818" stroke-width="2"/>
++<rect x="0" y="0" width="320" height="420" fill="url(#hatch)" mask="url(#shade)" opacity="0.55"/>
++<ellipse cx="160" cy="255" rx="96" ry="121" fill="none" stroke="#D9BE82" stroke-width="3" mask="url(#hl)" opacity="0.8"/>
++<ellipse cx="160" cy="255" rx="89" ry="114" fill="none" stroke="#4E3818" stroke-width="1.6"/>
++<ellipse cx="160" cy="255" rx="83" ry="108" fill="none" stroke="#4E3818" stroke-width="0.9"/>
++<circle cx="254.0" cy="255.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="253.4" cy="268.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="251.6" cy="281.5" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="248.7" cy="294.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="244.7" cy="306.6" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="239.6" cy="318.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="233.5" cy="329.2" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="226.5" cy="339.1" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="218.6" cy="348.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="210.0" cy="355.8" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="200.8" cy="362.2" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="191.0" cy="367.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="180.9" cy="371.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="170.5" cy="373.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="160.0" cy="374.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="149.5" cy="373.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="139.1" cy="371.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="129.0" cy="367.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="119.2" cy="362.2" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="110.0" cy="355.8" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="101.4" cy="348.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="93.5" cy="339.1" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="86.5" cy="329.2" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="80.4" cy="318.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="75.3" cy="306.6" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="71.3" cy="294.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="68.4" cy="281.5" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="66.6" cy="268.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="66.0" cy="255.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="66.6" cy="241.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="68.4" cy="228.5" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="71.3" cy="215.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="75.3" cy="203.4" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="80.4" cy="191.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="86.5" cy="180.8" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="93.5" cy="170.9" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="101.4" cy="162.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="110.0" cy="154.2" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="119.2" cy="147.8" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="129.0" cy="142.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="139.1" cy="139.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="149.5" cy="136.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="160.0" cy="136.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="170.5" cy="136.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="180.9" cy="139.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="191.0" cy="142.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="200.8" cy="147.8" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="210.0" cy="154.2" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="218.6" cy="162.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="226.5" cy="170.9" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="233.5" cy="180.8" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="239.6" cy="191.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="244.7" cy="203.4" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="248.7" cy="215.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="251.6" cy="228.5" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="253.4" cy="241.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<ellipse cx="160" cy="238" rx="7" ry="17" fill="none" stroke="#4E3818" stroke-width="1.2" transform="rotate(0 160 255)"/>
++<ellipse cx="160" cy="238" rx="7" ry="17" fill="none" stroke="#4E3818" stroke-width="1.2" transform="rotate(45 160 255)"/>
++<ellipse cx="160" cy="238" rx="7" ry="17" fill="none" stroke="#4E3818" stroke-width="1.2" transform="rotate(90 160 255)"/>
++<ellipse cx="160" cy="238" rx="7" ry="17" fill="none" stroke="#4E3818" stroke-width="1.2" transform="rotate(135 160 255)"/>
++<ellipse cx="160" cy="238" rx="7" ry="17" fill="none" stroke="#4E3818" stroke-width="1.2" transform="rotate(180 160 255)"/>
++<ellipse cx="160" cy="238" rx="7" ry="17" fill="none" stroke="#4E3818" stroke-width="1.2" transform="rotate(225 160 255)"/>
++<ellipse cx="160" cy="238" rx="7" ry="17" fill="none" stroke="#4E3818" stroke-width="1.2" transform="rotate(270 160 255)"/>
++<ellipse cx="160" cy="238" rx="7" ry="17" fill="none" stroke="#4E3818" stroke-width="1.2" transform="rotate(315 160 255)"/>
++<circle cx="160" cy="255" r="6" fill="none" stroke="#4E3818" stroke-width="1.2"/>
++<circle cx="160" cy="255" r="2" fill="#4E3818"/>
++<path d="M160 295 C170 315 202 313 200 335 C198 349 182 349 184 339" fill="none" stroke="#4E3818" stroke-width="1.3" stroke-linecap="round"/>
++<path d="M180 313 q10 -12 20 -4 q-10 10 -20 4 z" fill="none" stroke="#4E3818" stroke-width="1.1"/>
++<path d="M206 285 q16 6 14 24" fill="none" stroke="#4E3818" stroke-width="1.1" stroke-linecap="round"/>
++<path d="M160 295 C150 315 118 313 120 335 C122 349 138 349 136 339" fill="none" stroke="#4E3818" stroke-width="1.3" stroke-linecap="round"/>
++<path d="M140 313 q-10 -12 -20 -4 q10 10 20 4 z" fill="none" stroke="#4E3818" stroke-width="1.1"/>
++<path d="M114 285 q-16 6 -14 24" fill="none" stroke="#4E3818" stroke-width="1.1" stroke-linecap="round"/>
++<path d="M160 283 L160 295" stroke="#4E3818" stroke-width="1.2"/>
++<path d="M160 215 C170 195 202 197 200 175 C198 161 182 161 184 171" fill="none" stroke="#4E3818" stroke-width="1.3" stroke-linecap="round"/>
++<path d="M180 197 q10 12 20 4 q-10 -10 -20 -4 z" fill="none" stroke="#4E3818" stroke-width="1.1"/>
++<path d="M206 225 q16 -6 14 -24" fill="none" stroke="#4E3818" stroke-width="1.1" stroke-linecap="round"/>
++<path d="M160 215 C150 195 118 197 120 175 C122 161 138 161 136 171" fill="none" stroke="#4E3818" stroke-width="1.3" stroke-linecap="round"/>
++<path d="M140 197 q-10 12 -20 4 q10 -10 20 -4 z" fill="none" stroke="#4E3818" stroke-width="1.1"/>
++<path d="M114 225 q-16 -6 -14 -24" fill="none" stroke="#4E3818" stroke-width="1.1" stroke-linecap="round"/>
++<path d="M160 227 L160 215" stroke="#4E3818" stroke-width="1.2"/>
++</svg>
++</div>
++<div style="position: absolute; left: 48px; right: 48px; top: 500px; display: flex; flex-direction: column; align-items: center; text-align: center">
++<h1 style="margin: 0; font-weight: 400; font-style: italic; font-size: 62px; line-height: 1.12; letter-spacing: 0.005em">Sealed Secrets</h1>
++<p style="margin: 0; font-size: 62px; line-height: 1.12"><span style="font-style: normal; font-size: 44px; color: {{gold}}">&amp;</span> <span style="font-style: italic">Kashema</span></p>
++</div>
++<div style="position: absolute; left: 0; right: 0; top: 684px; display: flex; flex-direction: column; align-items: center; gap: 26px">
++<svg width="120" height="14" viewBox="0 0 120 14" aria-hidden="true" style="display: block; color: {{gold}}"><line x1="0" y1="7" x2="48" y2="7" stroke="currentColor" stroke-width="1"></line><path d="M60 1 L66 7 L60 13 L54 7 Z" fill="none" stroke="currentColor" stroke-width="1.2"></path><circle cx="60" cy="7" r="1.6" fill="currentColor"></circle><line x1="72" y1="7" x2="120" y2="7" stroke="currentColor" stroke-width="1"></line></svg>
++<p style="margin: 0; font-size: 18px; letter-spacing: 0.24em; color: {{gold}}">ALICE REYNOLDS RUSSELL</p>
++</div>
++</div>
++</x-dc>
++<script type="text/x-dc" data-dc-script data-props='{"ground":{"editor":"color","default":"#1F3A2E","options":["#1F3A2E","#4A1C1E","#1D2A42","#2E2A24"]},"gold":{"editor":"color","default":"#C9A961","options":["#C9A961","#B8914A","#D8C79A"]},"$preview":{"width":576,"height":864}}'>
++class Component extends DCLogic {
++renderVals() {
++const g = this.props.gold ?? '#C9A961';
++return { ground: this.props.ground ?? '#1F3A2E', gold: g };
++}
++}
++</script>
++</body>
++</html>
+diff --git a/print/cover/design/Main.dc.html b/print/cover/design/Main.dc.html
+new file mode 100644
+index 0000000..5ae0799
+--- /dev/null
++++ b/print/cover/design/Main.dc.html
+@@ -0,0 +1,40 @@
++<!doctype html>
++<html lang="en">
++<head>
++<meta charset="utf-8">
++<title>Sealed Secrets & Kashema — casewrap cover spread</title>
++<script src="./support.js"></script>
++</head>
++<body>
++<x-dc>
++<helmet>
++<style>
++@font-face{font-family:"Sorts Mill Goudy";src:url(/_blob/d8a961f1a77ac0eadaed6962eec49e8c) format("truetype");font-style:normal;font-weight:400}
++@font-face{font-family:"Sorts Mill Goudy";src:url(/_blob/9641f69d96dbeb014629305653a4e5ee) format("truetype");font-style:italic;font-weight:400}
++body{margin:0}
++</style>
++</helmet>
++<div style="width: 1386px; height: 1008px; position: relative; overflow: hidden; background: {{ground}}; font-family: &quot;Sorts Mill Goudy&quot;, Georgia, serif">
++<div style="position: absolute; left: 72px; top: 72px">
++<dc-import name="BackPanel" ground="{{ground}}" gold="{{gold}}" hint-size="576px,864px"></dc-import>
++</div>
++<div style="position: absolute; left: 648px; top: 72px; width: 90px; height: 864px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; box-sizing: border-box; padding: 44px 0; color: {{gold}}">
++<div style="width: 46px; display: flex; flex-direction: column; gap: 3px"><div style="height: 1.5px; background: {{gold}}"></div><div style="height: 1px; background: {{gold}}"></div></div>
++<p style="margin: 0; writing-mode: vertical-rl; font-size: 17px; letter-spacing: 0.18em; white-space: nowrap; color: #EFE6D2">SEALED SECRETS &amp; KASHEMA <span style="color: {{gold}}; letter-spacing: 0">·</span> <span style="color: {{gold}}">ALICE REYNOLDS RUSSELL</span></p>
++<div style="width: 46px; display: flex; flex-direction: column; gap: 3px"><div style="height: 1px; background: {{gold}}"></div><div style="height: 1.5px; background: {{gold}}"></div></div>
++</div>
++<div style="position: absolute; left: 738px; top: 72px">
++<dc-import name="FrontPanel" ground="{{ground}}" gold="{{gold}}" hint-size="576px,864px"></dc-import>
++</div>
++</div>
++</x-dc>
++<script type="text/x-dc" data-dc-script data-props='{"ground":{"editor":"color","default":"#1F3A2E","options":["#1F3A2E","#4A1C1E","#1D2A42","#2E2A24"]},"gold":{"editor":"color","default":"#C9A961","options":["#C9A961","#B8914A","#D8C79A"]},"$preview":{"width":1386,"height":1008}}'>
++class Component extends DCLogic {
++renderVals() {
++const g = this.props.gold ?? '#C9A961';
++return { ground: this.props.ground ?? '#1F3A2E', gold: g };
++}
++}
++</script>
++</body>
++</html>
+diff --git a/print/cover/design/README.md b/print/cover/design/README.md
+new file mode 100644
+index 0000000..699b6de
+--- /dev/null
++++ b/print/cover/design/README.md
+@@ -0,0 +1,18 @@
++# Cover design
++
++Source for the cover built in Claude Design:
++https://claude.ai/artifact/7XQvkUvNmuqbjLcENr1tDV
++
++- `Main.dc.html`: full casewrap spread (back, spine, front). It imports
++  `BackPanel.dc.html` and `FrontPanel.dc.html` (6 × 9 in each).
++- `canvas.json`: canvas layout.
++- `locket.svg`: the engraved locket, generated by `locket.py`.
++
++The `/_blob/...` URLs point to assets uploaded to the canvas: the two
++Sorts Mill Goudy fonts from `print/fonts/` and
++`print/book/images/alice-and-john.jpg`. These files render only inside
++the canvas; export the PDF from there.
++
++**Size is an estimate** (285 pp, spine ≈ 0.94 in, 0.75 in wrap →
++14.44 × 10.5 in). Replace with the numbers from Lulu's cover template
++before exporting.
+diff --git a/print/cover/design/canvas.json b/print/cover/design/canvas.json
+new file mode 100644
+index 0000000..f7c0b55
+--- /dev/null
++++ b/print/cover/design/canvas.json
+@@ -0,0 +1,51 @@
++{
++ "v": 3,
++ "createdOnFiles": {
++  "v": 1,
++  "at": "2026-11-14T18:23:57Z"
++ },
++ "title": "Sealed Secrets & Kashema — Cover",
++ "launch": {
++  "view": "canvas"
++ },
++ "pages": [],
++ "boards": {
++  "Main.dc.html": {
++   "x": 0,
++   "y": 0,
++   "w": 1386,
++   "h": 1008,
++   "title": "Full casewrap spread (estimated size)"
++  },
++  "FrontPanel.dc.html": {
++   "x": 1466,
++   "y": 0,
++   "w": 576,
++   "h": 864,
++   "title": "Front cover · 6 × 9 in"
++  },
++  "BackPanel.dc.html": {
++   "x": 2122,
++   "y": 0,
++   "w": 576,
++   "h": 864,
++   "title": "Back cover · 6 × 9 in"
++  }
++ },
++ "order": [
++  "Main.dc.html",
++  "FrontPanel.dc.html",
++  "BackPanel.dc.html"
++ ],
++ "notes": {
++  "dims": {
++   "x": 0,
++   "y": 1128,
++   "w": 680,
++   "size": "m",
++   "color": "orange",
++   "text": "Spread size is an ESTIMATE until we have Lulu's template: 6 × 9 in casewrap, 285 pp on 60# cream, spine ≈ 0.94 in, 0.75 in wrap on every edge → 14.44 × 10.5 in (1386 × 1008 px at 96/in).\n\nOnce you download Lulu's cover template, send me the full spread size, spine width and wrap/bleed and I'll resize to match before export.\n\nTweaks: ground colour (green / oxblood / navy / sepia) and gold."
++  }
++ },
++ "designSystems": []
++}
+\ No newline at end of file
+diff --git a/print/cover/design/locket.py b/print/cover/design/locket.py
+new file mode 100644
+index 0000000..d0e54f6
+--- /dev/null
++++ b/print/cover/design/locket.py
+@@ -0,0 +1,59 @@
++import math
++cx, cy, rx, ry = 160, 255, 100, 125   # case
++G, GL, GD, GDD = "#B8914A", "#D9BE82", "#7A5B2A", "#4E3818"
++o=[]
++o.append('<svg width="320" height="420" viewBox="0 0 320 420" aria-hidden="true" style="display:block">')
++o.append('<defs>')
++o.append(f'<pattern id="hatch" width="4" height="4" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><line x1="0" y1="0" x2="0" y2="4" stroke="{GDD}" stroke-width="1.1"/></pattern>')
++o.append(f'<mask id="shade"><ellipse cx="{cx}" cy="{cy}" rx="{rx}" ry="{ry}" fill="#fff"/><ellipse cx="{cx-14}" cy="{cy-16}" rx="{rx-6}" ry="{ry-8}" fill="#000"/></mask>')
++o.append(f'<mask id="hl"><ellipse cx="{cx}" cy="{cy}" rx="{rx-4}" ry="{ry-4}" fill="#fff"/><ellipse cx="{cx+12}" cy="{cy+14}" rx="{rx-4}" ry="{ry-6}" fill="#000"/></mask>')
++o.append('</defs>')
++# chain: two strands from top converging on ring
++ringy = 112
++for x0 in (96, 224):
++    d = f"M{x0} -90 Q{(x0+cx)/2 + (8 if x0<cx else -8)} 30 {cx + (-5 if x0<cx else 5)} {ringy-9}"
++    o.append(f'<path d="{d}" fill="none" stroke="{GD}" stroke-width="4.2" stroke-linecap="round" stroke-dasharray="5 3.2"/>')
++    o.append(f'<path d="{d}" fill="none" stroke="{GL}" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="5 3.2" stroke-dashoffset="4.1"/>')
++# jump ring + bail
++o.append(f'<ellipse cx="{cx}" cy="{ringy}" rx="9" ry="12" fill="none" stroke="{GD}" stroke-width="5"/>')
++o.append(f'<ellipse cx="{cx}" cy="{ringy}" rx="9" ry="12" fill="none" stroke="{G}" stroke-width="2.6"/>')
++o.append(f'<path d="M{cx-11} 122 h22 a4 4 0 0 1 4 4 v6 h-30 v-6 a4 4 0 0 1 4 -4 z" fill="{G}" stroke="{GDD}" stroke-width="1.4"/>')
++o.append(f'<ellipse cx="{cx}" cy="134" rx="18" ry="5" fill="{G}" stroke="{GDD}" stroke-width="1.4"/>')
++# hinge knuckles on right
++for dy in (-22, 0, 22):
++    o.append(f'<rect x="{cx+rx-5}" y="{cy+dy-9}" width="11" height="17" rx="4" fill="{G}" stroke="{GDD}" stroke-width="1.3"/>')
++# case
++o.append(f'<ellipse cx="{cx}" cy="{cy}" rx="{rx}" ry="{ry}" fill="{G}" stroke="{GDD}" stroke-width="2"/>')
++o.append(f'<rect x="0" y="0" width="320" height="420" fill="url(#hatch)" mask="url(#shade)" opacity="0.55"/>')
++o.append(f'<ellipse cx="{cx}" cy="{cy}" rx="{rx-4}" ry="{ry-4}" fill="none" stroke="{GL}" stroke-width="3" mask="url(#hl)" opacity="0.8"/>')
++# bezel rings
++for (a,b,w) in ((rx-11, ry-11, 1.6), (rx-17, ry-17, 0.9)):
++    o.append(f'<ellipse cx="{cx}" cy="{cy}" rx="{a}" ry="{b}" fill="none" stroke="{GDD}" stroke-width="{w}"/>')
++# beaded border
++n=56
++for i in range(n):
++    t = 2*math.pi*i/n
++    x = cx + (rx-6)*math.cos(t); y = cy + (ry-6)*math.sin(t)
++    o.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="1.7" fill="{GL}" stroke="{GDD}" stroke-width="0.6"/>')
++# engraved rosette
++for k in range(8):
++    ang = k*45
++    o.append(f'<ellipse cx="{cx}" cy="{cy-17}" rx="7" ry="17" fill="none" stroke="{GDD}" stroke-width="1.2" transform="rotate({ang} {cx} {cy})"/>')
++o.append(f'<circle cx="{cx}" cy="{cy}" r="6" fill="none" stroke="{GDD}" stroke-width="1.2"/>')
++o.append(f'<circle cx="{cx}" cy="{cy}" r="2" fill="{GDD}"/>')
++# scroll vines up and down, mirrored
++def vine(sy):
++    s = []
++    for sx in (1,-1):
++        p = (f"M{cx} {cy+sy*40} C{cx+sx*10} {cy+sy*60} {cx+sx*42} {cy+sy*58} {cx+sx*40} {cy+sy*80} "
++             f"C{cx+sx*38} {cy+sy*94} {cx+sx*22} {cy+sy*94} {cx+sx*24} {cy+sy*84}")
++        s.append(f'<path d="{p}" fill="none" stroke="{GDD}" stroke-width="1.3" stroke-linecap="round"/>')
++        # leaves
++        lx, ly = cx+sx*20, cy+sy*58
++        s.append(f'<path d="M{lx} {ly} q{sx*10} {-sy*12} {sx*20} {-sy*4} q{-sx*10} {sy*10} {-sx*20} {sy*4} z" fill="none" stroke="{GDD}" stroke-width="1.1"/>')
++        s.append(f'<path d="M{cx+sx*46} {cy+sy*30} q{sx*16} {sy*6} {sx*14} {sy*24}" fill="none" stroke="{GDD}" stroke-width="1.1" stroke-linecap="round"/>')
++    s.append(f'<path d="M{cx} {cy+sy*28} L{cx} {cy+sy*40}" stroke="{GDD}" stroke-width="1.2"/>')
++    return s
++o += vine(1) + vine(-1)
++o.append('</svg>')
++open('locket.svg','w').write("\n".join(o))
+diff --git a/print/cover/design/locket.svg b/print/cover/design/locket.svg
+new file mode 100644
+index 0000000..b93c134
+--- /dev/null
++++ b/print/cover/design/locket.svg
+@@ -0,0 +1,103 @@
++<svg width="320" height="420" viewBox="0 0 320 420" aria-hidden="true" style="display:block">
++<defs>
++<pattern id="hatch" width="4" height="4" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><line x1="0" y1="0" x2="0" y2="4" stroke="#4E3818" stroke-width="1.1"/></pattern>
++<mask id="shade"><ellipse cx="160" cy="255" rx="100" ry="125" fill="#fff"/><ellipse cx="146" cy="239" rx="94" ry="117" fill="#000"/></mask>
++<mask id="hl"><ellipse cx="160" cy="255" rx="96" ry="121" fill="#fff"/><ellipse cx="172" cy="269" rx="96" ry="119" fill="#000"/></mask>
++</defs>
++<path d="M96 -90 Q136.0 30 155 103" fill="none" stroke="#7A5B2A" stroke-width="4.2" stroke-linecap="round" stroke-dasharray="5 3.2"/>
++<path d="M96 -90 Q136.0 30 155 103" fill="none" stroke="#D9BE82" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="5 3.2" stroke-dashoffset="4.1"/>
++<path d="M224 -90 Q184.0 30 165 103" fill="none" stroke="#7A5B2A" stroke-width="4.2" stroke-linecap="round" stroke-dasharray="5 3.2"/>
++<path d="M224 -90 Q184.0 30 165 103" fill="none" stroke="#D9BE82" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="5 3.2" stroke-dashoffset="4.1"/>
++<ellipse cx="160" cy="112" rx="9" ry="12" fill="none" stroke="#7A5B2A" stroke-width="5"/>
++<ellipse cx="160" cy="112" rx="9" ry="12" fill="none" stroke="#B8914A" stroke-width="2.6"/>
++<path d="M149 122 h22 a4 4 0 0 1 4 4 v6 h-30 v-6 a4 4 0 0 1 4 -4 z" fill="#B8914A" stroke="#4E3818" stroke-width="1.4"/>
++<ellipse cx="160" cy="134" rx="18" ry="5" fill="#B8914A" stroke="#4E3818" stroke-width="1.4"/>
++<rect x="255" y="224" width="11" height="17" rx="4" fill="#B8914A" stroke="#4E3818" stroke-width="1.3"/>
++<rect x="255" y="246" width="11" height="17" rx="4" fill="#B8914A" stroke="#4E3818" stroke-width="1.3"/>
++<rect x="255" y="268" width="11" height="17" rx="4" fill="#B8914A" stroke="#4E3818" stroke-width="1.3"/>
++<ellipse cx="160" cy="255" rx="100" ry="125" fill="#B8914A" stroke="#4E3818" stroke-width="2"/>
++<rect x="0" y="0" width="320" height="420" fill="url(#hatch)" mask="url(#shade)" opacity="0.55"/>
++<ellipse cx="160" cy="255" rx="96" ry="121" fill="none" stroke="#D9BE82" stroke-width="3" mask="url(#hl)" opacity="0.8"/>
++<ellipse cx="160" cy="255" rx="89" ry="114" fill="none" stroke="#4E3818" stroke-width="1.6"/>
++<ellipse cx="160" cy="255" rx="83" ry="108" fill="none" stroke="#4E3818" stroke-width="0.9"/>
++<circle cx="254.0" cy="255.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="253.4" cy="268.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="251.6" cy="281.5" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="248.7" cy="294.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="244.7" cy="306.6" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="239.6" cy="318.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="233.5" cy="329.2" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="226.5" cy="339.1" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="218.6" cy="348.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="210.0" cy="355.8" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="200.8" cy="362.2" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="191.0" cy="367.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="180.9" cy="371.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="170.5" cy="373.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="160.0" cy="374.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="149.5" cy="373.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="139.1" cy="371.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="129.0" cy="367.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="119.2" cy="362.2" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="110.0" cy="355.8" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="101.4" cy="348.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="93.5" cy="339.1" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="86.5" cy="329.2" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="80.4" cy="318.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="75.3" cy="306.6" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="71.3" cy="294.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="68.4" cy="281.5" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="66.6" cy="268.3" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="66.0" cy="255.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="66.6" cy="241.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="68.4" cy="228.5" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="71.3" cy="215.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="75.3" cy="203.4" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="80.4" cy="191.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="86.5" cy="180.8" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="93.5" cy="170.9" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="101.4" cy="162.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="110.0" cy="154.2" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="119.2" cy="147.8" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="129.0" cy="142.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="139.1" cy="139.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="149.5" cy="136.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="160.0" cy="136.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="170.5" cy="136.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="180.9" cy="139.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="191.0" cy="142.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="200.8" cy="147.8" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="210.0" cy="154.2" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="218.6" cy="162.0" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="226.5" cy="170.9" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="233.5" cy="180.8" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="239.6" cy="191.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="244.7" cy="203.4" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="248.7" cy="215.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="251.6" cy="228.5" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<circle cx="253.4" cy="241.7" r="1.7" fill="#D9BE82" stroke="#4E3818" stroke-width="0.6"/>
++<ellipse cx="160" cy="238" rx="7" ry="17" fill="none" stroke="#4E3818" stroke-width="1.2" transform="rotate(0 160 255)"/>
++<ellipse cx="160" cy="238" rx="7" ry="17" fill="none" stroke="#4E3818" stroke-width="1.2" transform="rotate(45 160 255)"/>
++<ellipse cx="160" cy="238" rx="7" ry="17" fill="none" stroke="#4E3818" stroke-width="1.2" transform="rotate(90 160 255)"/>
++<ellipse cx="160" cy="238" rx="7" ry="17" fill="none" stroke="#4E3818" stroke-width="1.2" transform="rotate(135 160 255)"/>
++<ellipse cx="160" cy="238" rx="7" ry="17" fill="none" stroke="#4E3818" stroke-width="1.2" transform="rotate(180 160 255)"/>
++<ellipse cx="160" cy="238" rx="7" ry="17" fill="none" stroke="#4E3818" stroke-width="1.2" transform="rotate(225 160 255)"/>
++<ellipse cx="160" cy="238" rx="7" ry="17" fill="none" stroke="#4E3818" stroke-width="1.2" transform="rotate(270 160 255)"/>
++<ellipse cx="160" cy="238" rx="7" ry="17" fill="none" stroke="#4E3818" stroke-width="1.2" transform="rotate(315 160 255)"/>
++<circle cx="160" cy="255" r="6" fill="none" stroke="#4E3818" stroke-width="1.2"/>
++<circle cx="160" cy="255" r="2" fill="#4E3818"/>
++<path d="M160 295 C170 315 202 313 200 335 C198 349 182 349 184 339" fill="none" stroke="#4E3818" stroke-width="1.3" stroke-linecap="round"/>
++<path d="M180 313 q10 -12 20 -4 q-10 10 -20 4 z" fill="none" stroke="#4E3818" stroke-width="1.1"/>
++<path d="M206 285 q16 6 14 24" fill="none" stroke="#4E3818" stroke-width="1.1" stroke-linecap="round"/>
++<path d="M160 295 C150 315 118 313 120 335 C122 349 138 349 136 339" fill="none" stroke="#4E3818" stroke-width="1.3" stroke-linecap="round"/>
++<path d="M140 313 q-10 -12 -20 -4 q10 10 20 4 z" fill="none" stroke="#4E3818" stroke-width="1.1"/>
++<path d="M114 285 q-16 6 -14 24" fill="none" stroke="#4E3818" stroke-width="1.1" stroke-linecap="round"/>
++<path d="M160 283 L160 295" stroke="#4E3818" stroke-width="1.2"/>
++<path d="M160 215 C170 195 202 197 200 175 C198 161 182 161 184 171" fill="none" stroke="#4E3818" stroke-width="1.3" stroke-linecap="round"/>
++<path d="M180 197 q10 12 20 4 q-10 -10 -20 -4 z" fill="none" stroke="#4E3818" stroke-width="1.1"/>
++<path d="M206 225 q16 -6 14 -24" fill="none" stroke="#4E3818" stroke-width="1.1" stroke-linecap="round"/>
++<path d="M160 215 C150 195 118 197 120 175 C122 161 138 161 136 171" fill="none" stroke="#4E3818" stroke-width="1.3" stroke-linecap="round"/>
++<path d="M140 197 q-10 12 -20 4 q10 -10 20 -4 z" fill="none" stroke="#4E3818" stroke-width="1.1"/>
++<path d="M114 225 q-16 -6 -14 -24" fill="none" stroke="#4E3818" stroke-width="1.1" stroke-linecap="round"/>
++<path d="M160 227 L160 215" stroke="#4E3818" stroke-width="1.2"/>
++</svg>
+\ No newline at end of file
+-- 
+2.43.0
+
