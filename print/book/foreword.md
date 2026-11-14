@@ -38,10 +38,10 @@ heroine shares her first name.
 Both books once had titles, typed in a centered block above the first
 chapter, and both were later erased — by the author herself, it seems. Book
 Two's could be partly read from the impression the type left in the paper:
-the letters "____IR / __ / TH_ BR____ C__IN" spell out **The Heir of the
-Broken Chain**, a phrase that matches the book's own closing image. Book
+the letters "____IR / __ / TH_ BR____ C__IN" spell out *The Heir of the
+Broken Chain*, a phrase that matches the book's own closing image. Book
 One's resisted every attempt; only "OF" and "SECRETS" survive. The title
-used here, **The Locket of Family Secrets**, was composed by the family
+used here, *The Locket of Family Secrets*, was composed by the family
 around those two words. It is the one thing in this book that she did not
 write.
 

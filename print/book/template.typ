@@ -6,7 +6,7 @@
 #let title-two = "The Heir of the Broken Chain"
 
 #set document(title: title-one + " & " + title-two, author: author)
-#let body-font = sys.inputs.at("font", default: "EB Garamond")
+#let body-font = sys.inputs.at("font", default: "Sorts Mill Goudy")
 #let body-size = float(sys.inputs.at("size", default: "11.5")) * 1pt
 #set text(font: body-font, size: body-size, lang: "en", hyphenate: true)
 #set par(justify: true, leading: 0.62em, spacing: 0.62em,
