@@ -8,7 +8,7 @@ obituary, and the manuscript itself; see docs/manuscript-notes.md. -->
 The book you are holding was written by Alice Reynolds Russell
 (1881–1975). For most of a century it existed as a single typewritten
 manuscript: 288 loose pages, toned to a dark cream, kept in a box by her
-grandson, William Russell. This edition is the first time it has been set
+grandson, William (Bill) Russell. This edition is the first time it has been set
 in type.
 
 She was born Alice Parapa-Rosa Reynolds, the daughter of John and Eliza
@@ -97,6 +97,6 @@ all 288 original pages, the word-for-word transcription, and the full log
 of edits are kept together online at
 github.com/bprussell/alice-russell-manuscript.
 
-This edition was prepared in 2026 by her great-grandson Brad Russell,
-William's son, for William and his siblings and for all of Alice's
+This edition was prepared in 2026 by her great-grandson Brad Russell
+for his father, Bill, and Bill's siblings, and for all of Alice's
 family, so that her book might at last be read as she meant it to be.
