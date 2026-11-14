@@ -11,7 +11,7 @@ manuscript: 288 loose pages, toned to a dark cream, kept in a box by her
 grandson, William (Bill) Russell. This edition is the first time it has been set
 in type.
 
-She was born Alice Parapa-Rosa Reynolds, the daughter of John and Eliza
+She was born Alice Parepa-Rosa Reynolds, the daughter of John and Eliza
 (Bonham) Reynolds. As a young woman she taught at the Kellogg school, where
 she met John Sidney Russell, a farmer's son who had gone to school there
 himself; they were married on 21 June 1905. When Johnnie's health failed
@@ -58,10 +58,9 @@ ever sent, and what answer came back, we do not know.
 The manuscript is really two novels bound together. The first ends with a
 typed instruction at the foot of its last page, TURN THIS BOOK UPSIDE DOWN
 AND BEGIN ON FIRST PAGE, and the second begins, with its own Chapter I and
-its own page numbers, from the other end. Book One follows a dreamy,
-freckle-faced farm girl, Alice Parepa-Roza Wesley, from her father's farm
-to her aunt and uncle's home in Peoria. Book Two returns to her years
-later. The countryside is the author's own: Chillicothe, Speer, Peoria,
+its own page numbers, from the other end. In the first, Alice
+Parepa-Roza Wesley leaves her stern father's farm for the city; the
+second takes up her story as a grown woman. The countryside is the author's own: Chillicothe, Speer, Peoria,
 Glen Oak Park, and the farms around Edelstein.
 
 ## The titles

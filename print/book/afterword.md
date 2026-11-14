@@ -5,6 +5,27 @@ ending. Sources: the manuscript (pages 1, 165, 288), FitzGerald's
 Rubáiyát (1st ed. 1859, st. LXXIII; 5th ed. 1889, st. XCIX), and the
 Russell family history; see docs/manuscript-notes.md. -->
 
+## Her name
+
+In Chapter XXI, Mr. Wheeler tells how the baby got her name: she cried
+so hard and so long that her father said she had lungs that would make
+her a singer like the famous Parepa-Roza, a prima donna who, as he tells
+it, went down with a sinking ship, singing to the drowning passengers to
+the last.
+
+The singer was real, and the naming was too: the family history records
+that Alice "claimed the name was that of a famous Italian opera singer.
+Her father liked the name so gave it to her." She was Euphrosyne
+Parepa-Rosa, a soprano born in Edinburgh in 1836, who took the "Rosa"
+from her husband, the violinist Carl Rosa. Their Parepa-Rosa English
+Opera Company toured the eastern and midwestern states between 1869 and
+1872, and her name was still famous when John Reynolds' daughter was
+born in 1881. The shipwreck, though, belongs to the story: Madame
+Parepa-Rosa died in London in 1874, at thirty-seven.
+
+In this edition the heroine is Parepa-Roza, as Alice typed it on every
+page; the author herself is Parepa-Rosa, after the singer.
+
 ## The verse
 
 Four times in this book a character reaches for the same four lines:
