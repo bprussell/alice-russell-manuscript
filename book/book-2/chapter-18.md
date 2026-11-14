@@ -8,7 +8,7 @@ Johnie and Allie lay awake long nights talking together and trying to come to so
 
 One evening they sat at the supper table a silent downhearted family, each wrapped in their own gloomy thoughts. Even Allie, with her optimistic nature, had no solution to the problem over which each was pondering. Bankruptcy was not only staring them in the face but was actually hissing at them. Again the familiar lines ran through her mind:
 
-> "Ah, love could you and I with fate conspire,  
+> "Ah, love, could you and I with fate conspire,  
 > &nbsp;&nbsp;&nbsp;&nbsp;To grasp this sorry scheme of things entire;  
 > Would we not shatter it to bits and then,  
 > &nbsp;&nbsp;&nbsp;&nbsp;Remould it nearer to the heart's desire?"

@@ -52,10 +52,10 @@ Frances did not speak, he could not speak. He hated himself, hated all his blood
 
 Then, straightening up and facing him kindly, she seemed to have survived the shock completely. "Do you remember that, nearly one thousand years ago, a Persian poet, Omar Khayyam, wrote this poem:
 
-> "Ah, Love could you and I with fate conspire,  
+> "Ah, love, could you and I with fate conspire,  
 > &nbsp;&nbsp;&nbsp;&nbsp;To grasp this sorry scheme of things entire;  
 > Would we not shatter it to bits and then,  
-> &nbsp;&nbsp;&nbsp;&nbsp;Remould it, nearer to the heart's desire?"
+> &nbsp;&nbsp;&nbsp;&nbsp;Remould it nearer to the heart's desire?"
 
 "You, Frances, was your mother's love. She and fate conspired. They remoulded you 'nearer to the heart's desire.'"
 

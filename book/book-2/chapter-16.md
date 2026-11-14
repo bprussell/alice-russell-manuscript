@@ -16,10 +16,10 @@ A review of their whole life together passed through her mind. She studied her h
 
 He turned his head on his pillow now and, opening his eyes, smiled faintly at Allie. Then, putting his hand in hers, he fell to sleep again. It wasn't a soft, well-manicured hand—instead, a calloused, rough one. The hand of one who cultivates and creates from the soil. Fingers of love and understanding were stretched out to touch her own, that better courage come to her. As she sat quietly thinking, these old familiar words came to her.
 
-> "Oh, love, could you and I with fate conspire,  
+> "Ah, love, could you and I with fate conspire,  
 > &nbsp;&nbsp;&nbsp;&nbsp;To grasp this sorry scheme of things entire;  
 > Would we not shatter it to bits and then,  
-> &nbsp;&nbsp;&nbsp;&nbsp;Remould it, nearer to the heart's desire?"
+> &nbsp;&nbsp;&nbsp;&nbsp;Remould it nearer to the heart's desire?"
 
 *Why couldn't we shatter all the pain and suffering in the world? Why must we take whatever fate deals out to us in this world?* she protested in her mind. Johnie opened his eyes again, "Don't worry, wifie, I'll be all right," he said and went to sleep again.
 

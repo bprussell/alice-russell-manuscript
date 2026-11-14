@@ -611,6 +611,15 @@ Changes from the great-grandson's read-through of the EPUB proof.
   seemed so helpless..." → comma before "yet" (a joining word between
   two clauses takes a comma; a semicolon would need no "yet").
 
+- **The Rubáiyát verse made identical in all four places** (Book I Ch XXX;
+  Book II Ch XVI, XVIII, XXVII): '"Ah, love, could you and I with fate
+  conspire, / To grasp this sorry scheme of things entire; / Would we
+  not shatter it to bits and then, / Remould it nearer to the heart's
+  desire?"' — "Ah" (her pencil choice in Ch XVIII; Ch XVI had "Oh"),
+  commas around "love", no comma after "Remould it". Her from-memory
+  wording, which differs slightly from FitzGerald's translation, is
+  kept.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
