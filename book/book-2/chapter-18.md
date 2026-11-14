@@ -13,4 +13,4 @@ One evening they sat at the supper table a silent downhearted family, each wrapp
 > Would we not shatter it to bits and then,  
 > &nbsp;&nbsp;&nbsp;&nbsp;Remould it nearer to the heart's desire?"
 
-She sat thoughtlessly drawing a picture on the white tablecloth. A huge locket! She recognized it at once, What made her do it! Why should this thing come to haunt her at this unwelcome time?
+She sat thoughtlessly drawing a picture on the white tablecloth. A huge locket! She recognized it at once. What made her do it! Why should this thing come to haunt her at this unwelcome time?

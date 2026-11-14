@@ -620,6 +620,10 @@ Changes from the great-grandson's read-through of the EPUB proof.
   wording, which differs slightly from FitzGerald's translation, is
   kept.
 
+- **Book II Ch XVIII:** "She recognized it at once, What made her do
+  it!" → period after "once" (the capital W shows a new sentence was
+  meant); her "!" kept.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
