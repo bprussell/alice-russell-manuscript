@@ -24,6 +24,31 @@ Book II 35,153. Her "100,000" was a round-number estimate about 20% high,
 typical of the era's estimate-by-page method; the declaration sits on
 Book I's first page but evidently covers both books.
 
+## The author's family (from the family and public records, 2026-11)
+
+- **Alice Reynolds Russell** married **John S. Russell**. Their son
+  **Robert F. Russell** was born **14 June 1910 in Speer, Illinois**, and
+  died 9 Dec 1998 in Peoria (obituary, Peoria *Journal Star*, 10 Dec 1998:
+  "Born June 14, 1910, in Speer to John S. and Alice Reynolds Russell";
+  survived by "one brother, Arthur of Edelstein"; one brother preceded
+  him in death).
+- Sons: **Robert F.**, **Richard**, **Arthur** (Arthur Russell of
+  Chillicothe, d. 1 Jan 2001, buried Lawn Ridge Cemetery, Edelstein — per
+  the Marshall Co. ILGenWeb burial list; very likely the same Arthur).
+- The manuscript was kept by her grandson **William Russell, Richard's
+  son**.
+- Possibly John S.'s parents: Alexander Russell of Speer (d. 8 Jun 1944)
+  and Mrs. Lucy Russell of Speer (d. 9 Nov 1946), both buried Lawn Ridge
+  Cemetery — unconfirmed.
+- Birth and death years for Alice and John S.: not yet found.
+
+**Book II is closely autobiographical.** Allie (Alice) marries Johnie
+(John), son of a Scotch family, whose alias is "Mr. J.S. Bradford"; her
+first son Robert — named Robert Frances in the book; the real Robert is
+"Robert F." — is born "at eleven-thirty a.m. on June the fourteenth,
+1910," the real Robert's birth date; her other sons are Richard (LaVerne)
+and Arthur, as in life.
+
 ## The title
 
 Page 1 carries the book's title, erased but partially recoverable. Contrast

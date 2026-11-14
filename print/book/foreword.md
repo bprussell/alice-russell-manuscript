@@ -6,7 +6,8 @@ the family can supply; delete any that don't apply. -->
 The book you are holding was written by Alice Reynolds Russell
 [— born ____, died ____ —] of Mt. Hawley Road, Edelstein, Illinois. For
 most of a century it existed as a single typewritten manuscript: 288 loose
-pages, toned to a dark cream, kept in a box [by ____]. This edition is the
+pages, toned to a dark cream, kept in a box by her grandson, William
+Russell. This edition is the
 first time it has been set in type.
 
 [A paragraph about her, in the family's own words: where she grew up, her
