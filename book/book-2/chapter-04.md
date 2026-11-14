@@ -12,7 +12,7 @@ She could feel his heartbeat. It was a true heart, a pure heart, a clean heart. 
 
 What did she know about Harold's past? Nothing—but, of course, he is good too—she'd not doubt that.
 
-Finally Johnie asked, "Have you been thinking real hard about what we were talking about the last time we were together, Allie?" and he gave her a hug and squeezed her hand lovingly.
+Finally Johnie asked, "Have you been thinking real hard about what we were talking about the last time we were together, Allie?" And he gave her a hug and squeezed her hand lovingly.
 
 Parepa wished he would grab her and run far, far away with her. Why, oh, why was he so slow? She found herself on fire at his slightest touch. Why couldn't he see! Why couldn't he feel, and she turned her head from him when she really wanted to throw herself into his arms and cry take me! take! and keep me. He was so dear, so disturbing.
 
@@ -38,13 +38,13 @@ They lunched at noon, then took a streetcar to its farthest destination, where t
 
 On the other side of the fence the cows and horses nibbled contentedly at the green grass. Companionship seemed essential to their happiness. A solitary tree, standing apart, looked sad and lonesome. Allie fell to thinking about the great necessity of companionship to one's happiness. She came to realize a really good companion is a rare find. It takes so many ingredients to make one. Tolerance, consideration for the feelings of another, honesty of conduct, the ability to overlook, the knack of understanding, the courage to be one's self, and many more qualities to make a genuine companionship. She looked into the face of her friend by her side and saw there all the things involved in a real companion. The lasting things, the things that count.
 
-He turned to her with the question, "A penny for your thoughts. You are surely having some deep ones. Most forgot I was here, I think. Out with them. What were you thinking about?" and he shook her as if trying to waken her from a dream.
+He turned to her with the question, "A penny for your thoughts. You are surely having some deep ones. Most forgot I was here, I think. Out with them. What were you thinking about?" And he shook her as if trying to waken her from a dream.
 
 She laughed and said, "You'd laugh at me if I were to tell you. You'd think I was silly."
 
 "Try me and see," he answered, pulling some green grass and tossing it in her lap.
 
-"Well, then, I was thinking how lonesome it would be in this world if one had to live alone—always—like that tree over there by itself. It actually looks sad, don't it, Johnie?" and she looked up into his eyes for his answer.
+"Well, then, I was thinking how lonesome it would be in this world if one had to live alone—always—like that tree over there by itself. It actually looks sad, don't it, Johnie?" And she looked up into his eyes for his answer.
 
 "I think I know something about how it feels. I've had a sample of it lately, and if it wasn't for a hope that always stays with me, I'd be as sad and unsociable looking as that tree." He gave a long sympathetic look at the tree then turned to Allie and said, "There's really no excuse for anyone being lonesome."
 

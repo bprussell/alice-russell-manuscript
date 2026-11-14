@@ -32,7 +32,7 @@ After replacing the locket on his breast he opened the door to his daddy, his co
 
 "She has seen a lot of sadness; her Uncle George's death and now her aunt most ready to go, but you know it is not always in the gold days, but in the gray ones that the soul grows and the purpose of life unfolds. She's sweeter, more mature, and oh! so beautiful."
 
-"Has she—has she changed her mind?" and the elder man bit his lips in anger for having asked that question so abruptly.
+"Has she—has she changed her mind?" And the elder man bit his lips in anger for having asked that question so abruptly.
 
 "No," he said thoughtfully. "She hasn't—but I have."
 

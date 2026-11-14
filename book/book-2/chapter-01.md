@@ -18,7 +18,7 @@ The older Wesley girls had "steadies," and Allie was sure she recognized familia
 
 The morning after John Wesley had told the third young swain that "Allie had gone with another fellow," his ire was righteously raised to the limit of endurance, and when Allie came down to the kitchen this beautiful Monday morning, she was met by a stern and undeniably angry father.
 
-"Alice Parepa-Roza," (he only called her by her full name when angry) "where were you until one o'clock last night?" but before she could answer he yelled again, "And what do you mean by coming back home and disgracing us by having a stream of young scamps running here day and night asking for you? As long as George and Kate were looking after you, I didn't interfere, but you understand, young lady, there will be no more of this. It's to be one or none from this on, and you better be mighty careful who that 'one' is too. Haven't you any shame about you? Decent girls don't allow such disgraceful things to happen."
+"Alice Parepa-Roza," (he only called her by her full name when angry) "where were you until one o'clock last night?" But before she could answer he yelled again, "And what do you mean by coming back home and disgracing us by having a stream of young scamps running here day and night asking for you? As long as George and Kate were looking after you, I didn't interfere, but you understand, young lady, there will be no more of this. It's to be one or none from this on, and you better be mighty careful who that 'one' is too. Haven't you any shame about you? Decent girls don't allow such disgraceful things to happen."
 
 When he stopped for his breath, Allie said calmly, "You forget, Papa, that they didn't ask me if they could come."
 

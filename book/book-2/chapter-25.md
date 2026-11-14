@@ -48,7 +48,7 @@ Parepa studied the pattern for some time. "Yes," she cried, "Here is my name wov
 
 "That was the way I thought my life would be too when I drew that design," he said.
 
-"You drew it! Why, Frances, you are an artist. They are simply wonderful!" and she held them up in her hand. "Just see them sparkle and laugh."
+"You drew it! Why, Frances, you are an artist. They are simply wonderful!" And she held them up in her hand. "Just see them sparkle and laugh."
 
 "Yes, they are symbols of happiness. You will wear them, won't you, Parepa?" his voice was pleading.
 
@@ -116,7 +116,7 @@ Daddy Wheeler came into the room smiling, "So you two old pals are together so e
 
 "Good! Only a little weak. How's yourself?" she said sweetly.
 
-"Fine!" and the old man stooped and kissed Parepa on the cheek. "What are we going to do when she goes home?" he said. "We will surely miss you. Won't we, Frances?"
+"Fine!" And the old man stooped and kissed Parepa on the cheek. "What are we going to do when she goes home?" he said. "We will surely miss you. Won't we, Frances?"
 
 "And I'll miss you both. I wish you knew my husband and boys. They are wonderful fellows," she said.
 

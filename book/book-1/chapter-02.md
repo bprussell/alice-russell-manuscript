@@ -126,7 +126,7 @@ She will never know how she got through that meal. It was all a blur to her, but
 
 "What you drink out of, of course," and she felt quite smart at being able to tell him something.
 
-"Oh, in our English those things are the crystals. No wonder I didn't know what you were talking about, and why do you think I might break them?" and he proceeded to show her that he could wipe them as well as she when—crash!—it went to the floor and broke in a hundred pieces.
+"Oh, in our English those things are the crystals. No wonder I didn't know what you were talking about, and why do you think I might break them?" And he proceeded to show her that he could wipe them as well as she when—crash!—it went to the floor and broke in a hundred pieces.
 
 "Smarty, smarty," said Parepa, just as she would have said to her own brother. "You see, you're not so smart as you think you are. Breaking Aunt Kate's CRYSTAL."
 

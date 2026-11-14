@@ -78,7 +78,7 @@ At supper they told her they had a big surprise for her. She must guess what it 
 
 "No, but if you will be satisfied to wear what I can make over for you, I believe we can make a go of it," Aunt Kate replied.
 
-"I'd like too much to try anyway," said the delighted girl. "Maybe someday I can pay you good folks back for all you are doing for me. Oh, I'm so happy!" and she kissed one and then the other until there was no doubt of her love for them.
+"I'd like too much to try anyway," said the delighted girl. "Maybe someday I can pay you good folks back for all you are doing for me. Oh, I'm so happy!" And she kissed one and then the other until there was no doubt of her love for them.
 
 We now find our heroine with the following daily schedule:
 

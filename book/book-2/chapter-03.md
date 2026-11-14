@@ -38,7 +38,7 @@ The next day found Parepa ill prepared for her classes. The first time in her li
 
 "I think that will be real brittle," she answered. They both laughed and then grew serious.
 
-"Of course, I can't buy a home yet or have everything I'd like to have for my wife, but that will all come later. We will love each other so much we won't miss the things we don't have, won't we, darling?" and he kissed her again and again.
+"Of course, I can't buy a home yet or have everything I'd like to have for my wife, but that will all come later. We will love each other so much we won't miss the things we don't have, won't we, darling?" And he kissed her again and again.
 
 "Indeed we will," agreed Parepa. "I know we will be so happy."
 

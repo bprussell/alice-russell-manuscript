@@ -64,7 +64,7 @@ She sat perfectly still and did not answer.
 
 "Yes, you have a present for me," he answered.
 
-"What is it?" and she listened for his answer.
+"What is it?" And she listened for his answer.
 
 "A promise," he said, "a promise that you will enjoy the next two years and forget your promise to me."
 

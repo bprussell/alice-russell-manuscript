@@ -8,7 +8,7 @@
 
 "There, there," said Aunt Kate, "You are homesick, that's all. Frances has been company for you and you haven't missed your brothers and sisters. Come now, let's go in and have a lunch."
 
-"Aunt K-K-Kate," stammered Parepa, "Who's that?" and she pointed to a stately important looking man stepping from a carriage in front of Frances's boarding place.
+"Aunt K-K-Kate," stammered Parepa, "Who's that?" And she pointed to a stately important looking man stepping from a carriage in front of Frances's boarding place.
 
 "I wonder if that isn't Frances's guardian," volunteered Uncle George.
 

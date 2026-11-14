@@ -42,7 +42,7 @@ By the time they reached their destination, these children were as lively and al
 
 "You see, I'll only be here two weeks unless I get a job, and maybe if I do, Papa and Mamma won't let me stay," said the girl thoughtfully. "Let's look for a job tomorrow."
 
-"A job! You a job!" laughed Frances. "Gee Whiz, what could you do?" and he roared with laughter. "There's no cows to milk in Peoria."
+"A job! You a job!" laughed Frances. "Gee Whiz, what could you do?" And he roared with laughter. "There's no cows to milk in Peoria."
 
 Parepa blushed again, but she realized her inability to do much else but milk cows.
 

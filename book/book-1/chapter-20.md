@@ -36,7 +36,7 @@ Parepa lay limp and trusting in the arms of the one she loved. She was happy—O
 
 "Please! Oh please! Do not mention this again. See, Frances, look, here comes the Bald Eagle. Let's ride the waves," and she clapped her hands in glee.
 
-"Fine!" and he took the oars and rowed near the big excursion boat. Soon they were surging up and down on the waves, as happy as two little children—which they were.
+"Fine!" And he took the oars and rowed near the big excursion boat. Soon they were surging up and down on the waves, as happy as two little children—which they were.
 
 "I've got a wonderful yacht at home. Bet you can't guess what name is on it," he laughed.
 
@@ -76,7 +76,7 @@ Parepa lay limp and trusting in the arms of the one she loved. She was happy—O
 
 "Didn't you have any boys?" asked Frances.
 
-"Oh yes, Freddie and Eddie. They were girl dolls, but I put pants on them and cut their hair and made them into boys. Wasn't that funny?" and she laughed loud.
+"Oh yes, Freddie and Eddie. They were girl dolls, but I put pants on them and cut their hair and made them into boys. Wasn't that funny?" And she laughed loud.
 
 They were on shore now, and Frances suggested they sit down on a big log and visit some more. After he was seated he took her in his arms and said, "Parepa, you are the only little child I want. I want you so badly to be mine—all mine as long as I live. Could you give yourself to me, darling, if you knew I could never be the father of your children?"
 

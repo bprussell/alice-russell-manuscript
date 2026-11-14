@@ -33,13 +33,13 @@ Allie handed the paper to her husband and sat down in a chair by the table.
 
 That he was disappointed was plain to be seen. She added, relenting, "If you want to know about my family and myself, I shall be glad to answer your questions." Before he went he had quite a lengthy story and seemed satisfied.
 
-After he had gone, a knock on the door brought Allie face to face with her old coworker of candy store days. She recognized him at once and welcomed him heartily. After being introduced to her family, he said, "Have you seen the paper?" and pulled one from his pocket.
+After he had gone, a knock on the door brought Allie face to face with her old coworker of candy store days. She recognized him at once and welcomed him heartily. After being introduced to her family, he said, "Have you seen the paper?" And pulled one from his pocket.
 
 "Yes, one of their reporters was just here," said Johnie, hoping to quiet him on the subject.
 
 "When I read it, I figured it would be good news for you, and I hoped I'd be the first to tell you," he said.
 
-"That's mighty good of you, but I've done nothing all evening but answer 'phone calls and entertain callers. Will you excuse me if I don't talk about it anymore? You know I appreciate your interest, don't you?" and she dropped wearily in her chair.
+"That's mighty good of you, but I've done nothing all evening but answer 'phone calls and entertain callers. Will you excuse me if I don't talk about it anymore? You know I appreciate your interest, don't you?" And she dropped wearily in her chair.
 
 "Oh, sure, and I know you must be tired out. I'll be going right back. I only wanted you to get in touch with this fellow before he passes on. You know, folks," turning to Johnie and the boys, "she was a mighty pretty little girl when I knew her."
 
@@ -73,7 +73,7 @@ They were an excited bunch of boys as they tripped up the stairs to bed. Voices 
 
 "Can he be jealous?" she thought. She began at the beginning. The first night she met Frances at Aunt Kate's supper table. She took him through the five years of their acquaintance. Of their love and devotion, then the fact that Frances could never be the father to her children, and the parting never to meet again. She had never told this before. Then, kissing her husband as she lay in his arms, she could feel his muscles, which had been taut, relax.
 
-"You, my dear husband, was my reward for doing the right thing. You and our fine boys, I ask no other. All the money I might get from this source would never change me. You believe me, don't you, dear?" and she squeezed his hand.
+"You, my dear husband, was my reward for doing the right thing. You and our fine boys, I ask no other. All the money I might get from this source would never change me. You believe me, don't you, dear?" And she squeezed his hand.
 
 "Darling, you know I believe you. I am wondering how you have ever stood it to go through life in the humdrum way we have when you could have had everything one could ask for in this world. Oh, wifie, I haven't been worth it. I didn't know. Forgive me, can you?"
 

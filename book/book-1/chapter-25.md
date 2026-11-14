@@ -40,7 +40,7 @@ Joseph—"And what are you going to tell him?" (coming closer to her, his eyes b
 
 Parepa—"Joseph, I have loved him for four years. From the first time I ever saw him. I'm sorry for you, Joseph—believe me, I am."
 
-Joseph—"Haven't you seen? Oh, haven't you known I loved you, darling? It was only my desire for you that has kept me working so hard to make a success in life. I didn't tell you because I thought surely you had guessed. I wanted to succeed first. Isn't there any hope, dearest, any hope for me at all?" and he hugged her to him, kissing her again and again.
+Joseph—"Haven't you seen? Oh, haven't you known I loved you, darling? It was only my desire for you that has kept me working so hard to make a success in life. I didn't tell you because I thought surely you had guessed. I wanted to succeed first. Isn't there any hope, dearest, any hope for me at all?" And he hugged her to him, kissing her again and again.
 
 Parepa—"Only if I find him greatly changed, Joseph dear."
 
@@ -74,7 +74,7 @@ He heard them come up the walk. "Won't you come in?" Parepa was saying. Was hers
 
 "I'll run in and see if Auntie is all right and then I'll be right out," she said.
 
-Frances saw him turn and watch her go into the light. He watched her until she was out of sight. Then he said, laying his head in his hands, "O God! What have I done to deserve this? Why can't I have her?" and he rose and paced up and down the walk until she came out again.
+Frances saw him turn and watch her go into the light. He watched her until she was out of sight. Then he said, laying his head in his hands, "O God! What have I done to deserve this? Why can't I have her?" And he rose and paced up and down the walk until she came out again.
 
 "How's she feeling tonight?" asked Joseph, trying to act his old self.
 
@@ -84,9 +84,9 @@ Frances saw him turn and watch her go into the light. He watched her until she w
 
 "I don't know for sure, but if a certain fellow I know hasn't changed his mind or his manners in the last two years, I'm going to get married," she said. "Isn't the moon pretty?"
 
-"Yes, I guess so, but how does it come you never told me about this affair before?" and he held tight to her hand then raised it to his lips and kissed it. She did not object she felt so sorry for him.
+"Yes, I guess so, but how does it come you never told me about this affair before?" And he held tight to her hand then raised it to his lips and kissed it. She did not object she felt so sorry for him.
 
-"I didn't know you would be interested. I didn't tell anyone. Only Aunt Kate knows," she said. "I'm so sorry, Joe, honestly I am. If you really and truly love me as much as I love Frances, I know the pain in your heart. I couldn't bear to think of he and I being separated by another. You have been so lovely to me, Joe, and we have had good times together. I'll never forget you, Joe, never. Will you? Promise never to forget me?" and her eyes glistened in the moonlight with tears. Her voice trembled.
+"I didn't know you would be interested. I didn't tell anyone. Only Aunt Kate knows," she said. "I'm so sorry, Joe, honestly I am. If you really and truly love me as much as I love Frances, I know the pain in your heart. I couldn't bear to think of he and I being separated by another. You have been so lovely to me, Joe, and we have had good times together. I'll never forget you, Joe, never. Will you? Promise never to forget me?" And her eyes glistened in the moonlight with tears. Her voice trembled.
 
 "Parepa, will you promise me that if this fellow has changed and you don't care for him so much, that you will come right to me? I know I haven't a thing to offer you yet, but I'm going to have someday. Will you promise, darling?" he asked feverishly.
 
@@ -94,7 +94,7 @@ Frances saw him turn and watch her go into the light. He watched her until she w
 
 "Goodbye, my good friend, goodbye," and, as he went through the gate, she threw herself on the porch cushions and sobbed and sobbed. Frances's heart was breaking for this wonderful woman whose love he had captured four years ago when she was a mere child.
 
-"Is it right, oh God, answer. Is it right?" and he turned his face upward as he uttered the most earnest prayer to his God in Heaven that had ever crossed his lips.
+"Is it right, oh God, answer. Is it right?" And he turned his face upward as he uttered the most earnest prayer to his God in Heaven that had ever crossed his lips.
 
 Finally Parepa sat up and raised her arms to the sky. "Dearest Lord Jesus, help me to know and do what is right always, Amen." Then she rose and entered the house, singing as if gay. "Savior like a shepherd lead us much we need thy tenderest care."
 

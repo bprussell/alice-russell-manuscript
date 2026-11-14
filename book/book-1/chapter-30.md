@@ -8,7 +8,7 @@ Frances laughed as they sat down on the soft grass in the shade of the large elm
 
 "Would you like to see what's in the locket now, darling?" and, pulling it from his breast, dangled it before her eyes.
 
-She took it in her hands, warm from the heat of his flesh, as she said, "Not just now, Frances, I want to ask you a few questions first. Why do you insist upon my knowing?" and she turned her honest blue eyes to his.
+She took it in her hands, warm from the heat of his flesh, as she said, "Not just now, Frances, I want to ask you a few questions first. Why do you insist upon my knowing?" And she turned her honest blue eyes to his.
 
 "If I was to tell you, you could not understand. You must see for yourself," and, taking the locket from her, he placed the key into the lock and turned it once forward, twice backward, and five clicks forward. It sprang open and Frances said, "We'll look at the photos first." He laid them in a row before her.
 
@@ -40,7 +40,7 @@ She could not answer, for they sat in a tense embrace. Then, as if suddenly remi
 
 "All of the mothers whose faces you have seen tonight were kind and loving. Their sexual weakness being their only fault. It ruined the lives and name of my family. From the minute I was born, every wish of my mother's has been carried out. My name, which she gave me, is Frances LaVerne Emmerson. I have been raised a real fellow from the start. All the physical exercise for the proper development of a strong well formed boy was carefully adhered to. I grew to be an excellent sportsman, skilled in every form of athletic feats. I have won medals and many loving cups for swimming, tennis, bowling, vaulting, running, riding, driving, rowing, jumping, and discus throwing. I love my music. It is the most comforting accomplishment I have. I can always find pleasure in good books. No boy ever grew to manhood more carefully raised than I. From the time I was old enough to understand what a mother was, I have missed her.
 
-"She left letters for me to open on my birthday from the sixth one up to the fourteenth. Each one was written to interest a boy of that age. I was given the locket to wear on my fourteenth birthday. It has been a part of me ever since. The 'secret' was in it. Parepa, dearest, have you guessed it? Can you believe me?" and he whispered the truth in her ear. "Darling, I'm a *girl*."
+"She left letters for me to open on my birthday from the sixth one up to the fourteenth. Each one was written to interest a boy of that age. I was given the locket to wear on my fourteenth birthday. It has been a part of me ever since. The 'secret' was in it. Parepa, dearest, have you guessed it? Can you believe me?" And he whispered the truth in her ear. "Darling, I'm a *girl*."
 
 Up to this moment the girl had sat quietly, his arms around her, cheek against cheek, as if afraid to stir for fear he might not go on with his story. Now she gave a start and a little cry of surprise. Then, as if her whole being was enveloped in that most precious of all gifts—sympathy—she turned her lips to his and, throwing her arms around his neck, kissed him tenderly. "I love you—you are mine—mine forever in spite of fate."
 

@@ -4,7 +4,7 @@ Parepa could hear a low argument going on outside but could not see the parties 
 
 Harold broke past the boy who was trying to persuade him to go to his room and sober up before letting Parepa see him. "She's my girl and I'll see her if I want to," he stammered in a voice not at all familiar to Parepa.
 
-Before she could turn to see him, he fell over her chair with arms around her and, kissing her cheek, he said, "Dish is my sweetheart and nobody can stop me from seeing her. Yer glad I come, ain't you, honey? Ain't you now?" and he gave an ugly lunge over her shoulder again, "Give me a sweet kish, honey."
+Before she could turn to see him, he fell over her chair with arms around her and, kissing her cheek, he said, "Dish is my sweetheart and nobody can stop me from seeing her. Yer glad I come, ain't you, honey? Ain't you now?" And he gave an ugly lunge over her shoulder again, "Give me a sweet kish, honey."
 
 Parepa beat him off, and all the boys at the table rose to her defense and drug him from the house and down the street. He was angry drunk. The first person Parepa had ever seen in that condition.
 
@@ -12,7 +12,7 @@ Parepa beat him off, and all the boys at the table rose to her defense and drug 
 
 "Yes, drunk sick," said the old maid teacher who sat at the head of the table. "We all wanted to tell you, but none of us had the nerve. It isn't his first offense by any means."
 
-"You mean—you mean he gets drunk?" and she fell forward. She had fainted.
+"You mean—you mean he gets drunk?" And she fell forward. She had fainted.
 
 The girls all rushed to help her. They laid her on Mrs. Allen's bed and called a doctor. "It was a terrible shock to the child," Mrs. Allen told him. "Harold has told the boys they are to be married at the end of the term."
 
