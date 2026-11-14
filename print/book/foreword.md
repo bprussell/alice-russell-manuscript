@@ -23,24 +23,17 @@ called "Russellville," where the beam of an airplane beacon on one corner
 swept through the bedrooms at night. Later came the Hodge farm, just over
 the line in Stark County, while John worked for the Bemis Bag Company in
 Peoria, and then Peoria itself: a house on Mt. Hawley Road, and finally
-1218 North Sheridan, where Allie ran a flower business the Edelstein
-country knew as "The Russell Flower Garden."
+1218 North Sheridan.
 
 The family history remembers her as "quite a unique person," a stylish
 lady, and "definitely the one in the extended family who reached for and
-wanted ‘greater things.’" She named her garden *Wonderland* and called
-her arrangements "Alice in Wonderland" bouquets, and she lectured to
-groups throughout central Illinois on her flowers and on her large
-collection of buttons. "It makes the world brighter," she said of her
-garden. "I am glad I have a hand in it." She was for many years a matron
-at Caterpillar, and a member of the Edelstein Congregational Church, the
-Toastmistress Club, the Little Garden Club, and the Retired Teachers
-Association. Johnnie died at their home on Sheridan on 13 October 1961,
-at 82; Allie lived on there until her death on 5 May 1975, at 93. They
-are buried at Swan Lake Memorial Gardens in Peoria.
-
-[Anything the family remembers about her writing, such as when and where
-she typed or whether anyone knew she was doing it, would fit well here.]
+wanted ‘greater things.’" She lectured to groups throughout central
+Illinois on her large collection of buttons. She was for many years a
+matron at Caterpillar, and a member of the Edelstein Congregational
+Church, the Toastmistress Club, the Little Garden Club, and the Retired
+Teachers Association. Johnnie died at their home on Sheridan on 13
+October 1961, at 82; Allie lived on there until her death on 5 May 1975,
+at 93. They are buried at Swan Lake Memorial Gardens in Peoria.
 
 A newspaper clipping says she wrote five books: *Sealed Secrets*,
 *Kashema*, *’Tis Our God Rules Over All*, *Then What*, and *Button,
