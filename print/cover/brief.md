@@ -26,6 +26,19 @@ front cover, front flap**. The flaps fold inside the boards. Keep all text
 inside the safe area and clear of the folds; let the background color run
 into the bleed.
 
+## Lulu's numbers (from the project, 286 pp, 60# cream, linen wrap)
+
+- Full jacket: **20.688 × 9.75 in** (525.48 × 247.65 mm), one-page PDF,
+  fonts embedded, layers flattened, under 100 MB.
+- Spine: **0.938 in**. Flaps: **3.25 in** each. Flap fold: **0.25 in**
+  each.
+- So, left to right: back flap 3.25 · fold 0.25 · back cover 6.375 ·
+  spine 0.938 · front cover 6.375 · fold 0.25 · front flap 3.25
+  (= 20.688 in). Check bleed and safe lines against Lulu's downloaded
+  template before export.
+- Linen: green, gold foil. Spine stamping (42 characters max each):
+  title `SEALED SECRETS & KASHEMA`, author `ALICE REYNOLDS RUSSELL`.
+
 ## Look
 
 - **Image:** a locket (as designed: the engraved gold locket on a chain).
