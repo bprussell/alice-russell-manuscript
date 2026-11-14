@@ -58,4 +58,4 @@ The working plan for the project is in [PLAN.md](PLAN.md).
       completed by the family. Changes from the read-through — spelling,
       capitalization, comma and grammar passes, italics for thoughts, and
       individual fixes — are logged in book/edits.md
-- [ ] Phase 4 — Typesetting and print PDF
+- [x] Phase 4 — Typesetting and print PDF
