@@ -13,8 +13,8 @@ part() {  # $1 = book dir, $2 = part heading, $3 = book title
     sed 's/^# /## /' "$f" | python3 print/smartquotes.py; printf '\n\n'
   done
 }
-part book/book-1 "Book One" "The Locket of Family Secrets" > "$tmp/book-1.md"
-part book/book-2 "Book Two" "The Heir of the Broken Chain" > "$tmp/book-2.md"
+part book/book-1 "Book One" "Sealed Secrets" > "$tmp/book-1.md"
+part book/book-2 "Book Two" "Kashema" > "$tmp/book-2.md"
 
 python3 print/smartquotes.py < print/epub/proof-note.md > "$tmp/proof-note.md"
 

@@ -2,8 +2,8 @@
 // The body (body.typ) is generated from book/ by build.sh via pandoc.
 
 #let author = "Alice Reynolds Russell"
-#let title-one = "The Locket of Family Secrets"
-#let title-two = "The Heir of the Broken Chain"
+#let title-one = "Sealed Secrets"
+#let title-two = "Kashema"
 
 #set document(title: title-one + " & " + title-two, author: author)
 #let body-font = sys.inputs.at("font", default: "Sorts Mill Goudy")
@@ -12,6 +12,10 @@
 #set par(justify: true, leading: 0.62em, spacing: 0.62em,
          first-line-indent: (amount: 1.3em, all: false))
 #show heading: set text(weight: "regular")
+// Quotes are curled before pandoc (print/smartquotes.py), but pandoc writes
+// every ’ back out as a straight ' — so a straight single quote here is
+// always an apostrophe or closing quote, never an opening one.
+#set smartquote(quotes: (single: ("’", "’"), double: ("“", "”")))
 
 // --- Pandoc helpers -------------------------------------------------------
 #let horizontalrule = align(center, block(above: 1.1em, below: 1.1em,
@@ -32,6 +36,7 @@
   let pg = here().page()
   (not furniture.get()
     or query(heading.where(level: 1).or(heading.where(level: 2))).any(h => h.location().page() == pg)
+    or query(<plate>).any(m => m.location().page() == pg)
     or not query(<txt>).any(m => m.location().page() == pg))
 }
 #let current-part() = {
@@ -89,6 +94,19 @@
   heading(level: 2, outlined: true)[#name]
 }
 
+// A full-page picture with a caption; no running head or folio.
+#let plate(path, caption, width: 82%) = {
+  [#metadata(none)<plate>]
+  v(1fr)
+  align(center, image(path, width: width))
+  v(0.18in)
+  align(center, block(width: 85%, {
+    set par(first-line-indent: 0pt, justify: false)
+    text(size: 9pt, style: "italic", caption)
+  }))
+  v(1fr)
+}
+
 // --- Front matter -----------------------------------------------------------
 #set page(numbering: "i")
 
@@ -96,7 +114,11 @@
 #v(2.6in)
 #align(center, text(size: 15pt, style: "italic")[#title-one \ #text(size: 11pt, style: "normal")[&] \ #title-two])
 #pagebreak()
-#pagebreak()  // blank verso
+
+// Frontispiece (verso, facing the title page)
+#plate("images/alice-and-john.jpg", width: 74%)[Alice Parapa-Rosa Reynolds and
+  John Sidney Russell, about the time of their marriage in 1905]
+#pagebreak()
 
 // Title page
 #v(1.7in)
@@ -120,10 +142,9 @@
 
   #v(0.5em)
   This family edition was transcribed and edited from the original
-  typescript in 2026. The original titles were erased by the author;
-  the title of Book Two is reconstructed from the impression left in the
-  paper, and the title of Book One was composed by the family around its
-  two surviving words.
+  typescript in 2026. The titles are those the family history records
+  for the book's two parts; the titles first typed on the manuscript were
+  later erased by the author.
 
   #v(0.5em)
   Set in #body-font.
