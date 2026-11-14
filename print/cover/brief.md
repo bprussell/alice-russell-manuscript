@@ -65,7 +65,7 @@ background color and the image run into the bleed.
 > Alice Parapa-Rosa Reynolds Russell (1881–1975) taught at the Kellogg
 > school, raised three sons on farms around Edelstein and in Peoria, and
 > lectured across central Illinois on her flowers and her button
-> collection. She wrote five books; this is
-> the one known to survive.
+> collection. She wrote five books; these two are the only ones known
+> to survive.
 
 No barcode or ISBN is needed for a private printing.
