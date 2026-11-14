@@ -4,15 +4,25 @@
 the family can supply; delete any that don't apply. -->
 
 The book you are holding was written by Alice Reynolds Russell
-[— born ____, died ____ —] of Mt. Hawley Road, Edelstein, Illinois. For
-most of a century it existed as a single typewritten manuscript: 288 loose
-pages, toned to a dark cream, kept in a box by her grandson, William
-Russell. This edition is the
-first time it has been set in type.
+(1881–1975) of Edelstein, Illinois. For most of a century it existed as a
+single typewritten manuscript: 288 loose pages, toned to a dark cream,
+kept in a box by her grandson, William Russell. This edition is the first
+time it has been set in type.
 
-[A paragraph about her, in the family's own words: where she grew up, her
-family, her life on the farm, her music, anything remembered about her
-writing — when and where she typed, whether anyone knew she was doing it.]
+She was born Alice Parapa-Rosa Reynolds, the daughter of John and Eliza
+(Bonham) Reynolds. As a young woman she taught at the Kellogg school,
+where she met John Sidney Russell, a farmer's son who had gone to school
+there himself; they were married on 21 June 1905. When Johnnie's health
+failed they sold the farm and kept the general store in Speer for a few
+years, then went back to the land, farming, raising livestock, and
+delivering milk on an Edelstein route. Their sons were Robert (1910),
+Richard (1913), and Arthur (1915). In 1926 they moved to the farm just
+north of Edelstein that the family called "Russellville," where the beam
+of an airplane beacon on one corner swept through the bedrooms at night.
+John died in 1961; Alice lived to 1975.
+
+[Anything the family remembers about her writing — when and where she
+typed, whether anyone knew she was doing it — would fit well here.]
 
 She did not write it only for the family drawer. Every page carries a typed
 heading — *Submitted by: Mrs Alice Reynolds Russell, Mt. Hawley Road,
