@@ -601,7 +601,7 @@ Changes from the great-grandson's read-through of the EPUB proof.
 - **Book II Ch XVII:** "the Bible definition of faith, "the substance of things hoped
   for..."" → colon before the quoted definition.
 
-- **Action after a "?" or "!" quote capitalized (30 places, family
+- **Action after a "?" or "!" quote capitalized (29 places, family
   ruling):** her habit of continuing in lowercase after dialogue ending
   in "?" or "!" ('"Fine!" and he took the oars', '"Oh, yes, I remember!"
   then she sat quietly thinking') → new sentence, capitalized ('"Fine!"
