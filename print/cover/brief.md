@@ -48,23 +48,20 @@ background color and the image run into the bleed.
 
 **Back cover** (or front flap, if there is a jacket); spoiler-free:
 
-> Two novels, bound together in a single typescript, by Alice Reynolds
-> Russell of Edelstein, Illinois. *Sealed Secrets* follows a dreamy,
-> freckle-faced farm girl, Alice Parepa-Roza Wesley, from her father's
-> farm to her aunt and uncle's home in Peoria. *Kashema* returns to her
-> years later.
+> *Sealed Secrets* follows a dreamy, freckle-faced farm girl, Alice
+> Parepa-Roza Wesley, from her father's farm to her aunt and uncle's home
+> in Peoria. *Kashema* returns to her years later.
 >
-> Written in the early twentieth century, kept for a hundred years in a
-> box of loose typewritten pages, and set in type for the first time for
-> her family.
+> Written by Alice Reynolds Russell of Edelstein, Illinois, early in the
+> twentieth century, kept for a hundred years in a box of loose
+> typewritten pages, and set in type for the first time for her family.
 
 **Back flap, or lower back cover** (optional): the frontispiece photo
 (`print/book/images/alice-and-john.jpg`) or the 50th-anniversary photo
 (`docs/allie-and-johnie.heic`), with:
 
 > Alice Parapa-Rosa Reynolds Russell (1881–1975) taught at the Kellogg
-> school, raised three sons on farms around Edelstein and in Peoria, and
-> lectured across central Illinois on her flowers and her button
+> school, raised three sons on farms around Edelstein, and lectured across central Illinois on her flowers and her button
 > collection. She wrote five books; these two are the only ones known
 > to survive.
 

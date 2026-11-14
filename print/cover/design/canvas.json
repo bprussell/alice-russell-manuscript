@@ -1,0 +1,51 @@
+{
+ "v": 3,
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-11-14T18:23:57Z"
+ },
+ "title": "Sealed Secrets & Kashema — Cover",
+ "launch": {
+  "view": "canvas"
+ },
+ "pages": [],
+ "boards": {
+  "Main.dc.html": {
+   "x": 0,
+   "y": 0,
+   "w": 1386,
+   "h": 1008,
+   "title": "Full casewrap spread (estimated size)"
+  },
+  "FrontPanel.dc.html": {
+   "x": 1466,
+   "y": 0,
+   "w": 576,
+   "h": 864,
+   "title": "Front cover · 6 × 9 in"
+  },
+  "BackPanel.dc.html": {
+   "x": 2122,
+   "y": 0,
+   "w": 576,
+   "h": 864,
+   "title": "Back cover · 6 × 9 in"
+  }
+ },
+ "order": [
+  "Main.dc.html",
+  "FrontPanel.dc.html",
+  "BackPanel.dc.html"
+ ],
+ "notes": {
+  "dims": {
+   "x": 0,
+   "y": 1128,
+   "w": 680,
+   "size": "m",
+   "color": "orange",
+   "text": "Spread size is an ESTIMATE until we have Lulu's template: 6 × 9 in casewrap, 285 pp on 60# cream, spine ≈ 0.94 in, 0.75 in wrap on every edge → 14.44 × 10.5 in (1386 × 1008 px at 96/in).\n\nOnce you download Lulu's cover template, send me the full spread size, spine width and wrap/bleed and I'll resize to match before export.\n\nTweaks: ground colour (green / oxblood / navy / sepia) and gold."
+  }
+ },
+ "designSystems": []
+}

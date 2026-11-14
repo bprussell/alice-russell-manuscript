@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Back cover</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+@font-face{font-family:"Sorts Mill Goudy";src:url(/_blob/d8a961f1a77ac0eadaed6962eec49e8c) format("truetype");font-style:normal;font-weight:400}
+@font-face{font-family:"Sorts Mill Goudy";src:url(/_blob/9641f69d96dbeb014629305653a4e5ee) format("truetype");font-style:italic;font-weight:400}
+body{margin:0}
+</style>
+</helmet>
+<div style="width: 576px; height: 864px; position: relative; box-sizing: border-box; padding: 84px 60px 60px; background: {{ground}}; font-family: &quot;Sorts Mill Goudy&quot;, Georgia, serif; color: #EFE6D2; display: flex; flex-direction: column; gap: 36px">
+<div style="display: flex; flex-direction: column; gap: 16px; font-size: 18px; line-height: 1.55; text-wrap: pretty">
+<p style="margin: 0"><i>Sealed Secrets</i> follows a dreamy, freckle-faced farm girl, Alice Parepa-Roza Wesley, from her father’s farm to her aunt and uncle’s home in Peoria. <i>Kashema</i> returns to her years later.</p>
+<p style="margin: 0">Written by Alice Reynolds Russell of Edelstein, Illinois, early in the twentieth century, kept for a hundred years in a box of loose typewritten pages, and set in type for the first time for her family.</p>
+</div>
+<div style="display: flex; justify-content: center">
+<svg width="120" height="14" viewBox="0 0 120 14" aria-hidden="true" style="display: block; color: {{gold}}"><line x1="0" y1="7" x2="48" y2="7" stroke="currentColor" stroke-width="1"></line><path d="M60 1 L66 7 L60 13 L54 7 Z" fill="none" stroke="currentColor" stroke-width="1.2"></path><circle cx="60" cy="7" r="1.6" fill="currentColor"></circle><line x1="72" y1="7" x2="120" y2="7" stroke="currentColor" stroke-width="1"></line></svg>
+</div>
+<div style="display: flex; gap: 26px; align-items: center">
+<div style="flex: none; width: 150px; height: 212px; border-radius: 30px; padding: 5px; border: 1.5px solid {{gold}}; box-sizing: content-box">
+<img src="/_blob/cde47c87ca6ca7551cb27f64be457c45" alt="Alice and John Russell, wedding portrait" style="width: 150px; height: 212px; border-radius: 25px; object-fit: cover; object-position: 50% 0%; display: block; filter: sepia(0.35) contrast(1.05)">
+</div>
+<p style="margin: 0; font-size: 16px; line-height: 1.5; text-wrap: pretty">Alice Parapa-Rosa Reynolds Russell (1881–1975) taught at the Kellogg school, raised three sons on farms around Edelstein, and lectured across central Illinois on her flowers and her button collection. She wrote five books; these two are the only ones known to survive.</p>
+</div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"ground":{"editor":"color","default":"#1F3A2E","options":["#1F3A2E","#4A1C1E","#1D2A42","#2E2A24"]},"gold":{"editor":"color","default":"#C9A961","options":["#C9A961","#B8914A","#D8C79A"]},"$preview":{"width":576,"height":864}}'>
+class Component extends DCLogic {
+renderVals() {
+const g = this.props.gold ?? '#C9A961';
+return { ground: this.props.ground ?? '#1F3A2E', gold: g };
+}
+}
+</script>
+</body>
+</html>

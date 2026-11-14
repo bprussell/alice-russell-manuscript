@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Sealed Secrets & Kashema — casewrap cover spread</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+@font-face{font-family:"Sorts Mill Goudy";src:url(/_blob/d8a961f1a77ac0eadaed6962eec49e8c) format("truetype");font-style:normal;font-weight:400}
+@font-face{font-family:"Sorts Mill Goudy";src:url(/_blob/9641f69d96dbeb014629305653a4e5ee) format("truetype");font-style:italic;font-weight:400}
+body{margin:0}
+</style>
+</helmet>
+<div style="width: 1386px; height: 1008px; position: relative; overflow: hidden; background: {{ground}}; font-family: &quot;Sorts Mill Goudy&quot;, Georgia, serif">
+<div style="position: absolute; left: 72px; top: 72px">
+<dc-import name="BackPanel" ground="{{ground}}" gold="{{gold}}" hint-size="576px,864px"></dc-import>
+</div>
+<div style="position: absolute; left: 648px; top: 72px; width: 90px; height: 864px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; box-sizing: border-box; padding: 44px 0; color: {{gold}}">
+<div style="width: 46px; display: flex; flex-direction: column; gap: 3px"><div style="height: 1.5px; background: {{gold}}"></div><div style="height: 1px; background: {{gold}}"></div></div>
+<p style="margin: 0; writing-mode: vertical-rl; font-size: 17px; letter-spacing: 0.18em; white-space: nowrap; color: #EFE6D2">SEALED SECRETS &amp; KASHEMA <span style="color: {{gold}}; letter-spacing: 0">·</span> <span style="color: {{gold}}">ALICE REYNOLDS RUSSELL</span></p>
+<div style="width: 46px; display: flex; flex-direction: column; gap: 3px"><div style="height: 1px; background: {{gold}}"></div><div style="height: 1.5px; background: {{gold}}"></div></div>
+</div>
+<div style="position: absolute; left: 738px; top: 72px">
+<dc-import name="FrontPanel" ground="{{ground}}" gold="{{gold}}" hint-size="576px,864px"></dc-import>
+</div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"ground":{"editor":"color","default":"#1F3A2E","options":["#1F3A2E","#4A1C1E","#1D2A42","#2E2A24"]},"gold":{"editor":"color","default":"#C9A961","options":["#C9A961","#B8914A","#D8C79A"]},"$preview":{"width":1386,"height":1008}}'>
+class Component extends DCLogic {
+renderVals() {
+const g = this.props.gold ?? '#C9A961';
+return { ground: this.props.ground ?? '#1F3A2E', gold: g };
+}
+}
+</script>
+</body>
+</html>
