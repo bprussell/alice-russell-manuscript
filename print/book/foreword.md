@@ -11,7 +11,7 @@ manuscript: 288 loose pages, toned to a dark cream, kept in a box by her
 grandson, William (Bill) Russell. This edition is the first time it has been set
 in type.
 
-She was born Alice Parepa-Rosa Reynolds, the daughter of John and Eliza
+She was born Alice Parepa-Roza Reynolds, the daughter of John and Eliza
 (Bonham) Reynolds. As a young woman she taught at the Kellogg school, where
 she met John Sidney Russell, a farmer's son who had gone to school there
 himself; they were married on 21 June 1905. When Johnnie's health failed
