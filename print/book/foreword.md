@@ -67,14 +67,9 @@ Glen Oak Park, and the farms around Edelstein.
 ## The titles
 
 The family has always known the two books as *Sealed Secrets* and
-*Kashema*, and those are the titles used here. The manuscript tells a
-slightly longer story. Each book once had a title typed in a centered
-block above its first chapter, and both were later erased, by the author
-herself, it seems. Of Book One's, only "OF" and "SECRETS" can still be
-made out; a word of about six letters stood before "SECRETS," just the
-space "SEALED" would fill. Book Two's erased title can be read from the
-impression the type left in the paper: *The Heir of the Broken Chain*.
-Sometime after typing them she settled on the titles her family remembers.
+*Kashema*, and those are the titles used here. The titles she first typed
+on the manuscript were later erased; what can still be read of them is
+told in the afterword, since it gives away the ending.
 
 ## About this edition
 

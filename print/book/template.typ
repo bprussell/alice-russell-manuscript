@@ -98,7 +98,7 @@
 #let section(name) = {
   pagebreak(weak: true)
   furniture.update(true)
-  [#metadata((name: name)) <toc>]
+  [#metadata((name: name, head: name)) <toc>]
   heading(level: 2, outlined: true)[#name]
 }
 
