@@ -598,6 +598,9 @@ Changes from the great-grandson's read-through of the EPUB proof.
   compassion..." → colon (what follows names the "something"; a
   semicolon needs a full clause after it).
 
+- **Book II Ch XVII:** "the Bible definition of faith, "the substance of things hoped
+  for..."" → colon before the quoted definition.
+
 ## Open REVIEW flags
 
 None. All 69 flags raised during Phase 3 were ruled on by the author's
