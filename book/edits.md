@@ -868,7 +868,9 @@ forms, "Alright"/"All right" variation.
   "too much"; "dail schedule" → "daily schedule"; question mark added
   ("buy my clothes on that?")
 - p62-63 daily-schedule table rendered as two Markdown tables, values
-  verbatim
+  verbatim. The Sunday rows, typed time-first ("9:30 Sunday school"), are
+  set activity-first to match the weekday rows, so the times share a
+  column (family decision, 2026-11).
 - p63 "from on duty" → "from one duty"; "acqua inted" → "acquainted"
 
 ### Book I, Chapter XI (page 64)
