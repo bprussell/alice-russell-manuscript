@@ -27,6 +27,22 @@ def front_panel():
     s = open("print/cover/design/FrontPanel.dc.html").read()
     s = s[s.index("</helmet>") + 9: s.index("</x-dc>")]
     s = s.replace("{{ground}}", GROUND).replace("{{gold}}", GOLD)
+    # No transparency anywhere (Lulu's flattener drew a box around the
+    # locket): the masks become clip paths, the opacities pre-mixed colors.
+    s = s.replace('<mask id="shade"><ellipse cx="160" cy="255" rx="100" ry="125" fill="#fff"/><ellipse cx="146" cy="239" rx="94" ry="117" fill="#000"/></mask>',
+        '<clipPath id="outer"><ellipse cx="160" cy="255" rx="100" ry="125"/></clipPath>'
+        '<clipPath id="notshade"><path clip-rule="evenodd" d="M-400 -400 H720 V820 H-400 Z M52 239 a94 117 0 1 0 188 0 a94 117 0 1 0 -188 0 Z"/></clipPath>')
+    s = s.replace('<mask id="hl"><ellipse cx="160" cy="255" rx="96" ry="121" fill="#fff"/><ellipse cx="172" cy="269" rx="96" ry="119" fill="#000"/></mask>',
+        '<clipPath id="nothl"><path clip-rule="evenodd" d="M-400 -400 H720 V820 H-400 Z M76 269 a96 119 0 1 0 192 0 a96 119 0 1 0 -192 0 Z"/></clipPath>')
+    s = s.replace('stroke="#4E3818" stroke-width="1.1"/></pattern>', 'stroke="#7E602E" stroke-width="1.1"/></pattern>')
+    s = s.replace('<rect x="0" y="0" width="320" height="420" fill="url(#hatch)" mask="url(#shade)" opacity="0.55"/>',
+        '<g clip-path="url(#outer)"><g clip-path="url(#notshade)"><g transform="rotate(35 160 255)">'
+        + "".join(f'<line x1="{x}" y1="-200" x2="{x}" y2="700" stroke="#7E602E" stroke-width="1.1"/>'
+                  for x in range(-240, 561, 4))
+        + '</g></g></g>')
+    s = s.replace('stroke="#D9BE82" stroke-width="3" mask="url(#hl)" opacity="0.8"/>',
+        'stroke="#D2B577" stroke-width="3" clip-path="url(#nothl)"/>')
+    assert "mask=" not in s and "opacity" not in s, "transparency left in the front panel"
     # run the chain off the top edge of the jacket
     s = s.replace("M96 -90 Q136.0 30", "M84 -150 Q136.0 30").replace("M224 -90 Q184.0 30", "M236 -150 Q184.0 30")
     return s
@@ -76,10 +92,10 @@ def main():
         f'kept for a hundred years in a box of loose typewritten pages, and set in type for the first time '
         f'for her family.</p>')
 
-    photo = "file://" + os.path.join(ROOT, "print/cover/allie-and-johnie-50th.jpg")
+    photo = "file://" + os.path.join(ROOT, "print/cover/allie-and-johnie-50th-sepia.jpg")
     back_flap = box(BACK_FLAP[0] + 0.5, BACK_FLAP[1] - 0.5, LIVE_TOP + 0.35, LIVE_BOTTOM,
-        f'<div style="padding:5px;border:1.5px solid {GOLD};border-radius:6px">'
-        f'<img src="{photo}" style="display:block;width:100%;border-radius:3px;filter:sepia(0.3) contrast(1.04)"></div>'
+        f'<div style="padding:5px;border:1.5px solid {GOLD}">'
+        f'<img src="{photo}" style="display:block;width:100%"></div>'
         f'<p style="margin:8px 0 22px;font-size:11.5px;line-height:1.4;font-style:italic;text-align:center">'
         f'Alice and John Russell on their fiftieth wedding anniversary, 1955</p>'
         f'<p {p}>Alice Parepa-Rosa Reynolds Russell (1881–1975) taught at the Kellogg school, raised three '
