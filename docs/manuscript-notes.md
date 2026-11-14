@@ -32,7 +32,7 @@ R287, "John Sidney Russell 1879–1961 / Alice Parapa-Rosa Reynolds
 Russell's obituary (Peoria *Journal Star*, 10 Dec 1998) and public
 burial lists.
 
-- **Alice Parapa-Rosa Reynolds, 1881–1975**, daughter of **John and Eliza
+- **Alice Parepa-Rosa Reynolds, 1881–1975**, daughter of **John and Eliza
   (Bonham) Reynolds**. Called "Allie." Taught at the **Kellogg school**,
   where she met her husband.
 - **John Sidney Russell, 24 May 1879 – 1961**, seventh child of John and
@@ -60,8 +60,13 @@ burial lists.
 - A newspaper clipping credits her with five books: "Sealed Secrets,"
   "Kshema," "'Tis Our God Rules Over All," "Then What," and "Button,
   Button, Who Gave the Button?" Only this manuscript is known to survive.
-- Her middle name "Parapa-Rosa": she said it was that of a famous Italian
-  opera singer; her father liked the name (the novel tells this too).
+- Her middle name: the family history spells it "Parapa-Rosa" and says
+  she claimed it was that of a famous Italian opera singer, whose name her
+  father liked (the novel tells this too). The singer was Euphrosyne
+  Parepa-Rosa (1836–1874), so "Parapa" is taken as a misspelling; this
+  edition uses **Parepa-Rosa** for the author. (Her heroine is spelled
+  "Parepa-Roza" throughout the typescript, and is left that way.) No
+  primary record of the middle name has been found.
 - The manuscript was kept by her grandson **William Russell, Richard's
   son**.
 
